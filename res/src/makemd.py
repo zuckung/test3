@@ -3,8 +3,9 @@ import requests
 from datetime import datetime
 
 # check for local testing
-if os.getcwd() == "/storage/emulated/0/Download/mgit/test2/src":
+if os.getcwd() == "/storage/emulated/0/Download/mgit/test3/res/src":
 	os.chdir("../../") 
+	print(os.getcwd())
 	
 # read paths and files
 with open("res/paths.txt") as f:
@@ -60,10 +61,8 @@ for entry in entries:
 		status = status.split("=")[1]
 		status = status.replace("\n", "")
 		description = file2.readlines()
-		string = str(description[1]) 
-		rem = string.split("=")[1]
-		description[1] = rem
-		#description[1] = (description[])[12] #.replace("description=", "")
+		rem = description[0]
+		description = rem.replace("description=", "")
 	file2.close 	
 	
 	# get last modified date from the assetfiles
