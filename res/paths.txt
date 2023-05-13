@@ -1,0 +1,9 @@
+# fix paths
+pathtoplugins = Working/All Plugins/
+indexfile = README.md
+assetfiles = https://github.com/zuckung/test2/releases/download/Latest/
+pluginurl = https://github.com/zuckung/test2/tree/main/Working/All%20Plugins/
+headerfile = res/header.txt
+picturefile = res/icon.png
+discurl = https://github.com/zuckung/test2/discussions/2
+pluginlistfolder = res/pluginlist/
