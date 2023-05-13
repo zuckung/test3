@@ -18,7 +18,9 @@ created by: N/A | N/A<br>
 category: overhauls | status: N/A<br>
 
 description:<br>
->3>n>d>l>e>s>s> >M>a>r>c>h> >i>s> >a> >p>l>u>g>i>n> >t>h>a>t> >a>i>m>s> >t>o> >a>d>d> >l>o>t>s> >o>f> >a>d>v>a>n>c>e>d> >a>n>d> >d>a>t>e>d> >t>e>c>h>n>o>l>o>g>y> >f>o>r> >a>l>l> >f>a>c>t>i>o>n>s>
+>3ndless March is a plugin that aims to add lots of advanced and dated technology for all factions
+>
+>Demo 1.0 Humans and partially Hai got new outfits. Playtesting purposes and typo hunting version
  
   
 ___ 
