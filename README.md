@@ -10,7 +10,8 @@ Description:<br>
 >3ndless March is a plugin that aims to add lots of advanced and dated technology for all factions
 >
 >Demo 1.0 Humans and partially Hai got new outfits. Playtesting purposes and typo hunting version
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -25,7 +26,8 @@ Description:<br>
 >Currently have:
 >-15 Imperial Navy ships + outfits
 >-2 Tau ships + outfits
- 
+
+
 Status: in development and playable 0.9.15 continous<br><br> 
 ___ 
 
@@ -36,7 +38,8 @@ Category: weapons<br><br>
 
 Description:<br>
 >Adds M2 Browning as ship outfit and H2H, also made Sparrow variant with it, and make npcs use it.
- 
+
+
 Status: complete and playable on 0.9.15 continous<br><br> 
 ___ 
 
@@ -47,7 +50,8 @@ Category: overhauls<br><br>
 
 Description:<br>
 >A mod designed to replicate Star Wars in Endless Sky.
- 
+
+
 Status: unfinished but playable<br><br> 
 ___ 
 
@@ -58,12 +62,13 @@ Category: races<br><br>
 
 Description:<br>
 >The Adamas Project is a medium-sized plugin introducing two alien species and their regions of space, as well as some storyline involving the two.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
 ### additional.command.buttons
-<img src='Working/All Plugins/additional.command.buttons/icon.png' width='55'></img><br>
+<img src='Working/All Plugins/additional.command.buttons/icon.png' width='100'></img><br>
 [additional.command.buttons.zip](https://github.com/zuckung/test3/releases/download/Latest/additional.command.buttons.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/additional.command.buttons/) <br>
 Created by: zuckung | [https://github.com/zuckung/endless-sky-plugins](https://github.com/zuckung/endless-sky-plugins)<br>
 Category: graphics<br><br>
@@ -74,7 +79,8 @@ Description:<br>
 >Made for the mobile version and  
 >adds the following buttons: full stop / board ship / land on planet / fire afterburner / fleet: hold position / fleet: gather around me / view player info
 >adjusts the message box to not overlap
->(inspired by theweirednut) 
+>(inspired by theweirednut)
+
 Status: made for 0.10.0<br><br> 
 ___ 
 
@@ -85,7 +91,8 @@ Category: gameplay<br><br>
 
 Description:<br>
 >Increases fuel capacity of many ships and modifies the three drives.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -96,7 +103,8 @@ Category: story<br><br>
 
 Description:<br>
 >Adds more starting options.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -107,7 +115,8 @@ Category: races<br><br>
 
 Description:<br>
 >New aliens that are incapable of spaceflight as far as the player is concerned, offers the player multiple missions in aiding the Aben which also benefit the player in turn.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -118,7 +127,8 @@ Category: races<br><br>
 
 Description:<br>
 >Inspired by an old and unfortunately unfinished fan favourite plugin that offered truly unique content. While this might not mimic the original in design, hopefully it can stoke a similarly unique experience.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -129,7 +139,8 @@ Category: races<br><br>
 
 Description:<br>
 >New aliens to the north of human space that can only be described as technocratic isolationists. They will not begin or turn hostile towards the player under normal circumstances, but you would be one unlucky pilot if you were to find yourself on bad terms with the Irm.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -140,7 +151,8 @@ Category: races<br><br>
 
 Description:<br>
 >A collection of changes and additions to Endless Sky regarding the fallen empire: The Korath.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -152,7 +164,8 @@ Category: races<br><br>
 Description:<br>
 >Any Adde content that doesn't fit in another or deserve it's own repository. This includes many new outfits and ships for various aspects of the vanilla game, even new missions here and there.
 >
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -163,7 +176,8 @@ Category: cheats<br><br>
 
 Description:<br>
 >The most extensive all-content plugin to date. It includes many opportunities to test balance or ship builds against AI driven ships or fleets, all vanilla content and the content of many plugins available to use to put together different ship builds. Many more tools are included into Omnis too!
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -174,7 +188,8 @@ Category: races<br><br>
 
 Description:<br>
 >A collection of changes and additions to Endless Sky regarding the advanced alien species: The Quarg. 
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -186,7 +201,8 @@ Category: races<br><br>
 Description:<br>
 >Akasha Chronicles is a progressive storyline giving you access to new technology and ships over time. You can start the storyline in the Kor Efret Space (the nice Koraths) after you finish the Wanderers storyline. 
 >
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -197,7 +213,8 @@ Category: races<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -208,7 +225,8 @@ Category: story<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -219,7 +237,8 @@ Category: cheats<br><br>
 
 Description:<br>
 >This plugin was made to allow content creators to have access to all outfits in a single place, for the purpose of designing and testing outfit loadouts for new ships. Of course, it can also be used by people who want to ruin the game for themselves by getting a massive fleet without needing to work for it.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -230,7 +249,8 @@ Category: races<br><br>
 
 Description:<br>
 >Adds some outfits and ships for a planned Alpha Wars overhaul.
- 
+
+
 Status: abandoned<br><br> 
 ___ 
 
@@ -241,7 +261,8 @@ Category: overhauls<br><br>
 
 Description:<br>
 >This mod adds more ships, outfits, missions and governments to the game.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -254,7 +275,8 @@ Description:<br>
 >Adds a new civilization to the Ember Wastes: Alterans.  Alterans, like
 >Heliarchs, are a Tier 2.5 civilization in the Endless Sky universe.  In total,
 >there are about 80 systems related to Alteran territory.
- 
+
+
 Status: Playable on 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -265,7 +287,8 @@ Category: outfits<br><br>
 
 Description:<br>
 >Add alternate version of human shield generator with high regen but long delay to outfitters.
- 
+
+
 Status: Playable on 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -276,7 +299,8 @@ Category: story<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -289,7 +313,8 @@ Description:<br>
 >A large collection of older plugins that have been edited and modified to work together with the newer versions of Endless Sky and be overall more balanced and lore friendly, along with many unique Amalgamation additions to fill out previous placeholders in these plugins.
 >
 >The plugins included are: Shields Up, Enclave, Quarg Military Retaliation, ZRemnantX's ships, Tribute Plus, Space Conversion, Businessman, Inheritance ships, KorNewShips, Korath Automation Upgrade, Enigma Corps outfits, Cultures of the Southern Arm ships, Flamethrower Turret and The Machines are Taking Over.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -300,7 +325,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Adds a new ship.
- 
+
+
 Status: should work<br><br> 
 ___ 
 
@@ -311,7 +337,8 @@ Category: outfits<br><br>
 
 Description:<br>
 >This mod reimplements the android but with a few balancing fixes.
- 
+
+
 Status: Playable on 0.9.14, 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -322,7 +349,8 @@ Category: outfits<br><br>
 
 Description:<br>
 >Adds androids and several outfits for charging them.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -333,7 +361,8 @@ Category: weapons<br><br>
 
 Description:<br>
 >Adds a torpedo and launcher to the game.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -344,7 +373,8 @@ Category: graphics<br><br>
 
 Description:<br>
 >Adds animations to many ships.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -355,7 +385,8 @@ Category: graphics<br><br>
 
 Description:<br>
 >Replaces many stars with animated stars.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -366,7 +397,8 @@ Category: outfits<br><br>
 
 Description:<br>
 >A few antique outfits and weapons scattered across human space. Plunder them from pirates and sell them for a lot of money! Or keep them for yourself, to remind yourself that you have antique stuff!
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -377,7 +409,8 @@ Category: races<br><br>
 
 Description:<br>
 >This mod adds another civilization called "Arbiter" into the game. To start the storyline, one has to complete the main story as well as make contact with the Quarg, Wanderers, Hai, Korath, Coalition, and has to be equipped with a jump drive. Then find a system called "Wolf" somewhear around the Free Worlds space. When you get to the Wolf system, the story will be pretty much self-explanatory.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -388,7 +421,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Adds a ship.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -399,7 +433,8 @@ Category: cheats<br><br>
 
 Description:<br>
 >This plugin adds two arenas with diffrent combat styles for the player to enjoy in-game and for testing purposes (near Sagittarius A).
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -410,7 +445,8 @@ Category: N/A<br><br>
 
 Description:<br>
 >This plugin adds a new species, the Impeti. They are even more advanced than the Drak and they found no happiness in scientific progress. Instead they started searching for the most capable person in the galaxy and find out how they achieve happiness. Therefore they started the Arena of the Worthy, where a few individuum of each species battle for honor and very special gifts.
- 
+
+
 Status: REQUIRES PR #7348. Either wait for it to be merged or use ESLauncher2 to download the PR.<br><br> 
 ___ 
 
@@ -421,7 +457,8 @@ Category: races<br><br>
 
 Description:<br>
 >Adds a shipyard and outfitter to Luna which supplies some tier 1-3+ gear.
- 
+
+
 Status: Should work in Continuous/0.9.15/0.9.16<br><br> 
 ___ 
 
@@ -433,7 +470,8 @@ Category: gameplay<br><br>
 Description:<br>
 >Add system arrival depending on habitable or belt distance.
 >Can get overridden by other plugins.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -444,7 +482,8 @@ Category: story<br><br>
 
 Description:<br>
 >Adds some missions for the pirate worlds.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -455,7 +494,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Adds 2 Navy ships.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -466,7 +506,8 @@ Category: outfits<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -477,12 +518,13 @@ Category: races<br><br>
 
 Description:<br>
 >Add new alien invader to Milky Way. Triggered 3 months after the current end of Wanderer Storyline.
- 
+
+
 Status: Playable on 0.9.15, 0.9.16, Continuous<br><br> 
 ___ 
 
 ### automata.destruction.0percent
-<img src='Working/All Plugins/automata.destruction.0percent/icon.png' width='55'></img><br>
+<img src='Working/All Plugins/automata.destruction.0percent/icon.png' width='100'></img><br>
 [automata.destruction.0percent.zip](https://github.com/zuckung/test3/releases/download/Latest/automata.destruction.0percent.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/automata.destruction.0percent/) <br>
 Created by:  zuckung | [ https://github.com/zuckung/endless-sky-plugins]( https://github.com/zuckung/endless-sky-plugins)<br>
 Category:  cheats<br><br>
@@ -492,12 +534,13 @@ Description:<br>
 >(14 ship attributes changed)
 >
 >Modifies the self destruction chance of Sestor and Mereti ships.
->Sestor 349/109/78/71/53/40/27 and Mereti 512/256/128/64/32/16/8 ships have a self destruction value of 0.0 (0%). 
+>Sestor 349/109/78/71/53/40/27 and Mereti 512/256/128/64/32/16/8 ships have a self destruction value of 0.0 (0%).
+
 Status:  made for 0.10.0<br><br> 
 ___ 
 
 ### automata.destruction.23percent
-<img src='Working/All Plugins/automata.destruction.23percent/icon.png' width='55'></img><br>
+<img src='Working/All Plugins/automata.destruction.23percent/icon.png' width='100'></img><br>
 [automata.destruction.23percent.zip](https://github.com/zuckung/test3/releases/download/Latest/automata.destruction.23percent.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/automata.destruction.23percent/) <br>
 Created by:  zuckung | [ https://github.com/zuckung/endless-sky-plugins]( https://github.com/zuckung/endless-sky-plugins)<br>
 Category:  cheats<br><br>
@@ -507,12 +550,13 @@ Description:<br>
 >(14 ship attributes changed)
 >
 >Modifies the self destruction chance of Sestor and Mereti ships.
->Sestor 349/109/78/71/53/40/27 and Mereti 512/256/128/64/32/16/8 ships have a self destruction value of 0.12 (23%). 
+>Sestor 349/109/78/71/53/40/27 and Mereti 512/256/128/64/32/16/8 ships have a self destruction value of 0.12 (23%).
+
 Status:  made for 0.10.0<br><br> 
 ___ 
 
 ### automata.destruction.51percent
-<img src='Working/All Plugins/automata.destruction.51percent/icon.png' width='55'></img><br>
+<img src='Working/All Plugins/automata.destruction.51percent/icon.png' width='100'></img><br>
 [automata.destruction.51percent.zip](https://github.com/zuckung/test3/releases/download/Latest/automata.destruction.51percent.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/automata.destruction.51percent/) <br>
 Created by:  zuckung | [ https://github.com/zuckung/endless-sky-plugins]( https://github.com/zuckung/endless-sky-plugins)<br>
 Category:  cheats<br><br>
@@ -522,12 +566,13 @@ Description:<br>
 >(14 ship attributes changed)
 >
 >Modifies the self destruction chance of Sestor and Mereti ships.
->Sestor 349/109/78/71/53/40/27 and Mereti 512/256/128/64/32/16/8 ships have a self destruction value of 0.3 (51%). 
+>Sestor 349/109/78/71/53/40/27 and Mereti 512/256/128/64/32/16/8 ships have a self destruction value of 0.3 (51%).
+
 Status:  made for 0.10.0<br><br> 
 ___ 
 
 ### automata.destruction.75percent
-<img src='Working/All Plugins/automata.destruction.75percent/icon.png' width='55'></img><br>
+<img src='Working/All Plugins/automata.destruction.75percent/icon.png' width='100'></img><br>
 [automata.destruction.75percent.zip](https://github.com/zuckung/test3/releases/download/Latest/automata.destruction.75percent.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/automata.destruction.75percent/) <br>
 Created by:  zuckung | [ https://github.com/zuckung/endless-sky-plugins]( https://github.com/zuckung/endless-sky-plugins)<br>
 Category:  cheats<br><br>
@@ -537,12 +582,13 @@ Description:<br>
 >(14 ship attributes changed)
 >
 >Modifies the self destruction chance of Sestor and Mereti ships.
->Sestor 349/109/78/71/53/40/27 and Mereti 512/256/128/64/32/16/8 ships have a self destruction value of 0.5 (75%). 
+>Sestor 349/109/78/71/53/40/27 and Mereti 512/256/128/64/32/16/8 ships have a self destruction value of 0.5 (75%).
+
 Status:  made for 0.10.0<br><br> 
 ___ 
 
 ### automata.in.human.space
-<img src='Working/All Plugins/automata.in.human.space/icon.png' width='55'></img><br>
+<img src='Working/All Plugins/automata.in.human.space/icon.png' width='100'></img><br>
 [automata.in.human.space.zip](https://github.com/zuckung/test3/releases/download/Latest/automata.in.human.space.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/automata.in.human.space/) <br>
 Created by:  zuckung | [ https://github.com/zuckung/endless-sky-plugins]( https://github.com/zuckung/endless-sky-plugins)<br>
 Category:  gameplay<br><br>
@@ -553,7 +599,8 @@ Description:<br>
 >
 >Brings jump drive equipped automata into human space after the wanderer campaign. 
 >You can find them where Korath ships in human space are usually found(ember waste and eastern syndicate). 
->The chance to encounter previous Korath ships or automata is like 50/50. 
+>The chance to encounter previous Korath ships or automata is like 50/50.
+
 Status:  made for 0.10.0<br><br> 
 ___ 
 
@@ -564,7 +611,8 @@ Category: outfits<br><br>
 
 Description:<br>
 >Playable on 0.9.14, 0.9.15 Continuous.Adds an outfit whiich turns ships into automata. Requries you to have more than 2 karma with the Republic.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -575,7 +623,8 @@ Category: N/A<br><br>
 
 Description:<br>
 >Nonfunctional
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -586,7 +635,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -597,7 +647,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Adds a new ship.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -610,7 +661,8 @@ Description:<br>
 >This plugin was built to provide some satisfaction to acquiring the mighty Bactrian. Hopefully the short mission sequence will also be enjoyable.
 >There is some non-linearity to the story so depending on your choices two of three large ships (i.e. flagships) can be made available for purchase.
 >Two large ships, one bounty mission and one transport mission were added.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -621,7 +673,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Adds a ship.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -632,7 +685,8 @@ Category: weapons<br><br>
 
 Description:<br>
 >Adds a ship and several outfits.
- 
+
+
 Status: Ship and outfits are nowhere for sale.<br><br> 
 ___ 
 
@@ -643,7 +697,8 @@ Category: ships<br><br>
 
 Description:<br>
 >A plugin which adds variants of human ships to select shipyards. No stat changes, just loadouts. Right now it's mostly bare-bones versions so you don't have to pay for a bunch of outfits you're just going to sell - instead you get a (very) cheap engine & power system, a hyperdrive (or scram drive for the really big ships), & luxury accommodations when they're part of the stock loadout.
- 
+
+
 Status: Playable on 0.9.14, 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -654,7 +709,8 @@ Category: gameplay<br><br>
 
 Description:<br>
 >Shipyards now sell bare hulls with no outfits.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -665,7 +721,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Adds 2 ships and an outfit.
- 
+
+
 Status: Ships and outfit are nowhere for sale.<br><br> 
 ___ 
 
@@ -676,7 +733,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Add post-Kor Sestor Invasion navy ship.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -687,7 +745,8 @@ Category: overhauls<br><br>
 
 Description:<br>
 >Add several new ships for various vanilla races with very vanilla-looking sprites (Made by same person who remade several vanilla sprites).
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -698,7 +757,8 @@ Category: races<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -709,7 +769,8 @@ Category: weapons<br><br>
 
 Description:<br>
 >Modifies this outfit.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -720,7 +781,8 @@ Category: overhauls<br><br>
 
 Description:<br>
 >Enhance/improve/fill gaps in many aspects of pirate combat in Human space, especially in the late-game.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -731,7 +793,8 @@ Category: outfits<br><br>
 
 Description:<br>
 >Add new weapons.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -743,7 +806,8 @@ Category: overhauls<br><br>
 Description:<br>
 >Additional ships and reaction to being farmed for high tier alien(Pug, Quarg).
 >
- 
+
+
 Status: Continuous/0.9.15+<br><br> 
 ___ 
 
@@ -754,7 +818,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Add new faction of AI flying sailship-inspired ships.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -765,7 +830,8 @@ Category: cheats<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -776,7 +842,8 @@ Category: races<br><br>
 
 Description:<br>
 >This mod currently assumes that the Player has completed the main plot of the game. In this mod, the Player discovers the first race to actually be younger than Humanity and is tasked with helping them grow up a little bit and in the process learn how to help the Human race grow up more themselves.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -787,7 +854,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Blended Ships is the realistic spliced ship plugin. All these ships have thumbnails, believeable stats, and actual potential uses! There is also a greater variety of civilian ships available, to support various playstyles.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -798,7 +866,8 @@ Category: gameplay<br><br>
 
 Description:<br>
 >Adds licenses that allow the player to capture ships. Currently in alpha The better the license, the more ships you can cap
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -809,7 +878,8 @@ Category: story<br><br>
 
 Description:<br>
 >This plug-in adds additional boarding missions to the game increasing the chances for a player to receive a payment for assisting a disabled ship.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -820,7 +890,8 @@ Category: gameplay<br><br>
 
 Description:<br>
 >Adds a storyline where you can become a bounty hunter.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -831,7 +902,8 @@ Category: weapons<br><br>
 
 Description:<br>
 >Adds 6 new outfits.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -842,7 +914,8 @@ Category: gameplay<br><br>
 
 Description:<br>
 >Become a ruler of the galaxy through money. Buy trade routes, stocks, set up shops and entertainment centers, buy planets, hire a mercenary army, hunt down people who didn't pay back their loans....and more.. Also includes an optional alternate pirate start, and additons to make piracy much more viable and fun.
- 
+
+
 Status: Playable on 0.9.14, 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -855,7 +928,8 @@ Description:<br>
 >The Cannon Friendly Weapon Pack (pun intended) is a selection of guns and lasers that aims to add more versatility to the range of weapons in Endless Sky. It attempts to blend itself into the canon where possible.
 >
 >The Cannon Friendly Weapon Pack has a number of weapons and weapon additions, such as ammunition storage for most vanilla weapons, all the ammunition-consuming weapons in the CFWP, and more.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -866,7 +940,8 @@ Category: story<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -877,7 +952,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Adds 6 ships.
- 
+
+
 Status: Should work<br><br> 
 ___ 
 
@@ -891,7 +967,8 @@ Description:<br>
 >Ships are heavier making navigation and combat slower
 >Higher range for some cannons to compensate ship speed
 >Less, slower and weaker asteroids to increase clarity, FPS and easier mining
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -902,7 +979,8 @@ Category: cheats<br><br>
 
 Description:<br>
 >Unlocks checkmate stuff without having to do FWs
- 
+
+
 Status: Playable on 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -913,7 +991,8 @@ Category: cheats<br><br>
 
 Description:<br>
 >An all-content plugin for Endless-Sky. Made to assist with content creation, or for general use.
- 
+
+
 Status: Playable on 0.9.14<br><br> 
 ___ 
 
@@ -924,7 +1003,8 @@ Category: overhauls<br><br>
 
 Description:<br>
 >A story-driven variation of the 2015 game Endless Sky, the spiritual successor to Escape Velocity. You can still explore other star systems. Earn money by trading, carrying passengers, or completing missions. Use your earnings to buy a better ship or to upgrade the weapons and engines on your current one. Blow up pirates. But now you can Truly pick a side in the Civil War.
- 
+
+
 Status: Total conversion mod, will likely function but is outdated, expect issues.<br><br> 
 ___ 
 
@@ -935,7 +1015,8 @@ Category: cheats<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -948,7 +1029,8 @@ Description:<br>
 >You hear a lot about the conflict between the Coalition and the Quarg, but you never see it.
 >
 >This plugin introduces a storyline that lets you see that conflict and even capture Heliarch ships if you want to farm experience by repairing Heliarch ships.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -959,7 +1041,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Add several new ships.
- 
+
+
 Status: Playable on 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -972,7 +1055,8 @@ Description:<br>
 >Cognitive Subdivision introduces a new difficult story taking place after the first part of the Wanderer Campaign
 >as well as several new maps, 2 new tier 3 factions with various unique outfits and ships of their own for you to unlock
 >...and some suprises for you to find!
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -983,7 +1067,8 @@ Category: story<br><br>
 
 Description:<br>
 >Adds a new system and some missions.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -994,7 +1079,8 @@ Category: graphics<br><br>
 
 Description:<br>
 >Makes Void Sprites colorful.
- 
+
+
 Status: Playable on 0.9.14, 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -1005,7 +1091,8 @@ Category: races<br><br>
 
 Description:<br>
 >The Core Mining, Inc. plugin gives you the chance to follow the progress of a small startup mining company. The storyline is designed to fit in with the feel of the vanilla game. The story and plugin itself is not finished yet so you may find bugs, glitches, and other problems.
- 
+
+
 Status: playable on 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -1016,7 +1103,8 @@ Category: races<br><br>
 
 Description:<br>
 >The Core Mining, Inc. plugin gives you the chance to follow the progress of a small startup mining company. The storyline is designed to fit in with the feel of the vanilla game. The story and plugin itself is not finished yet so you may find bugs, glitches, and other problems.
- 
+
+
 Status: playable on 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -1027,7 +1115,8 @@ Category: gameplay<br><br>
 
 Description:<br>
 >This plugin makes drives much more expensive, while making them unplunderable to prevent easy(er) boarding. Additionally, drive sales are much more restricted.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1038,7 +1127,8 @@ Category: races<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1050,7 +1140,8 @@ Category: gameplay<br><br>
 Description:<br>
 >Make npc fleets spawn more often.
 >Note: it's done by overwriting map file, may cause conflict with other plugin that also do that.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1061,7 +1152,8 @@ Category: cheats<br><br>
 
 Description:<br>
 >Lets the player swap excess weapon and engine space for outfit space also alows the spending of outfit space to have more weapon and engine space.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1072,7 +1164,8 @@ Category: ships<br><br>
 
 Description:<br>
 >This mod adds various new ships to Endless Sky.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1083,7 +1176,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Add DaBestShipEver.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1094,7 +1188,8 @@ Category: story<br><br>
 
 Description:<br>
 >This is a mission available from the planet Clark that takes you an a short adventure with the dragons of Skymoot.
- 
+
+
 Status: Allready ingame<br><br> 
 ___ 
 
@@ -1105,7 +1200,8 @@ Category: graphics<br><br>
 
 Description:<br>
 >This plugin contains ships rendered with a sharper illumination angle to get more dramatic shadows and less "flat" appearances.
- 
+
+
 Status: Should work<br><br> 
 ___ 
 
@@ -1116,7 +1212,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Adds a ship.
- 
+
+
 Status: Should work<br><br> 
 ___ 
 
@@ -1127,7 +1224,8 @@ Category: ships<br><br>
 
 Description:<br>
 >This plugin adds a few human drones, intended to be added into vanilla game.
- 
+
+
 Status: Playable on 0.9.14, 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -1138,7 +1236,8 @@ Category: ships<br><br>
 
 Description:<br>
 >A big WIP project of dragon aliens.
- 
+
+
 Status: Functional<br><br> 
 ___ 
 
@@ -1149,7 +1248,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1160,7 +1260,8 @@ Category: races<br><br>
 
 Description:<br>
 >Various components from the game Destination Sol, including weapons, hulls, and abilities(?).
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1171,7 +1272,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Add Destiny to the Game.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1182,7 +1284,8 @@ Category: gameplay<br><br>
 
 Description:<br>
 >Adds three diffrent difficulties that take form as the start to a game. Not reccomended for people new to Endless Sky.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1193,7 +1296,8 @@ Category: overhauls<br><br>
 
 Description:<br>
 >A small plugin which stops ships destroying everything!
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1204,7 +1308,8 @@ Category: outfits<br><br>
 
 Description:<br>
 >Adds several new outfits, mostly for boarding.
- 
+
+
 Status: Should work.<br><br> 
 ___ 
 
@@ -1215,7 +1320,8 @@ Category: cheats<br><br>
 
 Description:<br>
 >A post-Emerald Sword mission chain that allows Kraz to manufacture a replacement Dragonflame Cannon.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1226,7 +1332,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Adds a ship.
- 
+
+
 Status: Should work.<br><br> 
 ___ 
 
@@ -1237,7 +1344,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Adds several ships and outfits.
- 
+
+
 Status: Should work<br><br> 
 ___ 
 
@@ -1248,7 +1356,8 @@ Category: gameplay<br><br>
 
 Description:<br>
 >Every outfit now have chance to be dropped as flotsam when the ship explodes.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1259,7 +1368,8 @@ Category: weapons<br><br>
 
 Description:<br>
 >Adds a weapon.
- 
+
+
 Status: Should work<br><br> 
 ___ 
 
@@ -1270,7 +1380,8 @@ Category: cheats<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1282,7 +1393,8 @@ Category: cheats<br><br>
 Description:<br>
 >Makes fighting the Kor Mereti and Sestor a little bit easier.
 >Also give bunks to the automatons so they will be viable flagships.
- 
+
+
 Status: Should work<br><br> 
 ___ 
 
@@ -1293,7 +1405,8 @@ Category: overhauls<br><br>
 
 Description:<br>
 >Large plugin that adds a bunch of stuffs to the galaxy. And lots of big ships.
- 
+
+
 Status: Abandoned, Should be playable on 0.9.14, 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -1306,7 +1419,8 @@ Description:<br>
 >In this plugin, you establish some relation to Eireen, one of the chief engineers for cargo affairs at Southbound Shipyards on Zug.
 >You need to meet a certain minimum fleet / game progress to meet her (as of now: either 1200 cargo space, or 50M networth, or a third (lower) condition).
 >But your first contact - which is so far the main conversation of this plugin (more to follow) - heavily depends on or progress in the games campaigns.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1317,7 +1431,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Add ships from Elite Dangerous.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1328,7 +1443,8 @@ Category: races<br><br>
 
 Description:<br>
 >This Mod is for adding the Elystian goverment, a friendly government that convert Korath Automata ships to fight their former factions, west of Kor Sestor space.
- 
+
+
 Status: Playable on 0.9.14, 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -1339,7 +1455,8 @@ Category: ships<br><br>
 
 Description:<br>
 >this plugin adds an upgraded skylark purchasable in tarazed, with a special animation.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1350,7 +1467,8 @@ Category: weapons<br><br>
 
 Description:<br>
 >Adds some outfits and a ship.
- 
+
+
 Status: Ship and outfits are nowhere for sale.<br><br> 
 ___ 
 
@@ -1361,7 +1479,8 @@ Category: overhauls<br><br>
 
 Description:<br>
 >Python scripts to generate new procedurally generated galaxy. Comes with pre-generated data for instant playing.
- 
+
+
 Status: Playable on 0.9.15/0.9.16/Continuous.<br><br> 
 ___ 
 
@@ -1372,7 +1491,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Adds an overpowered ship.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1383,7 +1503,8 @@ Category: N/A<br><br>
 
 Description:<br>
 >Includes the ships, missions, and outfits I have or will create. Features unique and original endless sky ideas and original assets created by me.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1394,7 +1515,8 @@ Category: outfits<br><br>
 
 Description:<br>
 >Shipping Containers that aren't welded to ships
- 
+
+
 Status: Functional<br><br> 
 ___ 
 
@@ -1405,7 +1527,8 @@ Category: races<br><br>
 
 Description:<br>
 >Endless Depth is a assortion of my random ideas that I thought might give the game a bit more depth. Hence the name. Rather than focusing on outfits, ships, and other things to blow up, I'm trying to get a little more creative, with things such as planetary flight areas, pirate gangs, and a few other small details I added.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1416,7 +1539,8 @@ Category: races<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1427,7 +1551,8 @@ Category: N/A<br><br>
 
 Description:<br>
 >This plugin generates an arcade-style gauntlet wherein you take a mission, jump through a wormhole, and face a series of randomly generated fleets. Intended for end-game players who are comfortable running a python script.
- 
+
+
 Status: Playable on 0.9.14, 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -1438,7 +1563,8 @@ Category: races<br><br>
 
 Description:<br>
 >Star Trek overhaul mod adding 10 ships and a number of outfits.
- 
+
+
 Status: Abandoned<br><br> 
 ___ 
 
@@ -1449,7 +1575,8 @@ Category: story<br><br>
 
 Description:<br>
 >Romance Plugin for Endless sky as requested by more people then i would like to admit (WIP)
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1460,7 +1587,8 @@ Category: N/A<br><br>
 
 Description:<br>
 >Replaces sounds.
- 
+
+
 Status: Should work<br><br> 
 ___ 
 
@@ -1471,7 +1599,8 @@ Category: N/A<br><br>
 
 Description:<br>
 >Replaces sounds.
- 
+
+
 Status: Should work<br><br> 
 ___ 
 
@@ -1485,7 +1614,8 @@ Description:<br>
 >- Hauler Zero Light Warship to the Southbound Shipyards. Simply a Hauler with zero cargo pods.
 >- A ct-75 (large) Star Barge.
 >It does not modify the fleet definitions though, because they are generally subject to change with every new ship and thus any fleet definition in this plugin might become outdated pretty soon.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1496,7 +1626,8 @@ Category: N/A<br><br>
 
 Description:<br>
 >The high DPI plugin for the Enigma Corp mod. High DPI images are only used if your zoom level is above 100% to increase graphical resolution.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1507,7 +1638,8 @@ Category: overhauls<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1518,7 +1650,8 @@ Category: story<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1529,7 +1662,8 @@ Category: outfits<br><br>
 
 Description:<br>
 >Several new outfits.
- 
+
+
 Status: Should work<br><br> 
 ___ 
 
@@ -1540,7 +1674,8 @@ Category: story<br><br>
 
 Description:<br>
 >This plug-in adds additional cargo and passenger (and both at once) missions to the game increasing the scale and scope for a player who wants to focus on running a huge trucker shipping delivery and passenger service.
- 
+
+
 Status: Playable on 0.9.14, 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -1551,7 +1686,8 @@ Category: races<br><br>
 
 Description:<br>
 >Add a race.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1562,7 +1698,8 @@ Category: story<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1573,7 +1710,8 @@ Category: graphics<br><br>
 
 Description:<br>
 >Sprites with modified cockpit/bridge.
- 
+
+
 Status: Playable on 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -1584,7 +1722,8 @@ Category: races<br><br>
 
 Description:<br>
 >Add a race.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1595,7 +1734,8 @@ Category: weapons<br><br>
 
 Description:<br>
 >Adds 2 outfits.
- 
+
+
 Status: Outfits are nowhere for sale.<br><br> 
 ___ 
 
@@ -1606,7 +1746,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1617,7 +1758,8 @@ Category: races<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1628,7 +1770,8 @@ Category: N/A<br><br>
 
 Description:<br>
 >This is a plugin for Endless Sky which adds a significant large area to fly around and explore. At this time there isn't much to see or do beyond just flying around the pair of newly accessable galaxies (which are not yet fully mapped out or populated).
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1639,7 +1782,8 @@ Category: N/A<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1650,7 +1794,8 @@ Category: races<br><br>
 
 Description:<br>
 >Adds a new race of T5 aliens to the Milky-Way galaxy. They can be reached after completing the Emerald Sword missions and having a combat rating of 13.
- 
+
+
 Status: In development, Playable on 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -1663,7 +1808,8 @@ Description:<br>
 >Add various large to extremely large jobs to fill up the space when for extra large ships.
 >
 >
- 
+
+
 Status: Playable on 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -1674,7 +1820,8 @@ Category: weapons<br><br>
 
 Description:<br>
 >Adds some missile outfits.
- 
+
+
 Status: Should work<br><br> 
 ___ 
 
@@ -1685,7 +1832,8 @@ Category: overhauls<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1695,7 +1843,8 @@ Created by: 1010todd | N/A<br>
 Category: weapons<br><br>
 
 Description:<br>
->Add various weapons utilizing complex submunition chain to be used as example. Not intended for normal gameplay. 
+>Add various weapons utilizing complex submunition chain to be used as example. Not intended for normal gameplay.
+
 Status: Requires AES Omnis to access.<br><br> 
 ___ 
 
@@ -1706,7 +1855,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1718,7 +1868,8 @@ Category: outfits<br><br>
 Description:<br>
 >This plugin add outfits that can produce fighters for you.
 > 
- 
+
+
 Status: 0.9.17/Continuous<br><br> 
 ___ 
 
@@ -1729,7 +1880,8 @@ Category: weapons<br><br>
 
 Description:<br>
 >Adds some weapon outfits.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1740,7 +1892,8 @@ Category: weapons<br><br>
 
 Description:<br>
 >Adds some weapon outfits.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1751,7 +1904,8 @@ Category: weapons<br><br>
 
 Description:<br>
 >adds a turret variant of the flamethrower.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1762,7 +1916,8 @@ Category: story<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1773,7 +1928,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Do you dislike the multitude of lawn dart ships? do you like the look of front-heavy ships? Or do you just want something different? Then just flip those ships around! guns on the back, engines on the front, then drive them backwards!
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1784,7 +1940,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1795,7 +1952,8 @@ Category: story<br><br>
 
 Description:<br>
 >Adds a mission that pays you with a kitten.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1806,12 +1964,13 @@ Category: story<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
 ### galactic.capital.investment
-<img src='Working/All Plugins/galactic.capital.investment/icon.png' width='55'></img><br>
+<img src='Working/All Plugins/galactic.capital.investment/icon.png' width='100'></img><br>
 [galactic.capital.investment.zip](https://github.com/zuckung/test3/releases/download/Latest/galactic.capital.investment.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/galactic.capital.investment/) <br>
 Created by: zuckung | [https://github.com/zuckung/endless-sky-plugins](https://github.com/zuckung/endless-sky-plugins)<br>
 Category: gameplay<br><br>
@@ -1820,7 +1979,8 @@ Description:<br>
 >(story, repeatable mission)
 >
 >Implements a two mission chain that enables regular spaceport investment opportunities which result in small daily income. Available in human, quarg and hai space with 2 million credits cash.
->(inspired by a-alhusaini's investment bank plugin) 
+>(inspired by a-alhusaini's investment bank plugin)
+
 Status: made for 0.10.0<br><br> 
 ___ 
 
@@ -1831,7 +1991,8 @@ Category: story<br><br>
 
 Description:<br>
 >Starts you on an abandoned alien station, where you are tasked with conquering the galaxy. Adds ships and outfits.
- 
+
+
 Status: Abandoned. An updated version appears to have been made by 1010Todd. AES Fallen<br><br> 
 ___ 
 
@@ -1843,7 +2004,8 @@ Category: story<br><br>
 Description:<br>
 >A minor side-story taking place mostly in an isolated star system outside of the human space.
 >Main game story must be completed before this plugin's story can fully start.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1854,7 +2016,8 @@ Category: gameplay<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1865,7 +2028,8 @@ Category: races<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1876,7 +2040,8 @@ Category: overhauls<br><br>
 
 Description:<br>
 >This is a massive content mod about a war in another galaxy. While no storyline exist yet there's a large galaxy to explore filled with various aliens with different advancement and specializations.
- 
+
+
 Status: Playable on 0.9.14, 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -1887,7 +2052,8 @@ Category: ships<br><br>
 
 Description:<br>
 >An Endless Sky plugin for the Galaxias fast battlecruiser.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1900,7 +2066,8 @@ Description:<br>
 >This plugin fixes availability of Gatling Gun Ammo (and its boxes) - being most primitive and easiest to manufacture type of ordnance, it is now available where you would expect it to be (hint: "galactic south" and multipurpose ammo depots).
 >
 >Recommended to use with Becca's Endless Expansion plugin (which adds Kraz Cybernetic's Accurate Gatling Blaster" variant).
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1911,7 +2078,8 @@ Category: cheats<br><br>
 
 Description:<br>
 >A generic plugin for testing purposes.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1922,7 +2090,8 @@ Category: cheats<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1935,7 +2104,8 @@ Description:<br>
 >Lots of map to calculate ship volume(outfit/cargo space) and mass.
 >WARNING: single-file race might have unrelated data attached (Pug, Drak, etc.)
 >
- 
+
+
 Status: Playable on 0.9.14, 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -1946,7 +2116,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Add non-spaceflight race and a T2 race. Heavily WIP.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1957,7 +2128,8 @@ Category: weapons<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1970,7 +2142,8 @@ Description:<br>
 >This plugin adds a set of Gyroscopes: They can store an amount of energy, and can produce turning force, despite not taking any engine space. But, they are dense, and constantly consume energy.
 >
 >In addition, there are Flywheel Batteries: similar to the gyroscopes, except that they are dedicated batteries with no turn rate; much more powerful than a similarly sized battery, but with the mentioned downsides.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1983,7 +2156,8 @@ Description:<br>
 >A plugin that adds a number of hand-to-hand outfits to increase selection and availability.
 >
 >Outfits included are: flack vest, tactical armor, stun grenades, tear gas, bolt action rifle, blaster rifle, assault rifle, sidearm, small armory and large armory.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1994,7 +2168,8 @@ Category: outfits<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -2006,7 +2181,8 @@ Category: ships<br><br>
 Description:<br>
 >We have small Haulers, big Haulers, medium Haulers, circular Haulers! You name it, we have it!
 >Come on down to Glaze in the Aldhibain system to find our heaping collection of hauling vehicles!
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -2017,7 +2193,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Add a Heliarch superheavy warship.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -2028,7 +2205,8 @@ Category: cheats<br><br>
 
 Description:<br>
 >KorExile outfits to KorEfret outfitter and mission to get Heliarch License and buy their outfits.
- 
+
+
 Status: Playable on 0.9.14, 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -2039,7 +2217,8 @@ Category: weapons<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -2050,7 +2229,8 @@ Category: N/A<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -2061,7 +2241,8 @@ Category: graphics<br><br>
 
 Description:<br>
 >Official High-DPI graphics for Endless Sky. Note: check repository below for most up-to-date version.
- 
+
+
 Status: Playable on 0.9.14, 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -2072,7 +2253,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Additional ships and reaction to being farmed for high tier alien(Pug, Quarg). Renamed to Beyond the Sky.
- 
+
+
 Status: Playable on 0.9.14, 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -2083,7 +2265,8 @@ Category: cheats<br><br>
 
 Description:<br>
 >This plugin adds an arena with multiple hard and easy challenges.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -2094,7 +2277,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Small plugin for the hilarity of it. HONK.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -2105,7 +2289,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Add a couple of human ships and two weapons
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -2116,7 +2301,8 @@ Category: outfits<br><br>
 
 Description:<br>
 >Add new unique outfits for each human governments (FW, Navy, Syndicate).
- 
+
+
 Status: Playable on 0.9.15/0.9.16/Continuous.<br><br> 
 ___ 
 
@@ -2127,7 +2313,8 @@ Category: graphics<br><br>
 
 Description:<br>
 >Add steering flare to human ships.
- 
+
+
 Status: Playable on 0.9.14, 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -2138,7 +2325,8 @@ Category: overhauls<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -2149,7 +2337,8 @@ Category: gameplay<br><br>
 
 Description:<br>
 >Triple human heavy warship mass to make them slower.
- 
+
+
 Status: Playable on 0.9.14, 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -2160,7 +2349,8 @@ Category: outfits<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -2171,7 +2361,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Bringing the biggest WW2 Battleship ever made in Endless Sky
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -2182,7 +2373,8 @@ Category: cheats<br><br>
 
 Description:<br>
 >This plugin puts the hull points of all ships in the game at 250% their original values.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -2193,7 +2385,8 @@ Category: N/A<br><br>
 
 Description:<br>
 >This plugin add a few ships that are a modified variant of existing ships by individuals and private groups like pirates and some merchants.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -2204,7 +2397,8 @@ Category: weapons<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -2215,7 +2409,8 @@ Category: story<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -2226,7 +2421,8 @@ Category: weapons<br><br>
 
 Description:<br>
 >Fuel Damage before fuel damage is a thing in vanilla.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -2237,7 +2433,8 @@ Category: gameplay<br><br>
 
 Description:<br>
 >When you are rich enough some investment banks will offer you a chance to invest with them to gain an increased daily salary
- 
+
+
 Status: Playable on 0.9.14, 0.10.0 Continuous.<br><br> 
 ___ 
 
@@ -2249,7 +2446,8 @@ Category: races<br><br>
 Description:<br>
 >Add a single-system faction which use hull-only WW2-style warships.
 >
- 
+
+
 Status: Playable on 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -2260,7 +2458,8 @@ Category: races<br><br>
 
 Description:<br>
 >Jaling Expansion adds another human civilization which not connected to human space.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -2271,7 +2470,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Add new types of fighter which is literally a guy with a gun flying around shooting things.
- 
+
+
 Status: Should be playable on 0.9.15/0.9.16<br><br> 
 ___ 
 
@@ -2282,7 +2482,8 @@ Category: story<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -2293,7 +2494,8 @@ Category: story<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -2305,7 +2507,8 @@ Category: overhauls<br><br>
 Description:<br>
 >Star Wars mod.
 >
- 
+
+
 Status: Abandoned, Should be playable on 0.9.14, 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -2317,7 +2520,8 @@ Category: ships<br><br>
 Description:<br>
 >Adds a new ship that is from my personal mod, it's rather overpowered even with the vanilla weapons it has, so have fun! (or something like that)
 >You can find the ship at Tarazed.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -2328,7 +2532,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -2339,7 +2544,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -2350,7 +2556,8 @@ Category: cheats<br><br>
 
 Description:<br>
 >Make Kestrel a much better ship, and increased requirements.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -2362,12 +2569,13 @@ Category: weapons<br><br>
 Description:<br>
 >A plugin adding modern realistic weapons to Endless-Sky, including a cannon and two shell types, APFSDS & HEATFS.
 >They are tier 1 human weapons, already balanced to work as anti-capital ship weapons.
- 
+
+
 Status: Playable on 0.9.15, 0.9.16, Continuous.<br><br> 
 ___ 
 
 ### kor.efret.shipyard
-<img src='Working/All Plugins/kor.efret.shipyard/icon.png' width='55'></img><br>
+<img src='Working/All Plugins/kor.efret.shipyard/icon.png' width='100'></img><br>
 [kor.efret.shipyard.zip](https://github.com/zuckung/test3/releases/download/Latest/kor.efret.shipyard.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/kor.efret.shipyard/) <br>
 Created by:  zuckung | [ https://github.com/zuckung/endless-sky-plugins]( https://github.com/zuckung/endless-sky-plugins)<br>
 Category:  gameplay<br><br>
@@ -2376,7 +2584,8 @@ Description:<br>
 >description = 
 >(outfitter and shipyard added)
 >
->Adds a shipyard with the the three Kor Efret ships(Arch-Carrack, Charm-Shallop, Echo-Galleon) to Laki Nemparu(Kashikt) in Kor Efret space. Also adds an outfitter with all outfits of these three ships. 
+>Adds a shipyard with the the three Kor Efret ships(Arch-Carrack, Charm-Shallop, Echo-Galleon) to Laki Nemparu(Kashikt) in Kor Efret space. Also adds an outfitter with all outfits of these three ships.
+
 Status:  made for 0.10.0<br><br> 
 ___ 
 
@@ -2395,7 +2604,8 @@ Description:<br>
 >Basically merges the Good of both Mereti and Sestor Ships into one
 >
 >NOTE: Also makes the Remnant Missions a tad harder if done after the wanderer storyline
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -2406,7 +2616,8 @@ Category: gameplay<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -2417,7 +2628,8 @@ Category: story<br><br>
 
 Description:<br>
 >This mod is all about allowing a player to have access to the korath world ship which now is allowed to spawn inside the remnant worlds, all i did was make it is the korath home fleets spawn at half the rate of raids.... my first plugin so don't enjoy
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -2428,7 +2640,8 @@ Category: races<br><br>
 
 Description:<br>
 >Addition for Korath Exiles Post-Automata.
- 
+
+
 Status: Playable on 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -2439,7 +2652,8 @@ Category: outfits<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -2450,7 +2664,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Alternate start with Lampyrid ship.
- 
+
+
 Status: Playable on 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -2461,7 +2676,8 @@ Category: gameplay<br><br>
 
 Description:<br>
 >Adds a landing fee the player has to pay each time after one year.
- 
+
+
 Status: Playable on 0.9.14, 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -2472,7 +2688,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Legendary version of ships used by pirates as person ships.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -2483,7 +2700,8 @@ Category: story<br><br>
 
 Description:<br>
 >It adds so much new content to the game that it cannot be listed in this README
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -2494,7 +2712,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Do you dislike the Kestrel? Are its guns too far back? Do you just want something different? Or do you just like front-heavy ships? Well then the Lertsek is for you.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -2505,7 +2724,8 @@ Category: story<br><br>
 
 Description:<br>
 >Add a Search and Rescue mission type, which requires you to board and repair a disabled merchant ship within a limited time.
- 
+
+
 Status: Playable on 0.9.14, 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -2516,7 +2736,8 @@ Category: ships<br><br>
 
 Description:<br>
 >adds back in a couple of old ships, I plan to add some of my own in the future.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -2527,7 +2748,8 @@ Category: N/A<br><br>
 
 Description:<br>
 >Adds a Help tab to the Logbook which can be used as a centralized location to review or preview various helpful game tips.
- 
+
+
 Status: Compatible with ES 0.9.14<br><br> 
 ___ 
 
@@ -2538,7 +2760,8 @@ Category: ships<br><br>
 
 Description:<br>
 >It adds the Loronar medium transport from Star Wars.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -2549,7 +2772,8 @@ Category: story<br><br>
 
 Description:<br>
 >A mission focused plugin for Endless Sky.
- 
+
+
 Status: In development, Playable on 0.9.14, 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -2560,7 +2784,8 @@ Category: graphics<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -2571,7 +2796,8 @@ Category: races<br><br>
 
 Description:<br>
 >Adds a new alien species that has lower technology than humans. Intended as early game content to be submitted to endless-sky for inclusion in the game.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -2582,7 +2808,8 @@ Category: weapons<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -2593,7 +2820,8 @@ Category: story<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -2604,7 +2832,8 @@ Category: outfits<br><br>
 
 Description:<br>
 >Random, unbalanced additions and tweaks for Endless Sky.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -2615,7 +2844,8 @@ Category: races<br><br>
 
 Description:<br>
 >I add a new government,a new system and three new kinds of ships into the game,and I will write some story in the future.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -2626,7 +2856,8 @@ Category: ships<br><br>
 
 Description:<br>
 >This plugin adds Marauder shields, engines, and weapons variants of the Bactrian.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -2638,7 +2869,8 @@ Category: ships<br><br>
 Description:<br>
 >This plugin adds a new type of fighter, Marauder Swarmers. It doesn't make them available in shipyards and doesn't add them to NPC fleets.
 >
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -2649,7 +2881,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Three new upgraded versions of the Osprey! Now with 30% more spike, and 100% more badassery.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -2660,7 +2893,8 @@ Category: races<br><br>
 
 Description:<br>
 >Add Mark 2 version of Pug ships and replace Pug fleet in Wanderer space with it.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -2671,7 +2905,8 @@ Category: races<br><br>
 
 Description:<br>
 >In this plugin, you get involved into discoveries of the origins of ancient settlements on Mars.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -2682,7 +2917,8 @@ Category: gameplay<br><br>
 
 Description:<br>
 >Make mass and outfit space of a few outfits the same.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -2693,7 +2929,8 @@ Category: weapons<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -2704,7 +2941,8 @@ Category: races<br><br>
 
 Description:<br>
 >Add a new advanced race south east of Ember Waste.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -2715,7 +2953,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -2726,7 +2965,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -2737,7 +2977,8 @@ Category: outfits<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -2748,7 +2989,8 @@ Category: ships<br><br>
 
 Description:<br>
 >little description space better Corvette 2 variant in fleets TheronEpic.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -2759,7 +3001,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -2770,7 +3013,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -2781,7 +3025,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Adds several mostly civilian ships for you and npc merchants( and pirates) to use for more variety in human space.
- 
+
+
 Status: Requires Continuous/0.9.15+<br><br> 
 ___ 
 
@@ -2792,7 +3037,8 @@ Category: patches<br><br>
 
 Description:<br>
 >Compatibility bridge for Mega Freight and Zoura's Human Space Overhaul plugins; Allowing Mega Freight ships to use contents from Zoura's Human Space Overhaul
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -2803,7 +3049,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Add a few new human ships.
- 
+
+
 Status: Playable on 0.9.14, 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -2818,7 +3065,8 @@ Description:<br>
 >It has 4 particle cannons, 4 sidewinder missile launchers, 2 heavy laser turrets and 2 heavy anti-missile turrets.
 >
 >The ships can be bought in World Forge plugin human shipyard and in Navy Basics shipyards.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -2829,7 +3077,8 @@ Category: outfits<br><br>
 
 Description:<br>
 >This is a small endgame QoL plugin that gives a mission which will unlock Kor Mereti shipyards and outfiters after the point in the story where they become friendly to the player.  The mission can be picked up in the shipyard of Spera Anatrusk.
- 
+
+
 Status: works on 0.10.0<br><br> 
 ___ 
 
@@ -2842,7 +3091,8 @@ Description:<br>
 >This plugin makes all the governments get in war against each other
 >It also makes every fleet spawn in Sol, so you can see them all destroy each other in one place
 >Finally, it changes how the pilot starts.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -2853,7 +3103,8 @@ Category: story<br><br>
 
 Description:<br>
 >Expanded content derived from the creations of other creators of plugins or pull requests.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -2866,7 +3117,8 @@ Description:<br>
 >A plugin suggesting an epilogue for the Kor Sestor region of Endless Sky.
 >
 >
- 
+
+
 Status: In development, Playable on 0.9.14, 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -2877,7 +3129,8 @@ Category: races<br><br>
 
 Description:<br>
 >Military Vehicles from WWII to the Modern Era.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -2888,7 +3141,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -2899,7 +3153,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Adds 3 new ships and a weapon dedicated to asteroid mining.
- 
+
+
 Status: Playable since the version that adds minable asteroid (0.9.3).<br><br> 
 ___ 
 
@@ -2910,7 +3165,8 @@ Category: outfits<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -2921,7 +3177,8 @@ Category: weapons<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -2932,7 +3189,8 @@ Category: story<br><br>
 
 Description:<br>
 >This is a plugin for endless sky that introduces umm... more jobs? and a pirate storyline Enjoy!
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -2943,7 +3201,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -2955,7 +3214,8 @@ Category: ships<br><br>
 Description:<br>
 >A small plugin that aims to introduce new ships to the Southbound Shipyards plethora.
 >Drop by your local Free Worlds affiliated shipyard to purchase one today!
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -2966,12 +3226,13 @@ Category: ships<br><br>
 
 Description:<br>
 >Adding a fan favorite ship back into the game. The Monitor.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
 ### more.boarding.missions
-<img src='Working/All Plugins/more.boarding.missions/icon.png' width='55'></img><br>
+<img src='Working/All Plugins/more.boarding.missions/icon.png' width='100'></img><br>
 [more.boarding.missions.zip](https://github.com/zuckung/test3/releases/download/Latest/more.boarding.missions.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/more.boarding.missions/) <br>
 Created by:  zuckung | [ https://github.com/zuckung/endless-sky-plugins]( https://github.com/zuckung/endless-sky-plugins)<br>
 Category:  gameplay<br><br>
@@ -2980,7 +3241,8 @@ Description:<br>
 >description = 
 >(21 boarding mission)
 >
->Adds seven pirate bounty boarding missions, seven human assisting boarding missions and seven Hai assisting boarding missions(20%, different credit rewards, repeatable). 
+>Adds seven pirate bounty boarding missions, seven human assisting boarding missions and seven Hai assisting boarding missions(20%, different credit rewards, repeatable).
+
 Status:  made for 0.10.0<br><br> 
 ___ 
 
@@ -2991,7 +3253,8 @@ Category: story<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3002,7 +3265,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Add a couple of human ships and two weapons
- 
+
+
 Status: Playable on 0.9.14, 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -3013,7 +3277,8 @@ Category: N/A<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3024,7 +3289,8 @@ Category: N/A<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3035,7 +3301,8 @@ Category: story<br><br>
 
 Description:<br>
 >allready ingame
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3046,7 +3313,8 @@ Category: story<br><br>
 
 Description:<br>
 >My Navy campaign which I hope to get implemented when finished.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3059,7 +3327,8 @@ Description:<br>
 >This Plug-in provides an alternate story plot to the main story plot allowing the player to join The Republic Navy as a conscript instead of joining the free worlds militia.
 >
 >This plug-in uses time based events, if you game date is past: 11 7 3014 the plug-in story plot will never start.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3070,7 +3339,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Add a ship.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3081,7 +3351,8 @@ Category: overwrites<br><br>
 
 Description:<br>
 >This mod replaces all vanilla Endless Sky sounds with the best part of "Nerf This"
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3092,7 +3363,8 @@ Category: outfits<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3104,7 +3376,8 @@ Category: graphics<br><br>
 Description:<br>
 >This is just a demonstration of the map image that would be used with an expanded core region.  Since it does not include the new systems that would be between Sagittarius A* and human space, Sagittarius A* will appear off centre.
 >
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3115,7 +3388,8 @@ Category: overhauls<br><br>
 
 Description:<br>
 >Add a small galaxy with a few alien. Content merged with Galactic War
- 
+
+
 Status: No longer developed. Playable on 0.9.14, 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -3128,7 +3402,8 @@ Description:<br>
 >This plugin adds some news.
 >
 >Most of them show up in Hai space.
- 
+
+
 Status: Playable on 0.9.14, 0.9.15.<br><br> 
 ___ 
 
@@ -3139,7 +3414,8 @@ Category: N/A<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3152,7 +3428,8 @@ Description:<br>
 >This mod removes Bactrians and Mules from the shipyard and fleet definitions.
 >NOTE: Overrides fleets and Lionheart shipyards, might cause problem with other plugin.
 >
- 
+
+
 Status: Should be playable on 0.9.14, 0.9.15.<br><br> 
 ___ 
 
@@ -3163,7 +3440,8 @@ Category: cheats<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3174,7 +3452,8 @@ Category: races<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3185,7 +3464,8 @@ Category: weapons<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3197,7 +3477,8 @@ Category: ships<br><br>
 Description:<br>
 >This is a simple plugin that adds an unique ship and a few outfits after completing a dedicated quest line.
 >The Normandy is meant to be an end game flagship option to compete with the Pug Arfecta.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3208,7 +3489,8 @@ Category: weapons<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3219,7 +3501,8 @@ Category: cheats<br><br>
 
 Description:<br>
 >Merchant and Pirate Hawks equiped with Nukes locked in an endless and massive battle in the Holeb system.
- 
+
+
 Status: Should be playable on 0.9.14, 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -3232,7 +3515,8 @@ Description:<br>
 >Tiny plugin that add two outfit: Nuclear Missile Turret and Nuclear Missile Ammo. 
 >
 >Just happened to have a nuke launcher turret sprite so I turned it into a quick plugin.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3243,7 +3527,8 @@ Category: races<br><br>
 
 Description:<br>
 >A modest plugin about some squids out in space.
- 
+
+
 Status: Should be playable on 0.9.14, 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -3254,7 +3539,8 @@ Category: weapons<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3265,7 +3551,8 @@ Category: weapons<br><br>
 
 Description:<br>
 >Add a missile based on Orion Drive nuclear propulsion, gets more powerful over range.
- 
+
+
 Status: Playable on 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -3276,7 +3563,8 @@ Category: graphics<br><br>
 
 Description:<br>
 >Makes the selected outfit stand out more in the outfitter screen. Recommended for those who prefer to navigate the outfitter using the keyboard instead of the mouse.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3287,7 +3575,8 @@ Category: story<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3298,7 +3587,8 @@ Category: cheats<br><br>
 
 Description:<br>
 >This mod is full of overpowered/bloated things like Ships and Outfits. Only used to beat the game but may be fun to pit on other mods with overpowered ships/outfits.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3309,7 +3599,8 @@ Category: races<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3320,7 +3611,8 @@ Category: story<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3331,7 +3623,8 @@ Category: story<br><br>
 
 Description:<br>
 >This plug-in adds additional paradise world jobs to the game increasing variety.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3342,7 +3635,8 @@ Category: weapons<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3353,7 +3647,8 @@ Category: story<br><br>
 
 Description:<br>
 >Add a new race with systems scattered in between the existing gaps across human space.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3364,7 +3659,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Joke plugin that add a new ship and a few weapons.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3375,7 +3671,8 @@ Category: gameplay<br><br>
 
 Description:<br>
 >Proof-of-concept for NPC that upgrades over time if they don't die.
- 
+
+
 Status: Playable on 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -3386,7 +3683,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3397,7 +3695,8 @@ Category: graphics<br><br>
 
 Description:<br>
 >Pilover100's personal modifications. (Change UI colors to make things more visible. Alternate Wanderer Reactor graphic.)
- 
+
+
 Status: Playable on 0.9.15/0.9.16.<br><br> 
 ___ 
 
@@ -3408,7 +3707,8 @@ Category: outfits<br><br>
 
 Description:<br>
 >A small plug-in to implement the Pilot's License. All ships that used to not have a license restriction now require a Pilot's License to purchase them.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3419,7 +3719,8 @@ Category: overhauls<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3431,7 +3732,8 @@ Category: overhauls<br><br>
 Description:<br>
 >Expand your pirate experience with new ships, outfits, systems and even mechanics! This plugin expands the northern pirate section to a large area, big enough to allow trading or similar activities one could do in the rest of the galaxy. Two new pirate ships are added, a freighter that is by itself capable of jamming the nearby sensors and a middle ground between the Firebird and the Leviathan. Finally, 6 new outfits are added, including two turrets and one special outfit that comes with a special mechanic that is obtainable using a lot of invisible missions.
 >
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3442,7 +3744,8 @@ Category: gameplay<br><br>
 
 Description:<br>
 >This gives a small payment for destroying pirates. About 10000 per pirate crew eliminated.  Payment is automatically given when landing on a planet with a starport.
- 
+
+
 Status: Playable on 0.9.14, 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -3453,7 +3756,8 @@ Category: weapons<br><br>
 
 Description:<br>
 >Plasma mines - This is a first attempt at mines to see how they fit into combat tactics and learn how to balance them properly. The heat damage gives a decent chance to disable big ships without giving the mines an unbalanced amount of regular damage.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3465,7 +3769,8 @@ Category: N/A<br><br>
 Description:<br>
 >Play as Sestor does what it says on the tin! Start a new life (pilot) as a kiloton-rated metal death machine! Patrol space, amass a fleet, and conquer the galaxy!
 >Oh, yeah, by the way, everyone hates you, except for your bretheren.
- 
+
+
 Status: Playable on 0.9.15/0.9.16.<br><br> 
 ___ 
 
@@ -3478,7 +3783,8 @@ Description:<br>
 >Visit New Boston to start getting Money and to get All the Licenses.
 >
 >For best use... please cancel the starting mission you get when making a new game and just take off and land.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3489,7 +3795,8 @@ Category: story<br><br>
 
 Description:<br>
 >This plugin re-activates the portrait system for news in ES. Many of the images for portraits are already in the game, but became unused after portraits for news was disabled by default. However, some portraits had to be added for news items after 0.9.12. Alien portraits (including transhuman portraits) are not considered canon. 
- 
+
+
 Status: made for 0.9.13<br><br> 
 ___ 
 
@@ -3500,7 +3807,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3511,7 +3819,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3522,7 +3831,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3533,7 +3843,8 @@ Category: races<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3545,7 +3856,8 @@ Category: overhauls<br><br>
 Description:<br>
 >Prometeus Flame is a campaign expansion plugin that introduces a new corporation: “Prometeus AT Group” which become vital to the Free worlds war effort.
 >The company provides over eight new ships added to the campaign that will be operated exclusively by the FW giving the faction some serious new firepower as well as new missions integrating the Lyria System and its corporation Prometeus into the universe of Endless Sky and lore.
- 
+
+
 Status: WIP, Map Only<br><br> 
 ___ 
 
@@ -3556,7 +3868,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Add Prong interceptor, which is basically a Barb with extra gun.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3567,7 +3880,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Adds a ship to Tarazed shipyard and a few weapons.
- 
+
+
 Status: Playable on 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -3580,7 +3894,8 @@ Description:<br>
 >Pug Defense is a small but extremely challenging plugin which adds a system to the south of the galaxy, accessible only by jump drive. In the system, corrupted pug fleets will spawn, extremely hostile and after your blood, however, should you be strong enough, you can challenge the planets and demand tribute. The defenders are like nothing you've ever seen before, including the peak of Pug technology, the Pug Perfecta.
 >
 >To access the plugin content, first land on any planet to initialize the missions. Then go to the Sard system and jump south from there to a new system, Sylansia Lost. From there, landing on Monolith will begin the quest chain.
- 
+
+
 Status: works on 0.10.0<br><br> 
 ___ 
 
@@ -3591,7 +3906,8 @@ Category: weapons<br><br>
 
 Description:<br>
 >The comcept is to create a series of crafts that combine the engineering prowess of the space pirates along with the technology of aliens.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3602,7 +3918,8 @@ Category: weapons<br><br>
 
 Description:<br>
 >Add bigger proton gun with higher knockback, and recoil. Found at Rust, Kraz system.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3613,7 +3930,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Add Quaernan, a human worldship from alternate universe.
- 
+
+
 Status: Playable on 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -3624,7 +3942,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Add Quaernan, a human worldship from alternate universe.
- 
+
+
 Status: Playable on 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -3635,7 +3954,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Add Quaernan, a human worldship from alternate universe.
- 
+
+
 Status: Playable on 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -3646,7 +3966,8 @@ Category: ships<br><br>
 
 Description:<br>
 >An endless sky plugin that just aims to flesh out the game with a wide variety of changes, ranging from experimental weapons to the expansion of both Human and Hai space, as well as a whole new (in-development) galaxy.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3657,7 +3978,8 @@ Category: weapons<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3668,7 +3990,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3679,7 +4002,8 @@ Category: story<br><br>
 
 Description:<br>
 >Quarg fight back when farmed.
- 
+
+
 Status: Playable on 0.9.14, 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -3690,7 +4014,8 @@ Category: outfits<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3701,7 +4026,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3712,7 +4038,8 @@ Category: overhauls<br><br>
 
 Description:<br>
 >This mod by Alphean Boolean adds more ships, outfits, missions and governments to the game.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3723,7 +4050,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3734,7 +4062,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3745,7 +4074,8 @@ Category: graphics<br><br>
 
 Description:<br>
 >This plugin modifies the Sol system adding every planet, large moon (over 20!) and two dwarf planets (Ceres and Pluto with its moon, Charon), each with unique sprites modified from NASA pictures taken during various missions. Everything in Sol has also been resized to a much bigger and realistic size, including the Sun itself.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3756,7 +4086,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3767,7 +4098,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Add a few new ships for carrying other ships. Safemode avoids meddling with vanilla category.
->WARNING: Will cause Light Warship and Light Freighter escorts from mission to not spawn. 
+>WARNING: Will cause Light Warship and Light Freighter escorts from mission to not spawn.
+
 Status: Playable on 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -3778,7 +4110,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Add a few new ships for carrying other ships. Safemode avoids meddling with vanilla category.
- 
+
+
 Status: Playable on 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -3789,7 +4122,8 @@ Category: story<br><br>
 
 Description:<br>
 >This mod is a compiliation of medical-themed outfits and jobs, allowing the player to turn their ships into ambulances.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3800,7 +4134,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3811,7 +4146,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3822,7 +4158,8 @@ Category: races<br><br>
 
 Description:<br>
 >My collection of missions, excitement, and additional stuff for the Remnant.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3833,7 +4170,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3844,7 +4182,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3855,7 +4194,8 @@ Category: ships<br><br>
 
 Description:<br>
 >New Republic heavy warship for a competition.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3866,7 +4206,8 @@ Category: graphics<br><br>
 
 Description:<br>
 >A visual mod that improves the look of many vanilla human outfits, either greatly detailing the original model or using a completely new one. Currently including 109 new sprites!
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3877,7 +4218,8 @@ Category: cheats<br><br>
 
 Description:<br>
 >Small to medium sized mod focused around reverse engineering alien technology and establishing a business empire. 
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3888,7 +4230,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3899,7 +4242,8 @@ Category: gameplay<br><br>
 
 Description:<br>
 >Salvaging proof of concept.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3910,7 +4254,8 @@ Category: races<br><br>
 
 Description:<br>
 >Add a few ships across a few races. Add a new race Irm. Renamed and updated to AES Misc
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3925,7 +4270,8 @@ Description:<br>
 >About 100 new outfits/weapons
 >No changes to storyline missions
 >More starter ships and increased start money (1 million)
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3936,7 +4282,8 @@ Category: outfits<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3947,7 +4294,8 @@ Category: ships<br><br>
 
 Description:<br>
 >This plugin add a new small pirate interceptor, Scrapper. Comes in a few variants and are quite common to find. The Scrapper is weaker than Sparrow to allow stock Sparrow to actually beat something with relative ease.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3960,7 +4308,8 @@ Description:<br>
 >Tiny mod for adding weapons, still in progress!
 >
 >More weapons WILL be added soon!
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3971,7 +4320,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3982,7 +4332,8 @@ Category: story<br><br>
 
 Description:<br>
 >Adds a new questline that leads to a small sheragi star cluster.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -3994,7 +4345,8 @@ Category: overhauls<br><br>
 Description:<br>
 >Say hello to the one and only Shields Up plugin! This iteration of Shields Up is the love-child of quite a few people, as it was worked on by Direstorm and Friendly Neighbor, has a few cool ships from Mdsmestad, was just recently merged with the Alphean's Expansion plugin, and is currently under the care of Derpy Horse.
 >Enjoy playing with dozens of new systems, outfits, and ships across the Milky Way galaxy (and beyond...?) as you encounter strange new alien races never before seen by humanity.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -4005,7 +4357,8 @@ Category: overhauls<br><br>
 
 Description:<br>
 >Derpy's Shields Up Expansion is a temporary addition to Shields Up that brings with it a few outfits that the main plugin does not offer, most notably at the moment outfits that increase your ammunition capacity for secondary weapons. This will eventually be removed.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -4016,7 +4369,8 @@ Category: overhauls<br><br>
 
 Description:<br>
 >Shields Up Housekeeping is a simple plugin meant to go along with the rest of the Shields Up pack to ensure the best Shields Up experience. Although not necessary, it's best to keep this installed, especially for players using pilots that played older versions of Shields Up.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -4029,7 +4383,8 @@ Description:<br>
 >Shields Up Legacy is a small combination of two of the oldest mods that were in the original Shields Up pack: That Someone and Tufton's plugins.
 >That Someone brings with it a whole new faction of Hai who have their own stories and outlooks on the history of the Hai, and a strange new Pug factions that partakes in a perpetual war.
 >Tufton adds cool new weapons and an amazing heavy fighter called the Tactical Assault Fighter.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -4040,7 +4395,8 @@ Category: overhauls<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -4051,7 +4407,8 @@ Category: N/A<br><br>
 
 Description:<br>
 >Phil's Flavours is the newest addition to the Shields Up pack, and includes dozens of new animated ships and helpful new outfits, all made to look like they fit right in with the game.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -4062,7 +4419,8 @@ Category: N/A<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -4073,7 +4431,8 @@ Category: overhauls<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -4084,7 +4443,8 @@ Category: outfits<br><br>
 
 Description:<br>
 >This is a plugin/mod designed to provide special items that "cheat" or "hack" in the game, it allows you to modify just about everything on your ship all within game instead of needing to modify your save file.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -4097,7 +4457,8 @@ Description:<br>
 >Overhaul of ships and systems to make flying a capital ship feel weighty...
 >
 >More mass on larger ships, better shield and hull regen, faster drones & intercepters, and quicker turn rates
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -4108,7 +4469,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -4119,7 +4481,8 @@ Category: cheats<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -4130,7 +4493,8 @@ Category: races<br><br>
 
 Description:<br>
 >A plugin adding a new alien species, the Shirni, who live north of Deep space.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -4141,7 +4505,8 @@ Category: cheats<br><br>
 
 Description:<br>
 >All this little plugin does is make them Korath Automa a little less likely to react like an Electrode and explode in your face when you try to board/capture them.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -4152,12 +4517,13 @@ Category: story<br><br>
 
 Description:<br>
 >Add a few new ships and weapons.
- 
+
+
 Status: Playable on 0.9.14, 0.9.15 Continuous.<br><br> 
 ___ 
 
 ### snowfeather.robotics
-<img src='Working/All Plugins/snowfeather.robotics/icon.png' width='55'></img><br>
+<img src='Working/All Plugins/snowfeather.robotics/icon.png' width='100'></img><br>
 [snowfeather.robotics.zip](https://github.com/zuckung/test3/releases/download/Latest/snowfeather.robotics.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/snowfeather.robotics/) <br>
 Created by: zuckung | [https://github.com/zuckung/endless-sky-plugins](https://github.com/zuckung/endless-sky-plugins)<br>
 Category: outfits<br><br>
@@ -4166,7 +4532,8 @@ Description:<br>
 >(story, 1 new outfit)
 >
 >Adds three missions that lead to adding androids to the outfitter on Snowfeather(Hai space).
->Starts on Snowfeather(Bore Fah) after completing mission "remnant: shattered light 4" and have at least one android installed. 
+>Starts on Snowfeather(Bore Fah) after completing mission "remnant: shattered light 4" and have at least one android installed.
+
 Status: made for 0.10.0<br><br> 
 ___ 
 
@@ -4177,7 +4544,8 @@ Category: outfits<br><br>
 
 Description:<br>
 >TheronEpic's Solar Sails introduces a new type of engine: Solar Sails. They're cheap, have only 25% of their size in mass, produce forward, reverse, and steering thrust, and consume negligable levels of energy.
- 
+
+
 Status: Playable on 0.9.14, 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -4189,7 +4557,8 @@ Category: N/A<br><br>
 Description:<br>
 >This is a plugin aiming to provide music for Endless Sky as well as remaster the audio to balance it.
 >
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -4200,7 +4569,8 @@ Category: cheats<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -4213,7 +4583,8 @@ Description:<br>
 >This plugin add the iconic space invader at the end of the world.
 >
 >Note: You need to finish FW storyline first if you want to find them.
- 
+
+
 Status: Playable on 0.9.14, 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -4229,7 +4600,8 @@ Description:<br>
 >
 >It has an Afterburner.
 >
- 
+
+
 Status: story<br><br> 
 ___ 
 
@@ -4242,7 +4614,8 @@ Description:<br>
 >The Space things mod implements many space themed ships, planets, etc. into the game. Of course some continuity errors 
 >will arise, mostly because i have to change the story to fit into the Endless Sky world. More updates will come, 
 >however i can't guarantee consistanty in updates. I hope you enjoy! (There might be some easter eggs in the Pirate systems,
->just be patient and you'll see. :) 
+>just be patient and you'll see. :)
+
 Status: N/A<br><br> 
 ___ 
 
@@ -4256,7 +4629,8 @@ Description:<br>
 >Version: 0.3
 >
 >
- 
+
+
 Status: Tested on: ES 0.9.16.1 (macOS)<br><br> 
 ___ 
 
@@ -4267,7 +4641,8 @@ Category: gameplay<br><br>
 
 Description:<br>
 >One Jump Drive; No ship capturing; No plundering installed outfits.
- 
+
+
 Status: Playable on 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -4279,7 +4654,8 @@ Category: weapons<br><br>
 Description:<br>
 >A proof of concept superweapon for Endless sky. Available in Trinket, Makerplace and World forge.
 >
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -4290,7 +4666,8 @@ Category: outfits<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -4301,7 +4678,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Add a star-camouflaged and animated ship.
- 
+
+
 Status: Playable on 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -4312,7 +4690,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -4323,7 +4702,8 @@ Category: overhauls<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -4336,7 +4716,8 @@ Description:<br>
 >The current goal is to have every system from Star Wars Legends placed as accurately as
 >possible (within reason), and to have sector borders, trade routes, and important
 >astronomical features such as the Void of Chopani labled.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -4346,7 +4727,8 @@ Created by: autohummer | [https://github.com/Autohummer/Endless-Sky-Starbridge-P
 Category: ships<br><br>
 
 Description:<br>
->Add Starbridge(and its variant) from Escape Velocity series. 
+>Add Starbridge(and its variant) from Escape Velocity series.
+
 Status: Playable on 0.9.14, 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -4357,7 +4739,8 @@ Category: races<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -4368,7 +4751,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -4381,7 +4765,8 @@ Description:<br>
 >The Starlus are an unusual species living south of human space that the player can interact with and learn to speak to them in order to (eventually) earn the right to purchase some of their technology and unlock some unique storylines that arrive via a mysterious wormhole.
 >
 >
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -4392,7 +4777,8 @@ Category: races<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -4403,7 +4789,8 @@ Category: weapons<br><br>
 
 Description:<br>
 >Reworked vanilla weapon stats and add new weapons for more diversity.
- 
+
+
 Status: Should work on 0.9.15, 0.9.16, Continuous.<br><br> 
 ___ 
 
@@ -4415,7 +4802,8 @@ Category: gameplay<br><br>
 Description:<br>
 >This plugin multiplies all ship hulls by five meaning ship combat lasts five times longer.
 >
- 
+
+
 Status: Playable on 0.9.14, 0.9.15 Continuous<br><br> 
 ___ 
 
@@ -4428,7 +4816,8 @@ Description:<br>
 >Adopt tamed Subsidurials into your fleet, so you can have all the 700+ ton furry friends you could want.
 >
 >Biiig space moo-moos.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -4439,7 +4828,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -4450,7 +4840,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -4461,7 +4852,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Adds more ships and outfits to the game.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -4472,7 +4864,8 @@ Category: story<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -4483,7 +4876,8 @@ Category: weapons<br><br>
 
 Description:<br>
 >Add a few supportive beams (Repair, Shields, etc.) Don't give to AI.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -4494,7 +4888,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -4508,7 +4903,8 @@ Description:<br>
 >
 >![Swizzle Player Image](/swizzle-player/icon.png?raw=true "Swizzle Player Image")
 >
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -4519,7 +4915,8 @@ Category: races<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -4530,7 +4927,8 @@ Category: story<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -4547,7 +4945,8 @@ Description:<br>
 >Main story and most side-things, complete. This will take you up to the end of the civil war, all completed and ready to continue the game as if you'd completed the main-game story.
 >
 >Remaining: logs on all the events; a few more epilogue conversations; and various hopefully-minor issues, both discovered and undiscovered.
- 
+
+
 Status: story<br><br> 
 ___ 
 
@@ -4559,7 +4958,8 @@ Category: ships<br><br>
 Description:<br>
 >Adds beefed up versions of Vanguard, with a new spinal mount proton gun, and Protector, which uses angled gun ports and 8 fighter slots.
 >
- 
+
+
 Status: Playable on 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -4570,7 +4970,8 @@ Category: story<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -4589,7 +4990,8 @@ Description:<br>
 >- Plus the main side-plot for part I, and some side jobs
 >
 >I've written the story outline for the rest, up to the end of the civil war, but not written it into the game yet: that's To Be Continued.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -4600,7 +5002,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -4611,7 +5014,8 @@ Category: gameplay<br><br>
 
 Description:<br>
 >Turns endless sky into a "character-driven" RPG, featuring a special ship known as the Apoxys. Take the helm of the black and red beauty and play your way through the whole game in just one ship; a ship that just so happens to grow along with you!
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -4622,7 +5026,8 @@ Category: races<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -4633,7 +5038,8 @@ Category: story<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -4644,7 +5050,8 @@ Category: story<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -4655,7 +5062,8 @@ Category: races<br><br>
 
 Description:<br>
 >Adds a new group of tier 2.5 aliens and a long storyline to go with it  
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -4665,7 +5073,8 @@ Created by: The Borg Captain | [https://github.com/The-Borg-Captain/TheBorgCapta
 Category: ships<br><br>
 
 Description:<br>
->Welcome to The Borg Captain's Shipyard where you can find mainly ship plugins for Endless Sky 
+>Welcome to The Borg Captain's Shipyard where you can find mainly ship plugins for Endless Sky
+
 Status: N/A<br><br> 
 ___ 
 
@@ -4678,7 +5087,8 @@ Description:<br>
 > Tie fighter code
 > And
 > The imperial system "Kullat"
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -4689,7 +5099,8 @@ Category: overhauls<br><br>
 
 Description:<br>
 >The Enclave is a story-driven plugin focused on the discovery of an isolated group of humans stranded, hundreds of years ago, in another galaxy. I'd recommend you have a large Tier 2 fleet at least to complete the (admittedly still in-progress) story.
- 
+
+
 Status: Playable on 0.9.14, 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -4700,7 +5111,8 @@ Category: races<br><br>
 
 Description:<br>
 >The Evora Navaiya adds two alien species to the southwest of Coalition space; the Evora Navaiya and the Doyek.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -4711,7 +5123,8 @@ Category: overhauls<br><br>
 
 Description:<br>
 >Add Star Trek ships.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -4722,7 +5135,8 @@ Category: races<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -4735,7 +5149,8 @@ Description:<br>
 >This is a new and at the momment WIP content plugin based in the halo universe, adding 12 new ships and 14 new outfits, including 3 new powerful spinal weapons, all purchasable in the deep and renmant.
 >
 >
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -4746,7 +5161,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Add a bunch of person ships representing the community members.
- 
+
+
 Status: Playable on 0.9.14, 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -4757,7 +5173,8 @@ Category: races<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -4770,7 +5187,8 @@ Description:<br>
 >Endless Sky: The Legacy takes the player on a chase through the Galaxy, covering
 >multiple races and testing the knowledge of the player on the systems of Endless
 >Sky and the storylines.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -4781,7 +5199,8 @@ Category: outfits<br><br>
 
 Description:<br>
 >Adds mechs and some other customization options.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -4792,7 +5211,8 @@ Category: story<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -4803,7 +5223,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -4814,7 +5235,8 @@ Category: story<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -4825,7 +5247,8 @@ Category: races<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -4838,7 +5261,8 @@ Description:<br>
 >Add small spaceport mission that can offer you various magic orbs to assist you in-flight.
 >
 >Will conflict with anything that add: "Repair Beam"
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -4849,7 +5273,8 @@ Category: weapons<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -4860,7 +5285,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -4871,12 +5297,13 @@ Category: overhauls<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
 ### too.many.asteroids
-<img src='Working/All Plugins/too.many.asteroids/icon.png' width='55'></img><br>
+<img src='Working/All Plugins/too.many.asteroids/icon.png' width='100'></img><br>
 [too.many.asteroids.zip](https://github.com/zuckung/test3/releases/download/Latest/too.many.asteroids.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/too.many.asteroids/) <br>
 Created by: zuckung | [https://github.com/zuckung/endless-sky-plugins](https://github.com/zuckung/endless-sky-plugins)<br>
 Category: overhauls<br><br>
@@ -4884,7 +5311,8 @@ Category: overhauls<br><br>
 Description:<br>
 >(1-6 system attributes changed, in 540 systems)
 >
->Removes all non-mineable asteroids from all systems. Mineable asteroids and asteroid belts are untouched. 
+>Removes all non-mineable asteroids from all systems. Mineable asteroids and asteroid belts are untouched.
+
 Status: made for 0.10.0<br><br> 
 ___ 
 
@@ -4895,7 +5323,8 @@ Category: weapons<br><br>
 
 Description:<br>
 >Pssh, just put 90 blasters on a turret mount, idk.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -4906,7 +5335,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Add OP heavily armed light warship with unique weapon tuned for solo play and capable of taking down most ship with some piloting skill.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -4917,7 +5347,8 @@ Category: gameplay<br><br>
 
 Description:<br>
 >A (mostly) programmatically generated mod that allows you to demand tribute from all planets, increases the tribute amount, and enables conquering systems.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -4928,7 +5359,8 @@ Category: story<br><br>
 
 Description:<br>
 >Allow you to tribute (almost) every planet(alien included) and start your own faction.
- 
+
+
 Status: Playable on 0.9.14, 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -4939,7 +5371,8 @@ Category: races<br><br>
 
 Description:<br>
 >The Trin are a proposed hostile, Tier 3 alien species.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -4950,7 +5383,8 @@ Category: cheats<br><br>
 
 Description:<br>
 >Occasionally spawn troll ships in transport.
- 
+
+
 Status: Playable on 0.9.14, 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -4961,7 +5395,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -4972,7 +5407,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -4983,7 +5419,8 @@ Category: ships<br><br>
 
 Description:<br>
 >This is a plugin giving stats to a seemingly previously unused Twin Argosy hull image.
- 
+
+
 Status: playable on 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -4996,7 +5433,8 @@ Description:<br>
 >Got bored of writing intross. Here's what Ultaka were originally made for (The original plugin was never released).
 >
 >REQUIRES: Galactic War plugin for assets, AES Omnis to access the conten
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -5008,7 +5446,8 @@ Category: cheats<br><br>
 Description:<br>
 >This plugin was made to allow content creators to have access to all outfits in a single place, for the purpose of designing and testing outfit loadouts for new ships. Of course, it can also be used by people who want to ruin the game for themselves by getting a massive fleet without needing to work for it.
 >
- 
+
+
 Status: Playable on 0.9.14, 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -5019,7 +5458,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -5030,7 +5470,8 @@ Category: overhauls<br><br>
 
 Description:<br>
 >Various concept ideas.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -5041,12 +5482,13 @@ Category: story<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
 ### unique.fix
-<img src='Working/All Plugins/unique.fix/icon.png' width='55'></img><br>
+<img src='Working/All Plugins/unique.fix/icon.png' width='100'></img><br>
 [unique.fix.zip](https://github.com/zuckung/test3/releases/download/Latest/unique.fix.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/unique.fix/) <br>
 Created by:  zuckung | [ https://github.com/zuckung/endless-sky-plugins]( https://github.com/zuckung/endless-sky-plugins)<br>
 Category:  overhauls<br><br>
@@ -5057,7 +5499,8 @@ Description:<br>
 >
 >Removes mass and outfit space from the cloaking device.
 >Removes mass and outfit space from outskirts gauger and puts it in unique category.
->Gives outfit '"Puny"' a portrait. 
+>Gives outfit '"Puny"' a portrait.
+
 Status:  made for 0.10.0<br><br> 
 ___ 
 
@@ -5068,7 +5511,8 @@ Category: cheats<br><br>
 
 Description:<br>
 >Post-mainline mission to build a universal outfitter.
- 
+
+
 Status: Playable on 0.10.0<br><br> 
 ___ 
 
@@ -5079,7 +5523,8 @@ Category: outfits<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -5090,7 +5535,8 @@ Category: races<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -5101,7 +5547,8 @@ Category: cheats<br><br>
 
 Description:<br>
 >Add highlighting box around mineable asteroids.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -5112,7 +5559,8 @@ Category: outfits<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -5123,7 +5571,8 @@ Category: graphics<br><br>
 
 Description:<br>
 >This plugin changes the models of the Wanderer "Sun" reactors so that a sort of "sun" can actually be seen in them.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -5133,7 +5582,8 @@ Created by: beccabunny | [https://github.com/beccabunny/Wanderer-Storyline](http
 Category: story<br><br>
 
 Description:<br>
->A continuation to the wanderer storyline, with new ships, outfits and missions! 
+>A continuation to the wanderer storyline, with new ships, outfits and missions!
+
 Status: N/A<br><br> 
 ___ 
 
@@ -5144,7 +5594,8 @@ Category: ships<br><br>
 
 Description:<br>
 >adds 4 new ships
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -5156,7 +5607,8 @@ Category: N/A<br><br>
 Description:<br>
 >Adds purchasable warehouse to every advanced shipyard, pirate shipyards, and Coalition shipyards.
 >
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -5174,7 +5626,8 @@ Description:<br>
 >  a merchant with a temporarily mislaid ship.
 >
 >For the last two of these, you'll have to complete a simple mission.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -5192,7 +5645,8 @@ Description:<br>
 >
 >Includes blaster changes to turn them into more of an anti-fighter screen, but I'm only 84% satisfied with that atm.
 >
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -5210,7 +5664,8 @@ Description:<br>
 >
 >Includes blaster changes to turn them into more of an anti-fighter screen, but I'm only 84% satisfied with that atm.
 >
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -5221,7 +5676,8 @@ Category: races<br><br>
 
 Description:<br>
 >Add a faction with some missions.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -5232,7 +5688,8 @@ Category: graphics<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -5243,7 +5700,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -5254,7 +5712,8 @@ Category: outfits<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -5265,7 +5724,8 @@ Category: cheats<br><br>
 
 Description:<br>
 >"This plugin was made to allow content creators to have access to all outfits in a single place, for the purpose of designing and testing outfit loadouts for new ships. Of course, it can also be used by people who want to ruin the game for themselves by getting a massive fleet without needing to work for it."
->World Forge does this as well, but extends this: not only all outfits in one place, but sorted by race additionally, a way to change the swizzle(derived from ProjectRunabout), a easy way to add own outfits and ships into the existing scheme, and  missions to change your reputation with factions!  
+>World Forge does this as well, but extends this: not only all outfits in one place, but sorted by race additionally, a way to change the swizzle(derived from ProjectRunabout), a easy way to add own outfits and ships into the existing scheme, and  missions to change your reputation with factions! 
+
 Status: N/A<br><br> 
 ___ 
 
@@ -5277,7 +5737,8 @@ Category: ships<br><br>
 Description:<br>
 >It adds the X-70B Phantom from Star Wars.
 >On the planet Rust in the Kraz System.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -5288,7 +5749,8 @@ Category: weapons<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -5299,7 +5761,8 @@ Category: races<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -5315,7 +5778,8 @@ Description:<br>
 >ZMobility: Alters the manouverability balance of the game.
 >ZRemnantStart: disabled. Will have a Remnant start once that PR is implemented.
 >ZRemArrival: disabled. Will have a starting point at Ingot in an Osprey with a quantum keystone.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -5327,7 +5791,8 @@ Category: patches<br><br>
 Description:<br>
 >Patch for playing with (nearly) all plugins in this archive at the same time making plugin-added fleet variants appear and include several plugin ships not included with a fleet to a fleet.
 >WARNING: May accidentally spawn the wrong Kraken.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -5338,7 +5803,8 @@ Category: patches<br><br>
 
 Description:<br>
 >Something in these hundreds of plugin prevent FW missions from offering, this fixes that.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -5349,7 +5815,8 @@ Category: gameplay<br><br>
 
 Description:<br>
 >Add larger minable asteroids actually big enough for smaller ships to hide inside.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -5360,7 +5827,8 @@ Category: outfits<br><br>
 
 Description:<br>
 >Add a Zweihander(sword) as H2H. Yes it's useless.
- 
+
+
 Status: outfit is nowhere for sale<br><br> 
 ___ 
 

@@ -3,7 +3,7 @@ category header
 
 
 
-<br><br>Categories:<br><br>[Cheats](res/categories/cheats.md) (32)  [Gameplay](res/categories/gameplay.md) (32)  [Graphics](res/categories/graphics.md) (17)  [Outfits](res/categories/outfits.md) (35)<br>[Overhauls](res/categories/overhauls.md) (37)  [Overwrites](res/categories/overwrites.md) (1)  [Patches](res/categories/patches.md) (3)  [Races](res/categories/races.md) (64)<br>[Ships](res/categories/ships.md) (116)  [Story](res/categories/story.md) (60)  [Weapons](res/categories/weapons.md) (40)  [Uncategorized](res/categories/uncategorized.md) (31)<br><br> Plugins in [all categories](README.md): 468<br><br>
+<br><br>Categories:<br><br>[Cheats](cheats.md) (32)  [Gameplay](gameplay.md) (32)  [Graphics](graphics.md) (17)  [Outfits](outfits.md) (35)<br>[Overhauls](overhauls.md) (37)  [Overwrites](overwrites.md) (1)  [Patches](patches.md) (3)  [Races](races.md) (64)<br>[Ships](ships.md) (116)  [Story](story.md) (60)  [Weapons](weapons.md) (40)  [Uncategorized](uncategorized.md) (31)<br><br> Plugins in [all categories](../../README.md): 468<br><br>
  Plugins in category 'Ships': 116<br><br>
 ##Plugin List 'Ships':<br><br>### Ambriel
 [Ambriel.zip](https://github.com/zuckung/test3/releases/download/Latest/Ambriel.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Ambriel/) <br>
@@ -12,7 +12,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Adds a new ship.
- 
+
+
 Status: should work<br><br> 
 ___ 
 
@@ -23,7 +24,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Adds a ship.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -34,7 +36,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Adds 2 Navy ships.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -45,7 +48,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -56,7 +60,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Adds a new ship.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -67,7 +72,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Adds a ship.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -78,7 +84,8 @@ Category: ships<br><br>
 
 Description:<br>
 >A plugin which adds variants of human ships to select shipyards. No stat changes, just loadouts. Right now it's mostly bare-bones versions so you don't have to pay for a bunch of outfits you're just going to sell - instead you get a (very) cheap engine & power system, a hyperdrive (or scram drive for the really big ships), & luxury accommodations when they're part of the stock loadout.
- 
+
+
 Status: Playable on 0.9.14, 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -89,7 +96,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Adds 2 ships and an outfit.
- 
+
+
 Status: Ships and outfit are nowhere for sale.<br><br> 
 ___ 
 
@@ -100,7 +108,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Add post-Kor Sestor Invasion navy ship.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -111,7 +120,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Add new faction of AI flying sailship-inspired ships.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -122,7 +132,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Blended Ships is the realistic spliced ship plugin. All these ships have thumbnails, believeable stats, and actual potential uses! There is also a greater variety of civilian ships available, to support various playstyles.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -133,7 +144,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Adds 6 ships.
- 
+
+
 Status: Should work<br><br> 
 ___ 
 
@@ -144,7 +156,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Add several new ships.
- 
+
+
 Status: Playable on 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -155,7 +168,8 @@ Category: ships<br><br>
 
 Description:<br>
 >This mod adds various new ships to Endless Sky.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -166,7 +180,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Add DaBestShipEver.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -177,7 +192,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Adds a ship.
- 
+
+
 Status: Should work<br><br> 
 ___ 
 
@@ -188,7 +204,8 @@ Category: ships<br><br>
 
 Description:<br>
 >This plugin adds a few human drones, intended to be added into vanilla game.
- 
+
+
 Status: Playable on 0.9.14, 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -199,7 +216,8 @@ Category: ships<br><br>
 
 Description:<br>
 >A big WIP project of dragon aliens.
- 
+
+
 Status: Functional<br><br> 
 ___ 
 
@@ -210,7 +228,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -221,7 +240,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Add Destiny to the Game.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -232,7 +252,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Adds a ship.
- 
+
+
 Status: Should work.<br><br> 
 ___ 
 
@@ -243,7 +264,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Adds several ships and outfits.
- 
+
+
 Status: Should work<br><br> 
 ___ 
 
@@ -254,7 +276,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Add ships from Elite Dangerous.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -265,7 +288,8 @@ Category: ships<br><br>
 
 Description:<br>
 >this plugin adds an upgraded skylark purchasable in tarazed, with a special animation.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -276,7 +300,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Adds an overpowered ship.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -290,7 +315,8 @@ Description:<br>
 >- Hauler Zero Light Warship to the Southbound Shipyards. Simply a Hauler with zero cargo pods.
 >- A ct-75 (large) Star Barge.
 >It does not modify the fleet definitions though, because they are generally subject to change with every new ship and thus any fleet definition in this plugin might become outdated pretty soon.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -301,7 +327,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -312,7 +339,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -323,7 +351,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Do you dislike the multitude of lawn dart ships? do you like the look of front-heavy ships? Or do you just want something different? Then just flip those ships around! guns on the back, engines on the front, then drive them backwards!
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -334,7 +363,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -345,7 +375,8 @@ Category: ships<br><br>
 
 Description:<br>
 >An Endless Sky plugin for the Galaxias fast battlecruiser.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -356,7 +387,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Add non-spaceflight race and a T2 race. Heavily WIP.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -368,7 +400,8 @@ Category: ships<br><br>
 Description:<br>
 >We have small Haulers, big Haulers, medium Haulers, circular Haulers! You name it, we have it!
 >Come on down to Glaze in the Aldhibain system to find our heaping collection of hauling vehicles!
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -379,7 +412,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Add a Heliarch superheavy warship.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -390,7 +424,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Additional ships and reaction to being farmed for high tier alien(Pug, Quarg). Renamed to Beyond the Sky.
- 
+
+
 Status: Playable on 0.9.14, 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -401,7 +436,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Small plugin for the hilarity of it. HONK.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -412,7 +448,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Add a couple of human ships and two weapons
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -423,7 +460,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Bringing the biggest WW2 Battleship ever made in Endless Sky
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -434,7 +472,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Add new types of fighter which is literally a guy with a gun flying around shooting things.
- 
+
+
 Status: Should be playable on 0.9.15/0.9.16<br><br> 
 ___ 
 
@@ -446,7 +485,8 @@ Category: ships<br><br>
 Description:<br>
 >Adds a new ship that is from my personal mod, it's rather overpowered even with the vanilla weapons it has, so have fun! (or something like that)
 >You can find the ship at Tarazed.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -457,7 +497,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -468,7 +509,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -479,7 +521,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Alternate start with Lampyrid ship.
- 
+
+
 Status: Playable on 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -490,7 +533,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Legendary version of ships used by pirates as person ships.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -501,7 +545,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Do you dislike the Kestrel? Are its guns too far back? Do you just want something different? Or do you just like front-heavy ships? Well then the Lertsek is for you.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -512,7 +557,8 @@ Category: ships<br><br>
 
 Description:<br>
 >adds back in a couple of old ships, I plan to add some of my own in the future.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -523,7 +569,8 @@ Category: ships<br><br>
 
 Description:<br>
 >It adds the Loronar medium transport from Star Wars.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -534,7 +581,8 @@ Category: ships<br><br>
 
 Description:<br>
 >This plugin adds Marauder shields, engines, and weapons variants of the Bactrian.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -546,7 +594,8 @@ Category: ships<br><br>
 Description:<br>
 >This plugin adds a new type of fighter, Marauder Swarmers. It doesn't make them available in shipyards and doesn't add them to NPC fleets.
 >
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -557,7 +606,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Three new upgraded versions of the Osprey! Now with 30% more spike, and 100% more badassery.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -568,7 +618,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -579,7 +630,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -590,7 +642,8 @@ Category: ships<br><br>
 
 Description:<br>
 >little description space better Corvette 2 variant in fleets TheronEpic.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -601,7 +654,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -612,7 +666,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -623,7 +678,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Adds several mostly civilian ships for you and npc merchants( and pirates) to use for more variety in human space.
- 
+
+
 Status: Requires Continuous/0.9.15+<br><br> 
 ___ 
 
@@ -634,7 +690,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Add a few new human ships.
- 
+
+
 Status: Playable on 0.9.14, 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -649,7 +706,8 @@ Description:<br>
 >It has 4 particle cannons, 4 sidewinder missile launchers, 2 heavy laser turrets and 2 heavy anti-missile turrets.
 >
 >The ships can be bought in World Forge plugin human shipyard and in Navy Basics shipyards.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -660,7 +718,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -671,7 +730,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Adds 3 new ships and a weapon dedicated to asteroid mining.
- 
+
+
 Status: Playable since the version that adds minable asteroid (0.9.3).<br><br> 
 ___ 
 
@@ -682,7 +742,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -694,7 +755,8 @@ Category: ships<br><br>
 Description:<br>
 >A small plugin that aims to introduce new ships to the Southbound Shipyards plethora.
 >Drop by your local Free Worlds affiliated shipyard to purchase one today!
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -705,7 +767,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Adding a fan favorite ship back into the game. The Monitor.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -716,7 +779,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Add a couple of human ships and two weapons
- 
+
+
 Status: Playable on 0.9.14, 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -727,7 +791,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Add a ship.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -739,7 +804,8 @@ Category: ships<br><br>
 Description:<br>
 >This is a simple plugin that adds an unique ship and a few outfits after completing a dedicated quest line.
 >The Normandy is meant to be an end game flagship option to compete with the Pug Arfecta.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -750,7 +816,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Joke plugin that add a new ship and a few weapons.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -761,7 +828,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -772,7 +840,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -783,7 +852,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -794,7 +864,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -805,7 +876,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Add Prong interceptor, which is basically a Barb with extra gun.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -816,7 +888,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Adds a ship to Tarazed shipyard and a few weapons.
- 
+
+
 Status: Playable on 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -827,7 +900,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Add Quaernan, a human worldship from alternate universe.
- 
+
+
 Status: Playable on 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -838,7 +912,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Add Quaernan, a human worldship from alternate universe.
- 
+
+
 Status: Playable on 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -849,7 +924,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Add Quaernan, a human worldship from alternate universe.
- 
+
+
 Status: Playable on 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -860,7 +936,8 @@ Category: ships<br><br>
 
 Description:<br>
 >An endless sky plugin that just aims to flesh out the game with a wide variety of changes, ranging from experimental weapons to the expansion of both Human and Hai space, as well as a whole new (in-development) galaxy.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -871,7 +948,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -882,7 +960,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -893,7 +972,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -904,7 +984,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -915,7 +996,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -926,7 +1008,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Add a few new ships for carrying other ships. Safemode avoids meddling with vanilla category.
->WARNING: Will cause Light Warship and Light Freighter escorts from mission to not spawn. 
+>WARNING: Will cause Light Warship and Light Freighter escorts from mission to not spawn.
+
 Status: Playable on 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -937,7 +1020,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Add a few new ships for carrying other ships. Safemode avoids meddling with vanilla category.
- 
+
+
 Status: Playable on 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -948,7 +1032,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -959,7 +1044,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -970,7 +1056,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -981,7 +1068,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -992,7 +1080,8 @@ Category: ships<br><br>
 
 Description:<br>
 >New Republic heavy warship for a competition.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1003,7 +1092,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1014,7 +1104,8 @@ Category: ships<br><br>
 
 Description:<br>
 >This plugin add a new small pirate interceptor, Scrapper. Comes in a few variants and are quite common to find. The Scrapper is weaker than Sparrow to allow stock Sparrow to actually beat something with relative ease.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1025,7 +1116,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1036,7 +1128,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1047,7 +1140,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Add a star-camouflaged and animated ship.
- 
+
+
 Status: Playable on 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -1058,7 +1152,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1068,7 +1163,8 @@ Created by: autohummer | [https://github.com/Autohummer/Endless-Sky-Starbridge-P
 Category: ships<br><br>
 
 Description:<br>
->Add Starbridge(and its variant) from Escape Velocity series. 
+>Add Starbridge(and its variant) from Escape Velocity series.
+
 Status: Playable on 0.9.14, 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -1079,7 +1175,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1092,7 +1189,8 @@ Description:<br>
 >Adopt tamed Subsidurials into your fleet, so you can have all the 700+ ton furry friends you could want.
 >
 >Biiig space moo-moos.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1103,7 +1201,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1114,7 +1213,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1125,7 +1225,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Adds more ships and outfits to the game.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1136,7 +1237,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1148,7 +1250,8 @@ Category: ships<br><br>
 Description:<br>
 >Adds beefed up versions of Vanguard, with a new spinal mount proton gun, and Protector, which uses angled gun ports and 8 fighter slots.
 >
- 
+
+
 Status: Playable on 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -1159,7 +1262,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1169,7 +1273,8 @@ Created by: The Borg Captain | [https://github.com/The-Borg-Captain/TheBorgCapta
 Category: ships<br><br>
 
 Description:<br>
->Welcome to The Borg Captain's Shipyard where you can find mainly ship plugins for Endless Sky 
+>Welcome to The Borg Captain's Shipyard where you can find mainly ship plugins for Endless Sky
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1180,7 +1285,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Add a bunch of person ships representing the community members.
- 
+
+
 Status: Playable on 0.9.14, 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -1191,7 +1297,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1202,7 +1309,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1213,7 +1321,8 @@ Category: ships<br><br>
 
 Description:<br>
 >Add OP heavily armed light warship with unique weapon tuned for solo play and capable of taking down most ship with some piloting skill.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1224,7 +1333,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1235,7 +1345,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1246,7 +1357,8 @@ Category: ships<br><br>
 
 Description:<br>
 >This is a plugin giving stats to a seemingly previously unused Twin Argosy hull image.
- 
+
+
 Status: playable on 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -1257,7 +1369,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1268,7 +1381,8 @@ Category: ships<br><br>
 
 Description:<br>
 >adds 4 new ships
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1279,7 +1393,8 @@ Category: ships<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -1291,7 +1406,8 @@ Category: ships<br><br>
 Description:<br>
 >It adds the X-70B Phantom from Star Wars.
 >On the planet Rust in the Kraz System.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 

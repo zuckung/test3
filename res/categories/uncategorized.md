@@ -3,7 +3,7 @@ category header
 
 
 
-<br><br>Categories:<br><br>[Cheats](res/categories/cheats.md) (32)  [Gameplay](res/categories/gameplay.md) (32)  [Graphics](res/categories/graphics.md) (17)  [Outfits](res/categories/outfits.md) (35)<br>[Overhauls](res/categories/overhauls.md) (37)  [Overwrites](res/categories/overwrites.md) (1)  [Patches](res/categories/patches.md) (3)  [Races](res/categories/races.md) (64)<br>[Ships](res/categories/ships.md) (116)  [Story](res/categories/story.md) (60)  [Weapons](res/categories/weapons.md) (40)  [Uncategorized](res/categories/uncategorized.md) (31)<br><br> Plugins in [all categories](README.md): 468<br><br>
+<br><br>Categories:<br><br>[Cheats](cheats.md) (32)  [Gameplay](gameplay.md) (32)  [Graphics](graphics.md) (17)  [Outfits](outfits.md) (35)<br>[Overhauls](overhauls.md) (37)  [Overwrites](overwrites.md) (1)  [Patches](patches.md) (3)  [Races](races.md) (64)<br>[Ships](ships.md) (116)  [Story](story.md) (60)  [Weapons](weapons.md) (40)  [Uncategorized](uncategorized.md) (31)<br><br> Plugins in [all categories](../../README.md): 468<br><br>
  Plugins in category 'Uncategorized': 31<br><br>
 ##Plugin List 'Uncategorized':<br><br>### Amalgamation
 [Amalgamation.zip](https://github.com/zuckung/test3/releases/download/Latest/Amalgamation.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Amalgamation/) <br>
@@ -14,7 +14,8 @@ Description:<br>
 >A large collection of older plugins that have been edited and modified to work together with the newer versions of Endless Sky and be overall more balanced and lore friendly, along with many unique Amalgamation additions to fill out previous placeholders in these plugins.
 >
 >The plugins included are: Shields Up, Enclave, Quarg Military Retaliation, ZRemnantX's ships, Tribute Plus, Space Conversion, Businessman, Inheritance ships, KorNewShips, Korath Automation Upgrade, Enigma Corps outfits, Cultures of the Southern Arm ships, Flamethrower Turret and The Machines are Taking Over.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -25,7 +26,8 @@ Category: N/A<br><br>
 
 Description:<br>
 >This plugin adds a new species, the Impeti. They are even more advanced than the Drak and they found no happiness in scientific progress. Instead they started searching for the most capable person in the galaxy and find out how they achieve happiness. Therefore they started the Arena of the Worthy, where a few individuum of each species battle for honor and very special gifts.
- 
+
+
 Status: REQUIRES PR #7348. Either wait for it to be merged or use ESLauncher2 to download the PR.<br><br> 
 ___ 
 
@@ -36,7 +38,8 @@ Category: N/A<br><br>
 
 Description:<br>
 >Nonfunctional
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -47,7 +50,8 @@ Category: N/A<br><br>
 
 Description:<br>
 >Includes the ships, missions, and outfits I have or will create. Features unique and original endless sky ideas and original assets created by me.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -58,7 +62,8 @@ Category: N/A<br><br>
 
 Description:<br>
 >This plugin generates an arcade-style gauntlet wherein you take a mission, jump through a wormhole, and face a series of randomly generated fleets. Intended for end-game players who are comfortable running a python script.
- 
+
+
 Status: Playable on 0.9.14, 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -69,7 +74,8 @@ Category: N/A<br><br>
 
 Description:<br>
 >Replaces sounds.
- 
+
+
 Status: Should work<br><br> 
 ___ 
 
@@ -80,7 +86,8 @@ Category: N/A<br><br>
 
 Description:<br>
 >Replaces sounds.
- 
+
+
 Status: Should work<br><br> 
 ___ 
 
@@ -91,7 +98,8 @@ Category: N/A<br><br>
 
 Description:<br>
 >The high DPI plugin for the Enigma Corp mod. High DPI images are only used if your zoom level is above 100% to increase graphical resolution.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -102,7 +110,8 @@ Category: N/A<br><br>
 
 Description:<br>
 >This is a plugin for Endless Sky which adds a significant large area to fly around and explore. At this time there isn't much to see or do beyond just flying around the pair of newly accessable galaxies (which are not yet fully mapped out or populated).
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -113,7 +122,8 @@ Category: N/A<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -124,7 +134,8 @@ Category: N/A<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -135,7 +146,8 @@ Category: N/A<br><br>
 
 Description:<br>
 >This plugin add a few ships that are a modified variant of existing ships by individuals and private groups like pirates and some merchants.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -146,7 +158,8 @@ Category: N/A<br><br>
 
 Description:<br>
 >Adds a Help tab to the Logbook which can be used as a centralized location to review or preview various helpful game tips.
- 
+
+
 Status: Compatible with ES 0.9.14<br><br> 
 ___ 
 
@@ -157,7 +170,8 @@ Category: N/A<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -168,7 +182,8 @@ Category: N/A<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -179,7 +194,8 @@ Category: N/A<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -191,7 +207,8 @@ Category: N/A<br><br>
 Description:<br>
 >Play as Sestor does what it says on the tin! Start a new life (pilot) as a kiloton-rated metal death machine! Patrol space, amass a fleet, and conquer the galaxy!
 >Oh, yeah, by the way, everyone hates you, except for your bretheren.
- 
+
+
 Status: Playable on 0.9.15/0.9.16.<br><br> 
 ___ 
 
@@ -202,7 +219,8 @@ Category: N/A<br><br>
 
 Description:<br>
 >Phil's Flavours is the newest addition to the Shields Up pack, and includes dozens of new animated ships and helpful new outfits, all made to look like they fit right in with the game.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -213,7 +231,8 @@ Category: N/A<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -225,7 +244,8 @@ Category: N/A<br><br>
 Description:<br>
 >This is a plugin aiming to provide music for Endless Sky as well as remaster the audio to balance it.
 >
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -241,7 +261,8 @@ Description:<br>
 >
 >It has an Afterburner.
 >
- 
+
+
 Status: story<br><br> 
 ___ 
 
@@ -258,7 +279,8 @@ Description:<br>
 >Main story and most side-things, complete. This will take you up to the end of the civil war, all completed and ready to continue the game as if you'd completed the main-game story.
 >
 >Remaining: logs on all the events; a few more epilogue conversations; and various hopefully-minor issues, both discovered and undiscovered.
- 
+
+
 Status: story<br><br> 
 ___ 
 
@@ -270,7 +292,8 @@ Category: N/A<br><br>
 Description:<br>
 >Adds purchasable warehouse to every advanced shipyard, pirate shipyards, and Coalition shipyards.
 >
- 
+
+
 Status: N/A<br><br> 
 ___ 
 

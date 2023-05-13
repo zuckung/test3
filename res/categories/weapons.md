@@ -3,7 +3,7 @@ category header
 
 
 
-<br><br>Categories:<br><br>[Cheats](res/categories/cheats.md) (32)  [Gameplay](res/categories/gameplay.md) (32)  [Graphics](res/categories/graphics.md) (17)  [Outfits](res/categories/outfits.md) (35)<br>[Overhauls](res/categories/overhauls.md) (37)  [Overwrites](res/categories/overwrites.md) (1)  [Patches](res/categories/patches.md) (3)  [Races](res/categories/races.md) (64)<br>[Ships](res/categories/ships.md) (116)  [Story](res/categories/story.md) (60)  [Weapons](res/categories/weapons.md) (40)  [Uncategorized](res/categories/uncategorized.md) (31)<br><br> Plugins in [all categories](README.md): 468<br><br>
+<br><br>Categories:<br><br>[Cheats](cheats.md) (32)  [Gameplay](gameplay.md) (32)  [Graphics](graphics.md) (17)  [Outfits](outfits.md) (35)<br>[Overhauls](overhauls.md) (37)  [Overwrites](overwrites.md) (1)  [Patches](patches.md) (3)  [Races](races.md) (64)<br>[Ships](ships.md) (116)  [Story](story.md) (60)  [Weapons](weapons.md) (40)  [Uncategorized](uncategorized.md) (31)<br><br> Plugins in [all categories](../../README.md): 468<br><br>
  Plugins in category 'Weapons': 40<br><br>
 ## Plugin List 'Weapons':<br><br>### 50.cal
 [50.cal.zip](https://github.com/zuckung/test3/releases/download/Latest/50.cal.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/50.cal/) <br>
@@ -12,7 +12,8 @@ Category: weapons<br><br>
 
 Description:<br>
 >Adds M2 Browning as ship outfit and H2H, also made Sparrow variant with it, and make npcs use it.
- 
+
+
 Status: complete and playable on 0.9.15 continous<br><br> 
 ___ 
 
@@ -23,7 +24,8 @@ Category: weapons<br><br>
 
 Description:<br>
 >Adds a torpedo and launcher to the game.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -34,7 +36,8 @@ Category: weapons<br><br>
 
 Description:<br>
 >Adds a ship and several outfits.
- 
+
+
 Status: Ship and outfits are nowhere for sale.<br><br> 
 ___ 
 
@@ -45,7 +48,8 @@ Category: weapons<br><br>
 
 Description:<br>
 >Modifies this outfit.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -56,7 +60,8 @@ Category: weapons<br><br>
 
 Description:<br>
 >Adds 6 new outfits.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -69,7 +74,8 @@ Description:<br>
 >The Cannon Friendly Weapon Pack (pun intended) is a selection of guns and lasers that aims to add more versatility to the range of weapons in Endless Sky. It attempts to blend itself into the canon where possible.
 >
 >The Cannon Friendly Weapon Pack has a number of weapons and weapon additions, such as ammunition storage for most vanilla weapons, all the ammunition-consuming weapons in the CFWP, and more.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -80,7 +86,8 @@ Category: weapons<br><br>
 
 Description:<br>
 >Adds a weapon.
- 
+
+
 Status: Should work<br><br> 
 ___ 
 
@@ -91,7 +98,8 @@ Category: weapons<br><br>
 
 Description:<br>
 >Adds some outfits and a ship.
- 
+
+
 Status: Ship and outfits are nowhere for sale.<br><br> 
 ___ 
 
@@ -102,7 +110,8 @@ Category: weapons<br><br>
 
 Description:<br>
 >Adds 2 outfits.
- 
+
+
 Status: Outfits are nowhere for sale.<br><br> 
 ___ 
 
@@ -113,7 +122,8 @@ Category: weapons<br><br>
 
 Description:<br>
 >Adds some missile outfits.
- 
+
+
 Status: Should work<br><br> 
 ___ 
 
@@ -123,7 +133,8 @@ Created by: 1010todd | N/A<br>
 Category: weapons<br><br>
 
 Description:<br>
->Add various weapons utilizing complex submunition chain to be used as example. Not intended for normal gameplay. 
+>Add various weapons utilizing complex submunition chain to be used as example. Not intended for normal gameplay.
+
 Status: Requires AES Omnis to access.<br><br> 
 ___ 
 
@@ -134,7 +145,8 @@ Category: weapons<br><br>
 
 Description:<br>
 >Adds some weapon outfits.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -145,7 +157,8 @@ Category: weapons<br><br>
 
 Description:<br>
 >Adds some weapon outfits.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -156,7 +169,8 @@ Category: weapons<br><br>
 
 Description:<br>
 >adds a turret variant of the flamethrower.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -167,7 +181,8 @@ Category: weapons<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -178,7 +193,8 @@ Category: weapons<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -189,7 +205,8 @@ Category: weapons<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -200,7 +217,8 @@ Category: weapons<br><br>
 
 Description:<br>
 >Fuel Damage before fuel damage is a thing in vanilla.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -212,7 +230,8 @@ Category: weapons<br><br>
 Description:<br>
 >A plugin adding modern realistic weapons to Endless-Sky, including a cannon and two shell types, APFSDS & HEATFS.
 >They are tier 1 human weapons, already balanced to work as anti-capital ship weapons.
- 
+
+
 Status: Playable on 0.9.15, 0.9.16, Continuous.<br><br> 
 ___ 
 
@@ -223,7 +242,8 @@ Category: weapons<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -234,7 +254,8 @@ Category: weapons<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -245,7 +266,8 @@ Category: weapons<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -256,7 +278,8 @@ Category: weapons<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -267,7 +290,8 @@ Category: weapons<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -280,7 +304,8 @@ Description:<br>
 >Tiny plugin that add two outfit: Nuclear Missile Turret and Nuclear Missile Ammo. 
 >
 >Just happened to have a nuke launcher turret sprite so I turned it into a quick plugin.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -291,7 +316,8 @@ Category: weapons<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -302,7 +328,8 @@ Category: weapons<br><br>
 
 Description:<br>
 >Add a missile based on Orion Drive nuclear propulsion, gets more powerful over range.
- 
+
+
 Status: Playable on 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -313,7 +340,8 @@ Category: weapons<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -324,7 +352,8 @@ Category: weapons<br><br>
 
 Description:<br>
 >Plasma mines - This is a first attempt at mines to see how they fit into combat tactics and learn how to balance them properly. The heat damage gives a decent chance to disable big ships without giving the mines an unbalanced amount of regular damage.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -335,7 +364,8 @@ Category: weapons<br><br>
 
 Description:<br>
 >The comcept is to create a series of crafts that combine the engineering prowess of the space pirates along with the technology of aliens.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -346,7 +376,8 @@ Category: weapons<br><br>
 
 Description:<br>
 >Add bigger proton gun with higher knockback, and recoil. Found at Rust, Kraz system.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -357,7 +388,8 @@ Category: weapons<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -370,7 +402,8 @@ Description:<br>
 >Tiny mod for adding weapons, still in progress!
 >
 >More weapons WILL be added soon!
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -382,7 +415,8 @@ Category: weapons<br><br>
 Description:<br>
 >A proof of concept superweapon for Endless sky. Available in Trinket, Makerplace and World forge.
 >
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -393,7 +427,8 @@ Category: weapons<br><br>
 
 Description:<br>
 >Reworked vanilla weapon stats and add new weapons for more diversity.
- 
+
+
 Status: Should work on 0.9.15, 0.9.16, Continuous.<br><br> 
 ___ 
 
@@ -404,7 +439,8 @@ Category: weapons<br><br>
 
 Description:<br>
 >Add a few supportive beams (Repair, Shields, etc.) Don't give to AI.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -417,7 +453,8 @@ Description:<br>
 >Add small spaceport mission that can offer you various magic orbs to assist you in-flight.
 >
 >Will conflict with anything that add: "Repair Beam"
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -428,7 +465,8 @@ Category: weapons<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -439,7 +477,8 @@ Category: weapons<br><br>
 
 Description:<br>
 >Pssh, just put 90 blasters on a turret mount, idk.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -450,7 +489,8 @@ Category: weapons<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 

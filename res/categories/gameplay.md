@@ -3,7 +3,7 @@ category header
 
 
 
-<br><br>Categories:<br><br>[Cheats](res/categories/cheats.md) (32)  [Gameplay](res/categories/gameplay.md) (32)  [Graphics](res/categories/graphics.md) (17)  [Outfits](res/categories/outfits.md) (35)<br>[Overhauls](res/categories/overhauls.md) (37)  [Overwrites](res/categories/overwrites.md) (1)  [Patches](res/categories/patches.md) (3)  [Races](res/categories/races.md) (64)<br>[Ships](res/categories/ships.md) (116)  [Story](res/categories/story.md) (60)  [Weapons](res/categories/weapons.md) (40)  [Uncategorized](res/categories/uncategorized.md) (31)<br><br> Plugins in [all categories](README.md): 468<br><br>
+<br><br>Categories:<br><br>[Cheats](cheats.md) (32)  [Gameplay](gameplay.md) (32)  [Graphics](graphics.md) (17)  [Outfits](outfits.md) (35)<br>[Overhauls](overhauls.md) (37)  [Overwrites](overwrites.md) (1)  [Patches](patches.md) (3)  [Races](races.md) (64)<br>[Ships](ships.md) (116)  [Story](story.md) (60)  [Weapons](weapons.md) (40)  [Uncategorized](uncategorized.md) (31)<br><br> Plugins in [all categories](../../README.md): 468<br><br>
  Plugins in category 'Gameplay': 32<br><br>
 ##Plugin List 'Gameplay':<br><br>### Adjusted.Hyperdrive
 [Adjusted.Hyperdrive.zip](https://github.com/zuckung/test3/releases/download/Latest/Adjusted.Hyperdrive.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Adjusted.Hyperdrive/) <br>
@@ -12,7 +12,8 @@ Category: gameplay<br><br>
 
 Description:<br>
 >Increases fuel capacity of many ships and modifies the three drives.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -24,12 +25,13 @@ Category: gameplay<br><br>
 Description:<br>
 >Add system arrival depending on habitable or belt distance.
 >Can get overridden by other plugins.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
 ### automata.in.human.space
-<img src='Working/All Plugins/automata.in.human.space/icon.png' width='55'></img><br>
+<img src='Working/All Plugins/automata.in.human.space/icon.png' width='100'></img><br>
 [automata.in.human.space.zip](https://github.com/zuckung/test3/releases/download/Latest/automata.in.human.space.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/automata.in.human.space/) <br>
 Created by:  zuckung | [ https://github.com/zuckung/endless-sky-plugins]( https://github.com/zuckung/endless-sky-plugins)<br>
 Category: gameplay<br><br>
@@ -40,7 +42,8 @@ Description:<br>
 >
 >Brings jump drive equipped automata into human space after the wanderer campaign. 
 >You can find them where Korath ships in human space are usually found(ember waste and eastern syndicate). 
->The chance to encounter previous Korath ships or automata is like 50/50. 
+>The chance to encounter previous Korath ships or automata is like 50/50.
+
 Status:  made for 0.10.0<br><br> 
 ___ 
 
@@ -51,7 +54,8 @@ Category: gameplay<br><br>
 
 Description:<br>
 >Shipyards now sell bare hulls with no outfits.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -62,7 +66,8 @@ Category: gameplay<br><br>
 
 Description:<br>
 >Adds licenses that allow the player to capture ships. Currently in alpha The better the license, the more ships you can cap
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -73,7 +78,8 @@ Category: gameplay<br><br>
 
 Description:<br>
 >Adds a storyline where you can become a bounty hunter.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -84,7 +90,8 @@ Category: gameplay<br><br>
 
 Description:<br>
 >Become a ruler of the galaxy through money. Buy trade routes, stocks, set up shops and entertainment centers, buy planets, hire a mercenary army, hunt down people who didn't pay back their loans....and more.. Also includes an optional alternate pirate start, and additons to make piracy much more viable and fun.
- 
+
+
 Status: Playable on 0.9.14, 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -95,7 +102,8 @@ Category: gameplay<br><br>
 
 Description:<br>
 >This plugin makes drives much more expensive, while making them unplunderable to prevent easy(er) boarding. Additionally, drive sales are much more restricted.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -107,7 +115,8 @@ Category: gameplay<br><br>
 Description:<br>
 >Make npc fleets spawn more often.
 >Note: it's done by overwriting map file, may cause conflict with other plugin that also do that.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -118,7 +127,8 @@ Category: gameplay<br><br>
 
 Description:<br>
 >Adds three diffrent difficulties that take form as the start to a game. Not reccomended for people new to Endless Sky.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -129,7 +139,8 @@ Category: gameplay<br><br>
 
 Description:<br>
 >Every outfit now have chance to be dropped as flotsam when the ship explodes.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -142,12 +153,13 @@ Description:<br>
 >Add various large to extremely large jobs to fill up the space when for extra large ships.
 >
 >
- 
+
+
 Status: Playable on 0.9.15 Continuous.<br><br> 
 ___ 
 
 ### galactic.capital.investment
-<img src='Working/All Plugins/galactic.capital.investment/icon.png' width='55'></img><br>
+<img src='Working/All Plugins/galactic.capital.investment/icon.png' width='100'></img><br>
 [galactic.capital.investment.zip](https://github.com/zuckung/test3/releases/download/Latest/galactic.capital.investment.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/galactic.capital.investment/) <br>
 Created by: zuckung | [https://github.com/zuckung/endless-sky-plugins](https://github.com/zuckung/endless-sky-plugins)<br>
 Category: gameplay<br><br>
@@ -156,7 +168,8 @@ Description:<br>
 >(story, repeatable mission)
 >
 >Implements a two mission chain that enables regular spaceport investment opportunities which result in small daily income. Available in human, quarg and hai space with 2 million credits cash.
->(inspired by a-alhusaini's investment bank plugin) 
+>(inspired by a-alhusaini's investment bank plugin)
+
 Status: made for 0.10.0<br><br> 
 ___ 
 
@@ -167,7 +180,8 @@ Category: gameplay<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -180,7 +194,8 @@ Description:<br>
 >This plugin fixes availability of Gatling Gun Ammo (and its boxes) - being most primitive and easiest to manufacture type of ordnance, it is now available where you would expect it to be (hint: "galactic south" and multipurpose ammo depots).
 >
 >Recommended to use with Becca's Endless Expansion plugin (which adds Kraz Cybernetic's Accurate Gatling Blaster" variant).
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -193,7 +208,8 @@ Description:<br>
 >Lots of map to calculate ship volume(outfit/cargo space) and mass.
 >WARNING: single-file race might have unrelated data attached (Pug, Drak, etc.)
 >
- 
+
+
 Status: Playable on 0.9.14, 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -204,7 +220,8 @@ Category: gameplay<br><br>
 
 Description:<br>
 >Triple human heavy warship mass to make them slower.
- 
+
+
 Status: Playable on 0.9.14, 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -215,12 +232,13 @@ Category: gameplay<br><br>
 
 Description:<br>
 >When you are rich enough some investment banks will offer you a chance to invest with them to gain an increased daily salary
- 
+
+
 Status: Playable on 0.9.14, 0.10.0 Continuous.<br><br> 
 ___ 
 
 ### kor.efret.shipyard
-<img src='Working/All Plugins/kor.efret.shipyard/icon.png' width='55'></img><br>
+<img src='Working/All Plugins/kor.efret.shipyard/icon.png' width='100'></img><br>
 [kor.efret.shipyard.zip](https://github.com/zuckung/test3/releases/download/Latest/kor.efret.shipyard.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/kor.efret.shipyard/) <br>
 Created by:  zuckung | [ https://github.com/zuckung/endless-sky-plugins]( https://github.com/zuckung/endless-sky-plugins)<br>
 Category: gameplay<br><br>
@@ -229,7 +247,8 @@ Description:<br>
 >description = 
 >(outfitter and shipyard added)
 >
->Adds a shipyard with the the three Kor Efret ships(Arch-Carrack, Charm-Shallop, Echo-Galleon) to Laki Nemparu(Kashikt) in Kor Efret space. Also adds an outfitter with all outfits of these three ships. 
+>Adds a shipyard with the the three Kor Efret ships(Arch-Carrack, Charm-Shallop, Echo-Galleon) to Laki Nemparu(Kashikt) in Kor Efret space. Also adds an outfitter with all outfits of these three ships.
+
 Status:  made for 0.10.0<br><br> 
 ___ 
 
@@ -240,7 +259,8 @@ Category: gameplay<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -251,7 +271,8 @@ Category: gameplay<br><br>
 
 Description:<br>
 >Adds a landing fee the player has to pay each time after one year.
- 
+
+
 Status: Playable on 0.9.14, 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -262,7 +283,8 @@ Category: gameplay<br><br>
 
 Description:<br>
 >Make mass and outfit space of a few outfits the same.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -275,12 +297,13 @@ Description:<br>
 >This plugin makes all the governments get in war against each other
 >It also makes every fleet spawn in Sol, so you can see them all destroy each other in one place
 >Finally, it changes how the pilot starts.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
 ### more.boarding.missions
-<img src='Working/All Plugins/more.boarding.missions/icon.png' width='55'></img><br>
+<img src='Working/All Plugins/more.boarding.missions/icon.png' width='100'></img><br>
 [more.boarding.missions.zip](https://github.com/zuckung/test3/releases/download/Latest/more.boarding.missions.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/more.boarding.missions/) <br>
 Created by:  zuckung | [ https://github.com/zuckung/endless-sky-plugins]( https://github.com/zuckung/endless-sky-plugins)<br>
 Category: gameplay<br><br>
@@ -289,7 +312,8 @@ Description:<br>
 >description = 
 >(21 boarding mission)
 >
->Adds seven pirate bounty boarding missions, seven human assisting boarding missions and seven Hai assisting boarding missions(20%, different credit rewards, repeatable). 
+>Adds seven pirate bounty boarding missions, seven human assisting boarding missions and seven Hai assisting boarding missions(20%, different credit rewards, repeatable).
+
 Status:  made for 0.10.0<br><br> 
 ___ 
 
@@ -300,7 +324,8 @@ Category: gameplay<br><br>
 
 Description:<br>
 >Proof-of-concept for NPC that upgrades over time if they don't die.
- 
+
+
 Status: Playable on 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -311,7 +336,8 @@ Category: gameplay<br><br>
 
 Description:<br>
 >This gives a small payment for destroying pirates. About 10000 per pirate crew eliminated.  Payment is automatically given when landing on a planet with a starport.
- 
+
+
 Status: Playable on 0.9.14, 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -324,7 +350,8 @@ Description:<br>
 >Visit New Boston to start getting Money and to get All the Licenses.
 >
 >For best use... please cancel the starting mission you get when making a new game and just take off and land.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -335,7 +362,8 @@ Category: gameplay<br><br>
 
 Description:<br>
 >Salvaging proof of concept.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -348,7 +376,8 @@ Description:<br>
 >Overhaul of ships and systems to make flying a capital ship feel weighty...
 >
 >More mass on larger ships, better shield and hull regen, faster drones & intercepters, and quicker turn rates
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -359,7 +388,8 @@ Category: gameplay<br><br>
 
 Description:<br>
 >One Jump Drive; No ship capturing; No plundering installed outfits.
- 
+
+
 Status: Playable on 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -371,7 +401,8 @@ Category: gameplay<br><br>
 Description:<br>
 >This plugin multiplies all ship hulls by five meaning ship combat lasts five times longer.
 >
- 
+
+
 Status: Playable on 0.9.14, 0.9.15 Continuous<br><br> 
 ___ 
 
@@ -382,7 +413,8 @@ Category: gameplay<br><br>
 
 Description:<br>
 >Turns endless sky into a "character-driven" RPG, featuring a special ship known as the Apoxys. Take the helm of the black and red beauty and play your way through the whole game in just one ship; a ship that just so happens to grow along with you!
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -393,7 +425,8 @@ Category: gameplay<br><br>
 
 Description:<br>
 >A (mostly) programmatically generated mod that allows you to demand tribute from all planets, increases the tribute amount, and enables conquering systems.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -411,7 +444,8 @@ Description:<br>
 >
 >Includes blaster changes to turn them into more of an anti-fighter screen, but I'm only 84% satisfied with that atm.
 >
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -422,7 +456,8 @@ Category: gameplay<br><br>
 
 Description:<br>
 >Add larger minable asteroids actually big enough for smaller ships to hide inside.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 

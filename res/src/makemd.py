@@ -41,9 +41,9 @@ def wentry(filex):
 		im = Image.open(pathtoplugins + entry + "/icon.png")
 		w, h = im.size
 		if h > w:
-			filex.writelines("<img src='"+ pathtoplugins + entry + "/icon.png' height='55'></img><br>\n")
+			filex.writelines("<img src='"+ pathtoplugins + entry + "/icon.png' height='100'></img><br>\n")
 		else:
-			filex.writelines("<img src='"+ pathtoplugins + entry + "/icon.png' width='55'></img><br>\n")
+			filex.writelines("<img src='"+ pathtoplugins + entry + "/icon.png' width='100'></img><br>\n")
 	filex.writelines("[" + withdots + ".zip](" + assetfiles + withdots + ".zip) | ")
 	filex.writelines(assetsize + form)    
 	filex.writelines(" | last upload: " + modif)
@@ -56,28 +56,34 @@ def wentry(filex):
 	filex.writelines("Category: " + category + "<br><br>\n\nDescription:<br>\n")
 	for l in description:
 		filex.writelines(">" + l)
-	filex.writelines(" \n" + "Status: " + status )
+	filex.writelines("\n\nStatus: " + status )
 	filex.writelines("<br><br> ")
 	filex.writelines("\n___ \n\n")
 
 def mdlist(filex):
+	if filex == file1:
+		newcat = categoryfolder
+		down = ""
+	else:
+		newcat = ""
+		down = "../../"
 	filex.writelines("<br><br>Categories:<br><br>")
-	filex.writelines("[Cheats](" + categoryfolder + "cheats.md) (" + str(cheats) + 
-						")  [Gameplay](" + categoryfolder + "gameplay.md) (" + str(gameplay) + 
-						")  [Graphics](" + categoryfolder + "graphics.md) (" + str(graphics) + 
-						")  [Outfits](" + categoryfolder + "outfits.md) (" + str(outfits) + 
+	filex.writelines("[Cheats](" + newcat + "cheats.md) (" + str(cheats) + 
+						")  [Gameplay](" + newcat + "gameplay.md) (" + str(gameplay) + 
+						")  [Graphics](" + newcat + "graphics.md) (" + str(graphics) + 
+						")  [Outfits](" + newcat + "outfits.md) (" + str(outfits) + 
 						")<br>")
-	filex.writelines("[Overhauls](" + categoryfolder + "overhauls.md) (" + str(overhauls) + 
-						")  [Overwrites](" + categoryfolder + "overwrites.md) (" + str(overwrites) + 
-						")  [Patches](" + categoryfolder + "patches.md) (" + str(patches) + 
-						")  [Races](" + categoryfolder + "races.md) (" + str(races) + 
+	filex.writelines("[Overhauls](" + newcat + "overhauls.md) (" + str(overhauls) + 
+						")  [Overwrites](" + newcat + "overwrites.md) (" + str(overwrites) + 
+						")  [Patches](" + newcat + "patches.md) (" + str(patches) + 
+						")  [Races](" + newcat + "races.md) (" + str(races) + 
 						")<br>")
-	filex.writelines("[Ships](" + categoryfolder + "ships.md) (" + str(ships) + 
-						")  [Story](" + categoryfolder + "story.md) (" + str(story) + 
-						")  [Weapons](" + categoryfolder + "weapons.md) (" + str(weapons) + 
-						")  [Uncategorized](" + categoryfolder + "uncategorized.md) (" + str(uncategorized) + 
+	filex.writelines("[Ships](" + newcat + "ships.md) (" + str(ships) + 
+						")  [Story](" + newcat + "story.md) (" + str(story) + 
+						")  [Weapons](" + newcat + "weapons.md) (" + str(weapons) + 
+						")  [Uncategorized](" + newcat + "uncategorized.md) (" + str(uncategorized) + 
 						")<br><br>")
-	filex.writelines(" Plugins in [all categories](" + indexfile + "): " + str(allplugins) + "<br><br>\n")
+	filex.writelines(" Plugins in [all categories](" + down + indexfile + "): " + str(allplugins) + "<br><br>\n")
 
 allplugins = 0
 cheats = 0

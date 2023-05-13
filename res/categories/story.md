@@ -3,7 +3,7 @@ category header
 
 
 
-<br><br>Categories:<br><br>[Cheats](res/categories/cheats.md) (32)  [Gameplay](res/categories/gameplay.md) (32)  [Graphics](res/categories/graphics.md) (17)  [Outfits](res/categories/outfits.md) (35)<br>[Overhauls](res/categories/overhauls.md) (37)  [Overwrites](res/categories/overwrites.md) (1)  [Patches](res/categories/patches.md) (3)  [Races](res/categories/races.md) (64)<br>[Ships](res/categories/ships.md) (116)  [Story](res/categories/story.md) (60)  [Weapons](res/categories/weapons.md) (40)  [Uncategorized](res/categories/uncategorized.md) (31)<br><br> Plugins in [all categories](README.md): 468<br><br>
+<br><br>Categories:<br><br>[Cheats](cheats.md) (32)  [Gameplay](gameplay.md) (32)  [Graphics](graphics.md) (17)  [Outfits](outfits.md) (35)<br>[Overhauls](overhauls.md) (37)  [Overwrites](overwrites.md) (1)  [Patches](patches.md) (3)  [Races](races.md) (64)<br>[Ships](ships.md) (116)  [Story](story.md) (60)  [Weapons](weapons.md) (40)  [Uncategorized](uncategorized.md) (31)<br><br> Plugins in [all categories](../../README.md): 468<br><br>
  Plugins in category 'Story': 60<br><br>
 ##Plugin List 'Story':<br><br>### Advanced.Starts
 [Advanced.Starts.zip](https://github.com/zuckung/test3/releases/download/Latest/Advanced.Starts.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Advanced.Starts/) <br>
@@ -12,7 +12,8 @@ Category: story<br><br>
 
 Description:<br>
 >Adds more starting options.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -23,7 +24,8 @@ Category: story<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -34,7 +36,8 @@ Category: story<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -45,7 +48,8 @@ Category: story<br><br>
 
 Description:<br>
 >Adds some missions for the pirate worlds.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -58,7 +62,8 @@ Description:<br>
 >This plugin was built to provide some satisfaction to acquiring the mighty Bactrian. Hopefully the short mission sequence will also be enjoyable.
 >There is some non-linearity to the story so depending on your choices two of three large ships (i.e. flagships) can be made available for purchase.
 >Two large ships, one bounty mission and one transport mission were added.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -69,7 +74,8 @@ Category: story<br><br>
 
 Description:<br>
 >This plug-in adds additional boarding missions to the game increasing the chances for a player to receive a payment for assisting a disabled ship.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -80,7 +86,8 @@ Category: story<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -93,7 +100,8 @@ Description:<br>
 >You hear a lot about the conflict between the Coalition and the Quarg, but you never see it.
 >
 >This plugin introduces a storyline that lets you see that conflict and even capture Heliarch ships if you want to farm experience by repairing Heliarch ships.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -106,7 +114,8 @@ Description:<br>
 >Cognitive Subdivision introduces a new difficult story taking place after the first part of the Wanderer Campaign
 >as well as several new maps, 2 new tier 3 factions with various unique outfits and ships of their own for you to unlock
 >...and some suprises for you to find!
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -117,7 +126,8 @@ Category: story<br><br>
 
 Description:<br>
 >Adds a new system and some missions.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -128,7 +138,8 @@ Category: story<br><br>
 
 Description:<br>
 >This is a mission available from the planet Clark that takes you an a short adventure with the dragons of Skymoot.
- 
+
+
 Status: Allready ingame<br><br> 
 ___ 
 
@@ -139,7 +150,8 @@ Category: story<br><br>
 
 Description:<br>
 >Romance Plugin for Endless sky as requested by more people then i would like to admit (WIP)
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -150,7 +162,8 @@ Category: story<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -161,7 +174,8 @@ Category: story<br><br>
 
 Description:<br>
 >This plug-in adds additional cargo and passenger (and both at once) missions to the game increasing the scale and scope for a player who wants to focus on running a huge trucker shipping delivery and passenger service.
- 
+
+
 Status: Playable on 0.9.14, 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -172,7 +186,8 @@ Category: story<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -183,7 +198,8 @@ Category: story<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -194,7 +210,8 @@ Category: story<br><br>
 
 Description:<br>
 >Adds a mission that pays you with a kitten.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -205,7 +222,8 @@ Category: story<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -216,7 +234,8 @@ Category: story<br><br>
 
 Description:<br>
 >Starts you on an abandoned alien station, where you are tasked with conquering the galaxy. Adds ships and outfits.
- 
+
+
 Status: Abandoned. An updated version appears to have been made by 1010Todd. AES Fallen<br><br> 
 ___ 
 
@@ -228,7 +247,8 @@ Category: story<br><br>
 Description:<br>
 >A minor side-story taking place mostly in an isolated star system outside of the human space.
 >Main game story must be completed before this plugin's story can fully start.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -239,7 +259,8 @@ Category: story<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -250,7 +271,8 @@ Category: story<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -261,7 +283,8 @@ Category: story<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -272,7 +295,8 @@ Category: story<br><br>
 
 Description:<br>
 >This mod is all about allowing a player to have access to the korath world ship which now is allowed to spawn inside the remnant worlds, all i did was make it is the korath home fleets spawn at half the rate of raids.... my first plugin so don't enjoy
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -283,7 +307,8 @@ Category: story<br><br>
 
 Description:<br>
 >It adds so much new content to the game that it cannot be listed in this README
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -294,7 +319,8 @@ Category: story<br><br>
 
 Description:<br>
 >Add a Search and Rescue mission type, which requires you to board and repair a disabled merchant ship within a limited time.
- 
+
+
 Status: Playable on 0.9.14, 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -305,7 +331,8 @@ Category: story<br><br>
 
 Description:<br>
 >A mission focused plugin for Endless Sky.
- 
+
+
 Status: In development, Playable on 0.9.14, 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -316,7 +343,8 @@ Category: story<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -327,7 +355,8 @@ Category: story<br><br>
 
 Description:<br>
 >Expanded content derived from the creations of other creators of plugins or pull requests.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -340,7 +369,8 @@ Description:<br>
 >A plugin suggesting an epilogue for the Kor Sestor region of Endless Sky.
 >
 >
- 
+
+
 Status: In development, Playable on 0.9.14, 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -351,7 +381,8 @@ Category: story<br><br>
 
 Description:<br>
 >This is a plugin for endless sky that introduces umm... more jobs? and a pirate storyline Enjoy!
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -362,7 +393,8 @@ Category: story<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -373,7 +405,8 @@ Category: story<br><br>
 
 Description:<br>
 >allready ingame
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -384,7 +417,8 @@ Category: story<br><br>
 
 Description:<br>
 >My Navy campaign which I hope to get implemented when finished.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -397,7 +431,8 @@ Description:<br>
 >This Plug-in provides an alternate story plot to the main story plot allowing the player to join The Republic Navy as a conscript instead of joining the free worlds militia.
 >
 >This plug-in uses time based events, if you game date is past: 11 7 3014 the plug-in story plot will never start.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -410,7 +445,8 @@ Description:<br>
 >This plugin adds some news.
 >
 >Most of them show up in Hai space.
- 
+
+
 Status: Playable on 0.9.14, 0.9.15.<br><br> 
 ___ 
 
@@ -421,7 +457,8 @@ Category: story<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -432,7 +469,8 @@ Category: story<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -443,7 +481,8 @@ Category: story<br><br>
 
 Description:<br>
 >This plug-in adds additional paradise world jobs to the game increasing variety.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -454,7 +493,8 @@ Category: story<br><br>
 
 Description:<br>
 >Add a new race with systems scattered in between the existing gaps across human space.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -465,7 +505,8 @@ Category: story<br><br>
 
 Description:<br>
 >This plugin re-activates the portrait system for news in ES. Many of the images for portraits are already in the game, but became unused after portraits for news was disabled by default. However, some portraits had to be added for news items after 0.9.12. Alien portraits (including transhuman portraits) are not considered canon. 
- 
+
+
 Status: made for 0.9.13<br><br> 
 ___ 
 
@@ -476,7 +517,8 @@ Category: story<br><br>
 
 Description:<br>
 >Quarg fight back when farmed.
- 
+
+
 Status: Playable on 0.9.14, 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -487,7 +529,8 @@ Category: story<br><br>
 
 Description:<br>
 >This mod is a compiliation of medical-themed outfits and jobs, allowing the player to turn their ships into ambulances.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -498,7 +541,8 @@ Category: story<br><br>
 
 Description:<br>
 >Adds a new questline that leads to a small sheragi star cluster.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -509,7 +553,8 @@ Category: story<br><br>
 
 Description:<br>
 >Add a few new ships and weapons.
- 
+
+
 Status: Playable on 0.9.14, 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -523,7 +568,8 @@ Description:<br>
 >Version: 0.3
 >
 >
- 
+
+
 Status: Tested on: ES 0.9.16.1 (macOS)<br><br> 
 ___ 
 
@@ -534,7 +580,8 @@ Category: story<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -545,7 +592,8 @@ Category: story<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -556,7 +604,8 @@ Category: story<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -575,7 +624,8 @@ Description:<br>
 >- Plus the main side-plot for part I, and some side jobs
 >
 >I've written the story outline for the rest, up to the end of the civil war, but not written it into the game yet: that's To Be Continued.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -586,7 +636,8 @@ Category: story<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -597,7 +648,8 @@ Category: story<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -610,7 +662,8 @@ Description:<br>
 >Endless Sky: The Legacy takes the player on a chase through the Galaxy, covering
 >multiple races and testing the knowledge of the player on the systems of Endless
 >Sky and the storylines.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -621,7 +674,8 @@ Category: story<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -632,7 +686,8 @@ Category: story<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -643,7 +698,8 @@ Category: story<br><br>
 
 Description:<br>
 >Allow you to tribute (almost) every planet(alien included) and start your own faction.
- 
+
+
 Status: Playable on 0.9.14, 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -654,7 +710,8 @@ Category: story<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -664,7 +721,8 @@ Created by: beccabunny | [https://github.com/beccabunny/Wanderer-Storyline](http
 Category: story<br><br>
 
 Description:<br>
->A continuation to the wanderer storyline, with new ships, outfits and missions! 
+>A continuation to the wanderer storyline, with new ships, outfits and missions!
+
 Status: N/A<br><br> 
 ___ 
 
@@ -682,7 +740,8 @@ Description:<br>
 >  a merchant with a temporarily mislaid ship.
 >
 >For the last two of these, you'll have to complete a simple mission.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -700,7 +759,8 @@ Description:<br>
 >
 >Includes blaster changes to turn them into more of an anti-fighter screen, but I'm only 84% satisfied with that atm.
 >
- 
+
+
 Status: N/A<br><br> 
 ___ 
 

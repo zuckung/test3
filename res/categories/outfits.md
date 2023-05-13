@@ -3,7 +3,7 @@ category header
 
 
 
-<br><br>Categories:<br><br>[Cheats](res/categories/cheats.md) (32)  [Gameplay](res/categories/gameplay.md) (32)  [Graphics](res/categories/graphics.md) (17)  [Outfits](res/categories/outfits.md) (35)<br>[Overhauls](res/categories/overhauls.md) (37)  [Overwrites](res/categories/overwrites.md) (1)  [Patches](res/categories/patches.md) (3)  [Races](res/categories/races.md) (64)<br>[Ships](res/categories/ships.md) (116)  [Story](res/categories/story.md) (60)  [Weapons](res/categories/weapons.md) (40)  [Uncategorized](res/categories/uncategorized.md) (31)<br><br> Plugins in [all categories](README.md): 468<br><br>
+<br><br>Categories:<br><br>[Cheats](cheats.md) (32)  [Gameplay](gameplay.md) (32)  [Graphics](graphics.md) (17)  [Outfits](outfits.md) (35)<br>[Overhauls](overhauls.md) (37)  [Overwrites](overwrites.md) (1)  [Patches](patches.md) (3)  [Races](races.md) (64)<br>[Ships](ships.md) (116)  [Story](story.md) (60)  [Weapons](weapons.md) (40)  [Uncategorized](uncategorized.md) (31)<br><br> Plugins in [all categories](../../README.md): 468<br><br>
  Plugins in category 'Outfits': 35<br><br>
 ##Plugin List 'Outfits':<br><br>### Alternate.Human.Shields
 [Alternate.Human.Shields.zip](https://github.com/zuckung/test3/releases/download/Latest/Alternate.Human.Shields.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Alternate.Human.Shields/) <br>
@@ -12,7 +12,8 @@ Category: outfits<br><br>
 
 Description:<br>
 >Add alternate version of human shield generator with high regen but long delay to outfitters.
- 
+
+
 Status: Playable on 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -23,7 +24,8 @@ Category: outfits<br><br>
 
 Description:<br>
 >This mod reimplements the android but with a few balancing fixes.
- 
+
+
 Status: Playable on 0.9.14, 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -34,7 +36,8 @@ Category: outfits<br><br>
 
 Description:<br>
 >Adds androids and several outfits for charging them.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -45,7 +48,8 @@ Category: outfits<br><br>
 
 Description:<br>
 >A few antique outfits and weapons scattered across human space. Plunder them from pirates and sell them for a lot of money! Or keep them for yourself, to remind yourself that you have antique stuff!
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -56,7 +60,8 @@ Category: outfits<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -67,7 +72,8 @@ Category: outfits<br><br>
 
 Description:<br>
 >Playable on 0.9.14, 0.9.15 Continuous.Adds an outfit whiich turns ships into automata. Requries you to have more than 2 karma with the Republic.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -78,7 +84,8 @@ Category: outfits<br><br>
 
 Description:<br>
 >Add new weapons.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -89,7 +96,8 @@ Category: outfits<br><br>
 
 Description:<br>
 >Adds several new outfits, mostly for boarding.
- 
+
+
 Status: Should work.<br><br> 
 ___ 
 
@@ -100,7 +108,8 @@ Category: outfits<br><br>
 
 Description:<br>
 >Shipping Containers that aren't welded to ships
- 
+
+
 Status: Functional<br><br> 
 ___ 
 
@@ -111,7 +120,8 @@ Category: outfits<br><br>
 
 Description:<br>
 >Several new outfits.
- 
+
+
 Status: Should work<br><br> 
 ___ 
 
@@ -123,7 +133,8 @@ Category: outfits<br><br>
 Description:<br>
 >This plugin add outfits that can produce fighters for you.
 > 
- 
+
+
 Status: 0.9.17/Continuous<br><br> 
 ___ 
 
@@ -136,7 +147,8 @@ Description:<br>
 >This plugin adds a set of Gyroscopes: They can store an amount of energy, and can produce turning force, despite not taking any engine space. But, they are dense, and constantly consume energy.
 >
 >In addition, there are Flywheel Batteries: similar to the gyroscopes, except that they are dedicated batteries with no turn rate; much more powerful than a similarly sized battery, but with the mentioned downsides.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -149,7 +161,8 @@ Description:<br>
 >A plugin that adds a number of hand-to-hand outfits to increase selection and availability.
 >
 >Outfits included are: flack vest, tactical armor, stun grenades, tear gas, bolt action rifle, blaster rifle, assault rifle, sidearm, small armory and large armory.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -160,7 +173,8 @@ Category: outfits<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -171,7 +185,8 @@ Category: outfits<br><br>
 
 Description:<br>
 >Add new unique outfits for each human governments (FW, Navy, Syndicate).
- 
+
+
 Status: Playable on 0.9.15/0.9.16/Continuous.<br><br> 
 ___ 
 
@@ -182,7 +197,8 @@ Category: outfits<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -201,7 +217,8 @@ Description:<br>
 >Basically merges the Good of both Mereti and Sestor Ships into one
 >
 >NOTE: Also makes the Remnant Missions a tad harder if done after the wanderer storyline
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -212,7 +229,8 @@ Category: outfits<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -223,7 +241,8 @@ Category: outfits<br><br>
 
 Description:<br>
 >Random, unbalanced additions and tweaks for Endless Sky.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -234,7 +253,8 @@ Category: outfits<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -245,7 +265,8 @@ Category: outfits<br><br>
 
 Description:<br>
 >This is a small endgame QoL plugin that gives a mission which will unlock Kor Mereti shipyards and outfiters after the point in the story where they become friendly to the player.  The mission can be picked up in the shipyard of Spera Anatrusk.
- 
+
+
 Status: works on 0.10.0<br><br> 
 ___ 
 
@@ -256,7 +277,8 @@ Category: outfits<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -267,7 +289,8 @@ Category: outfits<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -278,7 +301,8 @@ Category: outfits<br><br>
 
 Description:<br>
 >A small plug-in to implement the Pilot's License. All ships that used to not have a license restriction now require a Pilot's License to purchase them.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -289,7 +313,8 @@ Category: outfits<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -300,7 +325,8 @@ Category: outfits<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -311,12 +337,13 @@ Category: outfits<br><br>
 
 Description:<br>
 >This is a plugin/mod designed to provide special items that "cheat" or "hack" in the game, it allows you to modify just about everything on your ship all within game instead of needing to modify your save file.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
 ### snowfeather.robotics
-<img src='Working/All Plugins/snowfeather.robotics/icon.png' width='55'></img><br>
+<img src='Working/All Plugins/snowfeather.robotics/icon.png' width='100'></img><br>
 [snowfeather.robotics.zip](https://github.com/zuckung/test3/releases/download/Latest/snowfeather.robotics.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/snowfeather.robotics/) <br>
 Created by: zuckung | [https://github.com/zuckung/endless-sky-plugins](https://github.com/zuckung/endless-sky-plugins)<br>
 Category: outfits<br><br>
@@ -325,7 +352,8 @@ Description:<br>
 >(story, 1 new outfit)
 >
 >Adds three missions that lead to adding androids to the outfitter on Snowfeather(Hai space).
->Starts on Snowfeather(Bore Fah) after completing mission "remnant: shattered light 4" and have at least one android installed. 
+>Starts on Snowfeather(Bore Fah) after completing mission "remnant: shattered light 4" and have at least one android installed.
+
 Status: made for 0.10.0<br><br> 
 ___ 
 
@@ -336,7 +364,8 @@ Category: outfits<br><br>
 
 Description:<br>
 >TheronEpic's Solar Sails introduces a new type of engine: Solar Sails. They're cheap, have only 25% of their size in mass, produce forward, reverse, and steering thrust, and consume negligable levels of energy.
- 
+
+
 Status: Playable on 0.9.14, 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -347,7 +376,8 @@ Category: outfits<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -358,7 +388,8 @@ Category: outfits<br><br>
 
 Description:<br>
 >Adds mechs and some other customization options.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -369,7 +400,8 @@ Category: outfits<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -380,7 +412,8 @@ Category: outfits<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -391,7 +424,8 @@ Category: outfits<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -402,7 +436,8 @@ Category: outfits<br><br>
 
 Description:<br>
 >Add a Zweihander(sword) as H2H. Yes it's useless.
- 
+
+
 Status: outfit is nowhere for sale<br><br> 
 ___ 
 

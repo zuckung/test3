@@ -3,7 +3,7 @@ category header
 
 
 
-<br><br>Categories:<br><br>[Cheats](res/categories/cheats.md) (32)  [Gameplay](res/categories/gameplay.md) (32)  [Graphics](res/categories/graphics.md) (17)  [Outfits](res/categories/outfits.md) (35)<br>[Overhauls](res/categories/overhauls.md) (37)  [Overwrites](res/categories/overwrites.md) (1)  [Patches](res/categories/patches.md) (3)  [Races](res/categories/races.md) (64)<br>[Ships](res/categories/ships.md) (116)  [Story](res/categories/story.md) (60)  [Weapons](res/categories/weapons.md) (40)  [Uncategorized](res/categories/uncategorized.md) (31)<br><br> Plugins in [all categories](README.md): 468<br><br>
+<br><br>Categories:<br><br>[Cheats](cheats.md) (32)  [Gameplay](gameplay.md) (32)  [Graphics](graphics.md) (17)  [Outfits](outfits.md) (35)<br>[Overhauls](overhauls.md) (37)  [Overwrites](overwrites.md) (1)  [Patches](patches.md) (3)  [Races](races.md) (64)<br>[Ships](ships.md) (116)  [Story](story.md) (60)  [Weapons](weapons.md) (40)  [Uncategorized](uncategorized.md) (31)<br><br> Plugins in [all categories](../../README.md): 468<br><br>
  Plugins in category 'Cheats': 32<br><br>
 ##Plugin List 'Cheats':<br><br>### AES.Omnis
 [AES.Omnis.zip](https://github.com/zuckung/test3/releases/download/Latest/AES.Omnis.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/AES.Omnis/) <br>
@@ -12,7 +12,8 @@ Category: cheats<br><br>
 
 Description:<br>
 >The most extensive all-content plugin to date. It includes many opportunities to test balance or ship builds against AI driven ships or fleets, all vanilla content and the content of many plugins available to use to put together different ship builds. Many more tools are included into Omnis too!
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -23,7 +24,8 @@ Category: cheats<br><br>
 
 Description:<br>
 >This plugin was made to allow content creators to have access to all outfits in a single place, for the purpose of designing and testing outfit loadouts for new ships. Of course, it can also be used by people who want to ruin the game for themselves by getting a massive fleet without needing to work for it.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -34,12 +36,13 @@ Category: cheats<br><br>
 
 Description:<br>
 >This plugin adds two arenas with diffrent combat styles for the player to enjoy in-game and for testing purposes (near Sagittarius A).
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
 ### automata.destruction.0percent
-<img src='Working/All Plugins/automata.destruction.0percent/icon.png' width='55'></img><br>
+<img src='Working/All Plugins/automata.destruction.0percent/icon.png' width='100'></img><br>
 [automata.destruction.0percent.zip](https://github.com/zuckung/test3/releases/download/Latest/automata.destruction.0percent.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/automata.destruction.0percent/) <br>
 Created by:  zuckung | [ https://github.com/zuckung/endless-sky-plugins]( https://github.com/zuckung/endless-sky-plugins)<br>
 Category: cheats<br><br>
@@ -49,12 +52,13 @@ Description:<br>
 >(14 ship attributes changed)
 >
 >Modifies the self destruction chance of Sestor and Mereti ships.
->Sestor 349/109/78/71/53/40/27 and Mereti 512/256/128/64/32/16/8 ships have a self destruction value of 0.0 (0%). 
+>Sestor 349/109/78/71/53/40/27 and Mereti 512/256/128/64/32/16/8 ships have a self destruction value of 0.0 (0%).
+
 Status:  made for 0.10.0<br><br> 
 ___ 
 
 ### automata.destruction.23percent
-<img src='Working/All Plugins/automata.destruction.23percent/icon.png' width='55'></img><br>
+<img src='Working/All Plugins/automata.destruction.23percent/icon.png' width='100'></img><br>
 [automata.destruction.23percent.zip](https://github.com/zuckung/test3/releases/download/Latest/automata.destruction.23percent.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/automata.destruction.23percent/) <br>
 Created by:  zuckung | [ https://github.com/zuckung/endless-sky-plugins]( https://github.com/zuckung/endless-sky-plugins)<br>
 Category: cheats<br><br>
@@ -64,12 +68,13 @@ Description:<br>
 >(14 ship attributes changed)
 >
 >Modifies the self destruction chance of Sestor and Mereti ships.
->Sestor 349/109/78/71/53/40/27 and Mereti 512/256/128/64/32/16/8 ships have a self destruction value of 0.12 (23%). 
+>Sestor 349/109/78/71/53/40/27 and Mereti 512/256/128/64/32/16/8 ships have a self destruction value of 0.12 (23%).
+
 Status:  made for 0.10.0<br><br> 
 ___ 
 
 ### automata.destruction.51percent
-<img src='Working/All Plugins/automata.destruction.51percent/icon.png' width='55'></img><br>
+<img src='Working/All Plugins/automata.destruction.51percent/icon.png' width='100'></img><br>
 [automata.destruction.51percent.zip](https://github.com/zuckung/test3/releases/download/Latest/automata.destruction.51percent.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/automata.destruction.51percent/) <br>
 Created by:  zuckung | [ https://github.com/zuckung/endless-sky-plugins]( https://github.com/zuckung/endless-sky-plugins)<br>
 Category: cheats<br><br>
@@ -79,12 +84,13 @@ Description:<br>
 >(14 ship attributes changed)
 >
 >Modifies the self destruction chance of Sestor and Mereti ships.
->Sestor 349/109/78/71/53/40/27 and Mereti 512/256/128/64/32/16/8 ships have a self destruction value of 0.3 (51%). 
+>Sestor 349/109/78/71/53/40/27 and Mereti 512/256/128/64/32/16/8 ships have a self destruction value of 0.3 (51%).
+
 Status:  made for 0.10.0<br><br> 
 ___ 
 
 ### automata.destruction.75percent
-<img src='Working/All Plugins/automata.destruction.75percent/icon.png' width='55'></img><br>
+<img src='Working/All Plugins/automata.destruction.75percent/icon.png' width='100'></img><br>
 [automata.destruction.75percent.zip](https://github.com/zuckung/test3/releases/download/Latest/automata.destruction.75percent.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/automata.destruction.75percent/) <br>
 Created by:  zuckung | [ https://github.com/zuckung/endless-sky-plugins]( https://github.com/zuckung/endless-sky-plugins)<br>
 Category: cheats<br><br>
@@ -94,7 +100,8 @@ Description:<br>
 >(14 ship attributes changed)
 >
 >Modifies the self destruction chance of Sestor and Mereti ships.
->Sestor 349/109/78/71/53/40/27 and Mereti 512/256/128/64/32/16/8 ships have a self destruction value of 0.5 (75%). 
+>Sestor 349/109/78/71/53/40/27 and Mereti 512/256/128/64/32/16/8 ships have a self destruction value of 0.5 (75%).
+
 Status:  made for 0.10.0<br><br> 
 ___ 
 
@@ -105,7 +112,8 @@ Category: cheats<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -119,7 +127,8 @@ Description:<br>
 >Ships are heavier making navigation and combat slower
 >Higher range for some cannons to compensate ship speed
 >Less, slower and weaker asteroids to increase clarity, FPS and easier mining
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -130,7 +139,8 @@ Category: cheats<br><br>
 
 Description:<br>
 >Unlocks checkmate stuff without having to do FWs
- 
+
+
 Status: Playable on 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -141,7 +151,8 @@ Category: cheats<br><br>
 
 Description:<br>
 >An all-content plugin for Endless-Sky. Made to assist with content creation, or for general use.
- 
+
+
 Status: Playable on 0.9.14<br><br> 
 ___ 
 
@@ -152,7 +163,8 @@ Category: cheats<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -163,7 +175,8 @@ Category: cheats<br><br>
 
 Description:<br>
 >Lets the player swap excess weapon and engine space for outfit space also alows the spending of outfit space to have more weapon and engine space.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -174,7 +187,8 @@ Category: cheats<br><br>
 
 Description:<br>
 >A post-Emerald Sword mission chain that allows Kraz to manufacture a replacement Dragonflame Cannon.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -185,7 +199,8 @@ Category: cheats<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -197,7 +212,8 @@ Category: cheats<br><br>
 Description:<br>
 >Makes fighting the Kor Mereti and Sestor a little bit easier.
 >Also give bunks to the automatons so they will be viable flagships.
- 
+
+
 Status: Should work<br><br> 
 ___ 
 
@@ -208,7 +224,8 @@ Category: cheats<br><br>
 
 Description:<br>
 >A generic plugin for testing purposes.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -219,7 +236,8 @@ Category: cheats<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -230,7 +248,8 @@ Category: cheats<br><br>
 
 Description:<br>
 >KorExile outfits to KorEfret outfitter and mission to get Heliarch License and buy their outfits.
- 
+
+
 Status: Playable on 0.9.14, 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -241,7 +260,8 @@ Category: cheats<br><br>
 
 Description:<br>
 >This plugin adds an arena with multiple hard and easy challenges.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -252,7 +272,8 @@ Category: cheats<br><br>
 
 Description:<br>
 >This plugin puts the hull points of all ships in the game at 250% their original values.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -263,7 +284,8 @@ Category: cheats<br><br>
 
 Description:<br>
 >Make Kestrel a much better ship, and increased requirements.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -276,7 +298,8 @@ Description:<br>
 >This mod removes Bactrians and Mules from the shipyard and fleet definitions.
 >NOTE: Overrides fleets and Lionheart shipyards, might cause problem with other plugin.
 >
- 
+
+
 Status: Should be playable on 0.9.14, 0.9.15.<br><br> 
 ___ 
 
@@ -287,7 +310,8 @@ Category: cheats<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -298,7 +322,8 @@ Category: cheats<br><br>
 
 Description:<br>
 >Merchant and Pirate Hawks equiped with Nukes locked in an endless and massive battle in the Holeb system.
- 
+
+
 Status: Should be playable on 0.9.14, 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -309,7 +334,8 @@ Category: cheats<br><br>
 
 Description:<br>
 >This mod is full of overpowered/bloated things like Ships and Outfits. Only used to beat the game but may be fun to pit on other mods with overpowered ships/outfits.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -320,7 +346,8 @@ Category: cheats<br><br>
 
 Description:<br>
 >Small to medium sized mod focused around reverse engineering alien technology and establishing a business empire. 
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -331,7 +358,8 @@ Category: cheats<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -342,7 +370,8 @@ Category: cheats<br><br>
 
 Description:<br>
 >All this little plugin does is make them Korath Automa a little less likely to react like an Electrode and explode in your face when you try to board/capture them.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -353,7 +382,8 @@ Category: cheats<br><br>
 
 Description:<br>
 >N/A
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -364,7 +394,8 @@ Category: cheats<br><br>
 
 Description:<br>
 >Occasionally spawn troll ships in transport.
- 
+
+
 Status: Playable on 0.9.14, 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -376,7 +407,8 @@ Category: cheats<br><br>
 Description:<br>
 >This plugin was made to allow content creators to have access to all outfits in a single place, for the purpose of designing and testing outfit loadouts for new ships. Of course, it can also be used by people who want to ruin the game for themselves by getting a massive fleet without needing to work for it.
 >
- 
+
+
 Status: Playable on 0.9.14, 0.9.15 Continuous.<br><br> 
 ___ 
 
@@ -387,7 +419,8 @@ Category: cheats<br><br>
 
 Description:<br>
 >Post-mainline mission to build a universal outfitter.
- 
+
+
 Status: Playable on 0.10.0<br><br> 
 ___ 
 
@@ -398,7 +431,8 @@ Category: cheats<br><br>
 
 Description:<br>
 >Add highlighting box around mineable asteroids.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
@@ -409,7 +443,8 @@ Category: cheats<br><br>
 
 Description:<br>
 >"This plugin was made to allow content creators to have access to all outfits in a single place, for the purpose of designing and testing outfit loadouts for new ships. Of course, it can also be used by people who want to ruin the game for themselves by getting a massive fleet without needing to work for it."
->World Forge does this as well, but extends this: not only all outfits in one place, but sorted by race additionally, a way to change the swizzle(derived from ProjectRunabout), a easy way to add own outfits and ships into the existing scheme, and  missions to change your reputation with factions!  
+>World Forge does this as well, but extends this: not only all outfits in one place, but sorted by race additionally, a way to change the swizzle(derived from ProjectRunabout), a easy way to add own outfits and ships into the existing scheme, and  missions to change your reputation with factions! 
+
 Status: N/A<br><br> 
 ___ 
 
@@ -425,7 +460,8 @@ Description:<br>
 >ZMobility: Alters the manouverability balance of the game.
 >ZRemnantStart: disabled. Will have a Remnant start once that PR is implemented.
 >ZRemArrival: disabled. Will have a starting point at Ingot in an Osprey with a quantum keystone.
- 
+
+
 Status: N/A<br><br> 
 ___ 
 
