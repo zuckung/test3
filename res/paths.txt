@@ -5,6 +5,7 @@ assetfiles = https://github.com/zuckung/test3/releases/download/Latest/
 pluginurl = https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/
 headerfile = res/header.txt
 headercategory = res/headercategory.txt
+categoryfolder = res/categories/
 picturefile = res/icon.png
 discurl = https://github.com/zuckung/test3/discussions/2
 pluginlistfolder = res/pluginlist/
