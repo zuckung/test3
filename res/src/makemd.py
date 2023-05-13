@@ -60,7 +60,7 @@ for entry in entries:
 		status = status.split("=")[1]
 		status = status.replace("\n", "")
 		description = file2.readlines()
-		rem = description[1].split("=")[1]
+		rem = (description[1].split("="))[1]
 		description[1] = rem
 		#description[1] = (description[])[12] #.replace("description=", "")
 	file2.close 	
