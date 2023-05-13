@@ -35,7 +35,7 @@ jobs:
           git config user.name "zuckung" 
           git config user.email "zuckung@gmx.de"
           git add README.md
-          git commit -m "README.md updated"
+          git commit -m "updated" || true
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
