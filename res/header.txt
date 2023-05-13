@@ -9,6 +9,5 @@ If you want some other design on each plugin entry, the bottom of res/src/makemd
 
 I have some more plans, still testing.
 
-## Plugin List:<br><br>
 
 

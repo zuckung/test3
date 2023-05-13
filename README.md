@@ -9,11 +9,11 @@ If you want some other design on each plugin entry, the bottom of res/src/makemd
 
 I have some more plans, still testing.
 
-## Plugin List:<br><br>
 
 
-### 3ndless.March
-[3ndless.March.zip](https://github.com/zuckung/test3/releases/download/Latest/3ndless.March.zip) | 0.33 kb | last upload: 2023-05-13 | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/3ndless.March/) <br>
+Categories:<br><br>[Cheats](cheats.md) (32)  [Gameplay](gameplay.md) (31)  [Graphics](graphics.md) (17)  [Outfits](outfits.md) (35)<br>[Overhauls](overhauls.md) (36)  [Overwrites](overwrites.md) (1)  [Patches](patches.md) (3)  [Races](races.md) (64)<br>[Ships](ships.md) (114)  [Story](story.md) (60)  [Weapons](weapons.md) (40)  [Uncategorized](uncategorized.md) (35)<br><br> Plugins in all categories : 468<br><br>
+## All Plugins:<br><br>### 3ndless.March
+[3ndless.March.zip](https://github.com/zuckung/test3/releases/download/Latest/3ndless.March.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/3ndless.March/) <br>
 created by: N/A | N/A<br>
 category: overhauls | status: N/A<br>
 
@@ -21,6 +21,5356 @@ description:<br>
 >3ndless March is a plugin that aims to add lots of advanced and dated technology for all factions
 >
 >Demo 1.0 Humans and partially Hai got new outfits. Playtesting purposes and typo hunting version
+ 
+  
+___ 
+
+### 40k.Pack
+[40k.Pack.zip](https://github.com/zuckung/test3/releases/download/Latest/40k.Pack.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/40k.Pack/) <br>
+created by:  1010Todd | [ https//github.com/1010todd/Endless-Sky-40k]( https//github.com/1010todd/Endless-Sky-40k)<br>
+category: overhauls | status: in development and playable 0.9.15 continous<br>
+
+description:<br>
+>Endless Sky 40K plugin adds ships and outfits from Warhammer 40k to Endless Sky!
+>
+>Currently have:
+>-15 Imperial Navy ships + outfits
+>-2 Tau ships + outfits
+ 
+  
+___ 
+
+### 50.cal
+[50.cal.zip](https://github.com/zuckung/test3/releases/download/Latest/50.cal.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/50.cal/) <br>
+created by: 1010Todd | N/A<br>
+category: weapons | status: complete and playable on 0.9.15 continous<br>
+
+description:<br>
+>Adds M2 Browning as ship outfit and H2H, also made Sparrow variant with it, and make npcs use it.
+ 
+  
+___ 
+
+### A.Galaxy.Far.Far.Away
+[A.Galaxy.Far.Far.Away.zip](https://github.com/zuckung/test3/releases/download/Latest/A.Galaxy.Far.Far.Away.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/A.Galaxy.Far.Far.Away/) <br>
+created by: Ember369 | [https//github.com/Ember369/Endless-Sky-A-Galaxy-Far-Far-Away](https//github.com/Ember369/Endless-Sky-A-Galaxy-Far-Far-Away)<br>
+category: overhauls | status: unfinished but playable<br>
+
+description:<br>
+>A mod designed to replicate Star Wars in Endless Sky.
+ 
+  
+___ 
+
+### Adamas.Project
+[Adamas.Project.zip](https://github.com/zuckung/test3/releases/download/Latest/Adamas.Project.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Adamas.Project/) <br>
+created by: toiletthings | [https://github.com/kestrel1110/Adamas-Project](https://github.com/kestrel1110/Adamas-Project)<br>
+category: races | status: N/A<br>
+
+description:<br>
+>The Adamas Project is a medium-sized plugin introducing two alien species and their regions of space, as well as some storyline involving the two.
+ 
+  
+___ 
+
+### additional.command.buttons
+<img src='Working/All Plugins/additional.command.buttons/icon.png' width='55'></img><br>
+[additional.command.buttons.zip](https://github.com/zuckung/test3/releases/download/Latest/additional.command.buttons.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/additional.command.buttons/) <br>
+created by: zuckung | [https://github.com/zuckung/endless-sky-plugins](https://github.com/zuckung/endless-sky-plugins)<br>
+category: graphics | status: made for 0.10.0<br>
+
+description:<br>
+>(interface changed)
+>
+>Made for the mobile version and  
+>adds the following buttons: full stop / board ship / land on planet / fire afterburner / fleet: hold position / fleet: gather around me / view player info
+>adjusts the message box to not overlap
+>(inspired by theweirednut) 
+  
+___ 
+
+### Adjusted.Hyperdrive
+[Adjusted.Hyperdrive.zip](https://github.com/zuckung/test3/releases/download/Latest/Adjusted.Hyperdrive.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Adjusted.Hyperdrive/) <br>
+created by: N/A | N/A<br>
+category: gameplay | status: N/A<br>
+
+description:<br>
+>Increases fuel capacity of many ships and modifies the three drives.
+ 
+  
+___ 
+
+### Advanced.Starts
+[Advanced.Starts.zip](https://github.com/zuckung/test3/releases/download/Latest/Advanced.Starts.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Advanced.Starts/) <br>
+created by: Bereskatuket (Kestrel1110) | [https://github.com/kestrel1110/ES-Advanced-Starts](https://github.com/kestrel1110/ES-Advanced-Starts)<br>
+category: story | status: N/A<br>
+
+description:<br>
+>Adds more starting options.
+ 
+  
+___ 
+
+### AES.Aben
+[AES.Aben.zip](https://github.com/zuckung/test3/releases/download/Latest/AES.Aben.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/AES.Aben/) <br>
+created by: Darcy Manoel | [https://github.com/Darcman99/Adde-Endless-Sky](https://github.com/Darcman99/Adde-Endless-Sky)<br>
+category: races | status: N/A<br>
+
+description:<br>
+>New aliens that are incapable of spaceflight as far as the player is concerned, offers the player multiple missions in aiding the Aben which also benefit the player in turn.
+ 
+  
+___ 
+
+### AES.Fallen
+[AES.Fallen.zip](https://github.com/zuckung/test3/releases/download/Latest/AES.Fallen.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/AES.Fallen/) <br>
+created by: Darcy Manoel | [https://github.com/Darcman99/Adde-Endless-Sky](https://github.com/Darcman99/Adde-Endless-Sky)<br>
+category: races | status: N/A<br>
+
+description:<br>
+>Inspired by an old and unfortunately unfinished fan favourite plugin that offered truly unique content. While this might not mimic the original in design, hopefully it can stoke a similarly unique experience.
+ 
+  
+___ 
+
+### AES.Irm
+[AES.Irm.zip](https://github.com/zuckung/test3/releases/download/Latest/AES.Irm.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/AES.Irm/) <br>
+created by: Darcy Manoel | [https://github.com/Darcman99/Adde-Endless-Sky](https://github.com/Darcman99/Adde-Endless-Sky)<br>
+category: races | status: N/A<br>
+
+description:<br>
+>New aliens to the north of human space that can only be described as technocratic isolationists. They will not begin or turn hostile towards the player under normal circumstances, but you would be one unlucky pilot if you were to find yourself on bad terms with the Irm.
+ 
+  
+___ 
+
+### AES.Korath
+[AES.Korath.zip](https://github.com/zuckung/test3/releases/download/Latest/AES.Korath.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/AES.Korath/) <br>
+created by: Darcy Manoel | [https://github.com/Darcman99/Adde-Endless-Sky](https://github.com/Darcman99/Adde-Endless-Sky)<br>
+category: races | status: N/A<br>
+
+description:<br>
+>A collection of changes and additions to Endless Sky regarding the fallen empire: The Korath.
+ 
+  
+___ 
+
+### AES.Misc
+[AES.Misc.zip](https://github.com/zuckung/test3/releases/download/Latest/AES.Misc.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/AES.Misc/) <br>
+created by: Darcy Manoel | [https://github.com/Darcman99/Adde-Endless-Sky](https://github.com/Darcman99/Adde-Endless-Sky)<br>
+category: races | status: N/A<br>
+
+description:<br>
+>Any Adde content that doesn't fit in another or deserve it's own repository. This includes many new outfits and ships for various aspects of the vanilla game, even new missions here and there.
+>
+ 
+  
+___ 
+
+### AES.Omnis
+[AES.Omnis.zip](https://github.com/zuckung/test3/releases/download/Latest/AES.Omnis.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/AES.Omnis/) <br>
+created by: Darcy Manoel | [https://github.com/Darcman99/Adde-Endless-Sky](https://github.com/Darcman99/Adde-Endless-Sky)<br>
+category: cheats | status: N/A<br>
+
+description:<br>
+>The most extensive all-content plugin to date. It includes many opportunities to test balance or ship builds against AI driven ships or fleets, all vanilla content and the content of many plugins available to use to put together different ship builds. Many more tools are included into Omnis too!
+ 
+  
+___ 
+
+### AES.Quarg
+[AES.Quarg.zip](https://github.com/zuckung/test3/releases/download/Latest/AES.Quarg.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/AES.Quarg/) <br>
+created by: Darcy Manoel | [https://github.com/Darcman99/Adde-Endless-Sky](https://github.com/Darcman99/Adde-Endless-Sky)<br>
+category: races | status: N/A<br>
+
+description:<br>
+>A collection of changes and additions to Endless Sky regarding the advanced alien species: The Quarg. 
+ 
+  
+___ 
+
+### Akasha.Chronicles
+[Akasha.Chronicles.zip](https://github.com/zuckung/test3/releases/download/Latest/Akasha.Chronicles.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Akasha.Chronicles/) <br>
+created by: Gillax / jchamlin | [https://github.com/jchamlin/akasha-chronicles](https://github.com/jchamlin/akasha-chronicles)<br>
+category: races | status: N/A<br>
+
+description:<br>
+>Akasha Chronicles is a progressive storyline giving you access to new technology and ships over time. You can start the storyline in the Kor Efret Space (the nice Koraths) after you finish the Wanderers storyline. 
+>
+ 
+  
+___ 
+
+### Akashic.War
+[Akashic.War.zip](https://github.com/zuckung/test3/releases/download/Latest/Akashic.War.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Akashic.War/) <br>
+created by: Gillax | N/A<br>
+category: races | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Alexandria
+[Alexandria.zip](https://github.com/zuckung/test3/releases/download/Latest/Alexandria.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Alexandria/) <br>
+created by: N/A | N/A<br>
+category: story | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### All.Content.Plugin
+[All.Content.Plugin.zip](https://github.com/zuckung/test3/releases/download/Latest/All.Content.Plugin.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/All.Content.Plugin/) <br>
+created by: Michael Zahniser | [https://github.com/endless-sky/all-content-plugin](https://github.com/endless-sky/all-content-plugin)<br>
+category: cheats | status: N/A<br>
+
+description:<br>
+>This plugin was made to allow content creators to have access to all outfits in a single place, for the purpose of designing and testing outfit loadouts for new ships. Of course, it can also be used by people who want to ruin the game for themselves by getting a massive fleet without needing to work for it.
+ 
+  
+___ 
+
+### Alpha.Wars
+[Alpha.Wars.zip](https://github.com/zuckung/test3/releases/download/Latest/Alpha.Wars.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Alpha.Wars/) <br>
+created by: Makuta-Miras (Storm Crow) and warp-core | [https://github.com/Makuta-Miras/ES-Alpha-Wars](https://github.com/Makuta-Miras/ES-Alpha-Wars)<br>
+category: races | status: abandoned<br>
+
+description:<br>
+>Adds some outfits and ships for a planned Alpha Wars overhaul.
+ 
+  
+___ 
+
+### Alphean.Boolean.s.Expansion
+[Alphean.Boolean.s.Expansion.zip](https://github.com/zuckung/test3/releases/download/Latest/Alphean.Boolean.s.Expansion.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Alphean.Boolean.s.Expansion/) <br>
+created by: Alphean Boolean | [https://github.com/Disiuze/alphean-expansion](https://github.com/Disiuze/alphean-expansion)<br>
+category: overhauls | status: N/A<br>
+
+description:<br>
+>This mod adds more ships, outfits, missions and governments to the game.
+ 
+  
+___ 
+
+### Altera
+[Altera.zip](https://github.com/zuckung/test3/releases/download/Latest/Altera.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Altera/) <br>
+created by: EricD112 | [https://github.com/EricD112/Altera](https://github.com/EricD112/Altera)<br>
+category: overhauls | status: Playable on 0.9.15 Continuous.<br>
+
+description:<br>
+>Adds a new civilization to the Ember Wastes: Alterans.  Alterans, like
+>Heliarchs, are a Tier 2.5 civilization in the Endless Sky universe.  In total,
+>there are about 80 systems related to Alteran territory.
+ 
+  
+___ 
+
+### Alternate.Human.Shields
+[Alternate.Human.Shields.zip](https://github.com/zuckung/test3/releases/download/Latest/Alternate.Human.Shields.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Alternate.Human.Shields/) <br>
+created by: 1010todd | N/A<br>
+category: outfits | status: Playable on 0.9.15 Continuous.<br>
+
+description:<br>
+>Add alternate version of human shield generator with high regen but long delay to outfitters.
+ 
+  
+___ 
+
+### Alternate.Start.Luna
+[Alternate.Start.Luna.zip](https://github.com/zuckung/test3/releases/download/Latest/Alternate.Start.Luna.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Alternate.Start.Luna/) <br>
+created by: N/A | N/A<br>
+category: story | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Amalgamation
+[Amalgamation.zip](https://github.com/zuckung/test3/releases/download/Latest/Amalgamation.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Amalgamation/) <br>
+created by: demolish238 | N/A<br>
+category: N/A | status: N/A<br>
+
+description:<br>
+>A large collection of older plugins that have been edited and modified to work together with the newer versions of Endless Sky and be overall more balanced and lore friendly, along with many unique Amalgamation additions to fill out previous placeholders in these plugins.
+>
+>The plugins included are: Shields Up, Enclave, Quarg Military Retaliation, ZRemnantX's ships, Tribute Plus, Space Conversion, Businessman, Inheritance ships, KorNewShips, Korath Automation Upgrade, Enigma Corps outfits, Cultures of the Southern Arm ships, Flamethrower Turret and The Machines are Taking Over.
+ 
+  
+___ 
+
+### Ambriel
+[Ambriel.zip](https://github.com/zuckung/test3/releases/download/Latest/Ambriel.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Ambriel/) <br>
+created by: N/A | N/A<br>
+category: ships | status: should work<br>
+
+description:<br>
+>Adds a new ship.
+ 
+  
+___ 
+
+### Androids
+[Androids.zip](https://github.com/zuckung/test3/releases/download/Latest/Androids.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Androids/) <br>
+created by: Disiuze | [https://github.com/Disiuze/misc-projects](https://github.com/Disiuze/misc-projects)<br>
+category: outfits | status: Playable on 0.9.14, 0.9.15 Continuous.<br>
+
+description:<br>
+>This mod reimplements the android but with a few balancing fixes.
+ 
+  
+___ 
+
+### Androids.Rebalanced
+[Androids.Rebalanced.zip](https://github.com/zuckung/test3/releases/download/Latest/Androids.Rebalanced.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Androids.Rebalanced/) <br>
+created by: czartrak | [https://github.com/czartrak/Androids-Rebalanced](https://github.com/czartrak/Androids-Rebalanced)<br>
+category: outfits | status: N/A<br>
+
+description:<br>
+>Adds androids and several outfits for charging them.
+ 
+  
+___ 
+
+### Andromeda.Torpedo
+[Andromeda.Torpedo.zip](https://github.com/zuckung/test3/releases/download/Latest/Andromeda.Torpedo.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Andromeda.Torpedo/) <br>
+created by: N/A | N/A<br>
+category: weapons | status: N/A<br>
+
+description:<br>
+>Adds a torpedo and launcher to the game.
+ 
+  
+___ 
+
+### Animated.Ships
+[Animated.Ships.zip](https://github.com/zuckung/test3/releases/download/Latest/Animated.Ships.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Animated.Ships/) <br>
+created by: beccabunny | [https://github.com/beccabunny/Animated-ships](https://github.com/beccabunny/Animated-ships)<br>
+category: graphics | status: N/A<br>
+
+description:<br>
+>Adds animations to many ships.
+ 
+  
+___ 
+
+### Animated.Stars
+[Animated.Stars.zip](https://github.com/zuckung/test3/releases/download/Latest/Animated.Stars.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Animated.Stars/) <br>
+created by: N/A | N/A<br>
+category: graphics | status: N/A<br>
+
+description:<br>
+>Replaces many stars with animated stars.
+ 
+  
+___ 
+
+### Antiquity
+[Antiquity.zip](https://github.com/zuckung/test3/releases/download/Latest/Antiquity.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Antiquity/) <br>
+created by: N/A | N/A<br>
+category: outfits | status: N/A<br>
+
+description:<br>
+>A few antique outfits and weapons scattered across human space. Plunder them from pirates and sell them for a lot of money! Or keep them for yourself, to remind yourself that you have antique stuff!
+ 
+  
+___ 
+
+### Arbiter
+[Arbiter.zip](https://github.com/zuckung/test3/releases/download/Latest/Arbiter.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Arbiter/) <br>
+created by: czartrak | [https://github.com/czartrak/es-arbiter](https://github.com/czartrak/es-arbiter)<br>
+category: races | status: N/A<br>
+
+description:<br>
+>This mod adds another civilization called "Arbiter" into the game. To start the storyline, one has to complete the main story as well as make contact with the Quarg, Wanderers, Hai, Korath, Coalition, and has to be equipped with a jump drive. Then find a system called "Wolf" somewhear around the Free Worlds space. When you get to the Wolf system, the story will be pretty much self-explanatory.
+ 
+  
+___ 
+
+### Archetto
+[Archetto.zip](https://github.com/zuckung/test3/releases/download/Latest/Archetto.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Archetto/) <br>
+created by: Hilokiyz | N/A<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>Adds a ship.
+ 
+  
+___ 
+
+### Arena
+[Arena.zip](https://github.com/zuckung/test3/releases/download/Latest/Arena.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Arena/) <br>
+created by: 10010101001 | [https://github.com/10010101001/Arena](https://github.com/10010101001/Arena)<br>
+category: cheats | status: N/A<br>
+
+description:<br>
+>This plugin adds two arenas with diffrent combat styles for the player to enjoy in-game and for testing purposes (near Sagittarius A).
+ 
+  
+___ 
+
+### Arena.of.the.worthy
+[Arena.of.the.worthy.zip](https://github.com/zuckung/test3/releases/download/Latest/Arena.of.the.worthy.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Arena.of.the.worthy/) <br>
+created by: RisingLeaf | [https://github.com/RisingLeaf/Arena-of-the-Worthy/tree/main](https://github.com/RisingLeaf/Arena-of-the-Worthy/tree/main)<br>
+category: N/A | status: REQUIRES PR #7348. Either wait for it to be merged or use ESLauncher2 to download the PR.<br>
+
+description:<br>
+>This plugin adds a new species, the Impeti. They are even more advanced than the Drak and they found no happiness in scientific progress. Instead they started searching for the most capable person in the galaxy and find out how they achieve happiness. Therefore they started the Arena of the Worthy, where a few individuum of each species battle for honor and very special gifts.
+ 
+  
+___ 
+
+### Arion
+[Arion.zip](https://github.com/zuckung/test3/releases/download/Latest/Arion.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Arion/) <br>
+created by: Spectre907YT | [https://github.com/Spectre907YT/Endless-Sky---Arion](https://github.com/Spectre907YT/Endless-Sky---Arion)<br>
+category: races | status: Should work in Continuous/0.9.15/0.9.16<br>
+
+description:<br>
+>Adds a shipyard and outfitter to Luna which supplies some tier 1-3+ gear.
+ 
+  
+___ 
+
+### Arrival.Distance.Override
+[Arrival.Distance.Override.zip](https://github.com/zuckung/test3/releases/download/Latest/Arrival.Distance.Override.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Arrival.Distance.Override/) <br>
+created by: N/A | N/A<br>
+category: gameplay | status: N/A<br>
+
+description:<br>
+>Add system arrival depending on habitable or belt distance.
+>Can get overridden by other plugins.
+ 
+  
+___ 
+
+### Arrr.Mateys
+[Arrr.Mateys.zip](https://github.com/zuckung/test3/releases/download/Latest/Arrr.Mateys.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Arrr.Mateys/) <br>
+created by: Ryan S. Northrup | [https://bitbucket.org/YellowApple/arrr-mateys/src/master/](https://bitbucket.org/YellowApple/arrr-mateys/src/master/)<br>
+category: story | status: N/A<br>
+
+description:<br>
+>Adds some missions for the pirate worlds.
+ 
+  
+___ 
+
+### Assault.Cruiser
+[Assault.Cruiser.zip](https://github.com/zuckung/test3/releases/download/Latest/Assault.Cruiser.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Assault.Cruiser/) <br>
+created by: N/A | N/A<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>Adds 2 Navy ships.
+ 
+  
+___ 
+
+### Assorted.Outfits
+[Assorted.Outfits.zip](https://github.com/zuckung/test3/releases/download/Latest/Assorted.Outfits.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Assorted.Outfits/) <br>
+created by: N/A | N/A<br>
+category: outfits | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Athmagr.Invasion
+[Athmagr.Invasion.zip](https://github.com/zuckung/test3/releases/download/Latest/Athmagr.Invasion.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Athmagr.Invasion/) <br>
+created by: 1010todd | [https://github.com/1010todd/Athmagr-Invasion](https://github.com/1010todd/Athmagr-Invasion)<br>
+category: races | status: Playable on 0.9.15, 0.9.16, Continuous<br>
+
+description:<br>
+>Add new alien invader to Milky Way. Triggered 3 months after the current end of Wanderer Storyline.
+ 
+  
+___ 
+
+### automata.destruction.0percent
+<img src='Working/All Plugins/automata.destruction.0percent/icon.png' width='55'></img><br>
+[automata.destruction.0percent.zip](https://github.com/zuckung/test3/releases/download/Latest/automata.destruction.0percent.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/automata.destruction.0percent/) <br>
+created by:  zuckung | [ https://github.com/zuckung/endless-sky-plugins]( https://github.com/zuckung/endless-sky-plugins)<br>
+category:  cheats | status:  made for 0.10.0<br>
+
+description:<br>
+>description = 
+>(14 ship attributes changed)
+>
+>Modifies the self destruction chance of Sestor and Mereti ships.
+>Sestor 349/109/78/71/53/40/27 and Mereti 512/256/128/64/32/16/8 ships have a self destruction value of 0.0 (0%). 
+  
+___ 
+
+### automata.destruction.23percent
+<img src='Working/All Plugins/automata.destruction.23percent/icon.png' width='55'></img><br>
+[automata.destruction.23percent.zip](https://github.com/zuckung/test3/releases/download/Latest/automata.destruction.23percent.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/automata.destruction.23percent/) <br>
+created by:  zuckung | [ https://github.com/zuckung/endless-sky-plugins]( https://github.com/zuckung/endless-sky-plugins)<br>
+category:  cheats | status:  made for 0.10.0<br>
+
+description:<br>
+>description = 
+>(14 ship attributes changed)
+>
+>Modifies the self destruction chance of Sestor and Mereti ships.
+>Sestor 349/109/78/71/53/40/27 and Mereti 512/256/128/64/32/16/8 ships have a self destruction value of 0.12 (23%). 
+  
+___ 
+
+### automata.destruction.51percent
+<img src='Working/All Plugins/automata.destruction.51percent/icon.png' width='55'></img><br>
+[automata.destruction.51percent.zip](https://github.com/zuckung/test3/releases/download/Latest/automata.destruction.51percent.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/automata.destruction.51percent/) <br>
+created by:  zuckung | [ https://github.com/zuckung/endless-sky-plugins]( https://github.com/zuckung/endless-sky-plugins)<br>
+category:  cheats | status:  made for 0.10.0<br>
+
+description:<br>
+>description = 
+>(14 ship attributes changed)
+>
+>Modifies the self destruction chance of Sestor and Mereti ships.
+>Sestor 349/109/78/71/53/40/27 and Mereti 512/256/128/64/32/16/8 ships have a self destruction value of 0.3 (51%). 
+  
+___ 
+
+### automata.destruction.75percent
+<img src='Working/All Plugins/automata.destruction.75percent/icon.png' width='55'></img><br>
+[automata.destruction.75percent.zip](https://github.com/zuckung/test3/releases/download/Latest/automata.destruction.75percent.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/automata.destruction.75percent/) <br>
+created by:  zuckung | [ https://github.com/zuckung/endless-sky-plugins]( https://github.com/zuckung/endless-sky-plugins)<br>
+category:  cheats | status:  made for 0.10.0<br>
+
+description:<br>
+>description = 
+>(14 ship attributes changed)
+>
+>Modifies the self destruction chance of Sestor and Mereti ships.
+>Sestor 349/109/78/71/53/40/27 and Mereti 512/256/128/64/32/16/8 ships have a self destruction value of 0.5 (75%). 
+  
+___ 
+
+### automata.in.human.space
+<img src='Working/All Plugins/automata.in.human.space/icon.png' width='55'></img><br>
+[automata.in.human.space.zip](https://github.com/zuckung/test3/releases/download/Latest/automata.in.human.space.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/automata.in.human.space/) <br>
+created by:  zuckung | [ https://github.com/zuckung/endless-sky-plugins]( https://github.com/zuckung/endless-sky-plugins)<br>
+category:  gameplay | status:  made for 0.10.0<br>
+
+description:<br>
+>description = 
+>(14 ship variants, 16 variants in 4 fleets)
+>
+>Brings jump drive equipped automata into human space after the wanderer campaign. 
+>You can find them where Korath ships in human space are usually found(ember waste and eastern syndicate). 
+>The chance to encounter previous Korath ships or automata is like 50/50. 
+  
+___ 
+
+### Automation
+[Automation.zip](https://github.com/zuckung/test3/releases/download/Latest/Automation.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Automation/) <br>
+created by: Disiuze | [https://github.com/Disiuze/misc-projects](https://github.com/Disiuze/misc-projects)<br>
+category: outfits | status: N/A<br>
+
+description:<br>
+>Playable on 0.9.14, 0.9.15 Continuous.Adds an outfit whiich turns ships into automata. Requries you to have more than 2 karma with the Republic.
+ 
+  
+___ 
+
+### Automation.and.Planetside.Storage
+[Automation.and.Planetside.Storage.zip](https://github.com/zuckung/test3/releases/download/Latest/Automation.and.Planetside.Storage.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Automation.and.Planetside.Storage/) <br>
+created by: N/A | N/A<br>
+category: N/A | status: N/A<br>
+
+description:<br>
+>Nonfunctional
+ 
+  
+___ 
+
+### B-25
+[B-25.zip](https://github.com/zuckung/test3/releases/download/Latest/B-25.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/B-25/) <br>
+created by: N/A | N/A<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Bacterian.T2
+[Bacterian.T2.zip](https://github.com/zuckung/test3/releases/download/Latest/Bacterian.T2.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Bacterian.T2/) <br>
+created by: N/A | N/A<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>Adds a new ship.
+ 
+  
+___ 
+
+### Bactrian.Mission
+[Bactrian.Mission.zip](https://github.com/zuckung/test3/releases/download/Latest/Bactrian.Mission.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Bactrian.Mission/) <br>
+created by: N/A | N/A<br>
+category: story | status: N/A<br>
+
+description:<br>
+>This plugin was built to provide some satisfaction to acquiring the mighty Bactrian. Hopefully the short mission sequence will also be enjoyable.
+>There is some non-linearity to the story so depending on your choices two of three large ships (i.e. flagships) can be made available for purchase.
+>Two large ships, one bounty mission and one transport mission were added.
+ 
+  
+___ 
+
+### Bailiff
+[Bailiff.zip](https://github.com/zuckung/test3/releases/download/Latest/Bailiff.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Bailiff/) <br>
+created by: GeoNeil | N/A<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>Adds a ship.
+ 
+  
+___ 
+
+### Ballistic.Mayhem
+[Ballistic.Mayhem.zip](https://github.com/zuckung/test3/releases/download/Latest/Ballistic.Mayhem.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Ballistic.Mayhem/) <br>
+created by: SpiralCat | N/A<br>
+category: weapons | status: Ship and outfits are nowhere for sale.<br>
+
+description:<br>
+>Adds a ship and several outfits.
+ 
+  
+___ 
+
+### Bardagh.s.Ship.Variants
+[Bardagh.s.Ship.Variants.zip](https://github.com/zuckung/test3/releases/download/Latest/Bardagh.s.Ship.Variants.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Bardagh.s.Ship.Variants/) <br>
+created by: Bardagh | [https://github.com/Bardagh/ship-variants/](https://github.com/Bardagh/ship-variants/)<br>
+category: ships | status: Playable on 0.9.14, 0.9.15 Continuous.<br>
+
+description:<br>
+>A plugin which adds variants of human ships to select shipyards. No stat changes, just loadouts. Right now it's mostly bare-bones versions so you don't have to pay for a bunch of outfits you're just going to sell - instead you get a (very) cheap engine & power system, a hyperdrive (or scram drive for the really big ships), & luxury accommodations when they're part of the stock loadout.
+ 
+  
+___ 
+
+### Bare.Ships
+[Bare.Ships.zip](https://github.com/zuckung/test3/releases/download/Latest/Bare.Ships.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Bare.Ships/) <br>
+created by: lifeyouristhis | [https://github.com/lifeyouristhis/bare-ships-plugin](https://github.com/lifeyouristhis/bare-ships-plugin)<br>
+category: gameplay | status: N/A<br>
+
+description:<br>
+>Shipyards now sell bare hulls with no outfits.
+ 
+  
+___ 
+
+### Battle.Carrier
+[Battle.Carrier.zip](https://github.com/zuckung/test3/releases/download/Latest/Battle.Carrier.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Battle.Carrier/) <br>
+created by: N/A | N/A<br>
+category: ships | status: Ships and outfit are nowhere for sale.<br>
+
+description:<br>
+>Adds 2 ships and an outfit.
+ 
+  
+___ 
+
+### Battleship.Test
+[Battleship.Test.zip](https://github.com/zuckung/test3/releases/download/Latest/Battleship.Test.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Battleship.Test/) <br>
+created by: Quarg Block(Brick) | N/A<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>Add post-Kor Sestor Invasion navy ship.
+ 
+  
+___ 
+
+### Beccas.Endless.Expansion
+[Beccas.Endless.Expansion.zip](https://github.com/zuckung/test3/releases/download/Latest/Beccas.Endless.Expansion.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Beccas.Endless.Expansion/) <br>
+created by: Becca Tommaso | [https://github.com/beccabunny/Beccas-Endless-Expansion](https://github.com/beccabunny/Beccas-Endless-Expansion)<br>
+category: overhauls | status: N/A<br>
+
+description:<br>
+>Add several new ships for various vanilla races with very vanilla-looking sprites (Made by same person who remade several vanilla sprites).
+ 
+  
+___ 
+
+### Better.Korath
+[Better.Korath.zip](https://github.com/zuckung/test3/releases/download/Latest/Better.Korath.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Better.Korath/) <br>
+created by: superdragon322 | [https://github.com/superdragon322/Better-Korath-](https://github.com/superdragon322/Better-Korath-)<br>
+category: races | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Better.Thunderhead.Lance
+[Better.Thunderhead.Lance.zip](https://github.com/zuckung/test3/releases/download/Latest/Better.Thunderhead.Lance.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Better.Thunderhead.Lance/) <br>
+created by: BCPowerhouse | N/A<br>
+category: weapons | status: N/A<br>
+
+description:<br>
+>Modifies this outfit.
+ 
+  
+___ 
+
+### Better.Vanilla.Pirates
+[Better.Vanilla.Pirates.zip](https://github.com/zuckung/test3/releases/download/Latest/Better.Vanilla.Pirates.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Better.Vanilla.Pirates/) <br>
+created by: ZBok | [https://github.com/ZBok/BetterVanillaPirates](https://github.com/ZBok/BetterVanillaPirates)<br>
+category: overhauls | status: N/A<br>
+
+description:<br>
+>Enhance/improve/fill gaps in many aspects of pirate combat in Human space, especially in the late-game.
+ 
+  
+___ 
+
+### Better.Vanilla.Weapons
+[Better.Vanilla.Weapons.zip](https://github.com/zuckung/test3/releases/download/Latest/Better.Vanilla.Weapons.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Better.Vanilla.Weapons/) <br>
+created by: ZBok | N/A<br>
+category: outfits | status: N/A<br>
+
+description:<br>
+>Add new weapons.
+ 
+  
+___ 
+
+### Beyond.the.Sky
+[Beyond.the.Sky.zip](https://github.com/zuckung/test3/releases/download/Latest/Beyond.the.Sky.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Beyond.the.Sky/) <br>
+created by: 1010todd | [https://github.com/1010todd/Beyond-the-Sky](https://github.com/1010todd/Beyond-the-Sky)<br>
+category: overhauls | status: Continuous/0.9.15+<br>
+
+description:<br>
+>Additional ships and reaction to being farmed for high tier alien(Pug, Quarg).
+>
+ 
+  
+___ 
+
+### Binary.reOrder
+[Binary.reOrder.zip](https://github.com/zuckung/test3/releases/download/Latest/Binary.reOrder.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Binary.reOrder/) <br>
+created by: Vaelophis Nyx & Kezethun | N/A<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>Add new faction of AI flying sailship-inspired ships.
+ 
+  
+___ 
+
+### Bit.and.Bobs
+[Bit.and.Bobs.zip](https://github.com/zuckung/test3/releases/download/Latest/Bit.and.Bobs.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Bit.and.Bobs/) <br>
+created by: N/A | N/A<br>
+category: cheats | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### BiteOfTheAnt
+[BiteOfTheAnt.zip](https://github.com/zuckung/test3/releases/download/Latest/BiteOfTheAnt.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/BiteOfTheAnt/) <br>
+created by: TayganPhilglas | [https://github.com/TayganPhilglas/EndlessSky-BiteOfTheAnt-Mod](https://github.com/TayganPhilglas/EndlessSky-BiteOfTheAnt-Mod)<br>
+category: races | status: N/A<br>
+
+description:<br>
+>This mod currently assumes that the Player has completed the main plot of the game. In this mod, the Player discovers the first race to actually be younger than Humanity and is tasked with helping them grow up a little bit and in the process learn how to help the Human race grow up more themselves.
+ 
+  
+___ 
+
+### Blended.Ships
+[Blended.Ships.zip](https://github.com/zuckung/test3/releases/download/Latest/Blended.Ships.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Blended.Ships/) <br>
+created by: mOctave | [https://github.com/mOctave/blended-ships](https://github.com/mOctave/blended-ships)<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>Blended Ships is the realistic spliced ship plugin. All these ships have thumbnails, believeable stats, and actual potential uses! There is also a greater variety of civilian ships available, to support various playstyles.
+ 
+  
+___ 
+
+### Boarding.Licenses
+[Boarding.Licenses.zip](https://github.com/zuckung/test3/releases/download/Latest/Boarding.Licenses.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Boarding.Licenses/) <br>
+created by: An-archist | [https://github.com/An-archist/boarding-licenses](https://github.com/An-archist/boarding-licenses)<br>
+category: gameplay | status: N/A<br>
+
+description:<br>
+>Adds licenses that allow the player to capture ships. Currently in alpha The better the license, the more ships you can cap
+ 
+  
+___ 
+
+### Boarding.Missions
+[Boarding.Missions.zip](https://github.com/zuckung/test3/releases/download/Latest/Boarding.Missions.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Boarding.Missions/) <br>
+created by: Timothy Butterworth | [https://github.com/tmbutterworth/boarding-missions](https://github.com/tmbutterworth/boarding-missions)<br>
+category: story | status: N/A<br>
+
+description:<br>
+>This plug-in adds additional boarding missions to the game increasing the chances for a player to receive a payment for assisting a disabled ship.
+ 
+  
+___ 
+
+### Bounty.Hunters
+[Bounty.Hunters.zip](https://github.com/zuckung/test3/releases/download/Latest/Bounty.Hunters.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Bounty.Hunters/) <br>
+created by: WarlordMike | [https://github.com/WarlordMike/es-bounty-hunters](https://github.com/WarlordMike/es-bounty-hunters)<br>
+category: gameplay | status: N/A<br>
+
+description:<br>
+>Adds a storyline where you can become a bounty hunter.
+ 
+  
+___ 
+
+### Burst.Anti-Missile
+[Burst.Anti-Missile.zip](https://github.com/zuckung/test3/releases/download/Latest/Burst.Anti-Missile.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Burst.Anti-Missile/) <br>
+created by: mdsmestad | N/A<br>
+category: weapons | status: N/A<br>
+
+description:<br>
+>Adds 6 new outfits.
+ 
+  
+___ 
+
+### Businessman.Mod
+[Businessman.Mod.zip](https://github.com/zuckung/test3/releases/download/Latest/Businessman.Mod.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Businessman.Mod/) <br>
+created by: Evan | [http://steamcommunity.com/id/01001001011001011/](http://steamcommunity.com/id/01001001011001011/)<br>
+category: gameplay | status: Playable on 0.9.14, 0.9.15 Continuous.<br>
+
+description:<br>
+>Become a ruler of the galaxy through money. Buy trade routes, stocks, set up shops and entertainment centers, buy planets, hire a mercenary army, hunt down people who didn't pay back their loans....and more.. Also includes an optional alternate pirate start, and additons to make piracy much more viable and fun.
+ 
+  
+___ 
+
+### Cannon.Friendly.Weapon.Pack
+[Cannon.Friendly.Weapon.Pack.zip](https://github.com/zuckung/test3/releases/download/Latest/Cannon.Friendly.Weapon.Pack.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Cannon.Friendly.Weapon.Pack/) <br>
+created by: Kyle Willey | N/A<br>
+category: weapons | status: N/A<br>
+
+description:<br>
+>The Cannon Friendly Weapon Pack (pun intended) is a selection of guns and lasers that aims to add more versatility to the range of weapons in Endless Sky. It attempts to blend itself into the canon where possible.
+>
+>The Cannon Friendly Weapon Pack has a number of weapons and weapon additions, such as ammunition storage for most vanilla weapons, all the ammunition-consuming weapons in the CFWP, and more.
+ 
+  
+___ 
+
+### Captain.Last.and.the.Timeship
+[Captain.Last.and.the.Timeship.zip](https://github.com/zuckung/test3/releases/download/Latest/Captain.Last.and.the.Timeship.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Captain.Last.and.the.Timeship/) <br>
+created by: N/A | N/A<br>
+category: story | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Carriers
+[Carriers.zip](https://github.com/zuckung/test3/releases/download/Latest/Carriers.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Carriers/) <br>
+created by: Arkhne | N/A<br>
+category: ships | status: Should work<br>
+
+description:<br>
+>Adds 6 ships.
+ 
+  
+___ 
+
+### Casual.Mod
+[Casual.Mod.zip](https://github.com/zuckung/test3/releases/download/Latest/Casual.Mod.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Casual.Mod/) <br>
+created by: PPhoto  | [https://github.com/pphotography/EndlessSky_CasualMod](https://github.com/pphotography/EndlessSky_CasualMod)<br>
+category: cheats | status: N/A<br>
+
+description:<br>
+>Makes gameplay more casual
+>Ships are heavier making navigation and combat slower
+>Higher range for some cannons to compensate ship speed
+>Less, slower and weaker asteroids to increase clarity, FPS and easier mining
+ 
+  
+___ 
+
+### Checkmatemate
+[Checkmatemate.zip](https://github.com/zuckung/test3/releases/download/Latest/Checkmatemate.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Checkmatemate/) <br>
+created by: Zoura | N/A<br>
+category: cheats | status: Playable on 0.9.15 Continuous.<br>
+
+description:<br>
+>Unlocks checkmate stuff without having to do FWs
+ 
+  
+___ 
+
+### Ciu.Kreo
+[Ciu.Kreo.zip](https://github.com/zuckung/test3/releases/download/Latest/Ciu.Kreo.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Ciu.Kreo/) <br>
+created by: Luna | [https://github.com/RestingImmortal/Ciu-Kreo](https://github.com/RestingImmortal/Ciu-Kreo)<br>
+category: cheats | status: Playable on 0.9.14<br>
+
+description:<br>
+>An all-content plugin for Endless-Sky. Made to assist with content creation, or for general use.
+ 
+  
+___ 
+
+### Civil.War
+[Civil.War.zip](https://github.com/zuckung/test3/releases/download/Latest/Civil.War.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Civil.War/) <br>
+created by: kikotheexile | [https://github.com/kikotheexile/Endless-Sky-Civil-War](https://github.com/kikotheexile/Endless-Sky-Civil-War)<br>
+category: overhauls | status: Total conversion mod, will likely function but is outdated, expect issues.<br>
+
+description:<br>
+>A story-driven variation of the 2015 game Endless Sky, the spiritual successor to Escape Velocity. You can still explore other star systems. Earn money by trading, carrying passengers, or completing missions. Use your earnings to buy a better ship or to upgrade the weapons and engines on your current one. Blow up pirates. But now you can Truly pick a side in the Civil War.
+ 
+  
+___ 
+
+### Cloaking.Device.Unlocked
+[Cloaking.Device.Unlocked.zip](https://github.com/zuckung/test3/releases/download/Latest/Cloaking.Device.Unlocked.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Cloaking.Device.Unlocked/) <br>
+created by: N/A | N/A<br>
+category: cheats | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Coalition-At-War
+[Coalition-At-War.zip](https://github.com/zuckung/test3/releases/download/Latest/Coalition-At-War.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Coalition-At-War/) <br>
+created by: Josh Mudge | [https://github.com/mathwhiz1212/A-Coalition-At-War](https://github.com/mathwhiz1212/A-Coalition-At-War)<br>
+category: story | status: N/A<br>
+
+description:<br>
+>You hear a lot about the conflict between the Coalition and the Quarg, but you never see it.
+>
+>This plugin introduces a storyline that lets you see that conflict and even capture Heliarch ships if you want to farm experience by repairing Heliarch ships.
+ 
+  
+___ 
+
+### Cobbled.Ships
+[Cobbled.Ships.zip](https://github.com/zuckung/test3/releases/download/Latest/Cobbled.Ships.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Cobbled.Ships/) <br>
+created by: Zoura3025 | N/A<br>
+category: ships | status: Playable on 0.9.15 Continuous.<br>
+
+description:<br>
+>Add several new ships.
+ 
+  
+___ 
+
+### Cognitive.Subdivision
+[Cognitive.Subdivision.zip](https://github.com/zuckung/test3/releases/download/Latest/Cognitive.Subdivision.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Cognitive.Subdivision/) <br>
+created by: professorlust | [https://github.com/Variance-Moment/cognitive-subdivision](https://github.com/Variance-Moment/cognitive-subdivision)<br>
+category: story | status: N/A<br>
+
+description:<br>
+>Cognitive Subdivision introduces a new difficult story taking place after the first part of the Wanderer Campaign
+>as well as several new maps, 2 new tier 3 factions with various unique outfits and ships of their own for you to unlock
+>...and some suprises for you to find!
+ 
+  
+___ 
+
+### Colorado
+[Colorado.zip](https://github.com/zuckung/test3/releases/download/Latest/Colorado.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Colorado/) <br>
+created by: Clint Moyer | [https://github.com/clintmoyer/endless-sky-plugins](https://github.com/clintmoyer/endless-sky-plugins)<br>
+category: story | status: N/A<br>
+
+description:<br>
+>Adds a new system and some missions.
+ 
+  
+___ 
+
+### Colorful.Void.Sprites
+[Colorful.Void.Sprites.zip](https://github.com/zuckung/test3/releases/download/Latest/Colorful.Void.Sprites.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Colorful.Void.Sprites/) <br>
+created by: rob59er | [https://github.com/Rob59er/Colorful-Void-Sprites](https://github.com/Rob59er/Colorful-Void-Sprites)<br>
+category: graphics | status: Playable on 0.9.14, 0.9.15 Continuous.<br>
+
+description:<br>
+>Makes Void Sprites colorful.
+ 
+  
+___ 
+
+### Core-Mining-Inc-0.1.7.1
+[Core-Mining-Inc-0.1.7.1.zip](https://github.com/zuckung/test3/releases/download/Latest/Core-Mining-Inc-0.1.7.1.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Core-Mining-Inc-0.1.7.1/) <br>
+created by: DJF113 | [https://github.com/DJF113/Core-Mining-Inc](https://github.com/DJF113/Core-Mining-Inc)<br>
+category: races | status: playable on 0.9.15 Continuous.<br>
+
+description:<br>
+>The Core Mining, Inc. plugin gives you the chance to follow the progress of a small startup mining company. The storyline is designed to fit in with the feel of the vanilla game. The story and plugin itself is not finished yet so you may find bugs, glitches, and other problems.
+ 
+  
+___ 
+
+### Core.Mining.Inc
+[Core.Mining.Inc.zip](https://github.com/zuckung/test3/releases/download/Latest/Core.Mining.Inc.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Core.Mining.Inc/) <br>
+created by: DJF113 | [https://github.com/DJF113/Core-Mining-Inc](https://github.com/DJF113/Core-Mining-Inc)<br>
+category: races | status: playable on 0.9.15 Continuous.<br>
+
+description:<br>
+>The Core Mining, Inc. plugin gives you the chance to follow the progress of a small startup mining company. The storyline is designed to fit in with the feel of the vanilla game. The story and plugin itself is not finished yet so you may find bugs, glitches, and other problems.
+ 
+  
+___ 
+
+### Costly.Drives
+[Costly.Drives.zip](https://github.com/zuckung/test3/releases/download/Latest/Costly.Drives.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Costly.Drives/) <br>
+created by: Anarchist2 | [https://github.com/Anarchist2/costly-drives](https://github.com/Anarchist2/costly-drives)<br>
+category: gameplay | status: N/A<br>
+
+description:<br>
+>This plugin makes drives much more expensive, while making them unplunderable to prevent easy(er) boarding. Additionally, drive sales are much more restricted.
+ 
+  
+___ 
+
+### COTSA
+[COTSA.zip](https://github.com/zuckung/test3/releases/download/Latest/COTSA.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/COTSA/) <br>
+created by: mdsmestad | N/A<br>
+category: races | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Crowded.Sky
+[Crowded.Sky.zip](https://github.com/zuckung/test3/releases/download/Latest/Crowded.Sky.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Crowded.Sky/) <br>
+created by: 1010todd | N/A<br>
+category: gameplay | status: N/A<br>
+
+description:<br>
+>Make npc fleets spawn more often.
+>Note: it's done by overwriting map file, may cause conflict with other plugin that also do that.
+ 
+  
+___ 
+
+### Custom.Outfitting.Chop.Shop
+[Custom.Outfitting.Chop.Shop.zip](https://github.com/zuckung/test3/releases/download/Latest/Custom.Outfitting.Chop.Shop.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Custom.Outfitting.Chop.Shop/) <br>
+created by: Jareth (Dr. Anthrax) | [http://steamcommunity.com/id/DrAnthraxCrux/](http://steamcommunity.com/id/DrAnthraxCrux/)<br>
+category: cheats | status: N/A<br>
+
+description:<br>
+>Lets the player swap excess weapon and engine space for outfit space also alows the spending of outfit space to have more weapon and engine space.
+ 
+  
+___ 
+
+### Czartraks.Ship.Pack
+[Czartraks.Ship.Pack.zip](https://github.com/zuckung/test3/releases/download/Latest/Czartraks.Ship.Pack.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Czartraks.Ship.Pack/) <br>
+created by: Czartrak | [https://github.com/czartrak/Czartraks-Ship-Pack](https://github.com/czartrak/Czartraks-Ship-Pack)<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>This mod adds various new ships to Endless Sky.
+ 
+  
+___ 
+
+### DaBestShipEver
+[DaBestShipEver.zip](https://github.com/zuckung/test3/releases/download/Latest/DaBestShipEver.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/DaBestShipEver/) <br>
+created by: mdsmestad | N/A<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>Add DaBestShipEver.
+ 
+  
+___ 
+
+### Dangerous.Games
+[Dangerous.Games.zip](https://github.com/zuckung/test3/releases/download/Latest/Dangerous.Games.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Dangerous.Games/) <br>
+created by: davidwhitman | [https://github.com/davidwhitman/endless-sky-dangerous-games](https://github.com/davidwhitman/endless-sky-dangerous-games)<br>
+category: story | status: Allready ingame<br>
+
+description:<br>
+>This is a mission available from the planet Clark that takes you an a short adventure with the dragons of Skymoot.
+ 
+  
+___ 
+
+### Dark.Ships
+[Dark.Ships.zip](https://github.com/zuckung/test3/releases/download/Latest/Dark.Ships.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Dark.Ships/) <br>
+created by: N/A | N/A<br>
+category: graphics | status: Should work<br>
+
+description:<br>
+>This plugin contains ships rendered with a sharper illumination angle to get more dramatic shadows and less "flat" appearances.
+ 
+  
+___ 
+
+### Death.Pancake.v1.0.0
+[Death.Pancake.v1.0.0.zip](https://github.com/zuckung/test3/releases/download/Latest/Death.Pancake.v1.0.0.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Death.Pancake.v1.0.0/) <br>
+created by: N/A | N/A<br>
+category: ships | status: Should work<br>
+
+description:<br>
+>Adds a ship.
+ 
+  
+___ 
+
+### Defense.Drone.Plugin
+[Defense.Drone.Plugin.zip](https://github.com/zuckung/test3/releases/download/Latest/Defense.Drone.Plugin.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Defense.Drone.Plugin/) <br>
+created by: starmlerp | [https://github.com/starmlerp/ESDefenseDronePlugin](https://github.com/starmlerp/ESDefenseDronePlugin)<br>
+category: ships | status: Playable on 0.9.14, 0.9.15 Continuous.<br>
+
+description:<br>
+>This plugin adds a few human drones, intended to be added into vanilla game.
+ 
+  
+___ 
+
+### Derogam
+[Derogam.zip](https://github.com/zuckung/test3/releases/download/Latest/Derogam.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Derogam/) <br>
+created by: Lorantine | [https://github.com/Lorantine/derogam](https://github.com/Lorantine/derogam)<br>
+category: ships | status: Functional<br>
+
+description:<br>
+>A big WIP project of dragon aliens.
+ 
+  
+___ 
+
+### Derp.Ship
+[Derp.Ship.zip](https://github.com/zuckung/test3/releases/download/Latest/Derp.Ship.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Derp.Ship/) <br>
+created by: N/A | N/A<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Destination.Sol
+[Destination.Sol.zip](https://github.com/zuckung/test3/releases/download/Latest/Destination.Sol.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Destination.Sol/) <br>
+created by: N/A | N/A<br>
+category: races | status: N/A<br>
+
+description:<br>
+>Various components from the game Destination Sol, including weapons, hulls, and abilities(?).
+ 
+  
+___ 
+
+### Destiny
+[Destiny.zip](https://github.com/zuckung/test3/releases/download/Latest/Destiny.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Destiny/) <br>
+created by: Dantoys | N/A<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>Add Destiny to the Game.
+ 
+  
+___ 
+
+### Difficulties
+[Difficulties.zip](https://github.com/zuckung/test3/releases/download/Latest/Difficulties.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Difficulties/) <br>
+created by: Mielo Symeonidis | N/A<br>
+category: gameplay | status: N/A<br>
+
+description:<br>
+>Adds three diffrent difficulties that take form as the start to a game. Not reccomended for people new to Endless Sky.
+ 
+  
+___ 
+
+### Disable.Pack
+[Disable.Pack.zip](https://github.com/zuckung/test3/releases/download/Latest/Disable.Pack.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Disable.Pack/) <br>
+created by: "That Guy" | N/A<br>
+category: N/A | status: N/A<br>
+
+description:<br>
+>A small plugin which stops ships destroying everything!
+ 
+  
+___ 
+
+### Dr_Z
+[Dr_Z.zip](https://github.com/zuckung/test3/releases/download/Latest/Dr_Z.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Dr_Z/) <br>
+created by: Dr. Z | N/A<br>
+category: outfits | status: Should work.<br>
+
+description:<br>
+>Adds several new outfits, mostly for boarding.
+ 
+  
+___ 
+
+### Dragonflame.Fabrication
+[Dragonflame.Fabrication.zip](https://github.com/zuckung/test3/releases/download/Latest/Dragonflame.Fabrication.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Dragonflame.Fabrication/) <br>
+created by: Lake (Galaucus) | [https://github.com/Galaucus/Dragonflame-Fabrication](https://github.com/Galaucus/Dragonflame-Fabrication)<br>
+category: cheats | status: N/A<br>
+
+description:<br>
+>A post-Emerald Sword mission chain that allows Kraz to manufacture a replacement Dragonflame Cannon.
+ 
+  
+___ 
+
+### Dragoon
+[Dragoon.zip](https://github.com/zuckung/test3/releases/download/Latest/Dragoon.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Dragoon/) <br>
+created by: mdsmestad | N/A<br>
+category: ships | status: Should work.<br>
+
+description:<br>
+>Adds a ship.
+ 
+  
+___ 
+
+### Dragoon.Industries
+[Dragoon.Industries.zip](https://github.com/zuckung/test3/releases/download/Latest/Dragoon.Industries.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Dragoon.Industries/) <br>
+created by: Hayden Plishka | N/A<br>
+category: ships | status: Should work<br>
+
+description:<br>
+>Adds several ships and outfits.
+ 
+  
+___ 
+
+### Drop.Loot
+[Drop.Loot.zip](https://github.com/zuckung/test3/releases/download/Latest/Drop.Loot.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Drop.Loot/) <br>
+created by: 1010todd | N/A<br>
+category: gameplay | status: N/A<br>
+
+description:<br>
+>Every outfit now have chance to be dropped as flotsam when the ship explodes.
+ 
+  
+___ 
+
+### Dual.Blaster
+[Dual.Blaster.zip](https://github.com/zuckung/test3/releases/download/Latest/Dual.Blaster.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Dual.Blaster/) <br>
+created by: Nathan | N/A<br>
+category: weapons | status: Should work<br>
+
+description:<br>
+>Adds a weapon.
+ 
+  
+___ 
+
+### easier.harvesting
+[easier.harvesting.zip](https://github.com/zuckung/test3/releases/download/Latest/easier.harvesting.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/easier.harvesting/) <br>
+created by: Endros Gunderberg | N/A<br>
+category: cheats | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Easier.Korath.Automatons
+[Easier.Korath.Automatons.zip](https://github.com/zuckung/test3/releases/download/Latest/Easier.Korath.Automatons.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Easier.Korath.Automatons/) <br>
+created by: Bereskatuket (Kestrel1110) | [https://github.com/kestrel1110/Easier-Korath-Automatons](https://github.com/kestrel1110/Easier-Korath-Automatons)<br>
+category: cheats | status: Should work<br>
+
+description:<br>
+>Makes fighting the Kor Mereti and Sestor a little bit easier.
+>Also give bunks to the automatons so they will be viable flagships.
+ 
+  
+___ 
+
+### Edge.of.Endless
+[Edge.of.Endless.zip](https://github.com/zuckung/test3/releases/download/Latest/Edge.of.Endless.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Edge.of.Endless/) <br>
+created by: Zach Farmer | N/A<br>
+category: overhauls | status: Abandoned, Should be playable on 0.9.14, 0.9.15 Continuous.<br>
+
+description:<br>
+>Large plugin that adds a bunch of stuffs to the galaxy. And lots of big ships.
+ 
+  
+___ 
+
+### Eireen
+[Eireen.zip](https://github.com/zuckung/test3/releases/download/Latest/Eireen.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Eireen/) <br>
+created by: Endros Gunderberg | N/A<br>
+category: races | status: N/A<br>
+
+description:<br>
+>In this plugin, you establish some relation to Eireen, one of the chief engineers for cargo affairs at Southbound Shipyards on Zug.
+>You need to meet a certain minimum fleet / game progress to meet her (as of now: either 1200 cargo space, or 50M networth, or a third (lower) condition).
+>But your first contact - which is so far the main conversation of this plugin (more to follow) - heavily depends on or progress in the games campaigns.
+ 
+  
+___ 
+
+### Elite.Sky
+[Elite.Sky.zip](https://github.com/zuckung/test3/releases/download/Latest/Elite.Sky.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Elite.Sky/) <br>
+created by: N/A | N/A<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>Add ships from Elite Dangerous.
+ 
+  
+___ 
+
+### Elystian.Plugin
+[Elystian.Plugin.zip](https://github.com/zuckung/test3/releases/download/Latest/Elystian.Plugin.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Elystian.Plugin/) <br>
+created by: Ferociousfeind | N/A<br>
+category: races | status: Playable on 0.9.14, 0.9.15 Continuous.<br>
+
+description:<br>
+>This Mod is for adding the Elystian goverment, a friendly government that convert Korath Automata ships to fight their former factions, west of Kor Sestor space.
+ 
+  
+___ 
+
+### Ema.Skylark
+[Ema.Skylark.zip](https://github.com/zuckung/test3/releases/download/Latest/Ema.Skylark.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Ema.Skylark/) <br>
+created by: rymeilema | [https://github.com/rymeilema/rymeilema-skylark](https://github.com/rymeilema/rymeilema-skylark)<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>this plugin adds an upgraded skylark purchasable in tarazed, with a special animation.
+ 
+  
+___ 
+
+### EMP.Weapons
+[EMP.Weapons.zip](https://github.com/zuckung/test3/releases/download/Latest/EMP.Weapons.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/EMP.Weapons/) <br>
+created by: N/A | N/A<br>
+category: weapons | status: Ship and outfits are nowhere for sale.<br>
+
+description:<br>
+>Adds some outfits and a ship.
+ 
+  
+___ 
+
+### Endless-Endless-Sky
+[Endless-Endless-Sky.zip](https://github.com/zuckung/test3/releases/download/Latest/Endless-Endless-Sky.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Endless-Endless-Sky/) <br>
+created by: 1010Todd | [https://github.com/1010todd/Endless-Endless-Sky](https://github.com/1010todd/Endless-Endless-Sky)<br>
+category: overhauls | status: Playable on 0.9.15/0.9.16/Continuous.<br>
+
+description:<br>
+>Python scripts to generate new procedurally generated galaxy. Comes with pre-generated data for instant playing.
+ 
+  
+___ 
+
+### Endless-Sky-Ship
+[Endless-Sky-Ship.zip](https://github.com/zuckung/test3/releases/download/Latest/Endless-Sky-Ship.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Endless-Sky-Ship/) <br>
+created by: The-Borg-Captain | [https://github.com/The-Borg-Captain/Endless-Sky-Ship](https://github.com/The-Borg-Captain/Endless-Sky-Ship)<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>Adds an overpowered ship.
+ 
+  
+___ 
+
+### Endless.Addon
+[Endless.Addon.zip](https://github.com/zuckung/test3/releases/download/Latest/Endless.Addon.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Endless.Addon/) <br>
+created by: IModThings | [https://github.com/IModThings/I_M_T-Endless-Sky-Mods](https://github.com/IModThings/I_M_T-Endless-Sky-Mods)<br>
+category: N/A | status: N/A<br>
+
+description:<br>
+>Includes the ships, missions, and outfits I have or will create. Features unique and original endless sky ideas and original assets created by me.
+ 
+  
+___ 
+
+### Endless.Cargo
+[Endless.Cargo.zip](https://github.com/zuckung/test3/releases/download/Latest/Endless.Cargo.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Endless.Cargo/) <br>
+created by: Ryan S. Northrup | [https://bitbucket.org/YellowApple/endless-cargo/downloads/](https://bitbucket.org/YellowApple/endless-cargo/downloads/)<br>
+category: outfits | status: Functional<br>
+
+description:<br>
+>Shipping Containers that aren't welded to ships
+ 
+  
+___ 
+
+### Endless.Depth.Mod
+[Endless.Depth.Mod.zip](https://github.com/zuckung/test3/releases/download/Latest/Endless.Depth.Mod.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Endless.Depth.Mod/) <br>
+created by: Kryes Omega | N/A<br>
+category: races | status: N/A<br>
+
+description:<br>
+>Endless Depth is a assortion of my random ideas that I thought might give the game a bit more depth. Hence the name. Rather than focusing on outfits, ships, and other things to blow up, I'm trying to get a little more creative, with things such as planetary flight areas, pirate gangs, and a few other small details I added.
+ 
+  
+___ 
+
+### Endless.Fortress.2
+[Endless.Fortress.2.zip](https://github.com/zuckung/test3/releases/download/Latest/Endless.Fortress.2.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Endless.Fortress.2/) <br>
+created by: N/A | N/A<br>
+category: races | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Endless.Gauntlet
+[Endless.Gauntlet.zip](https://github.com/zuckung/test3/releases/download/Latest/Endless.Gauntlet.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Endless.Gauntlet/) <br>
+created by: comnom(maintained by samrocketman) | [https://github.com/EndlessSkyPlugins/Endless-Gauntlet](https://github.com/EndlessSkyPlugins/Endless-Gauntlet)<br>
+category: N/A | status: Playable on 0.9.14, 0.9.15 Continuous.<br>
+
+description:<br>
+>This plugin generates an arcade-style gauntlet wherein you take a mission, jump through a wormhole, and face a series of randomly generated fleets. Intended for end-game players who are comfortable running a python script.
+ 
+  
+___ 
+
+### Endless.Horizon
+[Endless.Horizon.zip](https://github.com/zuckung/test3/releases/download/Latest/Endless.Horizon.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Endless.Horizon/) <br>
+created by: CTheta | [https://www.moddb.com/games/endless-sky-endless-horizon](https://www.moddb.com/games/endless-sky-endless-horizon)<br>
+category: races | status: Abandoned<br>
+
+description:<br>
+>Star Trek overhaul mod adding 10 ships and a number of outfits.
+ 
+  
+___ 
+
+### Endless.Romances
+[Endless.Romances.zip](https://github.com/zuckung/test3/releases/download/Latest/Endless.Romances.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Endless.Romances/) <br>
+created by: N/A | N/A<br>
+category: story | status: N/A<br>
+
+description:<br>
+>Romance Plugin for Endless sky as requested by more people then i would like to admit (WIP)
+ 
+  
+___ 
+
+### Endless.Sky.except.everything.makes.that.werid.Tim.Allen.noise
+[Endless.Sky.except.everything.makes.that.werid.Tim.Allen.noise.zip](https://github.com/zuckung/test3/releases/download/Latest/Endless.Sky.except.everything.makes.that.werid.Tim.Allen.noise.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Endless.Sky.except.everything.makes.that.werid.Tim.Allen.noise/) <br>
+created by: N/A | N/A<br>
+category: N/A | status: Should work<br>
+
+description:<br>
+>Replaces sounds.
+ 
+  
+___ 
+
+### Endless.Sky.except.ships.make.that.weird.Tim.Allen.sound.when.they.die
+[Endless.Sky.except.ships.make.that.weird.Tim.Allen.sound.when.they.die.zip](https://github.com/zuckung/test3/releases/download/Latest/Endless.Sky.except.ships.make.that.weird.Tim.Allen.sound.when.they.die.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Endless.Sky.except.ships.make.that.weird.Tim.Allen.sound.when.they.die/) <br>
+created by: N/A | N/A<br>
+category: N/A | status: Should work<br>
+
+description:<br>
+>Replaces sounds.
+ 
+  
+___ 
+
+### Endros.human.basic.ships
+[Endros.human.basic.ships.zip](https://github.com/zuckung/test3/releases/download/Latest/Endros.human.basic.ships.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Endros.human.basic.ships/) <br>
+created by: Endros Gunderberg  | N/A<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>adds:
+>- Hauler Zero Light Warship to the Southbound Shipyards. Simply a Hauler with zero cargo pods.
+>- A ct-75 (large) Star Barge.
+>It does not modify the fleet definitions though, because they are generally subject to change with every new ship and thus any fleet definition in this plugin might become outdated pretty soon.
+ 
+  
+___ 
+
+### Enigma.Corp
+[Enigma.Corp.zip](https://github.com/zuckung/test3/releases/download/Latest/Enigma.Corp.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Enigma.Corp/) <br>
+created by: Amazinite | [https://github.com/amazinite/enigma-corp](https://github.com/amazinite/enigma-corp)<br>
+category: N/A | status: N/A<br>
+
+description:<br>
+>The high DPI plugin for the Enigma Corp mod. High DPI images are only used if your zoom level is above 100% to increase graphical resolution.
+ 
+  
+___ 
+
+### Enigma.Corp.Legacy
+[Enigma.Corp.Legacy.zip](https://github.com/zuckung/test3/releases/download/Latest/Enigma.Corp.Legacy.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Enigma.Corp.Legacy/) <br>
+created by: Amazinite | [https://github.com/Amazinite/Enigma-Corp-Legacy](https://github.com/Amazinite/Enigma-Corp-Legacy)<br>
+category: overhauls | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Enki-Station
+[Enki-Station.zip](https://github.com/zuckung/test3/releases/download/Latest/Enki-Station.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Enki-Station/) <br>
+created by: Nergal8617 | [https://github.com/Nergal8617/Enki-Station](https://github.com/Nergal8617/Enki-Station)<br>
+category: story | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Epic.Outfits
+[Epic.Outfits.zip](https://github.com/zuckung/test3/releases/download/Latest/Epic.Outfits.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Epic.Outfits/) <br>
+created by: TheronEpic | N/A<br>
+category: outfits | status: Should work<br>
+
+description:<br>
+>Several new outfits.
+ 
+  
+___ 
+
+### Epic.Trucker
+[Epic.Trucker.zip](https://github.com/zuckung/test3/releases/download/Latest/Epic.Trucker.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Epic.Trucker/) <br>
+created by: KelvallRogers | [https://github.com/kelvallrogers/epic-trucker](https://github.com/kelvallrogers/epic-trucker)<br>
+category: story | status: Playable on 0.9.14, 0.9.15 Continuous.<br>
+
+description:<br>
+>This plug-in adds additional cargo and passenger (and both at once) missions to the game increasing the scale and scope for a player who wants to focus on running a huge trucker shipping delivery and passenger service.
+ 
+  
+___ 
+
+### Ertluk
+[Ertluk.zip](https://github.com/zuckung/test3/releases/download/Latest/Ertluk.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Ertluk/) <br>
+created by: ZBok | N/A<br>
+category: races | status: N/A<br>
+
+description:<br>
+>Add a race.
+ 
+  
+___ 
+
+### ES.Dawn
+[ES.Dawn.zip](https://github.com/zuckung/test3/releases/download/Latest/ES.Dawn.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/ES.Dawn/) <br>
+created by: mOctave | [https://github.com/mOctave/es-dawn/](https://github.com/mOctave/es-dawn/)<br>
+category: story | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### ES.Ships
+[ES.Ships.zip](https://github.com/zuckung/test3/releases/download/Latest/ES.Ships.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/ES.Ships/) <br>
+created by: Yann | N/A<br>
+category: graphics | status: Playable on 0.9.15 Continuous.<br>
+
+description:<br>
+>Sprites with modified cockpit/bridge.
+ 
+  
+___ 
+
+### Eternals
+[Eternals.zip](https://github.com/zuckung/test3/releases/download/Latest/Eternals.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Eternals/) <br>
+created by: comnom | [https://github.com/comnom/Eternals](https://github.com/comnom/Eternals)<br>
+category: races | status: N/A<br>
+
+description:<br>
+>Add a race.
+ 
+  
+___ 
+
+### Evasion.Bomb
+[Evasion.Bomb.zip](https://github.com/zuckung/test3/releases/download/Latest/Evasion.Bomb.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Evasion.Bomb/) <br>
+created by: Vilhelm | N/A<br>
+category: weapons | status: Outfits are nowhere for sale.<br>
+
+description:<br>
+>Adds 2 outfits.
+ 
+  
+___ 
+
+### Everything-n-More
+[Everything-n-More.zip](https://github.com/zuckung/test3/releases/download/Latest/Everything-n-More.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Everything-n-More/) <br>
+created by: Please-Close-This-Issue | [https://github.com/Please-Close-This-Issue/everything-n-more-mod-](https://github.com/Please-Close-This-Issue/everything-n-more-mod-)<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Exotic.Matter
+[Exotic.Matter.zip](https://github.com/zuckung/test3/releases/download/Latest/Exotic.Matter.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Exotic.Matter/) <br>
+created by: CristopherZhong | [https://github.com/ChristopherZhong/endless-sky-exotic-matter-plugin](https://github.com/ChristopherZhong/endless-sky-exotic-matter-plugin)<br>
+category: races | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Expanded.Territory
+[Expanded.Territory.zip](https://github.com/zuckung/test3/releases/download/Latest/Expanded.Territory.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Expanded.Territory/) <br>
+created by: virmitio | [https://github.com/virmitio/ES_ExpandedTerritory](https://github.com/virmitio/ES_ExpandedTerritory)<br>
+category: N/A | status: N/A<br>
+
+description:<br>
+>This is a plugin for Endless Sky which adds a significant large area to fly around and explore. At this time there isn't much to see or do beyond just flying around the pair of newly accessable galaxies (which are not yet fully mapped out or populated).
+ 
+  
+___ 
+
+### Experimental
+[Experimental.zip](https://github.com/zuckung/test3/releases/download/Latest/Experimental.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Experimental/) <br>
+created by: N/A | N/A<br>
+category: N/A | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Exporianes
+[Exporianes.zip](https://github.com/zuckung/test3/releases/download/Latest/Exporianes.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Exporianes/) <br>
+created by: Bereskatuket(Kestrel1110) | [https://github.com/kestrel1110/Exporianes](https://github.com/kestrel1110/Exporianes)<br>
+category: races | status: In development, Playable on 0.9.15 Continuous.<br>
+
+description:<br>
+>Adds a new race of T5 aliens to the Milky-Way galaxy. They can be reached after completing the Emerald Sword missions and having a combat rating of 13.
+ 
+  
+___ 
+
+### Extra.Large.Jobs
+[Extra.Large.Jobs.zip](https://github.com/zuckung/test3/releases/download/Latest/Extra.Large.Jobs.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Extra.Large.Jobs/) <br>
+created by: 1010todd | N/A<br>
+category: gameplay | status: Playable on 0.9.15 Continuous.<br>
+
+description:<br>
+>Add various large to extremely large jobs to fill up the space when for extra large ships.
+>
+>
+ 
+  
+___ 
+
+### Extra.Missiles.Outfit
+[Extra.Missiles.Outfit.zip](https://github.com/zuckung/test3/releases/download/Latest/Extra.Missiles.Outfit.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Extra.Missiles.Outfit/) <br>
+created by: N/A | N/A<br>
+category: weapons | status: Should work<br>
+
+description:<br>
+>Adds some missile outfits.
+ 
+  
+___ 
+
+### Fallen
+[Fallen.zip](https://github.com/zuckung/test3/releases/download/Latest/Fallen.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Fallen/) <br>
+created by: Michael Feather | N/A<br>
+category: overhauls | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Fancy.Weapons
+[Fancy.Weapons.zip](https://github.com/zuckung/test3/releases/download/Latest/Fancy.Weapons.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Fancy.Weapons/) <br>
+created by: 1010todd | N/A<br>
+category: weapons | status: Requires AES Omnis to access.<br>
+
+description:<br>
+>Add various weapons utilizing complex submunition chain to be used as example. Not intended for normal gameplay. 
+  
+___ 
+
+### Fauxwing
+[Fauxwing.zip](https://github.com/zuckung/test3/releases/download/Latest/Fauxwing.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Fauxwing/) <br>
+created by: N/A | N/A<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Fighter.Factory
+[Fighter.Factory.zip](https://github.com/zuckung/test3/releases/download/Latest/Fighter.Factory.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Fighter.Factory/) <br>
+created by: 1010todd | N/A<br>
+category: outfits | status: 0.9.17/Continuous<br>
+
+description:<br>
+>This plugin add outfits that can produce fighters for you.
+> 
+ 
+  
+___ 
+
+### Flak.Snare
+[Flak.Snare.zip](https://github.com/zuckung/test3/releases/download/Latest/Flak.Snare.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Flak.Snare/) <br>
+created by: tehhowch | [https://github.com/tehhowch/es-modding](https://github.com/tehhowch/es-modding)<br>
+category: weapons | status: N/A<br>
+
+description:<br>
+>Adds some weapon outfits.
+ 
+  
+___ 
+
+### Flak.Weapons
+[Flak.Weapons.zip](https://github.com/zuckung/test3/releases/download/Latest/Flak.Weapons.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Flak.Weapons/) <br>
+created by: tehhowch | [https://github.com/tehhowch/es-modding](https://github.com/tehhowch/es-modding)<br>
+category: weapons | status: N/A<br>
+
+description:<br>
+>Adds some weapon outfits.
+ 
+  
+___ 
+
+### Flamethrower.Turret
+[Flamethrower.Turret.zip](https://github.com/zuckung/test3/releases/download/Latest/Flamethrower.Turret.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Flamethrower.Turret/) <br>
+created by: ItsNickBarry | [https://github.com/ItsNickBarry/endless-sky-flamethrower-turret](https://github.com/ItsNickBarry/endless-sky-flamethrower-turret)<br>
+category: weapons | status: N/A<br>
+
+description:<br>
+>adds a turret variant of the flamethrower.
+ 
+  
+___ 
+
+### Flavour.Text
+[Flavour.Text.zip](https://github.com/zuckung/test3/releases/download/Latest/Flavour.Text.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Flavour.Text/) <br>
+created by: N/A | N/A<br>
+category: story | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Flip.Those.Ships
+[Flip.Those.Ships.zip](https://github.com/zuckung/test3/releases/download/Latest/Flip.Those.Ships.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Flip.Those.Ships/) <br>
+created by: TheronEpic | [https://github.com/TheronEpic/Flip-Those-Ships](https://github.com/TheronEpic/Flip-Those-Ships)<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>Do you dislike the multitude of lawn dart ships? do you like the look of front-heavy ships? Or do you just want something different? Then just flip those ships around! guns on the back, engines on the front, then drive them backwards!
+ 
+  
+___ 
+
+### Flying.Saucer
+[Flying.Saucer.zip](https://github.com/zuckung/test3/releases/download/Latest/Flying.Saucer.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Flying.Saucer/) <br>
+created by: N/A | N/A<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Free.Kitten
+[Free.Kitten.zip](https://github.com/zuckung/test3/releases/download/Latest/Free.Kitten.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Free.Kitten/) <br>
+created by: Epchk | [https://github.com/Epchk/ES-free-kitten](https://github.com/Epchk/ES-free-kitten)<br>
+category: story | status: N/A<br>
+
+description:<br>
+>Adds a mission that pays you with a kitten.
+ 
+  
+___ 
+
+### Free.Worlds.Saga
+[Free.Worlds.Saga.zip](https://github.com/zuckung/test3/releases/download/Latest/Free.Worlds.Saga.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Free.Worlds.Saga/) <br>
+created by: Ian | N/A<br>
+category: story | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### galactic.capital.investment
+<img src='Working/All Plugins/galactic.capital.investment/icon.png' width='55'></img><br>
+[galactic.capital.investment.zip](https://github.com/zuckung/test3/releases/download/Latest/galactic.capital.investment.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/galactic.capital.investment/) <br>
+created by: zuckung | [https://github.com/zuckung/endless-sky-plugins](https://github.com/zuckung/endless-sky-plugins)<br>
+category: gameplay | status: made for 0.10.0<br>
+
+description:<br>
+>(story, repeatable mission)
+>
+>Implements a two mission chain that enables regular spaceport investment opportunities which result in small daily income. Available in human, quarg and hai space with 2 million credits cash.
+>(inspired by a-alhusaini's investment bank plugin) 
+  
+___ 
+
+### Galactic.Conquest
+[Galactic.Conquest.zip](https://github.com/zuckung/test3/releases/download/Latest/Galactic.Conquest.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Galactic.Conquest/) <br>
+created by: SpiralCat | [https://www.moddb.com/mods/galactic-conquest](https://www.moddb.com/mods/galactic-conquest)<br>
+category: story | status: Abandoned. An updated version appears to have been made by 1010Todd. AES Fallen<br>
+
+description:<br>
+>Starts you on an abandoned alien station, where you are tasked with conquering the galaxy. Adds ships and outfits.
+ 
+  
+___ 
+
+### Galactic.Couriers
+[Galactic.Couriers.zip](https://github.com/zuckung/test3/releases/download/Latest/Galactic.Couriers.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Galactic.Couriers/) <br>
+created by: Derekcz | [https://github.com/Derekcz/galactic-couriers](https://github.com/Derekcz/galactic-couriers)<br>
+category: story | status: N/A<br>
+
+description:<br>
+>A minor side-story taking place mostly in an isolated star system outside of the human space.
+>Main game story must be completed before this plugin's story can fully start.
+ 
+  
+___ 
+
+### Galactic.Hazards
+[Galactic.Hazards.zip](https://github.com/zuckung/test3/releases/download/Latest/Galactic.Hazards.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Galactic.Hazards/) <br>
+created by: N/A | N/A<br>
+category: gameplay | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Galactic.Invaders
+[Galactic.Invaders.zip](https://github.com/zuckung/test3/releases/download/Latest/Galactic.Invaders.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Galactic.Invaders/) <br>
+created by: Matthew Murray | N/A<br>
+category: races | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Galactic.War
+[Galactic.War.zip](https://github.com/zuckung/test3/releases/download/Latest/Galactic.War.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Galactic.War/) <br>
+created by: 1010todd | [https://github.com/1010todd/Galactic-War](https://github.com/1010todd/Galactic-War)<br>
+category: overhauls | status: Playable on 0.9.14, 0.9.15 Continuous.<br>
+
+description:<br>
+>This is a massive content mod about a war in another galaxy. While no storyline exist yet there's a large galaxy to explore filled with various aliens with different advancement and specializations.
+ 
+  
+___ 
+
+### Galaxias
+[Galaxias.zip](https://github.com/zuckung/test3/releases/download/Latest/Galaxias.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Galaxias/) <br>
+created by: mdpiper | [https://github.com/mdpiper/galaxias](https://github.com/mdpiper/galaxias)<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>An Endless Sky plugin for the Galaxias fast battlecruiser.
+ 
+  
+___ 
+
+### Gatling.Ammo.Fix
+[Gatling.Ammo.Fix.zip](https://github.com/zuckung/test3/releases/download/Latest/Gatling.Ammo.Fix.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Gatling.Ammo.Fix/) <br>
+created by: Cat-Lady | [https://github.com/Cat-Lady/](https://github.com/Cat-Lady/)<br>
+category: gameplay | status: N/A<br>
+
+description:<br>
+>This plugin fixes availability of Gatling Gun Ammo (and its boxes) - being most primitive and easiest to manufacture type of ordnance, it is now available where you would expect it to be (hint: "galactic south" and multipurpose ammo depots).
+>
+>Recommended to use with Becca's Endless Expansion plugin (which adds Kraz Cybernetic's Accurate Gatling Blaster" variant).
+ 
+  
+___ 
+
+### Generic.Plugin
+[Generic.Plugin.zip](https://github.com/zuckung/test3/releases/download/Latest/Generic.Plugin.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Generic.Plugin/) <br>
+created by: N/A | N/A<br>
+category: cheats | status: N/A<br>
+
+description:<br>
+>A generic plugin for testing purposes.
+ 
+  
+___ 
+
+### Gray.Box
+[Gray.Box.zip](https://github.com/zuckung/test3/releases/download/Latest/Gray.Box.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Gray.Box/) <br>
+created by: N/A | N/A<br>
+category: cheats | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### GreyShipVolume
+[GreyShipVolume.zip](https://github.com/zuckung/test3/releases/download/Latest/GreyShipVolume.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/GreyShipVolume/) <br>
+created by: 1010Todd | N/A<br>
+category: gameplay | status: Playable on 0.9.14, 0.9.15 Continuous.<br>
+
+description:<br>
+>Lots of map to calculate ship volume(outfit/cargo space) and mass.
+>WARNING: single-file race might have unrelated data attached (Pug, Drak, etc.)
+>
+ 
+  
+___ 
+
+### Gulliver
+[Gulliver.zip](https://github.com/zuckung/test3/releases/download/Latest/Gulliver.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Gulliver/) <br>
+created by: Danzig Or War(Test-711) | N/A<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>Add non-spaceflight race and a T2 race. Heavily WIP.
+ 
+  
+___ 
+
+### Gungnir
+[Gungnir.zip](https://github.com/zuckung/test3/releases/download/Latest/Gungnir.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Gungnir/) <br>
+created by: jschiav | [https://github.com/jschiav/Gungnir](https://github.com/jschiav/Gungnir)<br>
+category: weapons | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Gyroscopes
+[Gyroscopes.zip](https://github.com/zuckung/test3/releases/download/Latest/Gyroscopes.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Gyroscopes/) <br>
+created by: TheronEpic | [Playable on 0.9.14, 0.9.15 Continuous.](Playable on 0.9.14, 0.9.15 Continuous.)<br>
+category: outfits | status: N/A<br>
+
+description:<br>
+>This plugin adds a set of Gyroscopes: They can store an amount of energy, and can produce turning force, despite not taking any engine space. But, they are dense, and constantly consume energy.
+>
+>In addition, there are Flywheel Batteries: similar to the gyroscopes, except that they are dedicated batteries with no turn rate; much more powerful than a similarly sized battery, but with the mentioned downsides.
+ 
+  
+___ 
+
+### H2H.Outfits
+[H2H.Outfits.zip](https://github.com/zuckung/test3/releases/download/Latest/H2H.Outfits.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/H2H.Outfits/) <br>
+created by: Timothy Butterworth | [https://github.com/tmbutterworth/hand-to-hand-outfits](https://github.com/tmbutterworth/hand-to-hand-outfits)<br>
+category: outfits | status: N/A<br>
+
+description:<br>
+>A plugin that adds a number of hand-to-hand outfits to increase selection and availability.
+>
+>Outfits included are: flack vest, tactical armor, stun grenades, tear gas, bolt action rifle, blaster rifle, assault rifle, sidearm, small armory and large armory.
+ 
+  
+___ 
+
+### Hai.Engine
+[Hai.Engine.zip](https://github.com/zuckung/test3/releases/download/Latest/Hai.Engine.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Hai.Engine/) <br>
+created by: N/A | N/A<br>
+category: outfits | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Hauler.Expansion
+[Hauler.Expansion.zip](https://github.com/zuckung/test3/releases/download/Latest/Hauler.Expansion.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Hauler.Expansion/) <br>
+created by: N/A | N/A<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>We have small Haulers, big Haulers, medium Haulers, circular Haulers! You name it, we have it!
+>Come on down to Glaze in the Aldhibain system to find our heaping collection of hauling vehicles!
+ 
+  
+___ 
+
+### Heliarch.Avenger
+[Heliarch.Avenger.zip](https://github.com/zuckung/test3/releases/download/Latest/Heliarch.Avenger.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Heliarch.Avenger/) <br>
+created by: Arachi(Arachi-lover) | N/A<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>Add a Heliarch superheavy warship.
+ 
+  
+___ 
+
+### Heliarch.Shopping.Korath.Konvenience
+[Heliarch.Shopping.Korath.Konvenience.zip](https://github.com/zuckung/test3/releases/download/Latest/Heliarch.Shopping.Korath.Konvenience.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Heliarch.Shopping.Korath.Konvenience/) <br>
+created by: Waladil | N/A<br>
+category: cheats | status: Playable on 0.9.14, 0.9.15 Continuous.<br>
+
+description:<br>
+>KorExile outfits to KorEfret outfitter and mission to get Heliarch License and buy their outfits.
+ 
+  
+___ 
+
+### HellFire.Missile
+[HellFire.Missile.zip](https://github.com/zuckung/test3/releases/download/Latest/HellFire.Missile.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/HellFire.Missile/) <br>
+created by: N/A | N/A<br>
+category: weapons | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Hi.Quality.Stainless.Steel.Nonstick.Pan
+[Hi.Quality.Stainless.Steel.Nonstick.Pan.zip](https://github.com/zuckung/test3/releases/download/Latest/Hi.Quality.Stainless.Steel.Nonstick.Pan.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Hi.Quality.Stainless.Steel.Nonstick.Pan/) <br>
+created by: N/A | N/A<br>
+category: N/A | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### High.DPI
+[High.DPI.zip](https://github.com/zuckung/test3/releases/download/Latest/High.DPI.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/High.DPI/) <br>
+created by: Michael Zahniser (Maintained by the ES Community) | [https://github.com/endless-sky/endless-sky-high-dpi](https://github.com/endless-sky/endless-sky-high-dpi)<br>
+category: graphics | status: Playable on 0.9.14, 0.9.15 Continuous.<br>
+
+description:<br>
+>Official High-DPI graphics for Endless Sky. Note: check repository below for most up-to-date version.
+ 
+  
+___ 
+
+### High.Tier.Warships
+[High.Tier.Warships.zip](https://github.com/zuckung/test3/releases/download/Latest/High.Tier.Warships.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/High.Tier.Warships/) <br>
+created by: 1010todd | N/A<br>
+category: ships | status: Playable on 0.9.14, 0.9.15 Continuous.<br>
+
+description:<br>
+>Additional ships and reaction to being farmed for high tier alien(Pug, Quarg). Renamed to Beyond the Sky.
+ 
+  
+___ 
+
+### Hilo2000.Arena
+[Hilo2000.Arena.zip](https://github.com/zuckung/test3/releases/download/Latest/Hilo2000.Arena.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Hilo2000.Arena/) <br>
+created by: Mielo Symeonidis | [https://github.com/Hilo2000/arena/blob/main/](https://github.com/Hilo2000/arena/blob/main/)<br>
+category: cheats | status: N/A<br>
+
+description:<br>
+>This plugin adds an arena with multiple hard and easy challenges.
+ 
+  
+___ 
+
+### HONK
+[HONK.zip](https://github.com/zuckung/test3/releases/download/Latest/HONK.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/HONK/) <br>
+created by: Hurtz | [https://github.com/Killerhurtz/ES-HONK](https://github.com/Killerhurtz/ES-HONK)<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>Small plugin for the hilarity of it. HONK.
+ 
+  
+___ 
+
+### Human.Ship.Expansion
+[Human.Ship.Expansion.zip](https://github.com/zuckung/test3/releases/download/Latest/Human.Ship.Expansion.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Human.Ship.Expansion/) <br>
+created by: loyse | N/A<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>Add a couple of human ships and two weapons
+ 
+  
+___ 
+
+### Human.Space.Overhaul
+[Human.Space.Overhaul.zip](https://github.com/zuckung/test3/releases/download/Latest/Human.Space.Overhaul.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Human.Space.Overhaul/) <br>
+created by: Zoura (AvianGeneticist) | N/A<br>
+category: outfits | status: Playable on 0.9.15/0.9.16/Continuous.<br>
+
+description:<br>
+>Add new unique outfits for each human governments (FW, Navy, Syndicate).
+ 
+  
+___ 
+
+### Human.Steering.Flares
+[Human.Steering.Flares.zip](https://github.com/zuckung/test3/releases/download/Latest/Human.Steering.Flares.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Human.Steering.Flares/) <br>
+created by: Ferociousfeind | N/A<br>
+category: graphics | status: Playable on 0.9.14, 0.9.15 Continuous.<br>
+
+description:<br>
+>Add steering flare to human ships.
+ 
+  
+___ 
+
+### Humans.Alternate.Universe
+[Humans.Alternate.Universe.zip](https://github.com/zuckung/test3/releases/download/Latest/Humans.Alternate.Universe.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Humans.Alternate.Universe/) <br>
+created by: N/A | N/A<br>
+category: overhauls | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### HW.Rebalance.Test
+[HW.Rebalance.Test.zip](https://github.com/zuckung/test3/releases/download/Latest/HW.Rebalance.Test.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/HW.Rebalance.Test/) <br>
+created by: 1010Todd | N/A<br>
+category: gameplay | status: Playable on 0.9.14, 0.9.15 Continuous.<br>
+
+description:<br>
+>Triple human heavy warship mass to make them slower.
+ 
+  
+___ 
+
+### Hyperdrive.Boosters
+[Hyperdrive.Boosters.zip](https://github.com/zuckung/test3/releases/download/Latest/Hyperdrive.Boosters.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Hyperdrive.Boosters/) <br>
+created by: Jafdy | N/A<br>
+category: outfits | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### IJN.Yamato
+[IJN.Yamato.zip](https://github.com/zuckung/test3/releases/download/Latest/IJN.Yamato.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/IJN.Yamato/) <br>
+created by: Hiloki Zheng | [https://github.com/hilokiyz/IJN-Yamato-Endless-Sky](https://github.com/hilokiyz/IJN-Yamato-Endless-Sky)<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>Bringing the biggest WW2 Battleship ever made in Endless Sky
+ 
+  
+___ 
+
+### Improved.Ship.Integrity
+[Improved.Ship.Integrity.zip](https://github.com/zuckung/test3/releases/download/Latest/Improved.Ship.Integrity.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Improved.Ship.Integrity/) <br>
+created by: Xolarix | [https://github.com/Xolarix/Improved-Ship-Integrity](https://github.com/Xolarix/Improved-Ship-Integrity)<br>
+category: cheats | status: N/A<br>
+
+description:<br>
+>This plugin puts the hull points of all ships in the game at 250% their original values.
+ 
+  
+___ 
+
+### Improvisatory
+[Improvisatory.zip](https://github.com/zuckung/test3/releases/download/Latest/Improvisatory.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Improvisatory/) <br>
+created by: N/A | N/A<br>
+category: N/A | status: N/A<br>
+
+description:<br>
+>This plugin add a few ships that are a modified variant of existing ships by individuals and private groups like pirates and some merchants.
+ 
+  
+___ 
+
+### Incendiary.Grenades
+[Incendiary.Grenades.zip](https://github.com/zuckung/test3/releases/download/Latest/Incendiary.Grenades.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Incendiary.Grenades/) <br>
+created by: czartrak | [https://github.com/czartrak/Incendiary-Grenades-ES](https://github.com/czartrak/Incendiary-Grenades-ES)<br>
+category: weapons | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Inheritance
+[Inheritance.zip](https://github.com/zuckung/test3/releases/download/Latest/Inheritance.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Inheritance/) <br>
+created by: N/A | N/A<br>
+category: story | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Interdictor
+[Interdictor.zip](https://github.com/zuckung/test3/releases/download/Latest/Interdictor.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Interdictor/) <br>
+created by: Nechochwen | N/A<br>
+category: weapons | status: N/A<br>
+
+description:<br>
+>Fuel Damage before fuel damage is a thing in vanilla.
+ 
+  
+___ 
+
+### Investment.Bank
+[Investment.Bank.zip](https://github.com/zuckung/test3/releases/download/Latest/Investment.Bank.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Investment.Bank/) <br>
+created by: a-alhusain | [https://github.com/appdevland/investment-bank-es-plugin](https://github.com/appdevland/investment-bank-es-plugin)<br>
+category: gameplay | status: Playable on 0.9.14, 0.10.0 Continuous.<br>
+
+description:<br>
+>When you are rich enough some investment banks will offer you a chance to invest with them to gain an increased daily salary
+ 
+  
+___ 
+
+### Ironclad
+[Ironclad.zip](https://github.com/zuckung/test3/releases/download/Latest/Ironclad.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Ironclad/) <br>
+created by: 1010todd | N/A<br>
+category: races | status: Playable on 0.9.15 Continuous.<br>
+
+description:<br>
+>Add a single-system faction which use hull-only WW2-style warships.
+>
+ 
+  
+___ 
+
+### Jaling.Expansion
+[Jaling.Expansion.zip](https://github.com/zuckung/test3/releases/download/Latest/Jaling.Expansion.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Jaling.Expansion/) <br>
+created by: RizkyPramudyaCJ | [https://github.com/RizkyPramudyaCJ/Jaling-Expansion](https://github.com/RizkyPramudyaCJ/Jaling-Expansion)<br>
+category: races | status: N/A<br>
+
+description:<br>
+>Jaling Expansion adds another human civilization which not connected to human space.
+ 
+  
+___ 
+
+### Jenkins.My.Beloved
+[Jenkins.My.Beloved.zip](https://github.com/zuckung/test3/releases/download/Latest/Jenkins.My.Beloved.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Jenkins.My.Beloved/) <br>
+created by: Zoura (AvianGeneticist) | N/A<br>
+category: ships | status: Should be playable on 0.9.15/0.9.16<br>
+
+description:<br>
+>Add new types of fighter which is literally a guy with a gun flying around shooting things.
+ 
+  
+___ 
+
+### Join.the.Navy
+[Join.the.Navy.zip](https://github.com/zuckung/test3/releases/download/Latest/Join.the.Navy.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Join.the.Navy/) <br>
+created by: N/A | N/A<br>
+category: story | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Jojo.s.Galactic.Adventure
+[Jojo.s.Galactic.Adventure.zip](https://github.com/zuckung/test3/releases/download/Latest/Jojo.s.Galactic.Adventure.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Jojo.s.Galactic.Adventure/) <br>
+created by: N/A | N/A<br>
+category: story | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Jump.to.Lightspeed
+[Jump.to.Lightspeed.zip](https://github.com/zuckung/test3/releases/download/Latest/Jump.to.Lightspeed.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Jump.to.Lightspeed/) <br>
+created by: Krayt Dragon Moddding | [https://www.moddb.com/mods/endless-sky-jump-to-lightspeed](https://www.moddb.com/mods/endless-sky-jump-to-lightspeed)<br>
+category: overhauls | status: Abandoned, Should be playable on 0.9.14, 0.9.15 Continuous.<br>
+
+description:<br>
+>Star Wars mod.
+>
+ 
+  
+___ 
+
+### Just.a.ship
+[Just.a.ship.zip](https://github.com/zuckung/test3/releases/download/Latest/Just.a.ship.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Just.a.ship/) <br>
+created by: N/A | N/A<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>Adds a new ship that is from my personal mod, it's rather overpowered even with the vanilla weapons it has, so have fun! (or something like that)
+>You can find the ship at Tarazed.
+ 
+  
+___ 
+
+### Kaynz
+[Kaynz.zip](https://github.com/zuckung/test3/releases/download/Latest/Kaynz.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Kaynz/) <br>
+created by: Mcgode | [https://github.com/Mcgode/Kaynz](https://github.com/Mcgode/Kaynz)<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Kestrel-M
+[Kestrel-M.zip](https://github.com/zuckung/test3/releases/download/Latest/Kestrel-M.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Kestrel-M/) <br>
+created by: mdsmestad | N/A<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Kestrel.Rework
+[Kestrel.Rework.zip](https://github.com/zuckung/test3/releases/download/Latest/Kestrel.Rework.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Kestrel.Rework/) <br>
+created by: MinneIceCube | [https://github.com/MinneIceCube/KestrelRework](https://github.com/MinneIceCube/KestrelRework)<br>
+category: cheats | status: N/A<br>
+
+description:<br>
+>Make Kestrel a much better ship, and increased requirements.
+ 
+  
+___ 
+
+### Kinetic.Weaponry
+[Kinetic.Weaponry.zip](https://github.com/zuckung/test3/releases/download/Latest/Kinetic.Weaponry.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Kinetic.Weaponry/) <br>
+created by: Bereskatuket (kestrel1110) | [https://github.com/kestrel1110/KineticWeaponry](https://github.com/kestrel1110/KineticWeaponry)<br>
+category: weapons | status: Playable on 0.9.15, 0.9.16, Continuous.<br>
+
+description:<br>
+>A plugin adding modern realistic weapons to Endless-Sky, including a cannon and two shell types, APFSDS & HEATFS.
+>They are tier 1 human weapons, already balanced to work as anti-capital ship weapons.
+ 
+  
+___ 
+
+### kor.efret.shipyard
+<img src='Working/All Plugins/kor.efret.shipyard/icon.png' width='55'></img><br>
+[kor.efret.shipyard.zip](https://github.com/zuckung/test3/releases/download/Latest/kor.efret.shipyard.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/kor.efret.shipyard/) <br>
+created by:  zuckung | [ https://github.com/zuckung/endless-sky-plugins]( https://github.com/zuckung/endless-sky-plugins)<br>
+category:  gameplay | status:  made for 0.10.0<br>
+
+description:<br>
+>description = 
+>(outfitter and shipyard added)
+>
+>Adds a shipyard with the the three Kor Efret ships(Arch-Carrack, Charm-Shallop, Echo-Galleon) to Laki Nemparu(Kashikt) in Kor Efret space. Also adds an outfitter with all outfits of these three ships. 
+  
+___ 
+
+### Korath.Automation.Upgrade
+[Korath.Automation.Upgrade.zip](https://github.com/zuckung/test3/releases/download/Latest/Korath.Automation.Upgrade.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Korath.Automation.Upgrade/) <br>
+created by: Kriegstofu | [https://github.com/Kriegstofu/Korath-Automation-Upgrade](https://github.com/Kriegstofu/Korath-Automation-Upgrade)<br>
+category: outfits | status: N/A<br>
+
+description:<br>
+>After the Korath have salvaged the Kor Automata building cores, not only did they begin to replicate automata ships, but they also integrated the best parts of both Kor Factions onto their Korath Raider.
+>
+>(This takes place after the Co-Op Wanderer/Korath mission and adds a Korath Pillager variant to their raiding fleets.) ("korath raid")
+>
+>So you might no longer be able to equip captured Kor Automata with jump drives but at least you will be able to get something even better. Has a large amount of crew required to balance its awesomeness
+>
+>Basically merges the Good of both Mereti and Sestor Ships into one
+>
+>NOTE: Also makes the Remnant Missions a tad harder if done after the wanderer storyline
+ 
+  
+___ 
+
+### Korath.Domination
+[Korath.Domination.zip](https://github.com/zuckung/test3/releases/download/Latest/Korath.Domination.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Korath.Domination/) <br>
+created by: N/A | N/A<br>
+category: gameplay | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Korath.Remnant.War
+[Korath.Remnant.War.zip](https://github.com/zuckung/test3/releases/download/Latest/Korath.Remnant.War.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Korath.Remnant.War/) <br>
+created by: Rafael Ramawadh | [https://github.com/Disiuze/tributeplus](https://github.com/Disiuze/tributeplus)<br>
+category: story | status: N/A<br>
+
+description:<br>
+>This mod is all about allowing a player to have access to the korath world ship which now is allowed to spawn inside the remnant worlds, all i did was make it is the korath home fleets spawn at half the rate of raids.... my first plugin so don't enjoy
+ 
+  
+___ 
+
+### KorExiles.PA
+[KorExiles.PA.zip](https://github.com/zuckung/test3/releases/download/Latest/KorExiles.PA.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/KorExiles.PA/) <br>
+created by: Ejothims | N/A<br>
+category: races | status: Playable on 0.9.15 Continuous.<br>
+
+description:<br>
+>Addition for Korath Exiles Post-Automata.
+ 
+  
+___ 
+
+### Kraz.Cybernetics.Evolution
+[Kraz.Cybernetics.Evolution.zip](https://github.com/zuckung/test3/releases/download/Latest/Kraz.Cybernetics.Evolution.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Kraz.Cybernetics.Evolution/) <br>
+created by: MCOfficer | [https://github.com/MCOfficer/Kraz-Cybernetics-Evolution](https://github.com/MCOfficer/Kraz-Cybernetics-Evolution)<br>
+category: outfits | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Lampyrid.Start
+[Lampyrid.Start.zip](https://github.com/zuckung/test3/releases/download/Latest/Lampyrid.Start.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Lampyrid.Start/) <br>
+created by: Zitchas | [https://github.com/Zitchas/ES_Lampyrid_Start](https://github.com/Zitchas/ES_Lampyrid_Start)<br>
+category: ships | status: Playable on 0.9.15 Continuous.<br>
+
+description:<br>
+>Alternate start with Lampyrid ship.
+ 
+  
+___ 
+
+### Landing.Fees.and.Tax
+[Landing.Fees.and.Tax.zip](https://github.com/zuckung/test3/releases/download/Latest/Landing.Fees.and.Tax.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Landing.Fees.and.Tax/) <br>
+created by: Disiuze | [https://github.com/Disiuze/misc-projects](https://github.com/Disiuze/misc-projects)<br>
+category: gameplay | status: Playable on 0.9.14, 0.9.15 Continuous.<br>
+
+description:<br>
+>Adds a landing fee the player has to pay each time after one year.
+ 
+  
+___ 
+
+### Legendary.Pirates
+[Legendary.Pirates.zip](https://github.com/zuckung/test3/releases/download/Latest/Legendary.Pirates.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Legendary.Pirates/) <br>
+created by: Lake(Galaucus) | [https://github.com/Galaucus/Endless-Sky-Legendary-Pirates](https://github.com/Galaucus/Endless-Sky-Legendary-Pirates)<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>Legendary version of ships used by pirates as person ships.
+ 
+  
+___ 
+
+### Lemurias.Extra.ES.Stuff
+[Lemurias.Extra.ES.Stuff.zip](https://github.com/zuckung/test3/releases/download/Latest/Lemurias.Extra.ES.Stuff.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Lemurias.Extra.ES.Stuff/) <br>
+created by: a-random-lemurian | [https://github.com/a-random-lemurian/Lemurias-Extra-ES-Stuff](https://github.com/a-random-lemurian/Lemurias-Extra-ES-Stuff)<br>
+category: story | status: N/A<br>
+
+description:<br>
+>It adds so much new content to the game that it cannot be listed in this README
+ 
+  
+___ 
+
+### Lertsek
+[Lertsek.zip](https://github.com/zuckung/test3/releases/download/Latest/Lertsek.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Lertsek/) <br>
+created by: TheronEpic | [https://github.com/TheronEpic/lertsek](https://github.com/TheronEpic/lertsek)<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>Do you dislike the Kestrel? Are its guns too far back? Do you just want something different? Or do you just like front-heavy ships? Well then the Lertsek is for you.
+ 
+  
+___ 
+
+### Little.Addon
+[Little.Addon.zip](https://github.com/zuckung/test3/releases/download/Latest/Little.Addon.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Little.Addon/) <br>
+created by: HorusX5 | [http://steamcommunity.com/id/HorusX5](http://steamcommunity.com/id/HorusX5)<br>
+category: story | status: Playable on 0.9.14, 0.9.15 Continuous.<br>
+
+description:<br>
+>Add a Search and Rescue mission type, which requires you to board and repair a disabled merchant ship within a limited time.
+ 
+  
+___ 
+
+### Lleytons.ES.Starships
+[Lleytons.ES.Starships.zip](https://github.com/zuckung/test3/releases/download/Latest/Lleytons.ES.Starships.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Lleytons.ES.Starships/) <br>
+created by: Lleyton | N/A<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>adds back in a couple of old ships, I plan to add some of my own in the future.
+ 
+  
+___ 
+
+### Logbook.Help
+[Logbook.Help.zip](https://github.com/zuckung/test3/releases/download/Latest/Logbook.Help.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Logbook.Help/) <br>
+created by: Michael Arsollon | [https://github.com/MidnightPlugins/Logbook-Help](https://github.com/MidnightPlugins/Logbook-Help)<br>
+category: N/A | status: Compatible with ES 0.9.14<br>
+
+description:<br>
+>Adds a Help tab to the Logbook which can be used as a centralized location to review or preview various helpful game tips.
+ 
+  
+___ 
+
+### Loronar.Transport
+[Loronar.Transport.zip](https://github.com/zuckung/test3/releases/download/Latest/Loronar.Transport.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Loronar.Transport/) <br>
+created by: Armalarde7895 | [https://github.com/Armalarde7895/Loronar-transport](https://github.com/Armalarde7895/Loronar-transport)<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>It adds the Loronar medium transport from Star Wars.
+ 
+  
+___ 
+
+### Lost.in.Midnight-0.9.16.5.4
+[Lost.in.Midnight-0.9.16.5.4.zip](https://github.com/zuckung/test3/releases/download/Latest/Lost.in.Midnight-0.9.16.5.4.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Lost.in.Midnight-0.9.16.5.4/) <br>
+created by: MidnightPlugins | [https://github.com/MidnightPlugins/Lost-in-Midnight/releases](https://github.com/MidnightPlugins/Lost-in-Midnight/releases)<br>
+category: story | status: In development, Playable on 0.9.14, 0.9.15 Continuous.<br>
+
+description:<br>
+>A mission focused plugin for Endless Sky.
+ 
+  
+___ 
+
+### Low.Quality
+[Low.Quality.zip](https://github.com/zuckung/test3/releases/download/Latest/Low.Quality.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Low.Quality/) <br>
+created by: N/A | N/A<br>
+category: graphics | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Low.Tech.Worlds
+[Low.Tech.Worlds.zip](https://github.com/zuckung/test3/releases/download/Latest/Low.Tech.Worlds.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Low.Tech.Worlds/) <br>
+created by: Samuel Dennis | N/A<br>
+category: races | status: N/A<br>
+
+description:<br>
+>Adds a new alien species that has lower technology than humans. Intended as early game content to be submitted to endless-sky for inclusion in the game.
+ 
+  
+___ 
+
+### M.A.C.cannon
+[M.A.C.cannon.zip](https://github.com/zuckung/test3/releases/download/Latest/M.A.C.cannon.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/M.A.C.cannon/) <br>
+created by: N/A | N/A<br>
+category: weapons | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Mad.Quest
+[Mad.Quest.zip](https://github.com/zuckung/test3/releases/download/Latest/Mad.Quest.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Mad.Quest/) <br>
+created by: czartrak | [https://github.com/czartrak/Mad-Quest](https://github.com/czartrak/Mad-Quest)<br>
+category: story | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### MaddreMod
+[MaddreMod.zip](https://github.com/zuckung/test3/releases/download/Latest/MaddreMod.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/MaddreMod/) <br>
+created by: Maddremor | [https://github.com/Maddremor/ES-MaddreMod](https://github.com/Maddremor/ES-MaddreMod)<br>
+category: outfits | status: N/A<br>
+
+description:<br>
+>Random, unbalanced additions and tweaks for Endless Sky.
+ 
+  
+___ 
+
+### Make.Communism.Great.Again
+[Make.Communism.Great.Again.zip](https://github.com/zuckung/test3/releases/download/Latest/Make.Communism.Great.Again.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Make.Communism.Great.Again/) <br>
+created by: JonathanZhang1 | [https://github.com/JonathanZhang1/Make-communism-great-again-endless-sky](https://github.com/JonathanZhang1/Make-communism-great-again-endless-sky)<br>
+category: races | status: N/A<br>
+
+description:<br>
+>I add a new government,a new system and three new kinds of ships into the game,and I will write some story in the future.
+ 
+  
+___ 
+
+### Marauder.Bactrian
+[Marauder.Bactrian.zip](https://github.com/zuckung/test3/releases/download/Latest/Marauder.Bactrian.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Marauder.Bactrian/) <br>
+created by: J.C. Hamlin | [https://github.com/jchamlin/marauder-bactrian](https://github.com/jchamlin/marauder-bactrian)<br>
+category: N/A | status: N/A<br>
+
+description:<br>
+>This plugin adds Marauder shields, engines, and weapons variants of the Bactrian.
+ 
+  
+___ 
+
+### Marauder.Swarmer
+[Marauder.Swarmer.zip](https://github.com/zuckung/test3/releases/download/Latest/Marauder.Swarmer.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Marauder.Swarmer/) <br>
+created by: Tadrix | [https://github.com/Tadrix/es-mswarmer](https://github.com/Tadrix/es-mswarmer)<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>This plugin adds a new type of fighter, Marauder Swarmers. It doesn't make them available in shipyards and doesn't add them to NPC fleets.
+>
+ 
+  
+___ 
+
+### Marausprey
+[Marausprey.zip](https://github.com/zuckung/test3/releases/download/Latest/Marausprey.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Marausprey/) <br>
+created by: TheronEpic | [https://github.com/TheronEpic/marausprey](https://github.com/TheronEpic/marausprey)<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>Three new upgraded versions of the Osprey! Now with 30% more spike, and 100% more badassery.
+ 
+  
+___ 
+
+### Mark.2.Pug
+[Mark.2.Pug.zip](https://github.com/zuckung/test3/releases/download/Latest/Mark.2.Pug.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Mark.2.Pug/) <br>
+created by: N/A | N/A<br>
+category: races | status: N/A<br>
+
+description:<br>
+>Add Mark 2 version of Pug ships and replace Pug fleet in Wanderer space with it.
+ 
+  
+___ 
+
+### Marsian.Ancestors
+[Marsian.Ancestors.zip](https://github.com/zuckung/test3/releases/download/Latest/Marsian.Ancestors.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Marsian.Ancestors/) <br>
+created by: Endros Gunderberg | N/A<br>
+category: races | status: N/A<br>
+
+description:<br>
+>In this plugin, you get involved into discoveries of the origins of ancient settlements on Mars.
+ 
+  
+___ 
+
+### Mass-ive.Fix
+[Mass-ive.Fix.zip](https://github.com/zuckung/test3/releases/download/Latest/Mass-ive.Fix.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Mass-ive.Fix/) <br>
+created by: Anarchist2 | [https://github.com/Anarchist2/Mass-ive-fix](https://github.com/Anarchist2/Mass-ive-fix)<br>
+category: gameplay | status: N/A<br>
+
+description:<br>
+>Make mass and outfit space of a few outfits the same.
+ 
+  
+___ 
+
+### Mass.Driver
+[Mass.Driver.zip](https://github.com/zuckung/test3/releases/download/Latest/Mass.Driver.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Mass.Driver/) <br>
+created by: N/A | N/A<br>
+category: weapons | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Mata
+[Mata.zip](https://github.com/zuckung/test3/releases/download/Latest/Mata.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Mata/) <br>
+created by: Karimi(Karirawri) | N/A<br>
+category: races | status: N/A<br>
+
+description:<br>
+>Add a new advanced race south east of Ember Waste.
+ 
+  
+___ 
+
+### Matthews.Alien.Ship
+[Matthews.Alien.Ship.zip](https://github.com/zuckung/test3/releases/download/Latest/Matthews.Alien.Ship.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Matthews.Alien.Ship/) <br>
+created by: N/A | N/A<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Maurader.Osprey
+[Maurader.Osprey.zip](https://github.com/zuckung/test3/releases/download/Latest/Maurader.Osprey.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Maurader.Osprey/) <br>
+created by: N/A | N/A<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Maurader.Pieces
+[Maurader.Pieces.zip](https://github.com/zuckung/test3/releases/download/Latest/Maurader.Pieces.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Maurader.Pieces/) <br>
+created by: N/A | N/A<br>
+category: outfits | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Maurder.Covette
+[Maurder.Covette.zip](https://github.com/zuckung/test3/releases/download/Latest/Maurder.Covette.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Maurder.Covette/) <br>
+created by: TheronEpic | N/A<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>little description space better Corvette 2 variant in fleets TheronEpic.
+ 
+  
+___ 
+
+### MAY
+[MAY.zip](https://github.com/zuckung/test3/releases/download/Latest/MAY.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/MAY/) <br>
+created by: N/A | N/A<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Mega.Bactrian
+[Mega.Bactrian.zip](https://github.com/zuckung/test3/releases/download/Latest/Mega.Bactrian.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Mega.Bactrian/) <br>
+created by: mdsmestad | N/A<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Mega.Freight
+[Mega.Freight.zip](https://github.com/zuckung/test3/releases/download/Latest/Mega.Freight.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Mega.Freight/) <br>
+created by: 1010todd | N/A<br>
+category: ships | status: Requires Continuous/0.9.15+<br>
+
+description:<br>
+>Adds several mostly civilian ships for you and npc merchants( and pirates) to use for more variety in human space.
+ 
+  
+___ 
+
+### Mega.Freight.ZHO
+[Mega.Freight.ZHO.zip](https://github.com/zuckung/test3/releases/download/Latest/Mega.Freight.ZHO.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Mega.Freight.ZHO/) <br>
+created by: 1010Todd | N/A<br>
+category: patches | status: N/A<br>
+
+description:<br>
+>Compatibility bridge for Mega Freight and Zoura's Human Space Overhaul plugins; Allowing Mega Freight ships to use contents from Zoura's Human Space Overhaul
+ 
+  
+___ 
+
+### Merchant.Marine
+[Merchant.Marine.zip](https://github.com/zuckung/test3/releases/download/Latest/Merchant.Marine.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Merchant.Marine/) <br>
+created by: AnotherMonkey | N/A<br>
+category: ships | status: Playable on 0.9.14, 0.9.15 Continuous.<br>
+
+description:<br>
+>Add a few new human ships.
+ 
+  
+___ 
+
+### Mercury
+[Mercury.zip](https://github.com/zuckung/test3/releases/download/Latest/Mercury.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Mercury/) <br>
+created by: Orlando Peñarubia | N/A<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>This is a heavy warship designed to use the best human engines. This is the main idea behind the stats design.
+>It is a very fast ship with very high shields.
+>It has 4 particle cannons, 4 sidewinder missile launchers, 2 heavy laser turrets and 2 heavy anti-missile turrets.
+>
+>The ships can be bought in World Forge plugin human shipyard and in Navy Basics shipyards.
+ 
+  
+___ 
+
+### Mereti
+[Mereti.zip](https://github.com/zuckung/test3/releases/download/Latest/Mereti.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Mereti/) <br>
+created by: N/A | N/A<br>
+category: outfits | status: works on 0.10.0<br>
+
+description:<br>
+>This is a small endgame QoL plugin that gives a mission which will unlock Kor Mereti shipyards and outfiters after the point in the story where they become friendly to the player.  The mission can be picked up in the shipyard of Spera Anatrusk.
+ 
+  
+___ 
+
+### Mess
+[Mess.zip](https://github.com/zuckung/test3/releases/download/Latest/Mess.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Mess/) <br>
+created by: FranchuFranchu | [https://github.com/FranchuFranchu/endless-sky-mess-plugin](https://github.com/FranchuFranchu/endless-sky-mess-plugin)<br>
+category: gameplay | status: N/A<br>
+
+description:<br>
+>This plugin makes all the governments get in war against each other
+>It also makes every fleet spawn in Sol, so you can see them all destroy each other in one place
+>Finally, it changes how the pilot starts.
+ 
+  
+___ 
+
+### Midnight.Expansion
+[Midnight.Expansion.zip](https://github.com/zuckung/test3/releases/download/Latest/Midnight.Expansion.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Midnight.Expansion/) <br>
+created by: Michael Arsollon | N/A<br>
+category: story | status: N/A<br>
+
+description:<br>
+>Expanded content derived from the creations of other creators of plugins or pull requests.
+ 
+  
+___ 
+
+### Midnight.Scrapyard-0.9.16.3.2
+[Midnight.Scrapyard-0.9.16.3.2.zip](https://github.com/zuckung/test3/releases/download/Latest/Midnight.Scrapyard-0.9.16.3.2.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Midnight.Scrapyard-0.9.16.3.2/) <br>
+created by: MidnightPlugins | [https://github.com/MidnightPlugins/Midnight-Scrapyard/releases](https://github.com/MidnightPlugins/Midnight-Scrapyard/releases)<br>
+category: story | status: In development, Playable on 0.9.14, 0.9.15 Continuous.<br>
+
+description:<br>
+>A plugin suggesting an epilogue for the Kor Sestor region of Endless Sky.
+>
+>
+ 
+  
+___ 
+
+### Military.Plugin
+[Military.Plugin.zip](https://github.com/zuckung/test3/releases/download/Latest/Military.Plugin.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Military.Plugin/) <br>
+created by: JPG7D | [https://github.com/JPG7D/endless-sky-military-plugin](https://github.com/JPG7D/endless-sky-military-plugin)<br>
+category: races | status: N/A<br>
+
+description:<br>
+>Military Vehicles from WWII to the Modern Era.
+ 
+  
+___ 
+
+### Mining.Pinger
+[Mining.Pinger.zip](https://github.com/zuckung/test3/releases/download/Latest/Mining.Pinger.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Mining.Pinger/) <br>
+created by: N/A | N/A<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Mining.ships
+[Mining.ships.zip](https://github.com/zuckung/test3/releases/download/Latest/Mining.ships.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Mining.ships/) <br>
+created by: 1010todd | N/A<br>
+category: ships | status: Playable since the version that adds minable asteroid (0.9.3).<br>
+
+description:<br>
+>Adds 3 new ships and a weapon dedicated to asteroid mining.
+ 
+  
+___ 
+
+### Missile.Expansion
+[Missile.Expansion.zip](https://github.com/zuckung/test3/releases/download/Latest/Missile.Expansion.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Missile.Expansion/) <br>
+created by: N/A | N/A<br>
+category: outfits | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Missile.Turrets
+[Missile.Turrets.zip](https://github.com/zuckung/test3/releases/download/Latest/Missile.Turrets.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Missile.Turrets/) <br>
+created by: Dalrethliant | N/A<br>
+category: weapons | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Moar.Jobs
+[Moar.Jobs.zip](https://github.com/zuckung/test3/releases/download/Latest/Moar.Jobs.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Moar.Jobs/) <br>
+created by: appdevland | [https://github.com/appdevland/moarjobs-es-plugin](https://github.com/appdevland/moarjobs-es-plugin)<br>
+category: story | status: N/A<br>
+
+description:<br>
+>This is a plugin for endless sky that introduces umm... more jobs? and a pirate storyline Enjoy!
+ 
+  
+___ 
+
+### Modified.Falcon
+[Modified.Falcon.zip](https://github.com/zuckung/test3/releases/download/Latest/Modified.Falcon.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Modified.Falcon/) <br>
+created by: N/A | N/A<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Modular.Haulers
+[Modular.Haulers.zip](https://github.com/zuckung/test3/releases/download/Latest/Modular.Haulers.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Modular.Haulers/) <br>
+created by: PhantomBerserker | [https://github.com/PhantomBerserker/ES-Modular-Haulers](https://github.com/PhantomBerserker/ES-Modular-Haulers)<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>A small plugin that aims to introduce new ships to the Southbound Shipyards plethora.
+>Drop by your local Free Worlds affiliated shipyard to purchase one today!
+ 
+  
+___ 
+
+### Monitor
+[Monitor.zip](https://github.com/zuckung/test3/releases/download/Latest/Monitor.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Monitor/) <br>
+created by: N/A | N/A<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>Adding a fan favorite ship back into the game. The Monitor.
+ 
+  
+___ 
+
+### more.boarding.missions
+<img src='Working/All Plugins/more.boarding.missions/icon.png' width='55'></img><br>
+[more.boarding.missions.zip](https://github.com/zuckung/test3/releases/download/Latest/more.boarding.missions.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/more.boarding.missions/) <br>
+created by:  zuckung | [ https://github.com/zuckung/endless-sky-plugins]( https://github.com/zuckung/endless-sky-plugins)<br>
+category:  gameplay | status:  made for 0.10.0<br>
+
+description:<br>
+>description = 
+>(21 boarding mission)
+>
+>Adds seven pirate bounty boarding missions, seven human assisting boarding missions and seven Hai assisting boarding missions(20%, different credit rewards, repeatable). 
+  
+___ 
+
+### More.Missions
+[More.Missions.zip](https://github.com/zuckung/test3/releases/download/Latest/More.Missions.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/More.Missions/) <br>
+created by: N/A | N/A<br>
+category: story | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### More.Ships.Plugin
+[More.Ships.Plugin.zip](https://github.com/zuckung/test3/releases/download/Latest/More.Ships.Plugin.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/More.Ships.Plugin/) <br>
+created by: Loyser(Loiseeer) | [https://github.com/loiseeer/The-more-ships-plugin](https://github.com/loiseeer/The-more-ships-plugin)<br>
+category: ships | status: Playable on 0.9.14, 0.9.15 Continuous.<br>
+
+description:<br>
+>Add a couple of human ships and two weapons
+ 
+  
+___ 
+
+### multiplayer.map
+[multiplayer.map.zip](https://github.com/zuckung/test3/releases/download/Latest/multiplayer.map.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/multiplayer.map/) <br>
+created by: N/A | N/A<br>
+category: N/A | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### MultiTech.Extra.Light
+[MultiTech.Extra.Light.zip](https://github.com/zuckung/test3/releases/download/Latest/MultiTech.Extra.Light.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/MultiTech.Extra.Light/) <br>
+created by: sgtdrew720 | [https://github.com/sgtdrew720/MultiTech-Extra-Light-v1.0.0-](https://github.com/sgtdrew720/MultiTech-Extra-Light-v1.0.0-)<br>
+category: N/A | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Nanachi.Missions
+[Nanachi.Missions.zip](https://github.com/zuckung/test3/releases/download/Latest/Nanachi.Missions.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Nanachi.Missions/) <br>
+created by: N/A | N/A<br>
+category: story | status: N/A<br>
+
+description:<br>
+>allready ingame
+ 
+  
+___ 
+
+### Navy.Campaign
+[Navy.Campaign.zip](https://github.com/zuckung/test3/releases/download/Latest/Navy.Campaign.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Navy.Campaign/) <br>
+created by: N/A | N/A<br>
+category: story | status: N/A<br>
+
+description:<br>
+>My Navy campaign which I hope to get implemented when finished.
+ 
+  
+___ 
+
+### Navy.Conscript
+[Navy.Conscript.zip](https://github.com/zuckung/test3/releases/download/Latest/Navy.Conscript.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Navy.Conscript/) <br>
+created by: Timothy Butterworth | [https://github.com/tmbutterworth/navy-conscript](https://github.com/tmbutterworth/navy-conscript)<br>
+category: story | status: N/A<br>
+
+description:<br>
+>This Plug-in provides an alternate story plot to the main story plot allowing the player to join The Republic Navy as a conscript instead of joining the free worlds militia.
+>
+>This plug-in uses time based events, if you game date is past: 11 7 3014 the plug-in story plot will never start.
+ 
+  
+___ 
+
+### Nemesis
+[Nemesis.zip](https://github.com/zuckung/test3/releases/download/Latest/Nemesis.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Nemesis/) <br>
+created by: Zavindur | N/A<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>Add a ship.
+ 
+  
+___ 
+
+### Nerf.This.Sound.Replacer
+[Nerf.This.Sound.Replacer.zip](https://github.com/zuckung/test3/releases/download/Latest/Nerf.This.Sound.Replacer.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Nerf.This.Sound.Replacer/) <br>
+created by: N/A | N/A<br>
+category: overwrites | status: N/A<br>
+
+description:<br>
+>This mod replaces all vanilla Endless Sky sounds with the best part of "Nerf This"
+ 
+  
+___ 
+
+### New.Droid.Regime
+[New.Droid.Regime.zip](https://github.com/zuckung/test3/releases/download/Latest/New.Droid.Regime.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/New.Droid.Regime/) <br>
+created by: czartrak | [https://github.com/czartrak/New-Droid-Regime](https://github.com/czartrak/New-Droid-Regime)<br>
+category: outfits | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### New.Galaxy
+[New.Galaxy.zip](https://github.com/zuckung/test3/releases/download/Latest/New.Galaxy.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/New.Galaxy/) <br>
+created by: Lia Gerty | [https://github.com/ravenshining](https://github.com/ravenshining)<br>
+category: graphics | status: N/A<br>
+
+description:<br>
+>This is just a demonstration of the map image that would be used with an expanded core region.  Since it does not include the new systems that would be between Sagittarius A* and human space, Sagittarius A* will appear off centre.
+>
+ 
+  
+___ 
+
+### New.Sky
+[New.Sky.zip](https://github.com/zuckung/test3/releases/download/Latest/New.Sky.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/New.Sky/) <br>
+created by: 1010Todd | [https://github.com/1010todd/ES-New_Sky](https://github.com/1010todd/ES-New_Sky)<br>
+category: overhauls | status: No longer developed. Playable on 0.9.14, 0.9.15 Continuous.<br>
+
+description:<br>
+>Add a small galaxy with a few alien. Content merged with Galactic War
+ 
+  
+___ 
+
+### News.Plugin
+[News.Plugin.zip](https://github.com/zuckung/test3/releases/download/Latest/News.Plugin.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/News.Plugin/) <br>
+created by: Lars Rune "SeaLiteral" Præstmark | [https://github.com/SeaLiteral/endless-sky-news-plugin](https://github.com/SeaLiteral/endless-sky-news-plugin)<br>
+category: story | status: Playable on 0.9.14, 0.9.15.<br>
+
+description:<br>
+>This plugin adds some news.
+>
+>Most of them show up in Hai space.
+ 
+  
+___ 
+
+### Newscasts
+[Newscasts.zip](https://github.com/zuckung/test3/releases/download/Latest/Newscasts.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Newscasts/) <br>
+created by: czartrak | [https://github.com/czartrak/ES-newscasts](https://github.com/czartrak/ES-newscasts)<br>
+category: N/A | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### No.Bactrian
+[No.Bactrian.zip](https://github.com/zuckung/test3/releases/download/Latest/No.Bactrian.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/No.Bactrian/) <br>
+created by: Disiuze | [https://github.com/Disiuze/misc-projects](https://github.com/Disiuze/misc-projects)<br>
+category: cheats | status: Should be playable on 0.9.14, 0.9.15.<br>
+
+description:<br>
+>This mod removes Bactrians and Mules from the shipyard and fleet definitions.
+>NOTE: Overrides fleets and Lionheart shipyards, might cause problem with other plugin.
+>
+ 
+  
+___ 
+
+### No.Drag.Mod
+[No.Drag.Mod.zip](https://github.com/zuckung/test3/releases/download/Latest/No.Drag.Mod.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/No.Drag.Mod/) <br>
+created by: N/A | N/A<br>
+category: cheats | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### nomads
+[nomads.zip](https://github.com/zuckung/test3/releases/download/Latest/nomads.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/nomads/) <br>
+created by: N/A | N/A<br>
+category: races | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Non.Lethal
+[Non.Lethal.zip](https://github.com/zuckung/test3/releases/download/Latest/Non.Lethal.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Non.Lethal/) <br>
+created by: N/A | N/A<br>
+category: weapons | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Normandy
+[Normandy.zip](https://github.com/zuckung/test3/releases/download/Latest/Normandy.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Normandy/) <br>
+created by: N/A | N/A<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>This is a simple plugin that adds an unique ship and a few outfits after completing a dedicated quest line.
+>The Normandy is meant to be an end game flagship option to compete with the Pug Arfecta.
+ 
+  
+___ 
+
+### Nuclear.Launcher
+[Nuclear.Launcher.zip](https://github.com/zuckung/test3/releases/download/Latest/Nuclear.Launcher.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Nuclear.Launcher/) <br>
+created by: N/A | N/A<br>
+category: weapons | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Nuclear.War
+[Nuclear.War.zip](https://github.com/zuckung/test3/releases/download/Latest/Nuclear.War.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Nuclear.War/) <br>
+created by: House Kitty | N/A<br>
+category: cheats | status: Should be playable on 0.9.14, 0.9.15 Continuous.<br>
+
+description:<br>
+>Merchant and Pirate Hawks equiped with Nukes locked in an endless and massive battle in the Holeb system.
+ 
+  
+___ 
+
+### Nuke.turret
+[Nuke.turret.zip](https://github.com/zuckung/test3/releases/download/Latest/Nuke.turret.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Nuke.turret/) <br>
+created by: 1010todd | N/A<br>
+category: weapons | status: N/A<br>
+
+description:<br>
+>Tiny plugin that add two outfit: Nuclear Missile Turret and Nuclear Missile Ammo. 
+>
+>Just happened to have a nuke launcher turret sprite so I turned it into a quick plugin.
+ 
+  
+___ 
+
+### Octyl
+[Octyl.zip](https://github.com/zuckung/test3/releases/download/Latest/Octyl.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Octyl/) <br>
+created by: Ferociousfeind | [https://github.com/Ferociousfeind/Octyl-Emergence](https://github.com/Ferociousfeind/Octyl-Emergence)<br>
+category: races | status: Should be playable on 0.9.14, 0.9.15 Continuous.<br>
+
+description:<br>
+>A modest plugin about some squids out in space.
+ 
+  
+___ 
+
+### OP.Thunderhead.Lance
+[OP.Thunderhead.Lance.zip](https://github.com/zuckung/test3/releases/download/Latest/OP.Thunderhead.Lance.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/OP.Thunderhead.Lance/) <br>
+created by: BCPowerhouse | N/A<br>
+category: weapons | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Orion.Missile
+[Orion.Missile.zip](https://github.com/zuckung/test3/releases/download/Latest/Orion.Missile.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Orion.Missile/) <br>
+created by: Marksman-ES | [https://github.com/TheMarksman-ES/Orion-Missile](https://github.com/TheMarksman-ES/Orion-Missile)<br>
+category: weapons | status: Playable on 0.9.15 Continuous.<br>
+
+description:<br>
+>Add a missile based on Orion Drive nuclear propulsion, gets more powerful over range.
+ 
+  
+___ 
+
+### Outfit.Highlighter
+[Outfit.Highlighter.zip](https://github.com/zuckung/test3/releases/download/Latest/Outfit.Highlighter.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Outfit.Highlighter/) <br>
+created by: Michael Arsollon | [https://github.com/MidnightPlugins/Outfit-Highlighter](https://github.com/MidnightPlugins/Outfit-Highlighter)<br>
+category: graphics | status: N/A<br>
+
+description:<br>
+>Makes the selected outfit stand out more in the outfitter screen. Recommended for those who prefer to navigate the outfitter using the keyboard instead of the mouse.
+ 
+  
+___ 
+
+### Outfits.Expansion
+[Outfits.Expansion.zip](https://github.com/zuckung/test3/releases/download/Latest/Outfits.Expansion.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Outfits.Expansion/) <br>
+created by: N/A | N/A<br>
+category: story | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Overkill
+[Overkill.zip](https://github.com/zuckung/test3/releases/download/Latest/Overkill.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Overkill/) <br>
+created by: Carter-M-II | [https://github.com/Carter-M-II/ES-Overkill](https://github.com/Carter-M-II/ES-Overkill)<br>
+category: cheats | status: N/A<br>
+
+description:<br>
+>This mod is full of overpowered/bloated things like Ships and Outfits. Only used to beat the game but may be fun to pit on other mods with overpowered ships/outfits.
+ 
+  
+___ 
+
+### Overseers
+[Overseers.zip](https://github.com/zuckung/test3/releases/download/Latest/Overseers.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Overseers/) <br>
+created by: N/A | N/A<br>
+category: races | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Paradigm.Shift
+[Paradigm.Shift.zip](https://github.com/zuckung/test3/releases/download/Latest/Paradigm.Shift.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Paradigm.Shift/) <br>
+created by: N/A | N/A<br>
+category: story | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Paradise.World.Jobs
+[Paradise.World.Jobs.zip](https://github.com/zuckung/test3/releases/download/Latest/Paradise.World.Jobs.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Paradise.World.Jobs/) <br>
+created by: Timothy Butterworth | [https://github.com/tmbutterworth/paradise-world-jobs](https://github.com/tmbutterworth/paradise-world-jobs)<br>
+category: story | status: N/A<br>
+
+description:<br>
+>This plug-in adds additional paradise world jobs to the game increasing variety.
+ 
+  
+___ 
+
+### Particle.Turret
+[Particle.Turret.zip](https://github.com/zuckung/test3/releases/download/Latest/Particle.Turret.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Particle.Turret/) <br>
+created by: N/A | N/A<br>
+category: weapons | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Pathmakers.Way
+[Pathmakers.Way.zip](https://github.com/zuckung/test3/releases/download/Latest/Pathmakers.Way.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Pathmakers.Way/) <br>
+created by: Zachary Chupinsky | N/A<br>
+category: story | status: N/A<br>
+
+description:<br>
+>Add a new race with systems scattered in between the existing gaps across human space.
+ 
+  
+___ 
+
+### Penthrower
+[Penthrower.zip](https://github.com/zuckung/test3/releases/download/Latest/Penthrower.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Penthrower/) <br>
+created by: 1010Todd | N/A<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>Joke plugin that add a new ship and a few weapons.
+ 
+  
+___ 
+
+### Persistent.NPC
+[Persistent.NPC.zip](https://github.com/zuckung/test3/releases/download/Latest/Persistent.NPC.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Persistent.NPC/) <br>
+created by: 1010todd | N/A<br>
+category: gameplay | status: Playable on 0.9.15 Continuous.<br>
+
+description:<br>
+>Proof-of-concept for NPC that upgrades over time if they don't die.
+ 
+  
+___ 
+
+### Pheonix
+[Pheonix.zip](https://github.com/zuckung/test3/releases/download/Latest/Pheonix.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Pheonix/) <br>
+created by: N/A | N/A<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Pi.game.mods
+[Pi.game.mods.zip](https://github.com/zuckung/test3/releases/download/Latest/Pi.game.mods.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Pi.game.mods/) <br>
+created by: Pilover100 | N/A<br>
+category: graphics | status: Playable on 0.9.15/0.9.16.<br>
+
+description:<br>
+>Pilover100's personal modifications. (Change UI colors to make things more visible. Alternate Wanderer Reactor graphic.)
+ 
+  
+___ 
+
+### Pilots.License
+[Pilots.License.zip](https://github.com/zuckung/test3/releases/download/Latest/Pilots.License.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Pilots.License/) <br>
+created by: Timothy Butterworth | [https://github.com/tmbutterworth/pilots-license](https://github.com/tmbutterworth/pilots-license)<br>
+category: outfits | status: N/A<br>
+
+description:<br>
+>A small plug-in to implement the Pilot's License. All ships that used to not have a license restriction now require a Pilot's License to purchase them.
+ 
+  
+___ 
+
+### PipMod
+[PipMod.zip](https://github.com/zuckung/test3/releases/download/Latest/PipMod.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/PipMod/) <br>
+created by: N/A | N/A<br>
+category: overhauls | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Pirate.Expansion
+[Pirate.Expansion.zip](https://github.com/zuckung/test3/releases/download/Latest/Pirate.Expansion.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Pirate.Expansion/) <br>
+created by: Becca Tommaso | [https://github.com/beccabunny/Pirate-Expansion](https://github.com/beccabunny/Pirate-Expansion)<br>
+category: overhauls | status: N/A<br>
+
+description:<br>
+>Expand your pirate experience with new ships, outfits, systems and even mechanics! This plugin expands the northern pirate section to a large area, big enough to allow trading or similar activities one could do in the rest of the galaxy. Two new pirate ships are added, a freighter that is by itself capable of jamming the nearby sensors and a middle ground between the Firebird and the Leviathan. Finally, 6 new outfits are added, including two turrets and one special outfit that comes with a special mechanic that is obtainable using a lot of invisible missions.
+>
+ 
+  
+___ 
+
+### Pirate.Hunter
+[Pirate.Hunter.zip](https://github.com/zuckung/test3/releases/download/Latest/Pirate.Hunter.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Pirate.Hunter/) <br>
+created by: Zavindur | N/A<br>
+category: gameplay | status: Playable on 0.9.14, 0.9.15 Continuous.<br>
+
+description:<br>
+>This gives a small payment for destroying pirates. About 10000 per pirate crew eliminated.  Payment is automatically given when landing on a planet with a starport.
+ 
+  
+___ 
+
+### Plasma.Mine
+[Plasma.Mine.zip](https://github.com/zuckung/test3/releases/download/Latest/Plasma.Mine.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Plasma.Mine/) <br>
+created by: John Abbe | N/A<br>
+category: weapons | status: N/A<br>
+
+description:<br>
+>Plasma mines - This is a first attempt at mines to see how they fit into combat tactics and learn how to balance them properly. The heat damage gives a decent chance to disable big ships without giving the mines an unbalanced amount of regular damage.
+ 
+  
+___ 
+
+### Play.As.Sestor
+[Play.As.Sestor.zip](https://github.com/zuckung/test3/releases/download/Latest/Play.As.Sestor.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Play.As.Sestor/) <br>
+created by: Zoura (AvianGeneticist) | N/A<br>
+category: N/A | status: Playable on 0.9.15/0.9.16.<br>
+
+description:<br>
+>Play as Sestor does what it says on the tin! Start a new life (pilot) as a kiloton-rated metal death machine! Patrol space, amass a fleet, and conquer the galaxy!
+>Oh, yeah, by the way, everyone hates you, except for your bretheren.
+ 
+  
+___ 
+
+### PlayerRewards
+[PlayerRewards.zip](https://github.com/zuckung/test3/releases/download/Latest/PlayerRewards.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/PlayerRewards/) <br>
+created by: Beanzilla | [https://github.com/Beanzilla/PlayerRewards](https://github.com/Beanzilla/PlayerRewards)<br>
+category: gameplay | status: N/A<br>
+
+description:<br>
+>Visit New Boston to start getting Money and to get All the Licenses.
+>
+>For best use... please cancel the starting mission you get when making a new game and just take off and land.
+ 
+  
+___ 
+
+### Portraits.for.News
+[Portraits.for.News.zip](https://github.com/zuckung/test3/releases/download/Latest/Portraits.for.News.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Portraits.for.News/) <br>
+created by: Anarchist2 | [https://github.com/Anarchist2/ES-news-portraits](https://github.com/Anarchist2/ES-news-portraits)<br>
+category: story | status: made for 0.9.13<br>
+
+description:<br>
+>This plugin re-activates the portrait system for news in ES. Many of the images for portraits are already in the game, but became unused after portraits for news was disabled by default. However, some portraits had to be added for news items after 0.9.12. Alien portraits (including transhuman portraits) are not considered canon. 
+ 
+  
+___ 
+
+### Poseidon
+[Poseidon.zip](https://github.com/zuckung/test3/releases/download/Latest/Poseidon.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Poseidon/) <br>
+created by: N/A | N/A<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Project.Olympus
+[Project.Olympus.zip](https://github.com/zuckung/test3/releases/download/Latest/Project.Olympus.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Project.Olympus/) <br>
+created by: N/A | N/A<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Project.Runabout
+[Project.Runabout.zip](https://github.com/zuckung/test3/releases/download/Latest/Project.Runabout.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Project.Runabout/) <br>
+created by: N/A | N/A<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Project.Technovirus
+[Project.Technovirus.zip](https://github.com/zuckung/test3/releases/download/Latest/Project.Technovirus.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Project.Technovirus/) <br>
+created by: czartrak | [https://github.com/czartrak/Project-Technovirus](https://github.com/czartrak/Project-Technovirus)<br>
+category: races | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Prometeus.Flame
+[Prometeus.Flame.zip](https://github.com/zuckung/test3/releases/download/Latest/Prometeus.Flame.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Prometeus.Flame/) <br>
+created by: Delta-Zero | [https://github.com/Delta-Zero/Endless-Sky-Prometeus-Flame-Plugin](https://github.com/Delta-Zero/Endless-Sky-Prometeus-Flame-Plugin)<br>
+category: overhauls | status: WIP, Map Only<br>
+
+description:<br>
+>Prometeus Flame is a campaign expansion plugin that introduces a new corporation: “Prometeus AT Group” which become vital to the Free worlds war effort.
+>The company provides over eight new ships added to the campaign that will be operated exclusively by the FW giving the faction some serious new firepower as well as new missions integrating the Lyria System and its corporation Prometeus into the universe of Endless Sky and lore.
+ 
+  
+___ 
+
+### Prong
+[Prong.zip](https://github.com/zuckung/test3/releases/download/Latest/Prong.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Prong/) <br>
+created by: 1010todd | N/A<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>Add Prong interceptor, which is basically a Barb with extra gun.
+ 
+  
+___ 
+
+### Prototype.D
+[Prototype.D.zip](https://github.com/zuckung/test3/releases/download/Latest/Prototype.D.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Prototype.D/) <br>
+created by: 1010todd | N/A<br>
+category: ships | status: Playable on 0.9.15 Continuous.<br>
+
+description:<br>
+>Adds a ship to Tarazed shipyard and a few weapons.
+ 
+  
+___ 
+
+### Pug.Defense
+[Pug.Defense.zip](https://github.com/zuckung/test3/releases/download/Latest/Pug.Defense.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Pug.Defense/) <br>
+created by: Wyrdean | [https://github.com/Wyrdean/Pug-Defense](https://github.com/Wyrdean/Pug-Defense)<br>
+category: overhauls | status: works on 0.10.0<br>
+
+description:<br>
+>Pug Defense is a small but extremely challenging plugin which adds a system to the south of the galaxy, accessible only by jump drive. In the system, corrupted pug fleets will spawn, extremely hostile and after your blood, however, should you be strong enough, you can challenge the planets and demand tribute. The defenders are like nothing you've ever seen before, including the peak of Pug technology, the Pug Perfecta.
+>
+>To access the plugin content, first land on any planet to initialize the missions. Then go to the Sard system and jump south from there to a new system, Sylansia Lost. From there, landing on Monolith will begin the quest chain.
+ 
+  
+___ 
+
+### Pulse
+[Pulse.zip](https://github.com/zuckung/test3/releases/download/Latest/Pulse.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Pulse/) <br>
+created by: Jesse Dickens | N/A<br>
+category: weapons | status: N/A<br>
+
+description:<br>
+>The comcept is to create a series of crafts that combine the engineering prowess of the space pirates along with the technology of aliens.
+ 
+  
+___ 
+
+### Punt.Gun
+[Punt.Gun.zip](https://github.com/zuckung/test3/releases/download/Latest/Punt.Gun.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Punt.Gun/) <br>
+created by: 1010todd | N/A<br>
+category: weapons | status: N/A<br>
+
+description:<br>
+>Add bigger proton gun with higher knockback, and recoil. Found at Rust, Kraz system.
+ 
+  
+___ 
+
+### Quaernan
+[Quaernan.zip](https://github.com/zuckung/test3/releases/download/Latest/Quaernan.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Quaernan/) <br>
+created by: Zoura3025 | N/A<br>
+category: ships | status: Playable on 0.9.15 Continuous.<br>
+
+description:<br>
+>Add Quaernan, a human worldship from alternate universe.
+ 
+  
+___ 
+
+### QuaernanHardpoints
+[QuaernanHardpoints.zip](https://github.com/zuckung/test3/releases/download/Latest/QuaernanHardpoints.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/QuaernanHardpoints/) <br>
+created by: Zoura3025 | N/A<br>
+category: ships | status: Playable on 0.9.15 Continuous.<br>
+
+description:<br>
+>Add Quaernan, a human worldship from alternate universe.
+ 
+  
+___ 
+
+### QuaernanHardpointsCarries
+[QuaernanHardpointsCarries.zip](https://github.com/zuckung/test3/releases/download/Latest/QuaernanHardpointsCarries.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/QuaernanHardpointsCarries/) <br>
+created by: Zoura3025 | N/A<br>
+category: ships | status: Playable on 0.9.15 Continuous.<br>
+
+description:<br>
+>Add Quaernan, a human worldship from alternate universe.
+ 
+  
+___ 
+
+### QuaernanV2.Lian
+[QuaernanV2.Lian.zip](https://github.com/zuckung/test3/releases/download/Latest/QuaernanV2.Lian.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/QuaernanV2.Lian/) <br>
+created by: Zoura3025 | N/A<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>An endless sky plugin that just aims to flesh out the game with a wide variety of changes, ranging from experimental weapons to the expansion of both Human and Hai space, as well as a whole new (in-development) galaxy.
+ 
+  
+___ 
+
+### Quarg.AM
+[Quarg.AM.zip](https://github.com/zuckung/test3/releases/download/Latest/Quarg.AM.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Quarg.AM/) <br>
+created by: N/A | N/A<br>
+category: weapons | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Quarg.Elder.Dragon
+[Quarg.Elder.Dragon.zip](https://github.com/zuckung/test3/releases/download/Latest/Quarg.Elder.Dragon.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Quarg.Elder.Dragon/) <br>
+created by: mdsmestad | N/A<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Quarg.Military.Retalition
+[Quarg.Military.Retalition.zip](https://github.com/zuckung/test3/releases/download/Latest/Quarg.Military.Retalition.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Quarg.Military.Retalition/) <br>
+created by: Issacssv | N/A<br>
+category: story | status: Playable on 0.9.14, 0.9.15 Continuous.<br>
+
+description:<br>
+>Quarg fight back when farmed.
+ 
+  
+___ 
+
+### Quarg.Outfit.Overhaul
+[Quarg.Outfit.Overhaul.zip](https://github.com/zuckung/test3/releases/download/Latest/Quarg.Outfit.Overhaul.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Quarg.Outfit.Overhaul/) <br>
+created by: N/A | N/A<br>
+category: outfits | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Quargarriffic
+[Quargarriffic.zip](https://github.com/zuckung/test3/releases/download/Latest/Quargarriffic.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Quargarriffic/) <br>
+created by: N/A | N/A<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Random.Expansion
+[Random.Expansion.zip](https://github.com/zuckung/test3/releases/download/Latest/Random.Expansion.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Random.Expansion/) <br>
+created by: Alphean Boolean | [https://github.com/Disiuze/alphean-expansion](https://github.com/Disiuze/alphean-expansion)<br>
+category: overhauls | status: N/A<br>
+
+description:<br>
+>This mod by Alphean Boolean adds more ships, outfits, missions and governments to the game.
+ 
+  
+___ 
+
+### Raptor
+[Raptor.zip](https://github.com/zuckung/test3/releases/download/Latest/Raptor.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Raptor/) <br>
+created by: N/A | N/A<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Ravens.Aerie
+[Ravens.Aerie.zip](https://github.com/zuckung/test3/releases/download/Latest/Ravens.Aerie.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Ravens.Aerie/) <br>
+created by: N/A | N/A<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Realistic.Solar.System
+[Realistic.Solar.System.zip](https://github.com/zuckung/test3/releases/download/Latest/Realistic.Solar.System.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Realistic.Solar.System/) <br>
+created by: beccabunny | [https://github.com/beccabunny/Realistic-Solar-System](https://github.com/beccabunny/Realistic-Solar-System)<br>
+category: graphics | status: N/A<br>
+
+description:<br>
+>This plugin modifies the Sol system adding every planet, large moon (over 20!) and two dwarf planets (Ceres and Pluto with its moon, Charon), each with unique sprites modified from NASA pictures taken during various missions. Everything in Sol has also been resized to a much bigger and realistic size, including the Sun itself.
+ 
+  
+___ 
+
+### Recluse
+[Recluse.zip](https://github.com/zuckung/test3/releases/download/Latest/Recluse.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Recluse/) <br>
+created by: David Reynolds | [https://groups.google.com/forum/#!categories/endless-sky/content-creation](https://groups.google.com/forum/#!categories/endless-sky/content-creation)<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Recovery.Ships
+[Recovery.Ships.zip](https://github.com/zuckung/test3/releases/download/Latest/Recovery.Ships.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Recovery.Ships/) <br>
+created by: 1010Todd | N/A<br>
+category: N/A | status: Playable on 0.9.15 Continuous.<br>
+
+description:<br>
+>Add a few new ships for carrying other ships. Safemode avoids meddling with vanilla category.
+>WARNING: Will cause Light Warship and Light Freighter escorts from mission to not spawn. 
+  
+___ 
+
+### Recovery.Ships.Safemode
+[Recovery.Ships.Safemode.zip](https://github.com/zuckung/test3/releases/download/Latest/Recovery.Ships.Safemode.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Recovery.Ships.Safemode/) <br>
+created by: 1010Todd | N/A<br>
+category: ships | status: Playable on 0.9.15 Continuous.<br>
+
+description:<br>
+>Add a few new ships for carrying other ships. Safemode avoids meddling with vanilla category.
+ 
+  
+___ 
+
+### Red.Cross
+[Red.Cross.zip](https://github.com/zuckung/test3/releases/download/Latest/Red.Cross.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Red.Cross/) <br>
+created by: SirRailOfGun | [https://github.com/SirRailOfGun/ES-Red-Cross](https://github.com/SirRailOfGun/ES-Red-Cross)<br>
+category: story | status: N/A<br>
+
+description:<br>
+>This mod is a compiliation of medical-themed outfits and jobs, allowing the player to turn their ships into ambulances.
+ 
+  
+___ 
+
+### Red.s.Star.Trek.Prime.Ship.Pack.Plugin.0.4
+[Red.s.Star.Trek.Prime.Ship.Pack.Plugin.0.4.zip](https://github.com/zuckung/test3/releases/download/Latest/Red.s.Star.Trek.Prime.Ship.Pack.Plugin.0.4.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Red.s.Star.Trek.Prime.Ship.Pack.Plugin.0.4/) <br>
+created by: William 'Swingfire' | N/A<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Red.s.The.Final.Frontier.0.0.1a
+[Red.s.The.Final.Frontier.0.0.1a.zip](https://github.com/zuckung/test3/releases/download/Latest/Red.s.The.Final.Frontier.0.0.1a.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Red.s.The.Final.Frontier.0.0.1a/) <br>
+created by: N/A | N/A<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Remnant
+[Remnant.zip](https://github.com/zuckung/test3/releases/download/Latest/Remnant.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Remnant/) <br>
+created by: Zitchas | N/A<br>
+category: races | status: N/A<br>
+
+description:<br>
+>My collection of missions, excitement, and additional stuff for the Remnant.
+ 
+  
+___ 
+
+### Republic.Battlecruiser
+[Republic.Battlecruiser.zip](https://github.com/zuckung/test3/releases/download/Latest/Republic.Battlecruiser.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Republic.Battlecruiser/) <br>
+created by: N/A | N/A<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Republic.Destroyer
+[Republic.Destroyer.zip](https://github.com/zuckung/test3/releases/download/Latest/Republic.Destroyer.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Republic.Destroyer/) <br>
+created by: N/A | N/A<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Republic.Juggernaut
+[Republic.Juggernaut.zip](https://github.com/zuckung/test3/releases/download/Latest/Republic.Juggernaut.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Republic.Juggernaut/) <br>
+created by: 1010Todd | N/A<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>New Republic heavy warship for a competition.
+ 
+  
+___ 
+
+### Restock
+[Restock.zip](https://github.com/zuckung/test3/releases/download/Latest/Restock.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Restock/) <br>
+created by: Tommaso Becca | N/A<br>
+category: graphics | status: N/A<br>
+
+description:<br>
+>A visual mod that improves the look of many vanilla human outfits, either greatly detailing the original model or using a completely new one. Currently including 109 new sprites!
+ 
+  
+___ 
+
+### Reverse.Engineering
+[Reverse.Engineering.zip](https://github.com/zuckung/test3/releases/download/Latest/Reverse.Engineering.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Reverse.Engineering/) <br>
+created by: N/A | N/A<br>
+category: cheats | status: N/A<br>
+
+description:<br>
+>Small to medium sized mod focused around reverse engineering alien technology and establishing a business empire. 
+ 
+  
+___ 
+
+### Riley.s.Plugin
+[Riley.s.Plugin.zip](https://github.com/zuckung/test3/releases/download/Latest/Riley.s.Plugin.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Riley.s.Plugin/) <br>
+created by: N/A | N/A<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Salvaging
+[Salvaging.zip](https://github.com/zuckung/test3/releases/download/Latest/Salvaging.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Salvaging/) <br>
+created by: Hecter94 | N/A<br>
+category: gameplay | status: N/A<br>
+
+description:<br>
+>Salvaging proof of concept.
+ 
+  
+___ 
+
+### Sarcina
+[Sarcina.zip](https://github.com/zuckung/test3/releases/download/Latest/Sarcina.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Sarcina/) <br>
+created by: Darcy Manoel | N/A<br>
+category: races | status: N/A<br>
+
+description:<br>
+>Add a few ships across a few races. Add a new race Irm. Renamed and updated to AES Misc
+ 
+  
+___ 
+
+### Sci-Fi.Flavours
+[Sci-Fi.Flavours.zip](https://github.com/zuckung/test3/releases/download/Latest/Sci-Fi.Flavours.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Sci-Fi.Flavours/) <br>
+created by: Linear Perk | [https://github.com/LinearPerk/Sci-Fi-Flavours](https://github.com/LinearPerk/Sci-Fi-Flavours)<br>
+category: overhauls | status: N/A<br>
+
+description:<br>
+>This Plugin contains:
+>About 100 new ships
+>About 100 new outfits/weapons
+>No changes to storyline missions
+>More starter ships and increased start money (1 million)
+ 
+  
+___ 
+
+### Science.Stuff
+[Science.Stuff.zip](https://github.com/zuckung/test3/releases/download/Latest/Science.Stuff.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Science.Stuff/) <br>
+created by: N/A | N/A<br>
+category: outfits | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Scrapper.Extras
+[Scrapper.Extras.zip](https://github.com/zuckung/test3/releases/download/Latest/Scrapper.Extras.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Scrapper.Extras/) <br>
+created by: 1010todd | N/A<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>This plugin add a new small pirate interceptor, Scrapper. Comes in a few variants and are quite common to find. The Scrapper is weaker than Sparrow to allow stock Sparrow to actually beat something with relative ease.
+ 
+  
+___ 
+
+### sensor
+[sensor.zip](https://github.com/zuckung/test3/releases/download/Latest/sensor.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/sensor/) <br>
+created by: orbitalsupershell | [https://github.com/orbitalsupershell/sensor](https://github.com/orbitalsupershell/sensor)<br>
+category: weapons | status: N/A<br>
+
+description:<br>
+>Tiny mod for adding weapons, still in progress!
+>
+>More weapons WILL be added soon!
+ 
+  
+___ 
+
+### Shadow.s.Expansion
+[Shadow.s.Expansion.zip](https://github.com/zuckung/test3/releases/download/Latest/Shadow.s.Expansion.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Shadow.s.Expansion/) <br>
+created by: N/A | N/A<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### sheragi-rebirth-0.9.16.1.1
+[sheragi-rebirth-0.9.16.1.1.zip](https://github.com/zuckung/test3/releases/download/Latest/sheragi-rebirth-0.9.16.1.1.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/sheragi-rebirth-0.9.16.1.1/) <br>
+created by: N/A | N/A<br>
+category: story | status: N/A<br>
+
+description:<br>
+>Adds a new questline that leads to a small sheragi star cluster.
+ 
+  
+___ 
+
+### Shields.Up
+[Shields.Up.zip](https://github.com/zuckung/test3/releases/download/Latest/Shields.Up.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Shields.Up/) <br>
+created by: Alphean Boolean | [https://github.com/Disiuze/alphean-expansion](https://github.com/Disiuze/alphean-expansion)<br>
+category: overhauls | status: N/A<br>
+
+description:<br>
+>Say hello to the one and only Shields Up plugin! This iteration of Shields Up is the love-child of quite a few people, as it was worked on by Direstorm and Friendly Neighbor, has a few cool ships from Mdsmestad, was just recently merged with the Alphean's Expansion plugin, and is currently under the care of Derpy Horse.
+>Enjoy playing with dozens of new systems, outfits, and ships across the Milky Way galaxy (and beyond...?) as you encounter strange new alien races never before seen by humanity.
+ 
+  
+___ 
+
+### ShieldsUp.Derpy.s.Expansion
+[ShieldsUp.Derpy.s.Expansion.zip](https://github.com/zuckung/test3/releases/download/Latest/ShieldsUp.Derpy.s.Expansion.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/ShieldsUp.Derpy.s.Expansion/) <br>
+created by: N/A | N/A<br>
+category: overhauls | status: N/A<br>
+
+description:<br>
+>Derpy's Shields Up Expansion is a temporary addition to Shields Up that brings with it a few outfits that the main plugin does not offer, most notably at the moment outfits that increase your ammunition capacity for secondary weapons. This will eventually be removed.
+ 
+  
+___ 
+
+### ShieldsUp.Housekeeping
+[ShieldsUp.Housekeeping.zip](https://github.com/zuckung/test3/releases/download/Latest/ShieldsUp.Housekeeping.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/ShieldsUp.Housekeeping/) <br>
+created by: N/A | N/A<br>
+category: overhauls | status: N/A<br>
+
+description:<br>
+>Shields Up Housekeeping is a simple plugin meant to go along with the rest of the Shields Up pack to ensure the best Shields Up experience. Although not necessary, it's best to keep this installed, especially for players using pilots that played older versions of Shields Up.
+ 
+  
+___ 
+
+### ShieldsUp.Legacy
+[ShieldsUp.Legacy.zip](https://github.com/zuckung/test3/releases/download/Latest/ShieldsUp.Legacy.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/ShieldsUp.Legacy/) <br>
+created by: N/A | N/A<br>
+category: overhauls | status: N/A<br>
+
+description:<br>
+>Shields Up Legacy is a small combination of two of the oldest mods that were in the original Shields Up pack: That Someone and Tufton's plugins.
+>That Someone brings with it a whole new faction of Hai who have their own stories and outlooks on the history of the Hai, and a strange new Pug factions that partakes in a perpetual war.
+>Tufton adds cool new weapons and an amazing heavy fighter called the Tactical Assault Fighter.
+ 
+  
+___ 
+
+### ShieldsUp.Override
+[ShieldsUp.Override.zip](https://github.com/zuckung/test3/releases/download/Latest/ShieldsUp.Override.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/ShieldsUp.Override/) <br>
+created by: N/A | N/A<br>
+category: overhauls | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### ShieldsUp.Phils.Flavours
+[ShieldsUp.Phils.Flavours.zip](https://github.com/zuckung/test3/releases/download/Latest/ShieldsUp.Phils.Flavours.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/ShieldsUp.Phils.Flavours/) <br>
+created by: Phil Morley | N/A<br>
+category: N/A | status: N/A<br>
+
+description:<br>
+>Phil's Flavours is the newest addition to the Shields Up pack, and includes dozens of new animated ships and helpful new outfits, all made to look like they fit right in with the game.
+ 
+  
+___ 
+
+### ShieldsUp.Pompano.s.Ever.Expanding.Galaxy
+[ShieldsUp.Pompano.s.Ever.Expanding.Galaxy.zip](https://github.com/zuckung/test3/releases/download/Latest/ShieldsUp.Pompano.s.Ever.Expanding.Galaxy.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/ShieldsUp.Pompano.s.Ever.Expanding.Galaxy/) <br>
+created by: N/A | N/A<br>
+category: N/A | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### ShieldsUp_ZZOverride
+[ShieldsUp_ZZOverride.zip](https://github.com/zuckung/test3/releases/download/Latest/ShieldsUp_ZZOverride.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/ShieldsUp_ZZOverride/) <br>
+created by: N/A | N/A<br>
+category: overhauls | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Ship.Modded
+[Ship.Modded.zip](https://github.com/zuckung/test3/releases/download/Latest/Ship.Modded.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Ship.Modded/) <br>
+created by: Beanzilla | [https://github.com/Beanzilla/ShipModded](https://github.com/Beanzilla/ShipModded)<br>
+category: outfits | status: N/A<br>
+
+description:<br>
+>This is a plugin/mod designed to provide special items that "cheat" or "hack" in the game, it allows you to modify just about everything on your ship all within game instead of needing to modify your save file.
+ 
+  
+___ 
+
+### Ship.Overhaul
+[Ship.Overhaul.zip](https://github.com/zuckung/test3/releases/download/Latest/Ship.Overhaul.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Ship.Overhaul/) <br>
+created by: Vrok-Kronos | [https://github.com/Vrok-Kronos/endless-sky-ship-overhaul](https://github.com/Vrok-Kronos/endless-sky-ship-overhaul)<br>
+category: gameplay | status: N/A<br>
+
+description:<br>
+>Overhaul of ships and systems to make flying a capital ship feel weighty...
+>
+>More mass on larger ships, better shield and hull regen, faster drones & intercepters, and quicker turn rates
+ 
+  
+___ 
+
+### Ship.Testing
+[Ship.Testing.zip](https://github.com/zuckung/test3/releases/download/Latest/Ship.Testing.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Ship.Testing/) <br>
+created by: loiseeer | [https://github.com/loiseeer/Ship-testing](https://github.com/loiseeer/Ship-testing)<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Shipmod
+[Shipmod.zip](https://github.com/zuckung/test3/releases/download/Latest/Shipmod.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Shipmod/) <br>
+created by: Lake (Galaucus) | [https://github.com/Galaucus/Shipmod](https://github.com/Galaucus/Shipmod)<br>
+category: cheats | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Shirni
+[Shirni.zip](https://github.com/zuckung/test3/releases/download/Latest/Shirni.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Shirni/) <br>
+created by: Quantumshark | [https://github.com/Quantumshark/ES-Shirni](https://github.com/Quantumshark/ES-Shirni)<br>
+category: races | status: N/A<br>
+
+description:<br>
+>A plugin adding a new alien species, the Shirni, who live north of Deep space.
+ 
+  
+___ 
+
+### Slightly.Less.Self-Destructive.Korath.Automa
+[Slightly.Less.Self-Destructive.Korath.Automa.zip](https://github.com/zuckung/test3/releases/download/Latest/Slightly.Less.Self-Destructive.Korath.Automa.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Slightly.Less.Self-Destructive.Korath.Automa/) <br>
+created by: N/A | N/A<br>
+category: cheats | status: N/A<br>
+
+description:<br>
+>All this little plugin does is make them Korath Automa a little less likely to react like an Electrode and explode in your face when you try to board/capture them.
+ 
+  
+___ 
+
+### Smugglers.Corporations.and.Other.Thieves
+[Smugglers.Corporations.and.Other.Thieves.zip](https://github.com/zuckung/test3/releases/download/Latest/Smugglers.Corporations.and.Other.Thieves.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Smugglers.Corporations.and.Other.Thieves/) <br>
+created by: pootthedestroyer | N/A<br>
+category: story | status: Playable on 0.9.14, 0.9.15 Continuous.<br>
+
+description:<br>
+>Add a few new ships and weapons.
+ 
+  
+___ 
+
+### snowfeather.robotics
+<img src='Working/All Plugins/snowfeather.robotics/icon.png' width='55'></img><br>
+[snowfeather.robotics.zip](https://github.com/zuckung/test3/releases/download/Latest/snowfeather.robotics.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/snowfeather.robotics/) <br>
+created by: zuckung | [https://github.com/zuckung/endless-sky-plugins](https://github.com/zuckung/endless-sky-plugins)<br>
+category: outfits | status: made for 0.10.0<br>
+
+description:<br>
+>(story, 1 new outfit)
+>
+>Adds three missions that lead to adding androids to the outfitter on Snowfeather(Hai space).
+>Starts on Snowfeather(Bore Fah) after completing mission "remnant: shattered light 4" and have at least one android installed. 
+  
+___ 
+
+### Solar.Sails
+[Solar.Sails.zip](https://github.com/zuckung/test3/releases/download/Latest/Solar.Sails.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Solar.Sails/) <br>
+created by: TheronEpic | [https://github.com/TheronEpic/theronepic-solar-sails](https://github.com/TheronEpic/theronepic-solar-sails)<br>
+category: outfits | status: Playable on 0.9.14, 0.9.15 Continuous.<br>
+
+description:<br>
+>TheronEpic's Solar Sails introduces a new type of engine: Solar Sails. They're cheap, have only 25% of their size in mass, produce forward, reverse, and steering thrust, and consume negligable levels of energy.
+ 
+  
+___ 
+
+### Sounds.Of.Endless.Sky
+[Sounds.Of.Endless.Sky.zip](https://github.com/zuckung/test3/releases/download/Latest/Sounds.Of.Endless.Sky.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Sounds.Of.Endless.Sky/) <br>
+created by: Sam Gleske | [https://github.com/samrocketman/sounds-of-endless-sky](https://github.com/samrocketman/sounds-of-endless-sky)<br>
+category: N/A | status: N/A<br>
+
+description:<br>
+>This is a plugin aiming to provide music for Endless Sky as well as remaster the audio to balance it.
+>
+ 
+  
+___ 
+
+### Space.Conversion
+[Space.Conversion.zip](https://github.com/zuckung/test3/releases/download/Latest/Space.Conversion.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Space.Conversion/) <br>
+created by: whismerhill | [https://www.nexusmods.com/endlesssky/mods/1](https://www.nexusmods.com/endlesssky/mods/1)<br>
+category: cheats | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Space.Invaders
+[Space.Invaders.zip](https://github.com/zuckung/test3/releases/download/Latest/Space.Invaders.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Space.Invaders/) <br>
+created by: mdsmestad | N/A<br>
+category: races | status: Playable on 0.9.14, 0.9.15 Continuous.<br>
+
+description:<br>
+>This plugin add the iconic space invader at the end of the world.
+>
+>Note: You need to finish FW storyline first if you want to find them.
+ 
+  
+___ 
+
+### Space.Shuttle.Start
+[Space.Shuttle.Start.zip](https://github.com/zuckung/test3/releases/download/Latest/Space.Shuttle.Start.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Space.Shuttle.Start/) <br>
+created by: MidnightPlugins | [https://github.com/MidnightPlugins/Space-Shuttle-Start/releases](https://github.com/MidnightPlugins/Space-Shuttle-Start/releases)<br>
+category: N/A | status: story<br>
+
+description:<br>
+>Start in the Sol system with an old Earth relic for your ship.
+>
+>The space shuttle has no weapons, but lots of cargo space.
+>
+>It has an Afterburner.
+>
+ 
+  
+___ 
+
+### Space.Things
+[Space.Things.zip](https://github.com/zuckung/test3/releases/download/Latest/Space.Things.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Space.Things/) <br>
+created by: Michael Arsollon | N/A<br>
+category: races | status: N/A<br>
+
+description:<br>
+>The Space things mod implements many space themed ships, planets, etc. into the game. Of course some continuity errors 
+>will arise, mostly because i have to change the story to fit into the Endless Sky world. More updates will come, 
+>however i can't guarantee consistanty in updates. I hope you enjoy! (There might be some easter eggs in the Pirate systems,
+>just be patient and you'll see. :) 
+  
+___ 
+
+### SpaceCrate-0.4
+[SpaceCrate-0.4.zip](https://github.com/zuckung/test3/releases/download/Latest/SpaceCrate-0.4.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/SpaceCrate-0.4/) <br>
+created by: Arnan de Gans | [www.arnan.me](www.arnan.me)<br>
+category: story | status: Tested on: ES 0.9.16.1 (macOS)<br>
+
+description:<br>
+>SpaceCrate adds planet X-283N1 in the Alpha Centauri system. A rapidly developing world obsessed with trade and exports. Ship workers and raw materials in bulk to the planet. Export everything they produce.
+>Version: 0.3
+>
+>
+ 
+  
+___ 
+
+### Spacefarer
+[Spacefarer.zip](https://github.com/zuckung/test3/releases/download/Latest/Spacefarer.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Spacefarer/) <br>
+created by: samrocketman and Airhead | [https://github.com/samrocketman/Spacefarer](https://github.com/samrocketman/Spacefarer)<br>
+category: gameplay | status: Playable on 0.9.15 Continuous.<br>
+
+description:<br>
+>One Jump Drive; No ship capturing; No plundering installed outfits.
+ 
+  
+___ 
+
+### Spacetime.Ripper.Warhead
+[Spacetime.Ripper.Warhead.zip](https://github.com/zuckung/test3/releases/download/Latest/Spacetime.Ripper.Warhead.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Spacetime.Ripper.Warhead/) <br>
+created by: Karirawri | [https://github.com/Karirawri/Spacetime-Ripper-Warhead](https://github.com/Karirawri/Spacetime-Ripper-Warhead)<br>
+category: weapons | status: N/A<br>
+
+description:<br>
+>A proof of concept superweapon for Endless sky. Available in Trinket, Makerplace and World forge.
+>
+ 
+  
+___ 
+
+### Speed.Stabilisers
+[Speed.Stabilisers.zip](https://github.com/zuckung/test3/releases/download/Latest/Speed.Stabilisers.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Speed.Stabilisers/) <br>
+created by: N/A | N/A<br>
+category: outfits | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Squid.Ship
+[Squid.Ship.zip](https://github.com/zuckung/test3/releases/download/Latest/Squid.Ship.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Squid.Ship/) <br>
+created by: seanpuller | N/A<br>
+category: ships | status: Playable on 0.9.15 Continuous.<br>
+
+description:<br>
+>Add a star-camouflaged and animated ship.
+ 
+  
+___ 
+
+### Star.Destroyer
+[Star.Destroyer.zip](https://github.com/zuckung/test3/releases/download/Latest/Star.Destroyer.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Star.Destroyer/) <br>
+created by: N/A | N/A<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Star.Wars
+[Star.Wars.zip](https://github.com/zuckung/test3/releases/download/Latest/Star.Wars.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Star.Wars/) <br>
+created by: N/A | N/A<br>
+category: overhauls | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Star.Wars.Map
+[Star.Wars.Map.zip](https://github.com/zuckung/test3/releases/download/Latest/Star.Wars.Map.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Star.Wars.Map/) <br>
+created by: N/A | N/A<br>
+category: races | status: N/A<br>
+
+description:<br>
+>The current goal is to have every system from Star Wars Legends placed as accurately as
+>possible (within reason), and to have sector borders, trade routes, and important
+>astronomical features such as the Void of Chopani labled.
+ 
+  
+___ 
+
+### Starbridge.Pack
+[Starbridge.Pack.zip](https://github.com/zuckung/test3/releases/download/Latest/Starbridge.Pack.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Starbridge.Pack/) <br>
+created by: autohummer | [https://github.com/Autohummer/Endless-Sky-Starbridge-Pack](https://github.com/Autohummer/Endless-Sky-Starbridge-Pack)<br>
+category: ships | status: Playable on 0.9.14, 0.9.15 Continuous.<br>
+
+description:<br>
+>Add Starbridge(and its variant) from Escape Velocity series. 
+  
+___ 
+
+### Stargate.Mod
+[Stargate.Mod.zip](https://github.com/zuckung/test3/releases/download/Latest/Stargate.Mod.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Stargate.Mod/) <br>
+created by: N/A | N/A<br>
+category: races | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Starhopper
+[Starhopper.zip](https://github.com/zuckung/test3/releases/download/Latest/Starhopper.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Starhopper/) <br>
+created by: N/A | N/A<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Starlus
+[Starlus.zip](https://github.com/zuckung/test3/releases/download/Latest/Starlus.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Starlus/) <br>
+created by: pilover100 | [https://github.com/pilover100/starlus-plugin](https://github.com/pilover100/starlus-plugin)<br>
+category: races | status: N/A<br>
+
+description:<br>
+>The Starlus are an unusual species living south of human space that the player can interact with and learn to speak to them in order to (eventually) earn the right to purchase some of their technology and unlock some unique storylines that arrive via a mysterious wormhole.
+>
+>
+ 
+  
+___ 
+
+### StarSector
+[StarSector.zip](https://github.com/zuckung/test3/releases/download/Latest/StarSector.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/StarSector/) <br>
+created by: N/A | N/A<br>
+category: races | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Stat.Reworks
+[Stat.Reworks.zip](https://github.com/zuckung/test3/releases/download/Latest/Stat.Reworks.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Stat.Reworks/) <br>
+created by: Saturnalia9 | N/A<br>
+category: weapons | status: Should work on 0.9.15, 0.9.16, Continuous.<br>
+
+description:<br>
+>Reworked vanilla weapon stats and add new weapons for more diversity.
+ 
+  
+___ 
+
+### Stronger.Hulls
+[Stronger.Hulls.zip](https://github.com/zuckung/test3/releases/download/Latest/Stronger.Hulls.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Stronger.Hulls/) <br>
+created by: Connor Waterbanks | N/A<br>
+category: gameplay | status: Playable on 0.9.14, 0.9.15 Continuous<br>
+
+description:<br>
+>This plugin multiplies all ship hulls by five meaning ship combat lasts five times longer.
+>
+ 
+  
+___ 
+
+### Subsidurial.Petting.Zoo
+[Subsidurial.Petting.Zoo.zip](https://github.com/zuckung/test3/releases/download/Latest/Subsidurial.Petting.Zoo.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Subsidurial.Petting.Zoo/) <br>
+created by: N/A | N/A<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>Adopt tamed Subsidurials into your fleet, so you can have all the 700+ ton furry friends you could want.
+>
+>Biiig space moo-moos.
+ 
+  
+___ 
+
+### Super.Carrier
+[Super.Carrier.zip](https://github.com/zuckung/test3/releases/download/Latest/Super.Carrier.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Super.Carrier/) <br>
+created by: N/A | N/A<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Super.Kestrel
+[Super.Kestrel.zip](https://github.com/zuckung/test3/releases/download/Latest/Super.Kestrel.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Super.Kestrel/) <br>
+created by: mdsmestad | N/A<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Super.Ships
+[Super.Ships.zip](https://github.com/zuckung/test3/releases/download/Latest/Super.Ships.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Super.Ships/) <br>
+created by: taldarus | [https://www.moddb.com/mods/super-ships](https://www.moddb.com/mods/super-ships)<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>Adds more ships and outfits to the game.
+ 
+  
+___ 
+
+### Superquest
+[Superquest.zip](https://github.com/zuckung/test3/releases/download/Latest/Superquest.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Superquest/) <br>
+created by: N/A | N/A<br>
+category: story | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Support.Beams
+[Support.Beams.zip](https://github.com/zuckung/test3/releases/download/Latest/Support.Beams.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Support.Beams/) <br>
+created by: 1010Todd | N/A<br>
+category: weapons | status: N/A<br>
+
+description:<br>
+>Add a few supportive beams (Repair, Shields, etc.) Don't give to AI.
+ 
+  
+___ 
+
+### Swarm.Ship
+[Swarm.Ship.zip](https://github.com/zuckung/test3/releases/download/Latest/Swarm.Ship.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Swarm.Ship/) <br>
+created by: mdsmestad | N/A<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Swizzle.Player
+[Swizzle.Player.zip](https://github.com/zuckung/test3/releases/download/Latest/Swizzle.Player.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Swizzle.Player/) <br>
+created by: Cat-Lady | [https://github.com/Cat-Lady/swizzle-player/releases](https://github.com/Cat-Lady/swizzle-player/releases)<br>
+category: graphics | status: N/A<br>
+
+description:<br>
+>This is a small plugin that allow to change player's swizzle in "Endless Sky" - and keep the colour after ES get updates that change goverments.txt data file.
+>
+>![Swizzle Player Image](/swizzle-player/icon.png?raw=true "Swizzle Player Image")
+>
+ 
+  
+___ 
+
+### Synchrony
+[Synchrony.zip](https://github.com/zuckung/test3/releases/download/Latest/Synchrony.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Synchrony/) <br>
+created by: N/A | N/A<br>
+category: races | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Syndicate
+[Syndicate.zip](https://github.com/zuckung/test3/releases/download/Latest/Syndicate.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Syndicate/) <br>
+created by: N/A | N/A<br>
+category: story | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Syndicate.Campaign
+[Syndicate.Campaign.zip](https://github.com/zuckung/test3/releases/download/Latest/Syndicate.Campaign.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Syndicate.Campaign/) <br>
+created by: N/A | N/A<br>
+category: N/A | status: story<br>
+
+description:<br>
+>This is an alternate start for Endless Sky, with a full storyline running parallel to the Free Worlds story.
+>
+>Current status
+>
+>Main story and most side-things, complete. This will take you up to the end of the civil war, all completed and ready to continue the game as if you'd completed the main-game story.
+>
+>Remaining: logs on all the events; a few more epilogue conversations; and various hopefully-minor issues, both discovered and undiscovered.
+ 
+  
+___ 
+
+### Syndicate.Capital.Ships
+[Syndicate.Capital.Ships.zip](https://github.com/zuckung/test3/releases/download/Latest/Syndicate.Capital.Ships.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Syndicate.Capital.Ships/) <br>
+created by: Ejothims | [https://github.com/EjoThims/Syndicate-Capital-Ships](https://github.com/EjoThims/Syndicate-Capital-Ships)<br>
+category: ships | status: Playable on 0.9.15 Continuous.<br>
+
+description:<br>
+>Adds beefed up versions of Vanguard, with a new spinal mount proton gun, and Protector, which uses angled gun ports and 8 fighter slots.
+>
+ 
+  
+___ 
+
+### Syndicate.Consultancy
+[Syndicate.Consultancy.zip](https://github.com/zuckung/test3/releases/download/Latest/Syndicate.Consultancy.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Syndicate.Consultancy/) <br>
+created by: Elyssaen | [https://github.com/Elyssaen/syndicate-consultancy](https://github.com/Elyssaen/syndicate-consultancy)<br>
+category: story | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Syndicate.Story
+[Syndicate.Story.zip](https://github.com/zuckung/test3/releases/download/Latest/Syndicate.Story.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Syndicate.Story/) <br>
+created by: N/A | N/A<br>
+category: story | status: N/A<br>
+
+description:<br>
+>This is an alternate start for Endless Sky, with a full storyline running parallel to the Free Worlds story.
+>
+>Current status
+>
+>Intro and part 2/4 finished: Runs up almost to the point of the Free Worlds choice to side with the defector or Syndicate
+>
+>- Plus the main side-plot for part I, and some side jobs
+>
+>I've written the story outline for the rest, up to the end of the civil war, but not written it into the game yet: that's To Be Continued.
+ 
+  
+___ 
+
+### Tachyon
+[Tachyon.zip](https://github.com/zuckung/test3/releases/download/Latest/Tachyon.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Tachyon/) <br>
+created by: mdsmestad | N/A<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Tale.Of.Apoxys
+[Tale.Of.Apoxys.zip](https://github.com/zuckung/test3/releases/download/Latest/Tale.Of.Apoxys.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Tale.Of.Apoxys/) <br>
+created by: N/A | N/A<br>
+category: gameplay | status: N/A<br>
+
+description:<br>
+>Turns endless sky into a "character-driven" RPG, featuring a special ship known as the Apoxys. Take the helm of the black and red beauty and play your way through the whole game in just one ship; a ship that just so happens to grow along with you!
+ 
+  
+___ 
+
+### Terrans
+[Terrans.zip](https://github.com/zuckung/test3/releases/download/Latest/Terrans.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Terrans/) <br>
+created by: TimCabbage | [https://github.com/sivael/EndlessSkyTerrans/](https://github.com/sivael/EndlessSkyTerrans/)<br>
+category: races | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### test.convo
+[test.convo.zip](https://github.com/zuckung/test3/releases/download/Latest/test.convo.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/test.convo/) <br>
+created by: N/A | N/A<br>
+category: story | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### That.Someone
+[That.Someone.zip](https://github.com/zuckung/test3/releases/download/Latest/That.Someone.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/That.Someone/) <br>
+created by: N/A | N/A<br>
+category: story | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### The.Arion.Campaign
+[The.Arion.Campaign.zip](https://github.com/zuckung/test3/releases/download/Latest/The.Arion.Campaign.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/The.Arion.Campaign/) <br>
+created by: Red-57 | [https://github.com/Red-57/The-Arion-Campaign](https://github.com/Red-57/The-Arion-Campaign)<br>
+category: races | status: N/A<br>
+
+description:<br>
+>Adds a new group of tier 2.5 aliens and a long storyline to go with it  
+ 
+  
+___ 
+
+### The.Borg.Captain
+[The.Borg.Captain.zip](https://github.com/zuckung/test3/releases/download/Latest/The.Borg.Captain.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/The.Borg.Captain/) <br>
+created by: The Borg Captain | [https://github.com/The-Borg-Captain/TheBorgCaptain-s-Shipyard](https://github.com/The-Borg-Captain/TheBorgCaptain-s-Shipyard)<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>Welcome to The Borg Captain's Shipyard where you can find mainly ship plugins for Endless Sky 
+  
+___ 
+
+### The.Empire.s.March
+[The.Empire.s.March.zip](https://github.com/zuckung/test3/releases/download/Latest/The.Empire.s.March.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/The.Empire.s.March/) <br>
+created by: Rushin Neighbour | N/A<br>
+category: overhauls | status: N/A<br>
+
+description:<br>
+> Tie fighter code
+> And
+> The imperial system "Kullat"
+ 
+  
+___ 
+
+### The.Enclave
+[The.Enclave.zip](https://github.com/zuckung/test3/releases/download/Latest/The.Enclave.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/The.Enclave/) <br>
+created by: Storm Crow | [https://github.com/1010todd/The-Enclave](https://github.com/1010todd/The-Enclave)<br>
+category: overhauls | status: Playable on 0.9.14, 0.9.15 Continuous.<br>
+
+description:<br>
+>The Enclave is a story-driven plugin focused on the discovery of an isolated group of humans stranded, hundreds of years ago, in another galaxy. I'd recommend you have a large Tier 2 fleet at least to complete the (admittedly still in-progress) story.
+ 
+  
+___ 
+
+### The.Evora.Navaiya
+[The.Evora.Navaiya.zip](https://github.com/zuckung/test3/releases/download/Latest/The.Evora.Navaiya.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/The.Evora.Navaiya/) <br>
+created by: Polaria1 | [https://github.com/Polaria1/The-Evora-Navaiya](https://github.com/Polaria1/The-Evora-Navaiya)<br>
+category: races | status: N/A<br>
+
+description:<br>
+>The Evora Navaiya adds two alien species to the southwest of Coalition space; the Evora Navaiya and the Doyek.
+ 
+  
+___ 
+
+### The.Final.Frontier
+[The.Final.Frontier.zip](https://github.com/zuckung/test3/releases/download/Latest/The.Final.Frontier.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/The.Final.Frontier/) <br>
+created by: William 'Swingfire' | [https://www.indiedb.com/mods/endless-sky-the-final-frontier](https://www.indiedb.com/mods/endless-sky-the-final-frontier)<br>
+category: overhauls | status: N/A<br>
+
+description:<br>
+>Add Star Trek ships.
+ 
+  
+___ 
+
+### The.Forgotten
+[The.Forgotten.zip](https://github.com/zuckung/test3/releases/download/Latest/The.Forgotten.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/The.Forgotten/) <br>
+created by: Startome | [https://github.com/Startome/TheForgotten](https://github.com/Startome/TheForgotten)<br>
+category: races | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### The.Great.Journey
+[The.Great.Journey.zip](https://github.com/zuckung/test3/releases/download/Latest/The.Great.Journey.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/The.Great.Journey/) <br>
+created by: Mr.Guineo | N/A<br>
+category: races | status: N/A<br>
+
+description:<br>
+>This is a new and at the momment WIP content plugin based in the halo universe, adding 12 new ships and 14 new outfits, including 3 new powerful spinal weapons, all purchasable in the deep and renmant.
+>
+>
+ 
+  
+___ 
+
+### The.Heroes
+[The.Heroes.zip](https://github.com/zuckung/test3/releases/download/Latest/The.Heroes.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/The.Heroes/) <br>
+created by: mdsmestad | [https://github.com/Hondolor/The-Heroes-ES-Pluggin](https://github.com/Hondolor/The-Heroes-ES-Pluggin)<br>
+category: ships | status: Playable on 0.9.14, 0.9.15 Continuous.<br>
+
+description:<br>
+>Add a bunch of person ships representing the community members.
+ 
+  
+___ 
+
+### The.Jump.Gate.Project
+[The.Jump.Gate.Project.zip](https://github.com/zuckung/test3/releases/download/Latest/The.Jump.Gate.Project.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/The.Jump.Gate.Project/) <br>
+created by: N/A | N/A<br>
+category: races | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### The.Legacy
+[The.Legacy.zip](https://github.com/zuckung/test3/releases/download/Latest/The.Legacy.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/The.Legacy/) <br>
+created by: pega3 | [https://github.com/pega3/endless-sky-the-legacy-plugin](https://github.com/pega3/endless-sky-the-legacy-plugin)<br>
+category: story | status: N/A<br>
+
+description:<br>
+>Endless Sky: The Legacy takes the player on a chase through the Galaxy, covering
+>multiple races and testing the knowledge of the player on the systems of Endless
+>Sky and the storylines.
+ 
+  
+___ 
+
+### The.Machines.are.Taking.Over
+[The.Machines.are.Taking.Over.zip](https://github.com/zuckung/test3/releases/download/Latest/The.Machines.are.Taking.Over.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/The.Machines.are.Taking.Over/) <br>
+created by: SpiralCat | [https://www.moddb.com/mods/the-machines-are-taking-over](https://www.moddb.com/mods/the-machines-are-taking-over)<br>
+category: outfits | status: N/A<br>
+
+description:<br>
+>Adds mechs and some other customization options.
+ 
+  
+___ 
+
+### The.Mysterious.Baby
+[The.Mysterious.Baby.zip](https://github.com/zuckung/test3/releases/download/Latest/The.Mysterious.Baby.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/The.Mysterious.Baby/) <br>
+created by: N/A | N/A<br>
+category: story | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### The.Ships.of.the.Internet
+[The.Ships.of.the.Internet.zip](https://github.com/zuckung/test3/releases/download/Latest/The.Ships.of.the.Internet.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/The.Ships.of.the.Internet/) <br>
+created by: N/A | N/A<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### The.Station.of.Dr.Rousseau
+[The.Station.of.Dr.Rousseau.zip](https://github.com/zuckung/test3/releases/download/Latest/The.Station.of.Dr.Rousseau.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/The.Station.of.Dr.Rousseau/) <br>
+created by: N/A | N/A<br>
+category: story | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### The.Swarm.Project
+[The.Swarm.Project.zip](https://github.com/zuckung/test3/releases/download/Latest/The.Swarm.Project.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/The.Swarm.Project/) <br>
+created by: jafdy | [https://github.com/jafdy/the-swarm-project](https://github.com/jafdy/the-swarm-project)<br>
+category: races | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### The.Witch
+[The.Witch.zip](https://github.com/zuckung/test3/releases/download/Latest/The.Witch.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/The.Witch/) <br>
+created by: 1010todd | N/A<br>
+category: weapons | status: N/A<br>
+
+description:<br>
+>Add small spaceport mission that can offer you various magic orbs to assist you in-flight.
+>
+>Will conflict with anything that add: "Repair Beam"
+ 
+  
+___ 
+
+### Thunderhead.Lance
+[Thunderhead.Lance.zip](https://github.com/zuckung/test3/releases/download/Latest/Thunderhead.Lance.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Thunderhead.Lance/) <br>
+created by: BCPowerhouse | N/A<br>
+category: weapons | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Tiny.Ships
+[Tiny.Ships.zip](https://github.com/zuckung/test3/releases/download/Latest/Tiny.Ships.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Tiny.Ships/) <br>
+created by: N/A | N/A<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Titans
+[Titans.zip](https://github.com/zuckung/test3/releases/download/Latest/Titans.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Titans/) <br>
+created by: N/A | N/A<br>
+category: overhauls | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### too.many.asteroids
+<img src='Working/All Plugins/too.many.asteroids/icon.png' width='55'></img><br>
+[too.many.asteroids.zip](https://github.com/zuckung/test3/releases/download/Latest/too.many.asteroids.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/too.many.asteroids/) <br>
+created by: zuckung | [https://github.com/zuckung/endless-sky-plugins](https://github.com/zuckung/endless-sky-plugins)<br>
+category: overhauls | status: made for 0.10.0<br>
+
+description:<br>
+>(1-6 system attributes changed, in 540 systems)
+>
+>Removes all non-mineable asteroids from all systems. Mineable asteroids and asteroid belts are untouched. 
+  
+___ 
+
+### TooManyBlasters
+[TooManyBlasters.zip](https://github.com/zuckung/test3/releases/download/Latest/TooManyBlasters.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/TooManyBlasters/) <br>
+created by: N/A | N/A<br>
+category: weapons | status: N/A<br>
+
+description:<br>
+>Pssh, just put 90 blasters on a turret mount, idk.
+ 
+  
+___ 
+
+### Tremor.Gunship
+[Tremor.Gunship.zip](https://github.com/zuckung/test3/releases/download/Latest/Tremor.Gunship.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Tremor.Gunship/) <br>
+created by: N/A | N/A<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>Add OP heavily armed light warship with unique weapon tuned for solo play and capable of taking down most ship with some piloting skill.
+ 
+  
+___ 
+
+### tribute-domination
+[tribute-domination.zip](https://github.com/zuckung/test3/releases/download/Latest/tribute-domination.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/tribute-domination/) <br>
+created by: Legolas @CodeDraken | N/A<br>
+category: N/A | status: N/A<br>
+
+description:<br>
+>A (mostly) programmatically generated mod that allows you to demand tribute from all planets, increases the tribute amount, and enables conquering systems.
+ 
+  
+___ 
+
+### Tribute.and.Domination
+[Tribute.and.Domination.zip](https://github.com/zuckung/test3/releases/download/Latest/Tribute.and.Domination.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Tribute.and.Domination/) <br>
+created by: Legolas | N/A<br>
+category: story | status: Playable on 0.9.14, 0.9.15 Continuous.<br>
+
+description:<br>
+>Allow you to tribute (almost) every planet(alien included) and start your own faction.
+ 
+  
+___ 
+
+### Trin
+[Trin.zip](https://github.com/zuckung/test3/releases/download/Latest/Trin.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Trin/) <br>
+created by: Elyssaen | [https://github.com/Elyssaen/trin](https://github.com/Elyssaen/trin)<br>
+category: races | status: N/A<br>
+
+description:<br>
+>The Trin are a proposed hostile, Tier 3 alien species.
+ 
+  
+___ 
+
+### Trollship
+[Trollship.zip](https://github.com/zuckung/test3/releases/download/Latest/Trollship.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Trollship/) <br>
+created by: House Kitty | N/A<br>
+category: cheats | status: Playable on 0.9.14, 0.9.15 Continuous.<br>
+
+description:<br>
+>Occasionally spawn troll ships in transport.
+ 
+  
+___ 
+
+### Tufton.Plugin
+[Tufton.Plugin.zip](https://github.com/zuckung/test3/releases/download/Latest/Tufton.Plugin.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Tufton.Plugin/) <br>
+created by: N/A | N/A<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Tuftons.Stuffs
+[Tuftons.Stuffs.zip](https://github.com/zuckung/test3/releases/download/Latest/Tuftons.Stuffs.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Tuftons.Stuffs/) <br>
+created by: N/A | N/A<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Twinargosy
+[Twinargosy.zip](https://github.com/zuckung/test3/releases/download/Latest/Twinargosy.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Twinargosy/) <br>
+created by: Zoura | N/A<br>
+category: ships | status: playable on 0.9.15 Continuous.<br>
+
+description:<br>
+>This is a plugin giving stats to a seemingly previously unused Twin Argosy hull image.
+ 
+  
+___ 
+
+### Ultaka.Invasion.of.Milky.Way
+[Ultaka.Invasion.of.Milky.Way.zip](https://github.com/zuckung/test3/releases/download/Latest/Ultaka.Invasion.of.Milky.Way.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Ultaka.Invasion.of.Milky.Way/) <br>
+created by: 1010Todd | N/A<br>
+category: races | status: N/A<br>
+
+description:<br>
+>Got bored of writing intross. Here's what Ultaka were originally made for (The original plugin was never released).
+>
+>REQUIRES: Galactic War plugin for assets, AES Omnis to access the conten
+ 
+  
+___ 
+
+### Ultimate.Cheater.Plugin
+[Ultimate.Cheater.Plugin.zip](https://github.com/zuckung/test3/releases/download/Latest/Ultimate.Cheater.Plugin.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Ultimate.Cheater.Plugin/) <br>
+created by: mdsmestad | [https://github.com/Hondolor/mdsmestad-Ultimate-Cheater-Pluggin](https://github.com/Hondolor/mdsmestad-Ultimate-Cheater-Pluggin)<br>
+category: cheats | status: Playable on 0.9.14, 0.9.15 Continuous.<br>
+
+description:<br>
+>This plugin was made to allow content creators to have access to all outfits in a single place, for the purpose of designing and testing outfit loadouts for new ships. Of course, it can also be used by people who want to ruin the game for themselves by getting a massive fleet without needing to work for it.
+>
+ 
+  
+___ 
+
+### Ultra.Protector
+[Ultra.Protector.zip](https://github.com/zuckung/test3/releases/download/Latest/Ultra.Protector.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Ultra.Protector/) <br>
+created by: N/A | N/A<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Undisclosed.Plugin
+[Undisclosed.Plugin.zip](https://github.com/zuckung/test3/releases/download/Latest/Undisclosed.Plugin.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Undisclosed.Plugin/) <br>
+created by: petervdmeer | [https://github.com/petervdmeer/endless-sky-undisclosed-plugin](https://github.com/petervdmeer/endless-sky-undisclosed-plugin)<br>
+category: overhauls | status: N/A<br>
+
+description:<br>
+>Various concept ideas.
+ 
+  
+___ 
+
+### Unfettered.Conquest
+[Unfettered.Conquest.zip](https://github.com/zuckung/test3/releases/download/Latest/Unfettered.Conquest.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Unfettered.Conquest/) <br>
+created by: N/A | N/A<br>
+category: story | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### unique.fix
+<img src='Working/All Plugins/unique.fix/icon.png' width='55'></img><br>
+[unique.fix.zip](https://github.com/zuckung/test3/releases/download/Latest/unique.fix.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/unique.fix/) <br>
+created by:  zuckung | [ https://github.com/zuckung/endless-sky-plugins]( https://github.com/zuckung/endless-sky-plugins)<br>
+category:  overhauls | status:  made for 0.10.0<br>
+
+description:<br>
+>description = 
+>(3 outfit attributes changed)
+>
+>Removes mass and outfit space from the cloaking device.
+>Removes mass and outfit space from outskirts gauger and puts it in unique category.
+>Gives outfit '"Puny"' a portrait. 
+  
+___ 
+
+### Ursa.Polaris
+[Ursa.Polaris.zip](https://github.com/zuckung/test3/releases/download/Latest/Ursa.Polaris.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Ursa.Polaris/) <br>
+created by: Local God | [https://github.com/LocalGod79/UrsaPolaris](https://github.com/LocalGod79/UrsaPolaris)<br>
+category: cheats | status: Playable on 0.10.0<br>
+
+description:<br>
+>Post-mainline mission to build a universal outfitter.
+ 
+  
+___ 
+
+### Utili-Pak
+[Utili-Pak.zip](https://github.com/zuckung/test3/releases/download/Latest/Utili-Pak.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Utili-Pak/) <br>
+created by: N/A | N/A<br>
+category: outfits | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Vile.Corp
+[Vile.Corp.zip](https://github.com/zuckung/test3/releases/download/Latest/Vile.Corp.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Vile.Corp/) <br>
+created by: janitor | N/A<br>
+category: races | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Visible.Minable.Asteroids
+[Visible.Minable.Asteroids.zip](https://github.com/zuckung/test3/releases/download/Latest/Visible.Minable.Asteroids.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Visible.Minable.Asteroids/) <br>
+created by: hellminister | [https://steamcommunity.com/sharedfiles/filedetails/?id](https://steamcommunity.com/sharedfiles/filedetails/?id)<br>
+category: cheats | status: N/A<br>
+
+description:<br>
+>Add highlighting box around mineable asteroids.
+ 
+  
+___ 
+
+### Wanderer.Engines
+[Wanderer.Engines.zip](https://github.com/zuckung/test3/releases/download/Latest/Wanderer.Engines.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Wanderer.Engines/) <br>
+created by: N/A | N/A<br>
+category: outfits | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Wanderer.Suns
+[Wanderer.Suns.zip](https://github.com/zuckung/test3/releases/download/Latest/Wanderer.Suns.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Wanderer.Suns/) <br>
+created by: Gefüllte Taubenbrust | N/A<br>
+category: graphics | status: N/A<br>
+
+description:<br>
+>This plugin changes the models of the Wanderer "Sun" reactors so that a sort of "sun" can actually be seen in them.
+ 
+  
+___ 
+
+### Wanderers.Storyline
+[Wanderers.Storyline.zip](https://github.com/zuckung/test3/releases/download/Latest/Wanderers.Storyline.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Wanderers.Storyline/) <br>
+created by: beccabunny | [https://github.com/beccabunny/Wanderer-Storyline](https://github.com/beccabunny/Wanderer-Storyline)<br>
+category: story | status: N/A<br>
+
+description:<br>
+>A continuation to the wanderer storyline, with new ships, outfits and missions! 
+  
+___ 
+
+### War.of.Worlds
+[War.of.Worlds.zip](https://github.com/zuckung/test3/releases/download/Latest/War.of.Worlds.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/War.of.Worlds/) <br>
+created by: fjc130 | [https://www.moddb.com/mods/war-of-worlds-v01](https://www.moddb.com/mods/war-of-worlds-v01)<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>adds 4 new ships
+ 
+  
+___ 
+
+### Warehouse
+[Warehouse.zip](https://github.com/zuckung/test3/releases/download/Latest/Warehouse.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Warehouse/) <br>
+created by: Wanderer | [https://www.nexusmods.com/endlesssky/mods/2](https://www.nexusmods.com/endlesssky/mods/2)<br>
+category: N/A | status: N/A<br>
+
+description:<br>
+>Adds purchasable warehouse to every advanced shipyard, pirate shipyards, and Coalition shipyards.
+>
+ 
+  
+___ 
+
+### Warm.Start
+[Warm.Start.zip](https://github.com/zuckung/test3/releases/download/Latest/Warm.Start.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Warm.Start/) <br>
+created by: David Elworthy | N/A<br>
+category: story | status: N/A<br>
+
+description:<br>
+>This plugin gives you some alternatives for the starting character. The choices are:
+>
+>  the standard starting character from the official version of Endless Sky.
+>  an adventurer with a good combat rating.
+>  an inexperienced youth with a trust fund.
+>  a merchant with a temporarily mislaid ship.
+>
+>For the last two of these, you'll have to complete a simple mission.
+ 
+  
+___ 
+
+### Watcher
+[Watcher.zip](https://github.com/zuckung/test3/releases/download/Latest/Watcher.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Watcher/) <br>
+created by: Natan Gold | N/A<br>
+category: story | status: N/A<br>
+
+description:<br>
+>Roughly double weapon ranges for all non-homing, non-beam weapons.
+>
+>Most small, fast projectiles have this weighted as higher velocity, while most big, slow projectiles have this weighted as longer lifetime.
+>
+>Adds cluster and parallel to most longer ranged weapons.
+>
+>Includes blaster changes to turn them into more of an anti-fighter screen, but I'm only 84% satisfied with that atm.
+>
+ 
+  
+___ 
+
+### Weapon.Ranges
+[Weapon.Ranges.zip](https://github.com/zuckung/test3/releases/download/Latest/Weapon.Ranges.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Weapon.Ranges/) <br>
+created by: EjoThims | [https://github.com/EjoThims/Weapon-Ranges](https://github.com/EjoThims/Weapon-Ranges)<br>
+category: gameplay | status: N/A<br>
+
+description:<br>
+>Roughly double weapon ranges for all non-homing, non-beam weapons.
+>
+>Most small, fast projectiles have this weighted as higher velocity, while most big, slow projectiles have this weighted as longer lifetime.
+>
+>Adds cluster and parallel to most longer ranged weapons.
+>
+>Includes blaster changes to turn them into more of an anti-fighter screen, but I'm only 84% satisfied with that atm.
+>
+ 
+  
+___ 
+
+### West.Iron
+[West.Iron.zip](https://github.com/zuckung/test3/releases/download/Latest/West.Iron.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/West.Iron/) <br>
+created by: Kryes-Omega | [https://github.com/Kryes-Omega/endless-sky-WestIron](https://github.com/Kryes-Omega/endless-sky-WestIron)<br>
+category: races | status: N/A<br>
+
+description:<br>
+>Add a faction with some missions.
+ 
+  
+___ 
+
+### What.a.Wonderful.World-Ship
+[What.a.Wonderful.World-Ship.zip](https://github.com/zuckung/test3/releases/download/Latest/What.a.Wonderful.World-Ship.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/What.a.Wonderful.World-Ship/) <br>
+created by: N/A | N/A<br>
+category: graphics | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Winners.Arrow
+[Winners.Arrow.zip](https://github.com/zuckung/test3/releases/download/Latest/Winners.Arrow.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Winners.Arrow/) <br>
+created by: N/A | N/A<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### worker.bot
+[worker.bot.zip](https://github.com/zuckung/test3/releases/download/Latest/worker.bot.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/worker.bot/) <br>
+created by: N/A | N/A<br>
+category: outfits | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### World.Forge
+[World.Forge.zip](https://github.com/zuckung/test3/releases/download/Latest/World.Forge.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/World.Forge/) <br>
+created by: N/A | [https://github.com/Amazinite/world-forge](https://github.com/Amazinite/world-forge)<br>
+category: cheats | status: N/A<br>
+
+description:<br>
+>"This plugin was made to allow content creators to have access to all outfits in a single place, for the purpose of designing and testing outfit loadouts for new ships. Of course, it can also be used by people who want to ruin the game for themselves by getting a massive fleet without needing to work for it."
+>World Forge does this as well, but extends this: not only all outfits in one place, but sorted by race additionally, a way to change the swizzle(derived from ProjectRunabout), a easy way to add own outfits and ships into the existing scheme, and  missions to change your reputation with factions!  
+  
+___ 
+
+### X-70B.Phantom
+[X-70B.Phantom.zip](https://github.com/zuckung/test3/releases/download/Latest/X-70B.Phantom.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/X-70B.Phantom/) <br>
+created by: Armalarde7895 | [https://github.com/Armalarde7895/X-70B-Phantom](https://github.com/Armalarde7895/X-70B-Phantom)<br>
+category: ships | status: N/A<br>
+
+description:<br>
+>It adds the X-70B Phantom from Star Wars.
+>On the planet Rust in the Kraz System.
+ 
+  
+___ 
+
+### YEET
+[YEET.zip](https://github.com/zuckung/test3/releases/download/Latest/YEET.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/YEET/) <br>
+created by: BCPowerhouse | N/A<br>
+category: weapons | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### Yokoyama
+[Yokoyama.zip](https://github.com/zuckung/test3/releases/download/Latest/Yokoyama.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Yokoyama/) <br>
+created by: dilydaly | [https://github.com/dilydaly/Endless-Sky---Yokoyama](https://github.com/dilydaly/Endless-Sky---Yokoyama)<br>
+category: races | status: N/A<br>
+
+description:<br>
+>N/A
+ 
+  
+___ 
+
+### ZES.Global
+[ZES.Global.zip](https://github.com/zuckung/test3/releases/download/Latest/ZES.Global.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/ZES.Global/) <br>
+created by: Zichas | [https://github.com/Zitchas/ZESglobal](https://github.com/Zitchas/ZESglobal)<br>
+category: cheats | status: N/A<br>
+
+description:<br>
+>This is a collection of files intended to change the general feel of the game. 
+>
+>ZOutfitSpace: Increases the outfit space of most ships.
+>ZMobility: Alters the manouverability balance of the game.
+>ZRemnantStart: disabled. Will have a Remnant start once that PR is implemented.
+>ZRemArrival: disabled. Will have a starting point at Ingot in an Osprey with a quantum keystone.
+ 
+  
+___ 
+
+### zFleet.Patch
+[zFleet.Patch.zip](https://github.com/zuckung/test3/releases/download/Latest/zFleet.Patch.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/zFleet.Patch/) <br>
+created by: 1010Todd | N/A<br>
+category: patches | status: N/A<br>
+
+description:<br>
+>Patch for playing with (nearly) all plugins in this archive at the same time making plugin-added fleet variants appear and include several plugin ships not included with a fleet to a fleet.
+>WARNING: May accidentally spawn the wrong Kraken.
+ 
+  
+___ 
+
+### zFW.Patch
+[zFW.Patch.zip](https://github.com/zuckung/test3/releases/download/Latest/zFW.Patch.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/zFW.Patch/) <br>
+created by: N/A | N/A<br>
+category: patches | status: N/A<br>
+
+description:<br>
+>Something in these hundreds of plugin prevent FW missions from offering, this fixes that.
+ 
+  
+___ 
+
+### zLarge.Asteroid
+[zLarge.Asteroid.zip](https://github.com/zuckung/test3/releases/download/Latest/zLarge.Asteroid.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/zLarge.Asteroid/) <br>
+created by: 1010Todd | N/A<br>
+category: gameplay | status: N/A<br>
+
+description:<br>
+>Add larger minable asteroids actually big enough for smaller ships to hide inside.
+ 
+  
+___ 
+
+### Zweihander
+[Zweihander.zip](https://github.com/zuckung/test3/releases/download/Latest/Zweihander.zip) | nana | last upload: na | [view data files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Zweihander/) <br>
+created by: 1010Todd | N/A<br>
+category: outfits | status: outfit is nowhere for sale<br>
+
+description:<br>
+>Add a Zweihander(sword) as H2H. Yes it's useless.
  
   
 ___ 
