@@ -57,10 +57,10 @@ else:
 	# zipping changed
 	plugins = set()
 	for f in changed.split("%25%25%25"):
-		if not pathtopluginsw in f:
+		if not pathtoplugins in f:
 			continue
-		path = f.split(os.sep)
-		index = path.index(pathtopluginsw) + 1
+		path = f.split(os.sep) 
+		index = path.index(pathtoplugins) + 1
 		if index >= len(path):
 			continue
 		plugins.add(path[index])
