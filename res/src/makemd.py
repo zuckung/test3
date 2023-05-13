@@ -48,16 +48,16 @@ for entry in entries:
 	if os.path.exists(pluginlistfolder + entry + ".txt") == True:
 		file2 = open(pluginlistfolder + entry + ".txt" , "r")	
 		author = file2.readline()
-		author = author.split(" = ")[1]
+		author = author.split("=")[1]
 		author = author.replace("\n", "")
 		website = file2.readline()
-		website = website.split(" = ")[1]
+		website = website.split("=")[1]
 		website = website.replace("\n", "")
 		category = file2.readline()
-		category = category.split(" = ")[1]
+		category = category.split("=")[1]
 		category = category.replace("\n", "")
 		status = file2.readline()
-		status = status.split(" = ")[1]
+		status = status.split("=")[1]
 		status = status.replace("\n", "")
 		description = file2.readlines()
 		description.remove("description = \n")
