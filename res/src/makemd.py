@@ -60,7 +60,7 @@ for entry in entries:
 		status = status.split("=")[1]
 		status = status.replace("\n", "")
 		description = file2.readlines()
-		description = description.replace("description=", "")
+		description[1] = description.replace("description=", "")
 	file2.close 	
 	
 	# get last modified date from the assetfiles
