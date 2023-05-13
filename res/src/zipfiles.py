@@ -1,11 +1,6 @@
 import os
 import subprocess
 import sys
-import shutil
-
-# check for local testing
-if os.getcwd() == "/storage/emulated/0/Download/mgit/test2/src":
-	os.chdir("../../") 
 
 # read paths and files
 with open("res/paths.txt") as f:
@@ -19,14 +14,10 @@ with open("res/paths.txt") as f:
  			assetfiles = line.split(" = ")[1]
 		elif line.find("pluginurl") == 0:		 # i.e pluginurl = https://github.com/zuckung/test/tree/main/myplugins/
 			pluginurl = line.split(" = ")[1]
-		elif line.find("headerfile") == 0:	  # i.e. headerfile = res/header.txt
+		elif line.find("header") == 0:			# i.e. headerfile = res/header.txt
 			headerfile = line.split(" = ")[1]
 		elif line.find("picturefile") == 0:	  # i.e picturefile = res/icon.png
 			picturefile = line.split(" = ")[1]
-		elif line.find("discurl") == 0:	         # i.e https://github.com/zuckung/test2/discussions/2
-			discurl = line.split(" = ")[1]
-		elif line.find("pluginlistfolder") == 0: # i.e pluginlist/
-			pluginlistfolder= line.split(" = ")[1]
 			
 # check how deep the path is for os.chdir
 pathtopluginsdeepth = pathtoplugins.count("/")
@@ -45,12 +36,14 @@ if len(sys.argv) < 2:
 		if str(entry.find(" ")) != "-1":
 			spaced  = entry + "/"
 			entry = spaced.replace(" ", ".")
-			shutil.copyfile(spaced, entry)
+			subprocess.run(["mv", spaced , entry], stdout=subprocess.DEVNULL)
 			print("found a folder with spaces in name and renamed it: " + entry)
+			
 		# zipping
 		subprocess.run(["zip", "-r", "../" + entry + ".zip", entry], stdout=subprocess.DEVNULL) 
 		os.chdir('../')
 		print(entry + " zipping DONE\n")
+		subprocess.run(["mv", entry + ".zip", "zip/" + entry + ".zip"], stdout=subprocess.DEVNULL)
 		
 # has arguments       
 else:    
@@ -64,10 +57,10 @@ else:
 	# zipping changed
 	plugins = set()
 	for f in changed.split("%25%25%25"):
-		if not pathtoplugins in f:#w
+		if not pathtopluginsw in f:
 			continue
 		path = f.split(os.sep)
-		index = path.index(pathtoplugins) + 1 #w
+		index = path.index(pathtopluginsw) + 1
 		if index >= len(path):
 			continue
 		plugins.add(path[index])
