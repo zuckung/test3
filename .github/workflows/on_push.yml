@@ -2,7 +2,7 @@ name: Automatic Zip Release Readme
 on:
   push:
     paths:
-      - 'Working/All Plugins/**'
+      - 'Working/All Plugins**'
 jobs:
   zip-files:
     runs-on: ubuntu-latest
@@ -27,7 +27,7 @@ jobs:
           allowUpdates: true
           replacesArtifacts: true
           updateOnlyUnreleased: false
-          artifacts: "*.zip
+          artifacts: "*.zip"
       - name: Make README.md
         run: python src/makemd.py
       - name: Commit file
@@ -35,7 +35,7 @@ jobs:
           git config user.name "zuckung" 
           git config user.email "zuckung@gmx.de"
           git add README.md
-          git commit -m "updated" || true
+          git commit -m "README.md updated"
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
