@@ -106,7 +106,7 @@ entries.sort(key=str.lower)
 for entry in entries:
 	allplugins += 1
 	withdots = entry.replace(" ", ".")
-	if os.path.exists(pathtoplugins + withdots + ".txt") == True:
+	if os.path.exists(pluginlistfolder + withdots + ".txt") == True:
 		with open(pluginlistfolder + withdots + ".txt", "r") as checkfile:
 			cat = checkfile.readline()
 			cat = checkfile.readline()
@@ -221,7 +221,7 @@ for entry in entries:
 		category = "N/A"
 		status = "N/A"
 		description = "N/A"
-		description.split(sep=None, maxsplit=-1)
+		description = ["", "N/A"]
 	
 	# get last modified date from the assetfiles
 	response = requests.head(assetfiles + withdots + ".zip", allow_redirects=True)
