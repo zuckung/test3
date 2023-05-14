@@ -4,7 +4,7 @@ on:
     paths:
       - 'Working/All Plugins**'
 jobs:
-  First Job:
+  First:
     runs-on: ubuntu-latest
     permissions:
       contents: write
