@@ -35,55 +35,55 @@ with open("res/paths.txt") as f:
 			pluginlistfolder= line.split(" = ")[1]
 
 def wentry(filex):
-	# write the plugin informations to a file
-	filex.writelines("### " + entry + "\n")
+	# write the plugin information to a file
+	filex.writelines("### " + entry + "\n<br>")
 	if os.path.exists(pathtoplugins + entry + "/icon.png") == True:
 		im = Image.open(pathtoplugins + entry + "/icon.png")
 		w, h = im.size
 		if h > w:
-			filex.writelines("<img src='"+ pathtoplugins + entry + "/icon.png' height='100'></img><br>\n")
+			filex.writelines("<img src="+ pathtoplugins + entry + "/icon.png height=55></img>\n")
 		else:
-			filex.writelines("<img src='"+ pathtoplugins + entry + "/icon.png' width='100'></img><br>\n")
+			filex.writelines("<img src="+ pathtoplugins + entry + "/icon.png width=55></img>\n")
 	filex.writelines("[" + withdots + ".zip](" + assetfiles + withdots + ".zip) | ")
 	filex.writelines(assetsize + form)    
 	filex.writelines(" | last upload: " + modif)
 	filex.writelines(" | [view data files](" + pluginurl + forweb + "/) <br>\n")
 	filex.writelines("Created by: " + author + " | ")
 	if website == "N/A":
-		filex.writelines(website + "<br>\n")
+		filex.writelines(website + "\n")
 	else:	
 		filex.writelines("[" + website + "](" + website + ")<br>\n" )
-	filex.writelines("Category: " + category + "<br><br>\n\nDescription:<br>\n")
+	filex.writelines("Category: " + category + "\n\nDescription:\n")
 	for l in description:
 		filex.writelines(">" + l)
-	filex.writelines("\n\nStatus: " + status )
-	filex.writelines("<br><br> ")
-	filex.writelines("\n___ \n\n")
+	filex.writelines(" \n" + "Status: " + status )
+	filex.writelines("\n\n ")
+	filex.writelines("___ \n\n")
 
 def mdlist(filex):
 	if filex == file1:
-		newcat = categoryfolder
-		down = ""
+		categoryfolderx = categoryfolder
+		back = ""
 	else:
-		newcat = ""
-		down = "../../"
-	filex.writelines("<br><br>Categories:<br><br>")
-	filex.writelines("[Cheats](" + newcat + "cheats.md) (" + str(cheats) + 
-						")  [Gameplay](" + newcat + "gameplay.md) (" + str(gameplay) + 
-						")  [Graphics](" + newcat + "graphics.md) (" + str(graphics) + 
-						")  [Outfits](" + newcat + "outfits.md) (" + str(outfits) + 
-						")<br>")
-	filex.writelines("[Overhauls](" + newcat + "overhauls.md) (" + str(overhauls) + 
-						")  [Overwrites](" + newcat + "overwrites.md) (" + str(overwrites) + 
-						")  [Patches](" + newcat + "patches.md) (" + str(patches) + 
-						")  [Races](" + newcat + "races.md) (" + str(races) + 
-						")<br>")
-	filex.writelines("[Ships](" + newcat + "ships.md) (" + str(ships) + 
-						")  [Story](" + newcat + "story.md) (" + str(story) + 
-						")  [Weapons](" + newcat + "weapons.md) (" + str(weapons) + 
-						")  [Uncategorized](" + newcat + "uncategorized.md) (" + str(uncategorized) + 
-						")<br><br>")
-	filex.writelines(" Plugins in [all categories](" + down + indexfile + "): " + str(allplugins) + "<br><br>\n")
+		categoryfolderx = ""
+		back = "../../"
+	filex.writelines("\n\nCategories: <br>\n")
+	filex.writelines("[Cheats](" + categoryfolderx + "cheats.md) (" + str(cheats) + 
+						")  [Gameplay](" + categoryfolderx + "gameplay.md) (" + str(gameplay) + 
+						")  [Graphics](" +  categoryfolderx + "graphics.md) (" + str(graphics) + 
+						")  [Outfits](" + categoryfolderx + "outfits.md) (" + str(outfits) + 
+						")<br>\n")
+	filex.writelines("[Overhauls](" + categoryfolderx + "overhauls.md) (" + str(overhauls) + 
+						")  [Overwrites](" + categoryfolderx + "overwrites.md) (" + str(overwrites) + 
+						")  [Patches](" + categoryfolderx + "patches.md) (" + str(patches) + 
+						")  [Races](" + categoryfolderx + "races.md) (" + str(races) + 
+						")<br>\n")
+	filex.writelines("[Ships](" + categoryfolderx + "ships.md) (" + str(ships) + 
+						")  [Story](" + categoryfolderx + "story.md) (" + str(story) + 
+						")  [Weapons](" + categoryfolderx + "weapons.md) (" + str(weapons) + 
+						")  [Uncategorized](" + categoryfolderx + "uncategorized.md) (" + str(uncategorized) + 
+						")<br>\n")
+	filex.writelines(" Plugins in [all categories](" + back + indexfile + "): " + str(allplugins) + "\n\n\n")
 
 allplugins = 0
 cheats = 0
@@ -143,55 +143,55 @@ print("writing headers")
 file1 = open(indexfile, "w") # README.md or whatever it is named
 file1.writelines(header)
 mdlist(file1)
-file1.writelines("##All Plugins:<br><br>")
+file1.writelines("\n<h1>All Plugins: </h1>\n\n")
 fcheats = open(categoryfolder + "cheats.md", "w")
 fcheats.writelines(headercategory)
 mdlist(fcheats)
-fcheats.writelines(" Plugins in category 'Cheats': " + str(cheats) + "<br><br>\n##Plugin List 'Cheats':<br><br>")
+fcheats.writelines("\n<h1>Plugin List 'Cheats':</h1><br><br>")
 fgameplay = open(categoryfolder + "gameplay.md", "w")
 fgameplay.writelines(headercategory)
 mdlist(fgameplay)
-fgameplay.writelines(" Plugins in category 'Gameplay': " + str(gameplay) + "<br><br>\n##Plugin List 'Gameplay':<br><br>")
+fgameplay.writelines("\n<h1>Plugin List 'Gameplay':</h1><br><br>")
 fgraphics = open(categoryfolder + "graphics.md", "w")
 fgraphics.writelines(headercategory)
 mdlist(fgraphics)
-fgraphics.writelines(" Plugins in category 'Graphics': " + str(graphics) + "<br><br>\n##Plugin List 'Graphics':<br><br>")
+fgraphics.writelines("\n<h1>Plugin List 'Graphics':</h1><br><br>")
 foutfits = open(categoryfolder + "outfits.md", "w")
 foutfits.writelines(headercategory)
 mdlist(foutfits)
-foutfits.writelines(" Plugins in category 'Outfits': " + str(outfits) + "<br><br>\n##Plugin List 'Outfits':<br><br>")
+foutfits.writelines("\n<h1>Plugin List 'Outfits':</h1><br><br>")
 foverhauls = open(categoryfolder + "overhauls.md", "w")
 foverhauls.writelines(headercategory)
 mdlist(foverhauls)
-foverhauls.writelines(" Plugins in category 'Overhauls': " + str(overhauls) + "<br><br>\n##Plugin List 'Overhauls':<br><br>")
+foverhauls.writelines("\n<h1>Plugin List 'Overhauls':</h1><br><br>")
 foverwrites = open(categoryfolder + "overwrites.md", "w")
 foverwrites.writelines(headercategory)
 mdlist(foverwrites)
-foverwrites.writelines(" Plugins in category 'Overwrites': " + str(overwrites) + "<br><br>\n##Plugin List 'Overwrites':<br><br>")
+foverwrites.writelines("\n<h1>Plugin List 'Overwrites':</h1><br><br>")
 fpatches = open(categoryfolder + "patches.md", "w")
 fpatches.writelines(headercategory)
 mdlist(fpatches)
-fpatches.writelines(" Plugins in category 'Patches': " + str(patches) + "<br><br>\n##Plugin List 'Patches':<br><br>")
+fpatches.writelines("\n<h1>Plugin List 'Patches':</h1><br><br>")
 fraces = open(categoryfolder + "races.md", "w")
 fraces.writelines(headercategory)
 mdlist(fraces)
-fraces.writelines(" Plugins in category 'Races': " + str(races) + "<br><br>\n##Plugin List 'Races':<br><br>")
+fraces.writelines("\n<h1>Plugin List 'Races':</h1><br><br>")
 fships = open(categoryfolder + "ships.md", "w")
 fships.writelines(headercategory)
 mdlist(fships)
-fships.writelines(" Plugins in category 'Ships': " + str(ships) + "<br><br>\n##Plugin List 'Ships':<br><br>")
+fships.writelines("\n<h1>Plugin List 'Ships':</h1><br><br>")
 fstory = open(categoryfolder + "story.md", "w")
 fstory.writelines(headercategory)
 mdlist(fstory)
-fstory.writelines(" Plugins in category 'Story': " + str(story) + "<br><br>\n##Plugin List 'Story':<br><br>")
+fstory.writelines("\n<h1>Plugin List 'Story':</h1><br><br>")
 fweapons = open(categoryfolder + "weapons.md", "w")
 fweapons.writelines(headercategory)
 mdlist(fweapons)
-fweapons.writelines(" Plugins in category 'Weapons': " + str(weapons) + "<br><br>\n## Plugin List 'Weapons':<br><br>")
+fweapons.writelines("\n<h1>Plugin List 'Weapons':</h1><br><br>")
 funcategorized = open(categoryfolder + "uncategorized.md", "w")
 funcategorized.writelines(headercategory)
 mdlist(funcategorized)
-funcategorized.writelines(" Plugins in category 'Uncategorized': " + str(uncategorized) + "<br><br>\n##Plugin List 'Uncategorized':<br><br>")
+funcategorized.writelines("\n<h1>Plugin List 'Uncategorized':</h1><br><br>")
 
 # read folders, and write to .md
 entries = os.listdir(pathtoplugins)
@@ -212,21 +212,20 @@ for entry in entries:
 			description[0] = rem.replace("description=", "")
 	
 	# get last modified date from the assetfiles
-	#response = requests.head(assetfiles + withdots + ".zip", allow_redirects=True)
-	#modif = response.headers['Last-Modified']
-	#datetime_object = datetime.strptime(modif, '%a, %d %b %Y %H:%M:%S %Z')
-	#modif = str(datetime_object.date())
+	response = requests.head(assetfiles + withdots + ".zip", allow_redirects=True)
+	modif = response.headers['Last-Modified']
+	datetime_object = datetime.strptime(modif, '%a, %d %b %Y %H:%M:%S %Z')
+	modif = str(datetime_object.date())
 	modif="na"
 
 	# get file size of the assetfiles in kb or mb
-	#assetsize = int(response.headers['Content-Length']) / 1024
-	#form = " kb"
-	#if assetsize > 1024:
-	#	assetsize = assetsize / 1024
-	#	form = " mb"
-	# assetsize = str(round(assetsize, 2))
-	assetsize = "na"
-	form="na"
+	assetsize = int(response.headers['Content-Length']) / 1024
+	form = " kb"
+	if assetsize > 1024:
+		assetsize = assetsize / 1024
+		form = " mb"
+	assetsize = str(round(assetsize, 2))
+
 	
 	# writing the plugin entries
 	print("writing  " + entry)
