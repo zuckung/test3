@@ -9,7 +9,7 @@ from PIL import Image
 if os.getcwd() == "/storage/emulated/0/Download/mgit/test3/res/src":
 	os.chdir("../../")
 	
-# read paths and files
+# read paths and files 
 with open("res/paths.txt") as f:
 	for line in f:
 		line = str((line.strip()))
@@ -238,7 +238,7 @@ for entry in entries:
 	assetsize = str(round(assetsize, 2))
 
 	
-	# writing the plugin entries to the md files
+	# writing the plugin entries to the md files 
 	print("writing  " + entry)
 	wentry(file1)
 	category = str((category.strip()))
