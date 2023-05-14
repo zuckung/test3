@@ -221,6 +221,7 @@ for entry in entries:
 		category = "N/A"
 		status = "N/A"
 		description = "N/A"
+		description.split(sep=None, maxsplit=-1)
 	
 	# get last modified date from the assetfiles
 	response = requests.head(assetfiles + withdots + ".zip", allow_redirects=True)
