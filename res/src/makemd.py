@@ -215,6 +215,12 @@ for entry in entries:
 			description= file2.readlines()
 			rem = description[0]
 			description[0] = rem.replace("description=", "")
+	else:
+		author = "N/A"
+		website = "N/A"
+		category = "N/A"
+		status = "N/A"
+		description = "N/A"
 	
 	# get last modified date from the assetfiles
 	response = requests.head(assetfiles + withdots + ".zip", allow_redirects=True)
