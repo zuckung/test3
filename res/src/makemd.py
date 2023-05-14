@@ -136,7 +136,7 @@ for entry in entries:
 			else:
 				uncategorized += 1
 	else:
-		uncategorozed += 1
+		uncategorized += 1
 
 # reading headers
 with open(headerfile, "r") as file2:
