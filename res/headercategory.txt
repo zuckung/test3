@@ -1,4 +1,4 @@
-<img src='res/icon.png' width='500'></img>
+<img src='../icon.png' width='500'></img>
 
 # Introduction
 

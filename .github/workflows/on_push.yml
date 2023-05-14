@@ -1,10 +1,10 @@
-name: Automatic Zip Release Readme
+name: On Push Zip Release Readme
 on:
   push:
     paths:
       - 'Working/All Plugins**'
 jobs:
-  zip-files:
+  First Job:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -52,14 +52,19 @@ jobs:
           replacesArtifacts: true
           updateOnlyUnreleased: false
           artifacts: "*.zip"
+      - name: Install beautifulsoup4 and Pillow
+        run: |
+          python3 -m pip install bs4
+          python3 -m pip install lxml
+          python3 -m pip install Pillow
       - name: Make README.md
         run: python res/src/makemd.py
       - name: Commit file
         run: |
-          git config user.name "zuckung" 
-          git config user.email "zuckung@gmx.de"
+          git config user.name "script" 
+          git config user.email "<>"
           git add README.md
-          git commit -m "README.md updated"
+          git commit -m "README.md updated" || true
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
