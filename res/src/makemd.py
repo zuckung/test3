@@ -61,6 +61,7 @@ def wentry(filex):
 	filex.writelines("___ \n\n")
 
 def mdlist(filex):
+	# write category overview
 	if filex == file1:
 		categoryfolderx = categoryfolder
 		back = ""
@@ -104,34 +105,38 @@ entries = os.listdir(pathtoplugins)
 entries.sort(key=str.lower)
 for entry in entries:
 	allplugins += 1
-	with open(pluginlistfolder + entry + ".txt", "r") as checkfile:
-		cat = checkfile.readline()
-		cat = checkfile.readline()
-		cat = checkfile.readline().split("=")[1].replace("\n", "")
-		if cat == "cheats":
-			cheats += 1
-		elif cat == "gameplay":
-			gameplay += 1
-		elif cat == "graphics":
-			graphics += 1
-		elif cat == "outfits":
-			outfits += 1
-		elif cat == "overhauls":
-			overhauls += 1
-		elif cat == "overwrites":
-			overwrites += 1
-		elif cat == "patches":
-			patches += 1
-		elif cat == "races":
-			races += 1
-		elif cat == "ships":
-			ships += 1
-		elif cat == "story":
-			story += 1
-		elif cat == "weapons":
-			weapons += 1
-		else:
-			uncategorized += 1
+	withdots = entry.replace(" ", ".")
+	if os.path.exists(pathtoplugins + withdots + ".txt") == True:
+		with open(pluginlistfolder + withdots + ".txt", "r") as checkfile:
+			cat = checkfile.readline()
+			cat = checkfile.readline()
+			cat = checkfile.readline().split("=")[1].replace("\n", "")
+			if cat == "cheats":
+				cheats += 1
+			elif cat == "gameplay":
+				gameplay += 1
+			elif cat == "graphics":
+				graphics += 1
+			elif cat == "outfits":
+				outfits += 1
+			elif cat == "overhauls":
+				overhauls += 1
+			elif cat == "overwrites":
+				overwrites += 1
+			elif cat == "patches":
+				patches += 1
+			elif cat == "races":
+				races += 1
+			elif cat == "ships":
+				ships += 1
+			elif cat == "story":
+				story += 1
+			elif cat == "weapons":
+				weapons += 1
+			else:
+				uncategorized += 1
+	else:
+		uncategorozed += 1
 
 # reading headers
 with open(headerfile, "r") as file2:
@@ -201,8 +206,8 @@ for entry in entries:
 	forweb  = entry.replace(" ", "%20")
 
 	# get description out of pluginlist file
-	if os.path.exists(pluginlistfolder + entry + ".txt") == True:
-		with open(pluginlistfolder + entry + ".txt" , "r") as file2:
+	if os.path.exists(pluginlistfolder + withdots + ".txt") == True:
+		with open(pluginlistfolder + withdots + ".txt" , "r") as file2:
 			author = file2.readline().split("=")[1].replace("\n", "")
 			website = file2.readline().split("=")[1].replace("\n", "")
 			category = file2.readline().split("=")[1].replace("\n", "")
@@ -226,7 +231,7 @@ for entry in entries:
 	assetsize = str(round(assetsize, 2))
 
 	
-	# writing the plugin entries
+	# writing the plugin entries to the md files
 	print("writing  " + entry)
 	wentry(file1)
 	category = str((category.strip()))
