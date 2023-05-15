@@ -2,30 +2,30 @@
 
 # Table of Contents
 
-[Introduction](#introduction) 
+[Introduction](/README.md#introduction) 
  
-[Download Information](#download-information)  
-- [Downloading Alternative](#downloading-alternative)  
-- [Notes](#notes)  
-- [Known Plugin Issues](#known-plugin-issues)  
+[Download Information](/README.md#download-information)  
+- [Downloading Alternative](/README.md#downloading-alternative)  
+- [Notes](/README.md#notes)  
+- [Known Plugin Issues](/README.md#known-plugin-issues)  
 
-[Contribution](#contribution)  
-- [Regarding Plugin Informations](#regarding-plugin-informations)  
-- [Add your Plugin](#add-your-plugin)  
+[Contribution](/README.md#contribution)  
+- [Regarding Plugin Informations](/README.md#regarding-plugin-informations)  
+- [Add your Plugin](/README.md#add-your-plugin)  
 
-[Plugin Download](#plugin-download)  
-- [Cheats](#cheats)  
-- [Gameplay](#gameplay)  
-- [Graphics](#graphics)  
-- [Outfits](#outfits)  
-- [Overhauls](#overhauls)  
-- [Overwrites](#overwrites)  
-- [Patches](#patches)  
-- [Races](#races)  
-- [Ships](#ships)  
-- [Story](#story)   
-- [Weapons](#weapons)  
-- [Uncategorized](#uncategorized)  
+[Plugin Download](/README.md#plugin-download)  
+- [Cheats](/README.md#cheats)  
+- [Gameplay](/README.md#gameplay)  
+- [Graphics](/README.md#graphics)  
+- [Outfits](/README.md#outfits)  
+- [Overhauls](/README.md#overhauls)  
+- [Overwrites](/README.md#overwrites)  
+- [Patches](/README.md#patches)  
+- [Races](/README.md#races)  
+- [Ships](/README.md#ships)  
+- [Story](/README.md#story)   
+- [Weapons](/README.md#weapons)  
+- [Uncategorized](/README.md#uncategorized)  
 
 
 
@@ -773,7 +773,7 @@ Status: N/A
 </details>
 
 
-[back to top](#plugin-info-and-download)
+[back to top](/README.md#plugin-info-and-download)
 
 
 
@@ -1383,7 +1383,7 @@ Status: N/A
 </details>
 
 
-[back to top](#plugin-info-and-download)
+[back to top](/README.md#plugin-info-and-download)
 
 
 
@@ -1681,7 +1681,7 @@ Status: N/A
 </details>
 
 
-[back to top](#plugin-info-and-download)
+[back to top](/README.md#plugin-info-and-download)
 
 
 
@@ -2274,7 +2274,7 @@ Status: outfit is nowhere for sale
 </details>
 
 
-[back to top](#plugin-info-and-download)
+[back to top](/README.md#plugin-info-and-download)
 
 
 
@@ -2928,7 +2928,7 @@ Status: made for 0.10.0
 </details>
 
 
-[back to top](#plugin-info-and-download)
+[back to top](/README.md#plugin-info-and-download)
 
 
 
@@ -2961,7 +2961,7 @@ Status: N/A
 </details>
 
 
-[back to top](#plugin-info-and-download)
+[back to top](/README.md#plugin-info-and-download)
 
 
 
@@ -3027,7 +3027,7 @@ Status: N/A
 </details>
 
 
-[back to top](#plugin-info-and-download)
+[back to top](/README.md#plugin-info-and-download)
 
 
 
@@ -4085,7 +4085,7 @@ Status: N/A
 </details>
 
 
-[back to top](#plugin-info-and-download)
+[back to top](/README.md#plugin-info-and-download)
 
 
 
@@ -5972,7 +5972,7 @@ Status: N/A
 </details>
 
 
-[back to top](#plugin-info-and-download)
+[back to top](/README.md#plugin-info-and-download)
 
 
 
@@ -6988,7 +6988,7 @@ Status: N/A
 </details>
 
 
-[back to top](#plugin-info-and-download)
+[back to top](/README.md#plugin-info-and-download)
 
 
 
@@ -7654,7 +7654,7 @@ Status: N/A
 </details>
 
 
-[back to top](#plugin-info-and-download)
+[back to top](/README.md#plugin-info-and-download)
 
 
 
@@ -8055,6 +8055,6 @@ Status: N/A
 </details>
 
 
-[back to top](#plugin-info-and-download)
+[back to top](/README.md#plugin-info-and-download)
 
 
