@@ -116,13 +116,13 @@ for entry in entries:
 				uncategorized += 1
 	else:
 		uncategorized += 1
+		cat = "uncategorized"
 		# if no pluginlist file exists, create an empty one		
 		with open(listfolder + entry + ".txt" , "w") as file1:
 			file1.writelines("author = N/A\nwebsite = N/A\ncategory = N/A\nstatus = N/A\ndescription = N/A\n")
 		print(entry + ".txt CREATED! because plugin was there, but no listfile!")
 	with open(listfolder + entry + ".txt", "r") as file1:
 		text = file1.read()
-		cat = "uncategorized"
 		plist.append(str(cat) + "\n" + entry + "\n" + text) # create a list of all listfiles
 
 # reading template file and splitting it to the 3 templates
