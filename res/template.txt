@@ -160,9 +160,9 @@ For Pull Requests... the folder structure has changed with this update. There ar
 
 All Plugins (%allplugins%)
 
-[Cheats](/README.md#cheats) (%cheats%) | [Gameplay](/README.md#gameplay) (%gameplay%) | [Graphics](/README.md#graphics] (%graphics%) | [Outfits](/README.md#outfits] (%outfits%)<br>
-[Overhauls](/README.md#overhauls] (%overhauls%) | [Overwrites](/README.md#overwrites] (%overwrites%) | [Patches](/README.md#patches] (%patches%) | [Races](/README.md#races] (%races%)<br>
-[Ships](/README.md#ships] (%ships%) | [Story](/README.md#story] (%story%) | [Weapons](/README.md#weapons] (%weapons%) | [Uncategorized](/README.md#uncategorized] (%uncategorized%)<br>
+[Cheats](/README.md#cheats) (%cheats%) | [Gameplay](/README.md#gameplay) (%gameplay%) | [Graphics](/README.md#graphics) (%graphics%) | [Outfits](/README.md#outfits) (%outfits%)<br>
+[Overhauls](/README.md#overhauls) (%overhauls%) | [Overwrites](/README.md#overwrites) (%overwrites%) | [Patches](/README.md#patches) (%patches%) | [Races](/README.md#races) (%races%)<br>
+[Ships](/README.md#ships) (%ships%) | [Story](/README.md#story) (%story%) | [Weapons](/README.md#weapons) (%weapons%) | [Uncategorized](/README.md#uncategorized) (%uncategorized%)<br>
 
 
 %%% template for category below this point %%%

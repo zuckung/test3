@@ -160,9 +160,9 @@ For Pull Requests... the folder structure has changed with this update. There ar
 
 All Plugins (468)
 
-[Cheats](/README.md#cheats) (36) | [Gameplay](/README.md#gameplay) (35) | [Graphics](/README.md#graphics] (17) | [Outfits](/README.md#outfits] (35)<br>
-[Overhauls](/README.md#overhauls] (38) | [Overwrites](/README.md#overwrites] (1) | [Patches](/README.md#patches] (3) | [Races](/README.md#races] (64)<br>
-[Ships](/README.md#ships] (116) | [Story](/README.md#story] (60) | [Weapons](/README.md#weapons] (40) | [Uncategorized](/README.md#uncategorized] (23)<br>
+[Cheats](/README.md#cheats) (36) | [Gameplay](/README.md#gameplay) (35) | [Graphics](/README.md#graphics) (17) | [Outfits](/README.md#outfits) (35)<br>
+[Overhauls](/README.md#overhauls) (38) | [Overwrites](/README.md#overwrites) (1) | [Patches](/README.md#patches) (3) | [Races](/README.md#races) (64)<br>
+[Ships](/README.md#ships) (116) | [Story](/README.md#story) (60) | [Weapons](/README.md#weapons) (40) | [Uncategorized](/README.md#uncategorized) (23)<br>
 
 
 
