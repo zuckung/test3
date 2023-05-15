@@ -2,44 +2,44 @@
 
 #Table of Contents
 
-[Introduction](#introduction) 
+[Introduction](https://github.com/zuckung/test3/blob/main/README.md#introduction) 
  
-[Download Information](#download-information)  
-- [Downloading Alternative](#downloading-alternative)  
-- [Notes](#notes)  
-- [Known Plugin Issues](#known-plugin-issues)  
+[Download Information](https://github.com/zuckung/test3/blob/main/README.md#download-information)  
+- [Downloading Alternative](https://github.com/zuckung/test3/blob/main/README.md#downloading-alternative)  
+- [Notes](https://github.com/zuckung/test3/blob/main/README.md#notes)  
+- [Known Plugin Issues](https://github.com/zuckung/test3/blob/main/README.md#known-plugin-issues)  
 
-[Contribution](#contribution)  
-- [Regarding Plugin Informations](#regarding-plugin-informations)  
-- [Add your Plugin](#add-your-plugin)  
+[Contribution](https://github.com/zuckung/test3/blob/main/README.md#contribution)  
+- [Regarding Plugin Informations](https://github.com/zuckung/test3/blob/main/README.md#regarding-plugin-informations)  
+- [Add your Plugin](https://github.com/zuckung/test3/blob/main/README.md#add-your-plugin)  
 
-[Plugin Download](#plugin-download)  
-- [Cheats](#cheats)  
-- [Gameplay](#gameplay)  
-- [Graphics](#graphics)  
-- [Outfits](#outfits)  
-- [Overhauls](#overhauls)  
-- [Overwrites](#overwrites)  
-- [Patches](#patches)  
-- [Races](#races)  
-- [Ships](#ships)  
-- [Story](#story)   
-- [Weapons](#weapons)  
-- [Uncategorized](#uncategorized)  
+[Plugin Download](https://github.com/zuckung/test3/blob/main/README.md#plugin-download)  
+- [Cheats](https://github.com/zuckung/test3/blob/main/README.md#cheats)  
+- [Gameplay](https://github.com/zuckung/test3/blob/main/README.md#gameplay)  
+- [Graphics](https://github.com/zuckung/test3/blob/main/README.md#graphics)  
+- [Outfits](https://github.com/zuckung/test3/blob/main/README.md#outfits)  
+- [Overhauls](https://github.com/zuckung/test3/blob/main/README.md#overhauls)  
+- [Overwrites](https://github.com/zuckung/test3/blob/main/README.md#overwrites)  
+- [Patches](https://github.com/zuckung/test3/blob/main/README.md#patches)  
+- [Races](https://github.com/zuckung/test3/blob/main/README.md#races)  
+- [Ships](https://github.com/zuckung/test3/blob/main/README.md#ships)  
+- [Story](https://github.com/zuckung/test3/blob/main/README.md#story)   
+- [Weapons](https://github.com/zuckung/test3/blob/main/README.md#weapons)  
+- [Uncategorized](https://github.com/zuckung/test3/blob/main/README.md#uncategorized)  
 
 ---
 
-#Introduction
+# Introduction
 
 A comprehensive library of %allplugins% ancient and new plugins for the open-source game Endless Sky.
 
 ---
 
-#Download Information
+# Download Information
 
 All plugins can get downloaded directly as zip-files from this page.
 
-##Downloading Alternative
+## Downloading Alternative
 
 Third party tool such as [https://download-directory.github.io](https://download-directory.github.io/) can download a single folder/plugin. Paste the url to the folder url into that tool and you will be given a .zip for that folder.
 
@@ -47,91 +47,91 @@ For example, for the "50 cal" plugin, enter: [https://github.com/Hecter94/Endles
 
 Github by default only allows the entire library to be downloaded as a single .zip. Github may have issues with downloading very large file sizes, a possible workaround is using Github Desktop or Git Bash to clone the repository.
 
-##Notes
+## Notes
 
 - "Working" directory – plugins updated to work with the continous build of Endless Sky
 - "Originals" directory – archived copies of original plugins
 - "Nonfunctional" directory – plugins that will not function without updates
 
-##Known Plugin Issues
+## Known Plugin Issues
 
 <details>
 
-###A Galaxy Far Far Away, Businessman Mod, Endless Depth, Normandy
+### A Galaxy Far Far Away, Businessman Mod, Endless Depth, Normandy
 
 Title screen missing/corrupted. override the title screen, using one or more of these can cause issues with it looking corrupted or "missing". Recommend to use one of these at a time, OR delete title.png from \images to restore the vanilla title screen
 
-###Civil War, Edge of Endless, Jump to Lightspeed and Star Wars
+### Civil War, Edge of Endless, Jump to Lightspeed and Star Wars
 
 all edit the vanilla interface, this can also cause issues and can only be fixed by editing/removing the interfaces.txt file in the plugin.
 
-###A Wonderful Worldship
+### A Wonderful Worldship
 
 Random sprites replaced by worldships Culprit: Intended Behavior of "A wonderful worldship mod"
 
-###Bare Ships
+### Bare Ships
 
 clears all ships from shipyards, meaning only bare versions of ships will be available, any plugins adding other ships not to custom shipyards will likely be incompatible
 
-###Elite Sky
+### Elite Sky
 
 creates an Interceptor "bay type" which seems to make any interceptor escort jump around randomly.
 
-###Final Frontier
+### Final Frontier
 
 sets every government swizzle to 0, also has an image named raider which conflicts with vanilla korath raider.
 
-###Star Wars
+### Star Wars
 
 includes a copy of vanilla data files and will likely conflict with any missions added/changed since it was created. Specifically known to conflict with changes to the Remnant storyline.
 
 Star Wars has an image named fury which conflicts with vanilla fury.
 
-###Recovery Ships
+### Recovery Ships
 
 NPC Ships unable to assist with fuel or repairs Culprit: Likely an old version of Recovery Ship, updated 2/8/2022. Please let me know if you still see the issue.
 
 Escorts from missions not spawning correctly Culprit: use the “safe” variant of this plugin to fix this behavior, “safe” version ships can only carry "Fighter" from vanilla and "Heavy Fighter" and "Gunship"
 
-###The Station of Dr. Rousseau
+### The Station of Dr. Rousseau
 
 "Bounty" Arfecta is spawned directly outside starting location. Culprit: , Mission: "Puzzle 3". No location is defined so Arfecta is spawned on first "landing".
 
 "Hunt Dread Pirate Roberts" mission offers everywhere due to a lack of a source filter
 
-###Edge of Endless
+### Edge of Endless
 
 Overrides Luxury Accommodations and give it much higher space, bunks, and crew requirement, might make some ships that comes with it appears to have negative space and/or bunks.
 
 Ship "Colossus" conflicts with a ship of the same name from Adamas
 
-###Adamas
+### Adamas
 
 Ship "Colossus" conflicts with a ship of the same name from Edge of Endless
 
-###ES-Restock
+### ES-Restock
 
 Gatling gun texture has empty space at 200px tall, resultuing in the outfit display being 10px lower than others
 
-###Akasha Chronicles
+### Akasha Chronicles
 
 Ship "Seraphim" conflicts with a ship of the same name from AES Irm
 
-###AES Irm*
+### AES Irm*
 
 Ship "Seraphim" conflicts with a ship of the same name from Akasha Chronicles
 
-###Mata
+### Mata
 
 Ship "Spectre" conflicts with a ship of the same name from Alterra
 
-###Alterra
+### Alterra
 
 Ship "Spectre" conflicts with a ship of the same name from Mata
 
 Ship "Gladius" conflicts with a ship of the same name from Eternals
 
-###Eternals
+### Eternals
 
 Ship "Gladius" conflicts with a ship of the same name from Alterra
 
@@ -139,16 +139,16 @@ Ship "Gladius" conflicts with a ship of the same name from Alterra
 
 ---
 
-#Contribution
+# Contribution
 
-##Regarding Plugin Informations
+## Regarding Plugin Informations
 
 As you may have noticed some plugins miss infos. That ranges from missing author name to full description, or just if it is still playable on the current Endless Sky version. 
 
 Please help updating these, by either posting in discussions area or by doing a Pull Request changing the files in `/res/pluginlist/`. 
 Thanks.
 
-##Add your plugin
+## Add your plugin
 
 You want your plugin here? Fork this repository, upload your plugin and make a Pull Request. Beside that you can post it in the discussion area.
 
@@ -156,13 +156,13 @@ For Pull Requests... the folder structure has changed with this update. There ar
 
 ---
 
-#Plugin Download
+# Plugin Download
 
 All Plugins (%allplugins%)
 
-[Cheats](#cheats) (%cheats%) | [Gameplay](#gameplay) (%gameplay%) | [Graphics](#graphics) (%graphics%) | [Outfits](#outfits) (%outfits%)<br>
-[Overhauls](#overhauls) (%overhauls%) | [Overwrites](#overwrites) (%overwrites%) | [Patches](#patches) (%patches%) | [Races](#races) (%races%)<br>
-[Ships](#ships) (%ships%) | [Story](#story) (%story%) | [Weapons](#weapons) (%weapons%) | [Uncategorized](#uncategorized) (%uncategorized%)<br>
+[Cheats](https://github.com/zuckung/test3/blob/main/README.md#cheats) (%cheats%) | [Gameplay](https://github.com/zuckung/test3/blob/main/README.md#gameplay) (%gameplay%) | [Graphics](https://github.com/zuckung/test3/blob/main/README.md#graphics) (%graphics%) | [Outfits](https://github.com/zuckung/test3/blob/main/README.md#outfits) (%outfits%)<br>
+[Overhauls](https://github.com/zuckung/test3/blob/main/README.md#overhauls) (%overhauls%) | [Overwrites](https://github.com/zuckung/test3/blob/main/README.md#overwrites) (%overwrites%) | [Patches](https://github.com/zuckung/test3/blob/main/README.md#patches) (%patches%) | [Races](https://github.com/zuckung/test3/blob/main/README.md#races) (%races%)<br>
+[Ships](https://github.com/zuckung/test3/blob/main/README.md#ships) (%ships%) | [Story](https://github.com/zuckung/test3/blob/main/README.md#story) (%story%) | [Weapons](https://github.com/zuckung/test3/blob/main/README.md#weapons) (%weapons%) | [Uncategorized](https://github.com/zuckung/test3/blob/main/README.md#uncategorized) (%uncategorized%)<br>
 
 
 %%% template for category below this point %%%
@@ -180,7 +180,7 @@ All Plugins (%allplugins%)
 </details>
 
 
-[back to top](#plugin-download)
+[back to top](https://github.com/zuckung/test3/blob/main/README.md#plugin-download)
 
 
 %%% template for plugin entry below this point %%%
