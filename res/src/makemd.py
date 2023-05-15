@@ -122,6 +122,7 @@ for entry in entries:
 		print(entry + ".txt CREATED! because plugin was there, but no listfile!")
 	with open(listfolder + entry + ".txt", "r") as file1:
 		text = file1.read()
+		cat = "uncategorized"
 		plist.append(str(cat) + "\n" + entry + "\n" + text) # create a list of all listfiles
 
 # reading template file and splitting it to the 3 templates
