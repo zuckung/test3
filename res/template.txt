@@ -43,30 +43,30 @@ For Pull Requests... the folder structure has changed with this update. There ar
 
 # Plugin Info and Download
 
+All Plugins (%allplugins%)
+
+Cheats (%cheats%) | Gameplay (%gameplay%) | Graphics(%graphics%) | Outfits(%outfits%)<br>
+Overhauls (%overhauls%) | Overwrites (%overwrites%) | Patches (%patches%) | Races (%races%)<br>
+Ships (%ships%) | Story (%story%) | Weapons (%weapons%) | Uncategorized (%uncategorized%)<br>
+
+
 %%% template for category below this point %%%
+
+---
 
 ## %category%
 
 <p>%amount% plugins in this category.<p>
 
-<button onclick="%category%Function()">hide/unhide</button>
+<details>
 
-<div hidden id="%category%DIV">
-%pluginhere%
-</div>
+ %pluginhere%
 
-<p><a href="README.md#Introduction">back up <p>
+</details>
 
-<script>
-function %category%Function() {
-  var x = document.getElementById("%category%DIV");
-  if (x.style.display === "block") {
-    x.style.display = "none";
-  } else {
-    x.style.display = "block";
-  }
-}
-</script>
+
+[back up](#Plugin-Info-and-Download)
+
 
 %%% template for plugin entry below this point %%%
 
@@ -74,7 +74,7 @@ function %category%Function() {
 
 ### %pluginname%
 
-[%assetfile%](%assetfullpath%%assetfile%) | %size% | %lastmodified% | []()
+[%assetfile%](%assetfullpath%%assetfile%) | %size% | %lastmodified% | [view files](%pluginurl%%pluginname%/)
 
 Author: %author% | [%website%](%website%)
 

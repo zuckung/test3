@@ -43,45 +43,46 @@ For Pull Requests... the folder structure has changed with this update. There ar
 
 # Plugin Info and Download
 
+All Plugins (468)
+
+Cheats (36) | Gameplay (35) | Graphics(17) | Outfits(35)<br>
+Overhauls (38) | Overwrites (1) | Patches (3) | Races (64)<br>
+Ships (116) | Story (60) | Weapons (40) | Uncategorized (23)<br>
+
+
+
+---
 
 ## AllPlugins
 
 <p>468 plugins in this category.<p>
 
-<button onclick="AllPluginsFunction()">hide/unhide</button>
+<details>
 
-<div hidden id="AllPluginsDIV">
+ 
 
-</div>
+</details>
 
-<p><a href="README.md#Introduction">back up <p>
 
-<script>
-function AllPluginsFunction() {
-  var x = document.getElementById("AllPluginsDIV");
-  if (x.style.display === "block") {
-    x.style.display = "none";
-  } else {
-    x.style.display = "block";
-  }
-}
-</script>
+[back up](#Plugin-Info-and-Download)
 
+
+
+---
 
 ## Cheats
 
 <p>36 plugins in this category.<p>
 
-<button onclick="CheatsFunction()">hide/unhide</button>
+<details>
 
-<div hidden id="CheatsDIV">
-
+ 
 
 ---
 
 ### AES Omnis
 
-[AES.Omnis.zip](https://github.com/zuckung/test3/releases/download/Latest/AES.Omnis.zip) | N/A | N/A | []()
+[AES.Omnis.zip](https://github.com/zuckung/test3/releases/download/Latest/AES.Omnis.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/AES Omnis/)
 
 Author: Darcy Manoel | [https://github.com/Darcman99/Adde-Endless-Sky](https://github.com/Darcman99/Adde-Endless-Sky)
 
@@ -96,7 +97,7 @@ Status: N/A
 
 ### All Content Plugin
 
-[All.Content.Plugin.zip](https://github.com/zuckung/test3/releases/download/Latest/All.Content.Plugin.zip) | N/A | N/A | []()
+[All.Content.Plugin.zip](https://github.com/zuckung/test3/releases/download/Latest/All.Content.Plugin.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/All Content Plugin/)
 
 Author: Michael Zahniser | [https://github.com/endless-sky/all-content-plugin](https://github.com/endless-sky/all-content-plugin)
 
@@ -111,7 +112,7 @@ Status: N/A
 
 ### Arena
 
-[Arena.zip](https://github.com/zuckung/test3/releases/download/Latest/Arena.zip) | N/A | N/A | []()
+[Arena.zip](https://github.com/zuckung/test3/releases/download/Latest/Arena.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Arena/)
 
 Author: 10010101001 | [https://github.com/10010101001/Arena](https://github.com/10010101001/Arena)
 
@@ -126,7 +127,7 @@ Status: N/A
 
 ### automata.destruction.0percent
 
-[automata.destruction.0percent.zip](https://github.com/zuckung/test3/releases/download/Latest/automata.destruction.0percent.zip) | N/A | N/A | []()
+[automata.destruction.0percent.zip](https://github.com/zuckung/test3/releases/download/Latest/automata.destruction.0percent.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/automata.destruction.0percent/)
 
 Author: zuckung | [https://github.com/zuckung/endless-sky-plugins](https://github.com/zuckung/endless-sky-plugins)
 
@@ -141,7 +142,7 @@ Status: made for 0.10.0
 
 ### automata.destruction.23percent
 
-[automata.destruction.23percent.zip](https://github.com/zuckung/test3/releases/download/Latest/automata.destruction.23percent.zip) | N/A | N/A | []()
+[automata.destruction.23percent.zip](https://github.com/zuckung/test3/releases/download/Latest/automata.destruction.23percent.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/automata.destruction.23percent/)
 
 Author: zuckung | [https://github.com/zuckung/endless-sky-plugins](https://github.com/zuckung/endless-sky-plugins)
 
@@ -156,7 +157,7 @@ Status: made for 0.10.0
 
 ### automata.destruction.51percent
 
-[automata.destruction.51percent.zip](https://github.com/zuckung/test3/releases/download/Latest/automata.destruction.51percent.zip) | N/A | N/A | []()
+[automata.destruction.51percent.zip](https://github.com/zuckung/test3/releases/download/Latest/automata.destruction.51percent.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/automata.destruction.51percent/)
 
 Author: zuckung | [https://github.com/zuckung/endless-sky-plugins](https://github.com/zuckung/endless-sky-plugins)
 
@@ -171,7 +172,7 @@ Status: made for 0.10.0
 
 ### automata.destruction.75percent
 
-[automata.destruction.75percent.zip](https://github.com/zuckung/test3/releases/download/Latest/automata.destruction.75percent.zip) | N/A | N/A | []()
+[automata.destruction.75percent.zip](https://github.com/zuckung/test3/releases/download/Latest/automata.destruction.75percent.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/automata.destruction.75percent/)
 
 Author: zuckung | [https://github.com/zuckung/endless-sky-plugins](https://github.com/zuckung/endless-sky-plugins)
 
@@ -186,7 +187,7 @@ Status: made for 0.10.0
 
 ### Bit and Bobs
 
-[Bit.and.Bobs.zip](https://github.com/zuckung/test3/releases/download/Latest/Bit.and.Bobs.zip) | N/A | N/A | []()
+[Bit.and.Bobs.zip](https://github.com/zuckung/test3/releases/download/Latest/Bit.and.Bobs.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Bit and Bobs/)
 
 Author: N/A | [N/A](N/A)
 
@@ -201,7 +202,7 @@ Status: N/A
 
 ### Casual Mod
 
-[Casual.Mod.zip](https://github.com/zuckung/test3/releases/download/Latest/Casual.Mod.zip) | N/A | N/A | []()
+[Casual.Mod.zip](https://github.com/zuckung/test3/releases/download/Latest/Casual.Mod.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Casual Mod/)
 
 Author: PPhoto  | [https://github.com/pphotography/EndlessSky_CasualMod](https://github.com/pphotography/EndlessSky_CasualMod)
 
@@ -216,7 +217,7 @@ Status: N/A
 
 ### Checkmatemate
 
-[Checkmatemate.zip](https://github.com/zuckung/test3/releases/download/Latest/Checkmatemate.zip) | N/A | N/A | []()
+[Checkmatemate.zip](https://github.com/zuckung/test3/releases/download/Latest/Checkmatemate.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Checkmatemate/)
 
 Author: Zoura | [N/A](N/A)
 
@@ -231,7 +232,7 @@ Status: Playable on 0.9.15 Continuous.
 
 ### Ciu Kreo
 
-[Ciu.Kreo.zip](https://github.com/zuckung/test3/releases/download/Latest/Ciu.Kreo.zip) | N/A | N/A | []()
+[Ciu.Kreo.zip](https://github.com/zuckung/test3/releases/download/Latest/Ciu.Kreo.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Ciu Kreo/)
 
 Author: Luna | [https://github.com/RestingImmortal/Ciu-Kreo](https://github.com/RestingImmortal/Ciu-Kreo)
 
@@ -246,7 +247,7 @@ Status: Playable on 0.9.14
 
 ### Cloaking Device Unlocked
 
-[Cloaking.Device.Unlocked.zip](https://github.com/zuckung/test3/releases/download/Latest/Cloaking.Device.Unlocked.zip) | N/A | N/A | []()
+[Cloaking.Device.Unlocked.zip](https://github.com/zuckung/test3/releases/download/Latest/Cloaking.Device.Unlocked.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Cloaking Device Unlocked/)
 
 Author: N/A | [N/A](N/A)
 
@@ -261,7 +262,7 @@ Status: N/A
 
 ### Custom Outfitting Chop Shop
 
-[Custom.Outfitting.Chop.Shop.zip](https://github.com/zuckung/test3/releases/download/Latest/Custom.Outfitting.Chop.Shop.zip) | N/A | N/A | []()
+[Custom.Outfitting.Chop.Shop.zip](https://github.com/zuckung/test3/releases/download/Latest/Custom.Outfitting.Chop.Shop.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Custom Outfitting Chop Shop/)
 
 Author: Jareth (Dr. Anthrax) | [http://steamcommunity.com/id/DrAnthraxCrux/](http://steamcommunity.com/id/DrAnthraxCrux/)
 
@@ -276,7 +277,7 @@ Status: N/A
 
 ### Dragonflame Fabrication
 
-[Dragonflame.Fabrication.zip](https://github.com/zuckung/test3/releases/download/Latest/Dragonflame.Fabrication.zip) | N/A | N/A | []()
+[Dragonflame.Fabrication.zip](https://github.com/zuckung/test3/releases/download/Latest/Dragonflame.Fabrication.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Dragonflame Fabrication/)
 
 Author: Lake (Galaucus) | [https://github.com/Galaucus/Dragonflame-Fabrication](https://github.com/Galaucus/Dragonflame-Fabrication)
 
@@ -291,7 +292,7 @@ Status: N/A
 
 ### easier harvesting
 
-[easier.harvesting.zip](https://github.com/zuckung/test3/releases/download/Latest/easier.harvesting.zip) | N/A | N/A | []()
+[easier.harvesting.zip](https://github.com/zuckung/test3/releases/download/Latest/easier.harvesting.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/easier harvesting/)
 
 Author: Endros Gunderberg | [N/A](N/A)
 
@@ -306,7 +307,7 @@ Status: N/A
 
 ### Easier Korath Automatons
 
-[Easier.Korath.Automatons.zip](https://github.com/zuckung/test3/releases/download/Latest/Easier.Korath.Automatons.zip) | N/A | N/A | []()
+[Easier.Korath.Automatons.zip](https://github.com/zuckung/test3/releases/download/Latest/Easier.Korath.Automatons.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Easier Korath Automatons/)
 
 Author: Bereskatuket (Kestrel1110) | [https://github.com/kestrel1110/Easier-Korath-Automatons](https://github.com/kestrel1110/Easier-Korath-Automatons)
 
@@ -321,7 +322,7 @@ Status: Should work
 
 ### Generic Plugin
 
-[Generic.Plugin.zip](https://github.com/zuckung/test3/releases/download/Latest/Generic.Plugin.zip) | N/A | N/A | []()
+[Generic.Plugin.zip](https://github.com/zuckung/test3/releases/download/Latest/Generic.Plugin.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Generic Plugin/)
 
 Author: N/A | [N/A](N/A)
 
@@ -336,7 +337,7 @@ Status: N/A
 
 ### Gray Box
 
-[Gray.Box.zip](https://github.com/zuckung/test3/releases/download/Latest/Gray.Box.zip) | N/A | N/A | []()
+[Gray.Box.zip](https://github.com/zuckung/test3/releases/download/Latest/Gray.Box.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Gray Box/)
 
 Author: N/A | [N/A](N/A)
 
@@ -351,7 +352,7 @@ Status: N/A
 
 ### Heliarch Shopping Korath Konvenience
 
-[Heliarch.Shopping.Korath.Konvenience.zip](https://github.com/zuckung/test3/releases/download/Latest/Heliarch.Shopping.Korath.Konvenience.zip) | N/A | N/A | []()
+[Heliarch.Shopping.Korath.Konvenience.zip](https://github.com/zuckung/test3/releases/download/Latest/Heliarch.Shopping.Korath.Konvenience.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Heliarch Shopping Korath Konvenience/)
 
 Author: Waladil | [N/A](N/A)
 
@@ -366,7 +367,7 @@ Status: Playable on 0.9.14, 0.9.15 Continuous.
 
 ### Hilo2000 Arena
 
-[Hilo2000.Arena.zip](https://github.com/zuckung/test3/releases/download/Latest/Hilo2000.Arena.zip) | N/A | N/A | []()
+[Hilo2000.Arena.zip](https://github.com/zuckung/test3/releases/download/Latest/Hilo2000.Arena.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Hilo2000 Arena/)
 
 Author: Mielo Symeonidis | [https://github.com/Hilo2000/arena/blob/main/](https://github.com/Hilo2000/arena/blob/main/)
 
@@ -381,7 +382,7 @@ Status: N/A
 
 ### Improved Ship Integrity
 
-[Improved.Ship.Integrity.zip](https://github.com/zuckung/test3/releases/download/Latest/Improved.Ship.Integrity.zip) | N/A | N/A | []()
+[Improved.Ship.Integrity.zip](https://github.com/zuckung/test3/releases/download/Latest/Improved.Ship.Integrity.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Improved Ship Integrity/)
 
 Author: Xolarix | [https://github.com/Xolarix/Improved-Ship-Integrity](https://github.com/Xolarix/Improved-Ship-Integrity)
 
@@ -396,7 +397,7 @@ Status: N/A
 
 ### Kestrel Rework
 
-[Kestrel.Rework.zip](https://github.com/zuckung/test3/releases/download/Latest/Kestrel.Rework.zip) | N/A | N/A | []()
+[Kestrel.Rework.zip](https://github.com/zuckung/test3/releases/download/Latest/Kestrel.Rework.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Kestrel Rework/)
 
 Author: MinneIceCube | [https://github.com/MinneIceCube/KestrelRework](https://github.com/MinneIceCube/KestrelRework)
 
@@ -411,7 +412,7 @@ Status: N/A
 
 ### No Bactrian
 
-[No.Bactrian.zip](https://github.com/zuckung/test3/releases/download/Latest/No.Bactrian.zip) | N/A | N/A | []()
+[No.Bactrian.zip](https://github.com/zuckung/test3/releases/download/Latest/No.Bactrian.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/No Bactrian/)
 
 Author: Disiuze | [https://github.com/Disiuze/misc-projects](https://github.com/Disiuze/misc-projects)
 
@@ -426,7 +427,7 @@ Status: Should be playable on 0.9.14, 0.9.15.
 
 ### No Drag Mod
 
-[No.Drag.Mod.zip](https://github.com/zuckung/test3/releases/download/Latest/No.Drag.Mod.zip) | N/A | N/A | []()
+[No.Drag.Mod.zip](https://github.com/zuckung/test3/releases/download/Latest/No.Drag.Mod.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/No Drag Mod/)
 
 Author: N/A | [N/A](N/A)
 
@@ -441,7 +442,7 @@ Status: N/A
 
 ### Nuclear War
 
-[Nuclear.War.zip](https://github.com/zuckung/test3/releases/download/Latest/Nuclear.War.zip) | N/A | N/A | []()
+[Nuclear.War.zip](https://github.com/zuckung/test3/releases/download/Latest/Nuclear.War.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Nuclear War/)
 
 Author: House Kitty | [N/A](N/A)
 
@@ -456,7 +457,7 @@ Status: Should be playable on 0.9.14, 0.9.15 Continuous.
 
 ### Overkill
 
-[Overkill.zip](https://github.com/zuckung/test3/releases/download/Latest/Overkill.zip) | N/A | N/A | []()
+[Overkill.zip](https://github.com/zuckung/test3/releases/download/Latest/Overkill.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Overkill/)
 
 Author: Carter-M-II | [https://github.com/Carter-M-II/ES-Overkill](https://github.com/Carter-M-II/ES-Overkill)
 
@@ -471,7 +472,7 @@ Status: N/A
 
 ### Reverse Engineering
 
-[Reverse.Engineering.zip](https://github.com/zuckung/test3/releases/download/Latest/Reverse.Engineering.zip) | N/A | N/A | []()
+[Reverse.Engineering.zip](https://github.com/zuckung/test3/releases/download/Latest/Reverse.Engineering.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Reverse Engineering/)
 
 Author: N/A | [N/A](N/A)
 
@@ -486,7 +487,7 @@ Status: N/A
 
 ### Shipmod
 
-[Shipmod.zip](https://github.com/zuckung/test3/releases/download/Latest/Shipmod.zip) | N/A | N/A | []()
+[Shipmod.zip](https://github.com/zuckung/test3/releases/download/Latest/Shipmod.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Shipmod/)
 
 Author: Lake (Galaucus) | [https://github.com/Galaucus/Shipmod](https://github.com/Galaucus/Shipmod)
 
@@ -501,7 +502,7 @@ Status: N/A
 
 ### Slightly Less Self-Destructive Korath Automa
 
-[Slightly.Less.Self-Destructive.Korath.Automa.zip](https://github.com/zuckung/test3/releases/download/Latest/Slightly.Less.Self-Destructive.Korath.Automa.zip) | N/A | N/A | []()
+[Slightly.Less.Self-Destructive.Korath.Automa.zip](https://github.com/zuckung/test3/releases/download/Latest/Slightly.Less.Self-Destructive.Korath.Automa.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Slightly Less Self-Destructive Korath Automa/)
 
 Author: N/A | [N/A](N/A)
 
@@ -516,7 +517,7 @@ Status: N/A
 
 ### Space Conversion
 
-[Space.Conversion.zip](https://github.com/zuckung/test3/releases/download/Latest/Space.Conversion.zip) | N/A | N/A | []()
+[Space.Conversion.zip](https://github.com/zuckung/test3/releases/download/Latest/Space.Conversion.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Space Conversion/)
 
 Author: whismerhill | [https://www.nexusmods.com/endlesssky/mods/1](https://www.nexusmods.com/endlesssky/mods/1)
 
@@ -531,7 +532,7 @@ Status: N/A
 
 ### Trollship
 
-[Trollship.zip](https://github.com/zuckung/test3/releases/download/Latest/Trollship.zip) | N/A | N/A | []()
+[Trollship.zip](https://github.com/zuckung/test3/releases/download/Latest/Trollship.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Trollship/)
 
 Author: House Kitty | [N/A](N/A)
 
@@ -546,7 +547,7 @@ Status: Playable on 0.9.14, 0.9.15 Continuous.
 
 ### Ultimate Cheater Plugin
 
-[Ultimate.Cheater.Plugin.zip](https://github.com/zuckung/test3/releases/download/Latest/Ultimate.Cheater.Plugin.zip) | N/A | N/A | []()
+[Ultimate.Cheater.Plugin.zip](https://github.com/zuckung/test3/releases/download/Latest/Ultimate.Cheater.Plugin.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Ultimate Cheater Plugin/)
 
 Author: mdsmestad | [https://github.com/Hondolor/mdsmestad-Ultimate-Cheater-Pluggin](https://github.com/Hondolor/mdsmestad-Ultimate-Cheater-Pluggin)
 
@@ -561,7 +562,7 @@ Status: Playable on 0.9.14, 0.9.15 Continuous.
 
 ### Ursa Polaris
 
-[Ursa.Polaris.zip](https://github.com/zuckung/test3/releases/download/Latest/Ursa.Polaris.zip) | N/A | N/A | []()
+[Ursa.Polaris.zip](https://github.com/zuckung/test3/releases/download/Latest/Ursa.Polaris.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Ursa Polaris/)
 
 Author: Local God | [https://github.com/LocalGod79/UrsaPolaris](https://github.com/LocalGod79/UrsaPolaris)
 
@@ -576,7 +577,7 @@ Status: Playable on 0.10.0
 
 ### Visible Minable Asteroids
 
-[Visible.Minable.Asteroids.zip](https://github.com/zuckung/test3/releases/download/Latest/Visible.Minable.Asteroids.zip) | N/A | N/A | []()
+[Visible.Minable.Asteroids.zip](https://github.com/zuckung/test3/releases/download/Latest/Visible.Minable.Asteroids.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Visible Minable Asteroids/)
 
 Author: hellminister | [https://steamcommunity.com/sharedfiles/filedetails/?id=1199797331](https://steamcommunity.com/sharedfiles/filedetails/?id=1199797331)
 
@@ -591,7 +592,7 @@ Status: N/A
 
 ### World Forge
 
-[World.Forge.zip](https://github.com/zuckung/test3/releases/download/Latest/World.Forge.zip) | N/A | N/A | []()
+[World.Forge.zip](https://github.com/zuckung/test3/releases/download/Latest/World.Forge.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/World Forge/)
 
 Author: N/A | [https://github.com/Amazinite/world-forge](https://github.com/Amazinite/world-forge)
 
@@ -606,7 +607,7 @@ Status: N/A
 
 ### ZES Global
 
-[ZES.Global.zip](https://github.com/zuckung/test3/releases/download/Latest/ZES.Global.zip) | N/A | N/A | []()
+[ZES.Global.zip](https://github.com/zuckung/test3/releases/download/Latest/ZES.Global.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/ZES Global/)
 
 Author: Zichas | [https://github.com/Zitchas/ZESglobal](https://github.com/Zitchas/ZESglobal)
 
@@ -616,36 +617,29 @@ Category: Cheats
 
 Status: N/A
 
-</div>
 
-<p><a href="README.md#Introduction">back up <p>
+</details>
 
-<script>
-function CheatsFunction() {
-  var x = document.getElementById("CheatsDIV");
-  if (x.style.display === "block") {
-    x.style.display = "none";
-  } else {
-    x.style.display = "block";
-  }
-}
-</script>
 
+[back up](#Plugin-Info-and-Download)
+
+
+
+---
 
 ## Gameplay
 
 <p>35 plugins in this category.<p>
 
-<button onclick="GameplayFunction()">hide/unhide</button>
+<details>
 
-<div hidden id="GameplayDIV">
-
+ 
 
 ---
 
 ### Adjusted Hyperdrive
 
-[Adjusted.Hyperdrive.zip](https://github.com/zuckung/test3/releases/download/Latest/Adjusted.Hyperdrive.zip) | N/A | N/A | []()
+[Adjusted.Hyperdrive.zip](https://github.com/zuckung/test3/releases/download/Latest/Adjusted.Hyperdrive.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Adjusted Hyperdrive/)
 
 Author: N/A | [N/A](N/A)
 
@@ -660,7 +654,7 @@ Status: N/A
 
 ### Arrival Distance Override
 
-[Arrival.Distance.Override.zip](https://github.com/zuckung/test3/releases/download/Latest/Arrival.Distance.Override.zip) | N/A | N/A | []()
+[Arrival.Distance.Override.zip](https://github.com/zuckung/test3/releases/download/Latest/Arrival.Distance.Override.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Arrival Distance Override/)
 
 Author: N/A | [N/A](N/A)
 
@@ -675,7 +669,7 @@ Status: N/A
 
 ### automata.in.human.space
 
-[automata.in.human.space.zip](https://github.com/zuckung/test3/releases/download/Latest/automata.in.human.space.zip) | N/A | N/A | []()
+[automata.in.human.space.zip](https://github.com/zuckung/test3/releases/download/Latest/automata.in.human.space.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/automata.in.human.space/)
 
 Author: zuckung | [https://github.com/zuckung/endless-sky-plugins](https://github.com/zuckung/endless-sky-plugins)
 
@@ -690,7 +684,7 @@ Status: made for 0.10.0
 
 ### Bare Ships
 
-[Bare.Ships.zip](https://github.com/zuckung/test3/releases/download/Latest/Bare.Ships.zip) | N/A | N/A | []()
+[Bare.Ships.zip](https://github.com/zuckung/test3/releases/download/Latest/Bare.Ships.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Bare Ships/)
 
 Author: lifeyouristhis | [https://github.com/lifeyouristhis/bare-ships-plugin](https://github.com/lifeyouristhis/bare-ships-plugin)
 
@@ -705,7 +699,7 @@ Status: N/A
 
 ### Boarding Licenses
 
-[Boarding.Licenses.zip](https://github.com/zuckung/test3/releases/download/Latest/Boarding.Licenses.zip) | N/A | N/A | []()
+[Boarding.Licenses.zip](https://github.com/zuckung/test3/releases/download/Latest/Boarding.Licenses.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Boarding Licenses/)
 
 Author: An-archist | [https://github.com/An-archist/boarding-licenses](https://github.com/An-archist/boarding-licenses)
 
@@ -720,7 +714,7 @@ Status: N/A
 
 ### Bounty Hunters
 
-[Bounty.Hunters.zip](https://github.com/zuckung/test3/releases/download/Latest/Bounty.Hunters.zip) | N/A | N/A | []()
+[Bounty.Hunters.zip](https://github.com/zuckung/test3/releases/download/Latest/Bounty.Hunters.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Bounty Hunters/)
 
 Author: WarlordMike | [https://github.com/WarlordMike/es-bounty-hunters](https://github.com/WarlordMike/es-bounty-hunters)
 
@@ -735,7 +729,7 @@ Status: N/A
 
 ### Businessman Mod
 
-[Businessman.Mod.zip](https://github.com/zuckung/test3/releases/download/Latest/Businessman.Mod.zip) | N/A | N/A | []()
+[Businessman.Mod.zip](https://github.com/zuckung/test3/releases/download/Latest/Businessman.Mod.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Businessman Mod/)
 
 Author: Evan | [http://steamcommunity.com/id/01001001011001011/](http://steamcommunity.com/id/01001001011001011/)
 
@@ -750,7 +744,7 @@ Status: Playable on 0.9.14, 0.9.15 Continuous.
 
 ### Costly Drives
 
-[Costly.Drives.zip](https://github.com/zuckung/test3/releases/download/Latest/Costly.Drives.zip) | N/A | N/A | []()
+[Costly.Drives.zip](https://github.com/zuckung/test3/releases/download/Latest/Costly.Drives.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Costly Drives/)
 
 Author: Anarchist2 | [https://github.com/Anarchist2/costly-drives](https://github.com/Anarchist2/costly-drives)
 
@@ -765,7 +759,7 @@ Status: N/A
 
 ### Crowded Sky
 
-[Crowded.Sky.zip](https://github.com/zuckung/test3/releases/download/Latest/Crowded.Sky.zip) | N/A | N/A | []()
+[Crowded.Sky.zip](https://github.com/zuckung/test3/releases/download/Latest/Crowded.Sky.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Crowded Sky/)
 
 Author: 1010todd | [N/A](N/A)
 
@@ -780,7 +774,7 @@ Status: N/A
 
 ### Difficulties
 
-[Difficulties.zip](https://github.com/zuckung/test3/releases/download/Latest/Difficulties.zip) | N/A | N/A | []()
+[Difficulties.zip](https://github.com/zuckung/test3/releases/download/Latest/Difficulties.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Difficulties/)
 
 Author: Mielo Symeonidis | [N/A](N/A)
 
@@ -795,7 +789,7 @@ Status: N/A
 
 ### Drop Loot
 
-[Drop.Loot.zip](https://github.com/zuckung/test3/releases/download/Latest/Drop.Loot.zip) | N/A | N/A | []()
+[Drop.Loot.zip](https://github.com/zuckung/test3/releases/download/Latest/Drop.Loot.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Drop Loot/)
 
 Author: 1010todd | [N/A](N/A)
 
@@ -810,7 +804,7 @@ Status: N/A
 
 ### Extra Large Jobs
 
-[Extra.Large.Jobs.zip](https://github.com/zuckung/test3/releases/download/Latest/Extra.Large.Jobs.zip) | N/A | N/A | []()
+[Extra.Large.Jobs.zip](https://github.com/zuckung/test3/releases/download/Latest/Extra.Large.Jobs.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Extra Large Jobs/)
 
 Author: 1010todd | [N/A](N/A)
 
@@ -825,7 +819,7 @@ Status: Playable on 0.9.15 Continuous.
 
 ### Galactic Hazards
 
-[Galactic.Hazards.zip](https://github.com/zuckung/test3/releases/download/Latest/Galactic.Hazards.zip) | N/A | N/A | []()
+[Galactic.Hazards.zip](https://github.com/zuckung/test3/releases/download/Latest/Galactic.Hazards.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Galactic Hazards/)
 
 Author: N/A | [N/A](N/A)
 
@@ -840,7 +834,7 @@ Status: N/A
 
 ### galactic.capital.investment
 
-[galactic.capital.investment.zip](https://github.com/zuckung/test3/releases/download/Latest/galactic.capital.investment.zip) | N/A | N/A | []()
+[galactic.capital.investment.zip](https://github.com/zuckung/test3/releases/download/Latest/galactic.capital.investment.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/galactic.capital.investment/)
 
 Author: zuckung | [https://github.com/zuckung/endless-sky-plugins](https://github.com/zuckung/endless-sky-plugins)
 
@@ -855,7 +849,7 @@ Status: made for 0.10.0
 
 ### Gatling Ammo Fix
 
-[Gatling.Ammo.Fix.zip](https://github.com/zuckung/test3/releases/download/Latest/Gatling.Ammo.Fix.zip) | N/A | N/A | []()
+[Gatling.Ammo.Fix.zip](https://github.com/zuckung/test3/releases/download/Latest/Gatling.Ammo.Fix.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Gatling Ammo Fix/)
 
 Author: Cat-Lady | [https://github.com/Cat-Lady/](https://github.com/Cat-Lady/)
 
@@ -870,7 +864,7 @@ Status: N/A
 
 ### GreyShipVolume
 
-[GreyShipVolume.zip](https://github.com/zuckung/test3/releases/download/Latest/GreyShipVolume.zip) | N/A | N/A | []()
+[GreyShipVolume.zip](https://github.com/zuckung/test3/releases/download/Latest/GreyShipVolume.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/GreyShipVolume/)
 
 Author: 1010Todd | [N/A](N/A)
 
@@ -885,7 +879,7 @@ Status: Playable on 0.9.14, 0.9.15 Continuous.
 
 ### HW Rebalance Test
 
-[HW.Rebalance.Test.zip](https://github.com/zuckung/test3/releases/download/Latest/HW.Rebalance.Test.zip) | N/A | N/A | []()
+[HW.Rebalance.Test.zip](https://github.com/zuckung/test3/releases/download/Latest/HW.Rebalance.Test.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/HW Rebalance Test/)
 
 Author: 1010Todd | [N/A](N/A)
 
@@ -900,7 +894,7 @@ Status: Playable on 0.9.14, 0.9.15 Continuous.
 
 ### Investment Bank
 
-[Investment.Bank.zip](https://github.com/zuckung/test3/releases/download/Latest/Investment.Bank.zip) | N/A | N/A | []()
+[Investment.Bank.zip](https://github.com/zuckung/test3/releases/download/Latest/Investment.Bank.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Investment Bank/)
 
 Author: a-alhusain | [https://github.com/appdevland/investment-bank-es-plugin](https://github.com/appdevland/investment-bank-es-plugin)
 
@@ -915,7 +909,7 @@ Status: Playable on 0.9.14, 0.10.0 Continuous.
 
 ### kor.efret.shipyard
 
-[kor.efret.shipyard.zip](https://github.com/zuckung/test3/releases/download/Latest/kor.efret.shipyard.zip) | N/A | N/A | []()
+[kor.efret.shipyard.zip](https://github.com/zuckung/test3/releases/download/Latest/kor.efret.shipyard.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/kor.efret.shipyard/)
 
 Author: zuckung | [https://github.com/zuckung/endless-sky-plugins](https://github.com/zuckung/endless-sky-plugins)
 
@@ -930,7 +924,7 @@ Status: made for 0.10.0
 
 ### Korath Domination
 
-[Korath.Domination.zip](https://github.com/zuckung/test3/releases/download/Latest/Korath.Domination.zip) | N/A | N/A | []()
+[Korath.Domination.zip](https://github.com/zuckung/test3/releases/download/Latest/Korath.Domination.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Korath Domination/)
 
 Author: N/A | [N/A](N/A)
 
@@ -945,7 +939,7 @@ Status: N/A
 
 ### Landing Fees and Tax
 
-[Landing.Fees.and.Tax.zip](https://github.com/zuckung/test3/releases/download/Latest/Landing.Fees.and.Tax.zip) | N/A | N/A | []()
+[Landing.Fees.and.Tax.zip](https://github.com/zuckung/test3/releases/download/Latest/Landing.Fees.and.Tax.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Landing Fees and Tax/)
 
 Author: Disiuze | [https://github.com/Disiuze/misc-projects](https://github.com/Disiuze/misc-projects)
 
@@ -960,7 +954,7 @@ Status: Playable on 0.9.14, 0.9.15 Continuous.
 
 ### Mass-ive Fix
 
-[Mass-ive.Fix.zip](https://github.com/zuckung/test3/releases/download/Latest/Mass-ive.Fix.zip) | N/A | N/A | []()
+[Mass-ive.Fix.zip](https://github.com/zuckung/test3/releases/download/Latest/Mass-ive.Fix.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Mass-ive Fix/)
 
 Author: Anarchist2 | [https://github.com/Anarchist2/Mass-ive-fix](https://github.com/Anarchist2/Mass-ive-fix)
 
@@ -975,7 +969,7 @@ Status: N/A
 
 ### Mess
 
-[Mess.zip](https://github.com/zuckung/test3/releases/download/Latest/Mess.zip) | N/A | N/A | []()
+[Mess.zip](https://github.com/zuckung/test3/releases/download/Latest/Mess.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Mess/)
 
 Author: FranchuFranchu | [https://github.com/FranchuFranchu/endless-sky-mess-plugin](https://github.com/FranchuFranchu/endless-sky-mess-plugin)
 
@@ -990,7 +984,7 @@ Status: N/A
 
 ### more.boarding.missions
 
-[more.boarding.missions.zip](https://github.com/zuckung/test3/releases/download/Latest/more.boarding.missions.zip) | N/A | N/A | []()
+[more.boarding.missions.zip](https://github.com/zuckung/test3/releases/download/Latest/more.boarding.missions.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/more.boarding.missions/)
 
 Author: zuckung | [https://github.com/zuckung/endless-sky-plugins](https://github.com/zuckung/endless-sky-plugins)
 
@@ -1005,7 +999,7 @@ Status: made for 0.10.0
 
 ### Persistent NPC
 
-[Persistent.NPC.zip](https://github.com/zuckung/test3/releases/download/Latest/Persistent.NPC.zip) | N/A | N/A | []()
+[Persistent.NPC.zip](https://github.com/zuckung/test3/releases/download/Latest/Persistent.NPC.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Persistent NPC/)
 
 Author: 1010todd | [N/A](N/A)
 
@@ -1020,7 +1014,7 @@ Status: Playable on 0.9.15 Continuous.
 
 ### Pirate Hunter
 
-[Pirate.Hunter.zip](https://github.com/zuckung/test3/releases/download/Latest/Pirate.Hunter.zip) | N/A | N/A | []()
+[Pirate.Hunter.zip](https://github.com/zuckung/test3/releases/download/Latest/Pirate.Hunter.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Pirate Hunter/)
 
 Author: Zavindur | [N/A](N/A)
 
@@ -1035,7 +1029,7 @@ Status: Playable on 0.9.14, 0.9.15 Continuous.
 
 ### PlayerRewards
 
-[PlayerRewards.zip](https://github.com/zuckung/test3/releases/download/Latest/PlayerRewards.zip) | N/A | N/A | []()
+[PlayerRewards.zip](https://github.com/zuckung/test3/releases/download/Latest/PlayerRewards.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/PlayerRewards/)
 
 Author: Beanzilla | [https://github.com/Beanzilla/PlayerRewards](https://github.com/Beanzilla/PlayerRewards)
 
@@ -1050,7 +1044,7 @@ Status: N/A
 
 ### Salvaging
 
-[Salvaging.zip](https://github.com/zuckung/test3/releases/download/Latest/Salvaging.zip) | N/A | N/A | []()
+[Salvaging.zip](https://github.com/zuckung/test3/releases/download/Latest/Salvaging.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Salvaging/)
 
 Author: Hecter94 | [N/A](N/A)
 
@@ -1065,7 +1059,7 @@ Status: N/A
 
 ### Ship Overhaul
 
-[Ship.Overhaul.zip](https://github.com/zuckung/test3/releases/download/Latest/Ship.Overhaul.zip) | N/A | N/A | []()
+[Ship.Overhaul.zip](https://github.com/zuckung/test3/releases/download/Latest/Ship.Overhaul.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Ship Overhaul/)
 
 Author: Vrok-Kronos | [https://github.com/Vrok-Kronos/endless-sky-ship-overhaul](https://github.com/Vrok-Kronos/endless-sky-ship-overhaul)
 
@@ -1080,7 +1074,7 @@ Status: N/A
 
 ### Spacefarer
 
-[Spacefarer.zip](https://github.com/zuckung/test3/releases/download/Latest/Spacefarer.zip) | N/A | N/A | []()
+[Spacefarer.zip](https://github.com/zuckung/test3/releases/download/Latest/Spacefarer.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Spacefarer/)
 
 Author: samrocketman and Airhead | [https://github.com/samrocketman/Spacefarer](https://github.com/samrocketman/Spacefarer)
 
@@ -1095,7 +1089,7 @@ Status: Playable on 0.9.15 Continuous.
 
 ### Stronger Hulls
 
-[Stronger.Hulls.zip](https://github.com/zuckung/test3/releases/download/Latest/Stronger.Hulls.zip) | N/A | N/A | []()
+[Stronger.Hulls.zip](https://github.com/zuckung/test3/releases/download/Latest/Stronger.Hulls.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Stronger Hulls/)
 
 Author: Connor Waterbanks | [N/A](N/A)
 
@@ -1110,7 +1104,7 @@ Status: Playable on 0.9.14, 0.9.15 Continuous
 
 ### Tale Of Apoxys
 
-[Tale.Of.Apoxys.zip](https://github.com/zuckung/test3/releases/download/Latest/Tale.Of.Apoxys.zip) | N/A | N/A | []()
+[Tale.Of.Apoxys.zip](https://github.com/zuckung/test3/releases/download/Latest/Tale.Of.Apoxys.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Tale Of Apoxys/)
 
 Author: N/A | [N/A](N/A)
 
@@ -1125,7 +1119,7 @@ Status: N/A
 
 ### tribute-domination
 
-[tribute-domination.zip](https://github.com/zuckung/test3/releases/download/Latest/tribute-domination.zip) | N/A | N/A | []()
+[tribute-domination.zip](https://github.com/zuckung/test3/releases/download/Latest/tribute-domination.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/tribute-domination/)
 
 Author: Legolas @CodeDraken | [N/A](N/A)
 
@@ -1140,7 +1134,7 @@ Status: N/A
 
 ### Weapon Ranges
 
-[Weapon.Ranges.zip](https://github.com/zuckung/test3/releases/download/Latest/Weapon.Ranges.zip) | N/A | N/A | []()
+[Weapon.Ranges.zip](https://github.com/zuckung/test3/releases/download/Latest/Weapon.Ranges.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Weapon Ranges/)
 
 Author: EjoThims | [https://github.com/EjoThims/Weapon-Ranges](https://github.com/EjoThims/Weapon-Ranges)
 
@@ -1155,7 +1149,7 @@ Status: N/A
 
 ### zLarge Asteroid
 
-[zLarge.Asteroid.zip](https://github.com/zuckung/test3/releases/download/Latest/zLarge.Asteroid.zip) | N/A | N/A | []()
+[zLarge.Asteroid.zip](https://github.com/zuckung/test3/releases/download/Latest/zLarge.Asteroid.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/zLarge Asteroid/)
 
 Author: 1010Todd | [N/A](N/A)
 
@@ -1165,36 +1159,29 @@ Category: Gameplay
 
 Status: N/A
 
-</div>
 
-<p><a href="README.md#Introduction">back up <p>
+</details>
 
-<script>
-function GameplayFunction() {
-  var x = document.getElementById("GameplayDIV");
-  if (x.style.display === "block") {
-    x.style.display = "none";
-  } else {
-    x.style.display = "block";
-  }
-}
-</script>
 
+[back up](#Plugin-Info-and-Download)
+
+
+
+---
 
 ## Graphics
 
 <p>17 plugins in this category.<p>
 
-<button onclick="GraphicsFunction()">hide/unhide</button>
+<details>
 
-<div hidden id="GraphicsDIV">
-
+ 
 
 ---
 
 ### additional.command.buttons
 
-[additional.command.buttons.zip](https://github.com/zuckung/test3/releases/download/Latest/additional.command.buttons.zip) | N/A | N/A | []()
+[additional.command.buttons.zip](https://github.com/zuckung/test3/releases/download/Latest/additional.command.buttons.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/additional.command.buttons/)
 
 Author: zuckung | [https://github.com/zuckung/endless-sky-plugins](https://github.com/zuckung/endless-sky-plugins)
 
@@ -1209,7 +1196,7 @@ Status: made for 0.10.0
 
 ### Animated Ships
 
-[Animated.Ships.zip](https://github.com/zuckung/test3/releases/download/Latest/Animated.Ships.zip) | N/A | N/A | []()
+[Animated.Ships.zip](https://github.com/zuckung/test3/releases/download/Latest/Animated.Ships.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Animated Ships/)
 
 Author: beccabunny | [https://github.com/beccabunny/Animated-ships](https://github.com/beccabunny/Animated-ships)
 
@@ -1224,7 +1211,7 @@ Status: N/A
 
 ### Animated Stars
 
-[Animated.Stars.zip](https://github.com/zuckung/test3/releases/download/Latest/Animated.Stars.zip) | N/A | N/A | []()
+[Animated.Stars.zip](https://github.com/zuckung/test3/releases/download/Latest/Animated.Stars.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Animated Stars/)
 
 Author: N/A | [N/A](N/A)
 
@@ -1239,7 +1226,7 @@ Status: N/A
 
 ### Colorful Void Sprites
 
-[Colorful.Void.Sprites.zip](https://github.com/zuckung/test3/releases/download/Latest/Colorful.Void.Sprites.zip) | N/A | N/A | []()
+[Colorful.Void.Sprites.zip](https://github.com/zuckung/test3/releases/download/Latest/Colorful.Void.Sprites.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Colorful Void Sprites/)
 
 Author: rob59er | [https://github.com/Rob59er/Colorful-Void-Sprites](https://github.com/Rob59er/Colorful-Void-Sprites)
 
@@ -1254,7 +1241,7 @@ Status: Playable on 0.9.14, 0.9.15 Continuous.
 
 ### Dark Ships
 
-[Dark.Ships.zip](https://github.com/zuckung/test3/releases/download/Latest/Dark.Ships.zip) | N/A | N/A | []()
+[Dark.Ships.zip](https://github.com/zuckung/test3/releases/download/Latest/Dark.Ships.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Dark Ships/)
 
 Author: N/A | [N/A](N/A)
 
@@ -1269,7 +1256,7 @@ Status: Should work
 
 ### ES Ships
 
-[ES.Ships.zip](https://github.com/zuckung/test3/releases/download/Latest/ES.Ships.zip) | N/A | N/A | []()
+[ES.Ships.zip](https://github.com/zuckung/test3/releases/download/Latest/ES.Ships.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/ES Ships/)
 
 Author: Yann | [N/A](N/A)
 
@@ -1284,7 +1271,7 @@ Status: Playable on 0.9.15 Continuous.
 
 ### High DPI
 
-[High.DPI.zip](https://github.com/zuckung/test3/releases/download/Latest/High.DPI.zip) | N/A | N/A | []()
+[High.DPI.zip](https://github.com/zuckung/test3/releases/download/Latest/High.DPI.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/High DPI/)
 
 Author: Michael Zahniser (Maintained by the ES Community) | [https://github.com/endless-sky/endless-sky-high-dpi](https://github.com/endless-sky/endless-sky-high-dpi)
 
@@ -1299,7 +1286,7 @@ Status: Playable on 0.9.14, 0.9.15 Continuous.
 
 ### Human Steering Flares
 
-[Human.Steering.Flares.zip](https://github.com/zuckung/test3/releases/download/Latest/Human.Steering.Flares.zip) | N/A | N/A | []()
+[Human.Steering.Flares.zip](https://github.com/zuckung/test3/releases/download/Latest/Human.Steering.Flares.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Human Steering Flares/)
 
 Author: Ferociousfeind | [N/A](N/A)
 
@@ -1314,7 +1301,7 @@ Status: Playable on 0.9.14, 0.9.15 Continuous.
 
 ### Low Quality
 
-[Low.Quality.zip](https://github.com/zuckung/test3/releases/download/Latest/Low.Quality.zip) | N/A | N/A | []()
+[Low.Quality.zip](https://github.com/zuckung/test3/releases/download/Latest/Low.Quality.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Low Quality/)
 
 Author: N/A | [N/A](N/A)
 
@@ -1329,7 +1316,7 @@ Status: N/A
 
 ### New Galaxy
 
-[New.Galaxy.zip](https://github.com/zuckung/test3/releases/download/Latest/New.Galaxy.zip) | N/A | N/A | []()
+[New.Galaxy.zip](https://github.com/zuckung/test3/releases/download/Latest/New.Galaxy.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/New Galaxy/)
 
 Author: Lia Gerty | [https://github.com/ravenshining](https://github.com/ravenshining)
 
@@ -1344,7 +1331,7 @@ Status: N/A
 
 ### Outfit Highlighter
 
-[Outfit.Highlighter.zip](https://github.com/zuckung/test3/releases/download/Latest/Outfit.Highlighter.zip) | N/A | N/A | []()
+[Outfit.Highlighter.zip](https://github.com/zuckung/test3/releases/download/Latest/Outfit.Highlighter.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Outfit Highlighter/)
 
 Author: Michael Arsollon | [https://github.com/MidnightPlugins/Outfit-Highlighter](https://github.com/MidnightPlugins/Outfit-Highlighter)
 
@@ -1359,7 +1346,7 @@ Status: N/A
 
 ### Pi game mods
 
-[Pi.game.mods.zip](https://github.com/zuckung/test3/releases/download/Latest/Pi.game.mods.zip) | N/A | N/A | []()
+[Pi.game.mods.zip](https://github.com/zuckung/test3/releases/download/Latest/Pi.game.mods.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Pi game mods/)
 
 Author: Pilover100 | [N/A](N/A)
 
@@ -1374,7 +1361,7 @@ Status: Playable on 0.9.15/0.9.16.
 
 ### Realistic Solar System
 
-[Realistic.Solar.System.zip](https://github.com/zuckung/test3/releases/download/Latest/Realistic.Solar.System.zip) | N/A | N/A | []()
+[Realistic.Solar.System.zip](https://github.com/zuckung/test3/releases/download/Latest/Realistic.Solar.System.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Realistic Solar System/)
 
 Author: beccabunny | [https://github.com/beccabunny/Realistic-Solar-System](https://github.com/beccabunny/Realistic-Solar-System)
 
@@ -1389,7 +1376,7 @@ Status: N/A
 
 ### Restock
 
-[Restock.zip](https://github.com/zuckung/test3/releases/download/Latest/Restock.zip) | N/A | N/A | []()
+[Restock.zip](https://github.com/zuckung/test3/releases/download/Latest/Restock.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Restock/)
 
 Author: Tommaso Becca | [N/A](N/A)
 
@@ -1404,7 +1391,7 @@ Status: N/A
 
 ### Swizzle Player
 
-[Swizzle.Player.zip](https://github.com/zuckung/test3/releases/download/Latest/Swizzle.Player.zip) | N/A | N/A | []()
+[Swizzle.Player.zip](https://github.com/zuckung/test3/releases/download/Latest/Swizzle.Player.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Swizzle Player/)
 
 Author: Cat-Lady | [https://github.com/Cat-Lady/swizzle-player/releases](https://github.com/Cat-Lady/swizzle-player/releases)
 
@@ -1419,7 +1406,7 @@ Status: N/A
 
 ### Wanderer Suns
 
-[Wanderer.Suns.zip](https://github.com/zuckung/test3/releases/download/Latest/Wanderer.Suns.zip) | N/A | N/A | []()
+[Wanderer.Suns.zip](https://github.com/zuckung/test3/releases/download/Latest/Wanderer.Suns.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Wanderer Suns/)
 
 Author: Gefüllte Taubenbrust | [N/A](N/A)
 
@@ -1434,7 +1421,7 @@ Status: N/A
 
 ### What a Wonderful World-Ship
 
-[What.a.Wonderful.World-Ship.zip](https://github.com/zuckung/test3/releases/download/Latest/What.a.Wonderful.World-Ship.zip) | N/A | N/A | []()
+[What.a.Wonderful.World-Ship.zip](https://github.com/zuckung/test3/releases/download/Latest/What.a.Wonderful.World-Ship.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/What a Wonderful World-Ship/)
 
 Author: N/A | [N/A](N/A)
 
@@ -1444,36 +1431,29 @@ Category: Graphics
 
 Status: N/A
 
-</div>
 
-<p><a href="README.md#Introduction">back up <p>
+</details>
 
-<script>
-function GraphicsFunction() {
-  var x = document.getElementById("GraphicsDIV");
-  if (x.style.display === "block") {
-    x.style.display = "none";
-  } else {
-    x.style.display = "block";
-  }
-}
-</script>
 
+[back up](#Plugin-Info-and-Download)
+
+
+
+---
 
 ## Outfits
 
 <p>35 plugins in this category.<p>
 
-<button onclick="OutfitsFunction()">hide/unhide</button>
+<details>
 
-<div hidden id="OutfitsDIV">
-
+ 
 
 ---
 
 ### Alternate Human Shields
 
-[Alternate.Human.Shields.zip](https://github.com/zuckung/test3/releases/download/Latest/Alternate.Human.Shields.zip) | N/A | N/A | []()
+[Alternate.Human.Shields.zip](https://github.com/zuckung/test3/releases/download/Latest/Alternate.Human.Shields.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Alternate Human Shields/)
 
 Author: 1010todd | [N/A](N/A)
 
@@ -1488,7 +1468,7 @@ Status: Playable on 0.9.15 Continuous.
 
 ### Androids
 
-[Androids.zip](https://github.com/zuckung/test3/releases/download/Latest/Androids.zip) | N/A | N/A | []()
+[Androids.zip](https://github.com/zuckung/test3/releases/download/Latest/Androids.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Androids/)
 
 Author: Disiuze | [https://github.com/Disiuze/misc-projects](https://github.com/Disiuze/misc-projects)
 
@@ -1503,7 +1483,7 @@ Status: Playable on 0.9.14, 0.9.15 Continuous.
 
 ### Androids Rebalanced
 
-[Androids.Rebalanced.zip](https://github.com/zuckung/test3/releases/download/Latest/Androids.Rebalanced.zip) | N/A | N/A | []()
+[Androids.Rebalanced.zip](https://github.com/zuckung/test3/releases/download/Latest/Androids.Rebalanced.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Androids Rebalanced/)
 
 Author: czartrak | [https://github.com/czartrak/Androids-Rebalanced](https://github.com/czartrak/Androids-Rebalanced)
 
@@ -1518,7 +1498,7 @@ Status: N/A
 
 ### Antiquity
 
-[Antiquity.zip](https://github.com/zuckung/test3/releases/download/Latest/Antiquity.zip) | N/A | N/A | []()
+[Antiquity.zip](https://github.com/zuckung/test3/releases/download/Latest/Antiquity.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Antiquity/)
 
 Author: N/A | [N/A](N/A)
 
@@ -1533,7 +1513,7 @@ Status: N/A
 
 ### Assorted Outfits
 
-[Assorted.Outfits.zip](https://github.com/zuckung/test3/releases/download/Latest/Assorted.Outfits.zip) | N/A | N/A | []()
+[Assorted.Outfits.zip](https://github.com/zuckung/test3/releases/download/Latest/Assorted.Outfits.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Assorted Outfits/)
 
 Author: N/A | [N/A](N/A)
 
@@ -1548,7 +1528,7 @@ Status: N/A
 
 ### Automation
 
-[Automation.zip](https://github.com/zuckung/test3/releases/download/Latest/Automation.zip) | N/A | N/A | []()
+[Automation.zip](https://github.com/zuckung/test3/releases/download/Latest/Automation.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Automation/)
 
 Author: Disiuze | [https://github.com/Disiuze/misc-projects](https://github.com/Disiuze/misc-projects)
 
@@ -1563,7 +1543,7 @@ Status: N/A
 
 ### Better Vanilla Weapons
 
-[Better.Vanilla.Weapons.zip](https://github.com/zuckung/test3/releases/download/Latest/Better.Vanilla.Weapons.zip) | N/A | N/A | []()
+[Better.Vanilla.Weapons.zip](https://github.com/zuckung/test3/releases/download/Latest/Better.Vanilla.Weapons.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Better Vanilla Weapons/)
 
 Author: ZBok | [N/A](N/A)
 
@@ -1578,7 +1558,7 @@ Status: N/A
 
 ### Dr_Z
 
-[Dr_Z.zip](https://github.com/zuckung/test3/releases/download/Latest/Dr_Z.zip) | N/A | N/A | []()
+[Dr_Z.zip](https://github.com/zuckung/test3/releases/download/Latest/Dr_Z.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Dr_Z/)
 
 Author: Dr. Z | [N/A](N/A)
 
@@ -1593,7 +1573,7 @@ Status: Should work.
 
 ### Endless Cargo
 
-[Endless.Cargo.zip](https://github.com/zuckung/test3/releases/download/Latest/Endless.Cargo.zip) | N/A | N/A | []()
+[Endless.Cargo.zip](https://github.com/zuckung/test3/releases/download/Latest/Endless.Cargo.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Endless Cargo/)
 
 Author: Ryan S. Northrup | [https://bitbucket.org/YellowApple/endless-cargo/downloads/](https://bitbucket.org/YellowApple/endless-cargo/downloads/)
 
@@ -1608,7 +1588,7 @@ Status: Functional
 
 ### Epic Outfits
 
-[Epic.Outfits.zip](https://github.com/zuckung/test3/releases/download/Latest/Epic.Outfits.zip) | N/A | N/A | []()
+[Epic.Outfits.zip](https://github.com/zuckung/test3/releases/download/Latest/Epic.Outfits.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Epic Outfits/)
 
 Author: TheronEpic | [N/A](N/A)
 
@@ -1623,7 +1603,7 @@ Status: Should work
 
 ### Fighter Factory
 
-[Fighter.Factory.zip](https://github.com/zuckung/test3/releases/download/Latest/Fighter.Factory.zip) | N/A | N/A | []()
+[Fighter.Factory.zip](https://github.com/zuckung/test3/releases/download/Latest/Fighter.Factory.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Fighter Factory/)
 
 Author: 1010todd | [N/A](N/A)
 
@@ -1638,7 +1618,7 @@ Status: 0.9.17/Continuous
 
 ### Gyroscopes
 
-[Gyroscopes.zip](https://github.com/zuckung/test3/releases/download/Latest/Gyroscopes.zip) | N/A | N/A | []()
+[Gyroscopes.zip](https://github.com/zuckung/test3/releases/download/Latest/Gyroscopes.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Gyroscopes/)
 
 Author: TheronEpic | [Playable on 0.9.14, 0.9.15 Continuous.](Playable on 0.9.14, 0.9.15 Continuous.)
 
@@ -1653,7 +1633,7 @@ Status: N/A
 
 ### H2H Outfits
 
-[H2H.Outfits.zip](https://github.com/zuckung/test3/releases/download/Latest/H2H.Outfits.zip) | N/A | N/A | []()
+[H2H.Outfits.zip](https://github.com/zuckung/test3/releases/download/Latest/H2H.Outfits.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/H2H Outfits/)
 
 Author: Timothy Butterworth | [https://github.com/tmbutterworth/hand-to-hand-outfits](https://github.com/tmbutterworth/hand-to-hand-outfits)
 
@@ -1668,7 +1648,7 @@ Status: N/A
 
 ### Hai Engine
 
-[Hai.Engine.zip](https://github.com/zuckung/test3/releases/download/Latest/Hai.Engine.zip) | N/A | N/A | []()
+[Hai.Engine.zip](https://github.com/zuckung/test3/releases/download/Latest/Hai.Engine.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Hai Engine/)
 
 Author: N/A | [N/A](N/A)
 
@@ -1683,7 +1663,7 @@ Status: N/A
 
 ### Human Space Overhaul
 
-[Human.Space.Overhaul.zip](https://github.com/zuckung/test3/releases/download/Latest/Human.Space.Overhaul.zip) | N/A | N/A | []()
+[Human.Space.Overhaul.zip](https://github.com/zuckung/test3/releases/download/Latest/Human.Space.Overhaul.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Human Space Overhaul/)
 
 Author: Zoura (AvianGeneticist) | [N/A](N/A)
 
@@ -1698,7 +1678,7 @@ Status: Playable on 0.9.15/0.9.16/Continuous.
 
 ### Hyperdrive Boosters
 
-[Hyperdrive.Boosters.zip](https://github.com/zuckung/test3/releases/download/Latest/Hyperdrive.Boosters.zip) | N/A | N/A | []()
+[Hyperdrive.Boosters.zip](https://github.com/zuckung/test3/releases/download/Latest/Hyperdrive.Boosters.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Hyperdrive Boosters/)
 
 Author: Jafdy | [N/A](N/A)
 
@@ -1713,7 +1693,7 @@ Status: N/A
 
 ### Korath Automation Upgrade
 
-[Korath.Automation.Upgrade.zip](https://github.com/zuckung/test3/releases/download/Latest/Korath.Automation.Upgrade.zip) | N/A | N/A | []()
+[Korath.Automation.Upgrade.zip](https://github.com/zuckung/test3/releases/download/Latest/Korath.Automation.Upgrade.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Korath Automation Upgrade/)
 
 Author: Kriegstofu | [https://github.com/Kriegstofu/Korath-Automation-Upgrade](https://github.com/Kriegstofu/Korath-Automation-Upgrade)
 
@@ -1728,7 +1708,7 @@ Status: N/A
 
 ### Kraz Cybernetics Evolution
 
-[Kraz.Cybernetics.Evolution.zip](https://github.com/zuckung/test3/releases/download/Latest/Kraz.Cybernetics.Evolution.zip) | N/A | N/A | []()
+[Kraz.Cybernetics.Evolution.zip](https://github.com/zuckung/test3/releases/download/Latest/Kraz.Cybernetics.Evolution.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Kraz Cybernetics Evolution/)
 
 Author: MCOfficer | [https://github.com/MCOfficer/Kraz-Cybernetics-Evolution](https://github.com/MCOfficer/Kraz-Cybernetics-Evolution)
 
@@ -1743,7 +1723,7 @@ Status: N/A
 
 ### MaddreMod
 
-[MaddreMod.zip](https://github.com/zuckung/test3/releases/download/Latest/MaddreMod.zip) | N/A | N/A | []()
+[MaddreMod.zip](https://github.com/zuckung/test3/releases/download/Latest/MaddreMod.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/MaddreMod/)
 
 Author: Maddremor | [https://github.com/Maddremor/ES-MaddreMod](https://github.com/Maddremor/ES-MaddreMod)
 
@@ -1758,7 +1738,7 @@ Status: N/A
 
 ### Maurader Pieces
 
-[Maurader.Pieces.zip](https://github.com/zuckung/test3/releases/download/Latest/Maurader.Pieces.zip) | N/A | N/A | []()
+[Maurader.Pieces.zip](https://github.com/zuckung/test3/releases/download/Latest/Maurader.Pieces.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Maurader Pieces/)
 
 Author: N/A | [N/A](N/A)
 
@@ -1773,7 +1753,7 @@ Status: N/A
 
 ### Mereti
 
-[Mereti.zip](https://github.com/zuckung/test3/releases/download/Latest/Mereti.zip) | N/A | N/A | []()
+[Mereti.zip](https://github.com/zuckung/test3/releases/download/Latest/Mereti.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Mereti/)
 
 Author: N/A | [N/A](N/A)
 
@@ -1788,7 +1768,7 @@ Status: works on 0.10.0
 
 ### Missile Expansion
 
-[Missile.Expansion.zip](https://github.com/zuckung/test3/releases/download/Latest/Missile.Expansion.zip) | N/A | N/A | []()
+[Missile.Expansion.zip](https://github.com/zuckung/test3/releases/download/Latest/Missile.Expansion.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Missile Expansion/)
 
 Author: N/A | [N/A](N/A)
 
@@ -1803,7 +1783,7 @@ Status: N/A
 
 ### New Droid Regime
 
-[New.Droid.Regime.zip](https://github.com/zuckung/test3/releases/download/Latest/New.Droid.Regime.zip) | N/A | N/A | []()
+[New.Droid.Regime.zip](https://github.com/zuckung/test3/releases/download/Latest/New.Droid.Regime.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/New Droid Regime/)
 
 Author: czartrak | [https://github.com/czartrak/New-Droid-Regime](https://github.com/czartrak/New-Droid-Regime)
 
@@ -1818,7 +1798,7 @@ Status: N/A
 
 ### Pilots License
 
-[Pilots.License.zip](https://github.com/zuckung/test3/releases/download/Latest/Pilots.License.zip) | N/A | N/A | []()
+[Pilots.License.zip](https://github.com/zuckung/test3/releases/download/Latest/Pilots.License.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Pilots License/)
 
 Author: Timothy Butterworth | [https://github.com/tmbutterworth/pilots-license](https://github.com/tmbutterworth/pilots-license)
 
@@ -1833,7 +1813,7 @@ Status: N/A
 
 ### Quarg Outfit Overhaul
 
-[Quarg.Outfit.Overhaul.zip](https://github.com/zuckung/test3/releases/download/Latest/Quarg.Outfit.Overhaul.zip) | N/A | N/A | []()
+[Quarg.Outfit.Overhaul.zip](https://github.com/zuckung/test3/releases/download/Latest/Quarg.Outfit.Overhaul.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Quarg Outfit Overhaul/)
 
 Author: N/A | [N/A](N/A)
 
@@ -1848,7 +1828,7 @@ Status: N/A
 
 ### Science Stuff
 
-[Science.Stuff.zip](https://github.com/zuckung/test3/releases/download/Latest/Science.Stuff.zip) | N/A | N/A | []()
+[Science.Stuff.zip](https://github.com/zuckung/test3/releases/download/Latest/Science.Stuff.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Science Stuff/)
 
 Author: N/A | [N/A](N/A)
 
@@ -1863,7 +1843,7 @@ Status: N/A
 
 ### Ship Modded
 
-[Ship.Modded.zip](https://github.com/zuckung/test3/releases/download/Latest/Ship.Modded.zip) | N/A | N/A | []()
+[Ship.Modded.zip](https://github.com/zuckung/test3/releases/download/Latest/Ship.Modded.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Ship Modded/)
 
 Author: Beanzilla | [https://github.com/Beanzilla/ShipModded](https://github.com/Beanzilla/ShipModded)
 
@@ -1878,7 +1858,7 @@ Status: N/A
 
 ### snowfeather.robotics
 
-[snowfeather.robotics.zip](https://github.com/zuckung/test3/releases/download/Latest/snowfeather.robotics.zip) | N/A | N/A | []()
+[snowfeather.robotics.zip](https://github.com/zuckung/test3/releases/download/Latest/snowfeather.robotics.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/snowfeather.robotics/)
 
 Author: zuckung | [https://github.com/zuckung/endless-sky-plugins](https://github.com/zuckung/endless-sky-plugins)
 
@@ -1893,7 +1873,7 @@ Status: made for 0.10.0
 
 ### Solar Sails
 
-[Solar.Sails.zip](https://github.com/zuckung/test3/releases/download/Latest/Solar.Sails.zip) | N/A | N/A | []()
+[Solar.Sails.zip](https://github.com/zuckung/test3/releases/download/Latest/Solar.Sails.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Solar Sails/)
 
 Author: TheronEpic | [https://github.com/TheronEpic/theronepic-solar-sails](https://github.com/TheronEpic/theronepic-solar-sails)
 
@@ -1908,7 +1888,7 @@ Status: Playable on 0.9.14, 0.9.15 Continuous.
 
 ### Speed Stabilisers
 
-[Speed.Stabilisers.zip](https://github.com/zuckung/test3/releases/download/Latest/Speed.Stabilisers.zip) | N/A | N/A | []()
+[Speed.Stabilisers.zip](https://github.com/zuckung/test3/releases/download/Latest/Speed.Stabilisers.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Speed Stabilisers/)
 
 Author: N/A | [N/A](N/A)
 
@@ -1923,7 +1903,7 @@ Status: N/A
 
 ### The Machines are Taking Over
 
-[The.Machines.are.Taking.Over.zip](https://github.com/zuckung/test3/releases/download/Latest/The.Machines.are.Taking.Over.zip) | N/A | N/A | []()
+[The.Machines.are.Taking.Over.zip](https://github.com/zuckung/test3/releases/download/Latest/The.Machines.are.Taking.Over.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/The Machines are Taking Over/)
 
 Author: SpiralCat | [https://www.moddb.com/mods/the-machines-are-taking-over](https://www.moddb.com/mods/the-machines-are-taking-over)
 
@@ -1938,7 +1918,7 @@ Status: N/A
 
 ### Utili-Pak
 
-[Utili-Pak.zip](https://github.com/zuckung/test3/releases/download/Latest/Utili-Pak.zip) | N/A | N/A | []()
+[Utili-Pak.zip](https://github.com/zuckung/test3/releases/download/Latest/Utili-Pak.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Utili-Pak/)
 
 Author: N/A | [N/A](N/A)
 
@@ -1953,7 +1933,7 @@ Status: N/A
 
 ### Wanderer Engines
 
-[Wanderer.Engines.zip](https://github.com/zuckung/test3/releases/download/Latest/Wanderer.Engines.zip) | N/A | N/A | []()
+[Wanderer.Engines.zip](https://github.com/zuckung/test3/releases/download/Latest/Wanderer.Engines.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Wanderer Engines/)
 
 Author: N/A | [N/A](N/A)
 
@@ -1968,7 +1948,7 @@ Status: N/A
 
 ### worker bot
 
-[worker.bot.zip](https://github.com/zuckung/test3/releases/download/Latest/worker.bot.zip) | N/A | N/A | []()
+[worker.bot.zip](https://github.com/zuckung/test3/releases/download/Latest/worker.bot.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/worker bot/)
 
 Author: N/A | [N/A](N/A)
 
@@ -1983,7 +1963,7 @@ Status: N/A
 
 ### Zweihander
 
-[Zweihander.zip](https://github.com/zuckung/test3/releases/download/Latest/Zweihander.zip) | N/A | N/A | []()
+[Zweihander.zip](https://github.com/zuckung/test3/releases/download/Latest/Zweihander.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Zweihander/)
 
 Author: 1010Todd | [N/A](N/A)
 
@@ -1993,36 +1973,29 @@ Category: Outfits
 
 Status: outfit is nowhere for sale
 
-</div>
 
-<p><a href="README.md#Introduction">back up <p>
+</details>
 
-<script>
-function OutfitsFunction() {
-  var x = document.getElementById("OutfitsDIV");
-  if (x.style.display === "block") {
-    x.style.display = "none";
-  } else {
-    x.style.display = "block";
-  }
-}
-</script>
 
+[back up](#Plugin-Info-and-Download)
+
+
+
+---
 
 ## Overhauls
 
 <p>38 plugins in this category.<p>
 
-<button onclick="OverhaulsFunction()">hide/unhide</button>
+<details>
 
-<div hidden id="OverhaulsDIV">
-
+ 
 
 ---
 
 ### 3ndless March
 
-[3ndless.March.zip](https://github.com/zuckung/test3/releases/download/Latest/3ndless.March.zip) | N/A | N/A | []()
+[3ndless.March.zip](https://github.com/zuckung/test3/releases/download/Latest/3ndless.March.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/3ndless March/)
 
 Author: N/A | [N/A](N/A)
 
@@ -2037,7 +2010,7 @@ Status: N/A
 
 ### 40k Pack
 
-[40k.Pack.zip](https://github.com/zuckung/test3/releases/download/Latest/40k.Pack.zip) | N/A | N/A | []()
+[40k.Pack.zip](https://github.com/zuckung/test3/releases/download/Latest/40k.Pack.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/40k Pack/)
 
 Author:  1010Todd | [ https//github.com/1010todd/Endless-Sky-40k]( https//github.com/1010todd/Endless-Sky-40k)
 
@@ -2052,7 +2025,7 @@ Status: in development and playable 0.9.15 continous
 
 ### A Galaxy Far Far Away
 
-[A.Galaxy.Far.Far.Away.zip](https://github.com/zuckung/test3/releases/download/Latest/A.Galaxy.Far.Far.Away.zip) | N/A | N/A | []()
+[A.Galaxy.Far.Far.Away.zip](https://github.com/zuckung/test3/releases/download/Latest/A.Galaxy.Far.Far.Away.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/A Galaxy Far Far Away/)
 
 Author: Ember369 | [https//github.com/Ember369/Endless-Sky-A-Galaxy-Far-Far-Away](https//github.com/Ember369/Endless-Sky-A-Galaxy-Far-Far-Away)
 
@@ -2067,7 +2040,7 @@ Status: unfinished but playable
 
 ### Alphean Boolean s Expansion
 
-[Alphean.Boolean.s.Expansion.zip](https://github.com/zuckung/test3/releases/download/Latest/Alphean.Boolean.s.Expansion.zip) | N/A | N/A | []()
+[Alphean.Boolean.s.Expansion.zip](https://github.com/zuckung/test3/releases/download/Latest/Alphean.Boolean.s.Expansion.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Alphean Boolean s Expansion/)
 
 Author: Alphean Boolean | [https://github.com/Disiuze/alphean-expansion](https://github.com/Disiuze/alphean-expansion)
 
@@ -2082,7 +2055,7 @@ Status: N/A
 
 ### Altera
 
-[Altera.zip](https://github.com/zuckung/test3/releases/download/Latest/Altera.zip) | N/A | N/A | []()
+[Altera.zip](https://github.com/zuckung/test3/releases/download/Latest/Altera.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Altera/)
 
 Author: EricD112 | [https://github.com/EricD112/Altera](https://github.com/EricD112/Altera)
 
@@ -2097,7 +2070,7 @@ Status: Playable on 0.9.15 Continuous.
 
 ### Beccas Endless Expansion
 
-[Beccas.Endless.Expansion.zip](https://github.com/zuckung/test3/releases/download/Latest/Beccas.Endless.Expansion.zip) | N/A | N/A | []()
+[Beccas.Endless.Expansion.zip](https://github.com/zuckung/test3/releases/download/Latest/Beccas.Endless.Expansion.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Beccas Endless Expansion/)
 
 Author: Becca Tommaso | [https://github.com/beccabunny/Beccas-Endless-Expansion](https://github.com/beccabunny/Beccas-Endless-Expansion)
 
@@ -2112,7 +2085,7 @@ Status: N/A
 
 ### Better Vanilla Pirates
 
-[Better.Vanilla.Pirates.zip](https://github.com/zuckung/test3/releases/download/Latest/Better.Vanilla.Pirates.zip) | N/A | N/A | []()
+[Better.Vanilla.Pirates.zip](https://github.com/zuckung/test3/releases/download/Latest/Better.Vanilla.Pirates.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Better Vanilla Pirates/)
 
 Author: ZBok | [https://github.com/ZBok/BetterVanillaPirates](https://github.com/ZBok/BetterVanillaPirates)
 
@@ -2127,7 +2100,7 @@ Status: N/A
 
 ### Beyond the Sky
 
-[Beyond.the.Sky.zip](https://github.com/zuckung/test3/releases/download/Latest/Beyond.the.Sky.zip) | N/A | N/A | []()
+[Beyond.the.Sky.zip](https://github.com/zuckung/test3/releases/download/Latest/Beyond.the.Sky.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Beyond the Sky/)
 
 Author: 1010todd | [https://github.com/1010todd/Beyond-the-Sky](https://github.com/1010todd/Beyond-the-Sky)
 
@@ -2142,7 +2115,7 @@ Status: Continuous/0.9.15+
 
 ### Civil War
 
-[Civil.War.zip](https://github.com/zuckung/test3/releases/download/Latest/Civil.War.zip) | N/A | N/A | []()
+[Civil.War.zip](https://github.com/zuckung/test3/releases/download/Latest/Civil.War.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Civil War/)
 
 Author: kikotheexile | [https://github.com/kikotheexile/Endless-Sky-Civil-War](https://github.com/kikotheexile/Endless-Sky-Civil-War)
 
@@ -2157,7 +2130,7 @@ Status: Total conversion mod, will likely function but is outdated, expect issue
 
 ### Disable Pack
 
-[Disable.Pack.zip](https://github.com/zuckung/test3/releases/download/Latest/Disable.Pack.zip) | N/A | N/A | []()
+[Disable.Pack.zip](https://github.com/zuckung/test3/releases/download/Latest/Disable.Pack.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Disable Pack/)
 
 Author: "That Guy" | [N/A](N/A)
 
@@ -2172,7 +2145,7 @@ Status: N/A
 
 ### Edge of Endless
 
-[Edge.of.Endless.zip](https://github.com/zuckung/test3/releases/download/Latest/Edge.of.Endless.zip) | N/A | N/A | []()
+[Edge.of.Endless.zip](https://github.com/zuckung/test3/releases/download/Latest/Edge.of.Endless.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Edge of Endless/)
 
 Author: Zach Farmer | [N/A](N/A)
 
@@ -2187,7 +2160,7 @@ Status: Abandoned, Should be playable on 0.9.14, 0.9.15 Continuous.
 
 ### Endless-Endless-Sky
 
-[Endless-Endless-Sky.zip](https://github.com/zuckung/test3/releases/download/Latest/Endless-Endless-Sky.zip) | N/A | N/A | []()
+[Endless-Endless-Sky.zip](https://github.com/zuckung/test3/releases/download/Latest/Endless-Endless-Sky.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Endless-Endless-Sky/)
 
 Author: 1010Todd | [https://github.com/1010todd/Endless-Endless-Sky](https://github.com/1010todd/Endless-Endless-Sky)
 
@@ -2202,7 +2175,7 @@ Status: Playable on 0.9.15/0.9.16/Continuous.
 
 ### Enigma Corp Legacy
 
-[Enigma.Corp.Legacy.zip](https://github.com/zuckung/test3/releases/download/Latest/Enigma.Corp.Legacy.zip) | N/A | N/A | []()
+[Enigma.Corp.Legacy.zip](https://github.com/zuckung/test3/releases/download/Latest/Enigma.Corp.Legacy.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Enigma Corp Legacy/)
 
 Author: Amazinite | [https://github.com/Amazinite/Enigma-Corp-Legacy](https://github.com/Amazinite/Enigma-Corp-Legacy)
 
@@ -2217,7 +2190,7 @@ Status: N/A
 
 ### Fallen
 
-[Fallen.zip](https://github.com/zuckung/test3/releases/download/Latest/Fallen.zip) | N/A | N/A | []()
+[Fallen.zip](https://github.com/zuckung/test3/releases/download/Latest/Fallen.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Fallen/)
 
 Author: Michael Feather | [N/A](N/A)
 
@@ -2232,7 +2205,7 @@ Status: N/A
 
 ### Galactic War
 
-[Galactic.War.zip](https://github.com/zuckung/test3/releases/download/Latest/Galactic.War.zip) | N/A | N/A | []()
+[Galactic.War.zip](https://github.com/zuckung/test3/releases/download/Latest/Galactic.War.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Galactic War/)
 
 Author: 1010todd | [https://github.com/1010todd/Galactic-War](https://github.com/1010todd/Galactic-War)
 
@@ -2247,7 +2220,7 @@ Status: Playable on 0.9.14, 0.9.15 Continuous.
 
 ### Humans Alternate Universe
 
-[Humans.Alternate.Universe.zip](https://github.com/zuckung/test3/releases/download/Latest/Humans.Alternate.Universe.zip) | N/A | N/A | []()
+[Humans.Alternate.Universe.zip](https://github.com/zuckung/test3/releases/download/Latest/Humans.Alternate.Universe.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Humans Alternate Universe/)
 
 Author: N/A | [N/A](N/A)
 
@@ -2262,7 +2235,7 @@ Status: N/A
 
 ### Jump to Lightspeed
 
-[Jump.to.Lightspeed.zip](https://github.com/zuckung/test3/releases/download/Latest/Jump.to.Lightspeed.zip) | N/A | N/A | []()
+[Jump.to.Lightspeed.zip](https://github.com/zuckung/test3/releases/download/Latest/Jump.to.Lightspeed.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Jump to Lightspeed/)
 
 Author: Krayt Dragon Moddding | [https://www.moddb.com/mods/endless-sky-jump-to-lightspeed](https://www.moddb.com/mods/endless-sky-jump-to-lightspeed)
 
@@ -2277,7 +2250,7 @@ Status: Abandoned, Should be playable on 0.9.14, 0.9.15 Continuous.
 
 ### New Sky
 
-[New.Sky.zip](https://github.com/zuckung/test3/releases/download/Latest/New.Sky.zip) | N/A | N/A | []()
+[New.Sky.zip](https://github.com/zuckung/test3/releases/download/Latest/New.Sky.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/New Sky/)
 
 Author: 1010Todd | [https://github.com/1010todd/ES-New_Sky](https://github.com/1010todd/ES-New_Sky)
 
@@ -2292,7 +2265,7 @@ Status: No longer developed. Playable on 0.9.14, 0.9.15 Continuous.
 
 ### PipMod
 
-[PipMod.zip](https://github.com/zuckung/test3/releases/download/Latest/PipMod.zip) | N/A | N/A | []()
+[PipMod.zip](https://github.com/zuckung/test3/releases/download/Latest/PipMod.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/PipMod/)
 
 Author: N/A | [N/A](N/A)
 
@@ -2307,7 +2280,7 @@ Status: N/A
 
 ### Pirate Expansion
 
-[Pirate.Expansion.zip](https://github.com/zuckung/test3/releases/download/Latest/Pirate.Expansion.zip) | N/A | N/A | []()
+[Pirate.Expansion.zip](https://github.com/zuckung/test3/releases/download/Latest/Pirate.Expansion.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Pirate Expansion/)
 
 Author: Becca Tommaso | [https://github.com/beccabunny/Pirate-Expansion](https://github.com/beccabunny/Pirate-Expansion)
 
@@ -2322,7 +2295,7 @@ Status: N/A
 
 ### Prometeus Flame
 
-[Prometeus.Flame.zip](https://github.com/zuckung/test3/releases/download/Latest/Prometeus.Flame.zip) | N/A | N/A | []()
+[Prometeus.Flame.zip](https://github.com/zuckung/test3/releases/download/Latest/Prometeus.Flame.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Prometeus Flame/)
 
 Author: Delta-Zero | [https://github.com/Delta-Zero/Endless-Sky-Prometeus-Flame-Plugin](https://github.com/Delta-Zero/Endless-Sky-Prometeus-Flame-Plugin)
 
@@ -2337,7 +2310,7 @@ Status: WIP, Map Only
 
 ### Pug Defense
 
-[Pug.Defense.zip](https://github.com/zuckung/test3/releases/download/Latest/Pug.Defense.zip) | N/A | N/A | []()
+[Pug.Defense.zip](https://github.com/zuckung/test3/releases/download/Latest/Pug.Defense.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Pug Defense/)
 
 Author: Wyrdean | [https://github.com/Wyrdean/Pug-Defense](https://github.com/Wyrdean/Pug-Defense)
 
@@ -2352,7 +2325,7 @@ Status: works on 0.10.0
 
 ### Random Expansion
 
-[Random.Expansion.zip](https://github.com/zuckung/test3/releases/download/Latest/Random.Expansion.zip) | N/A | N/A | []()
+[Random.Expansion.zip](https://github.com/zuckung/test3/releases/download/Latest/Random.Expansion.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Random Expansion/)
 
 Author: Alphean Boolean | [https://github.com/Disiuze/alphean-expansion](https://github.com/Disiuze/alphean-expansion)
 
@@ -2367,7 +2340,7 @@ Status: N/A
 
 ### Sci-Fi Flavours
 
-[Sci-Fi.Flavours.zip](https://github.com/zuckung/test3/releases/download/Latest/Sci-Fi.Flavours.zip) | N/A | N/A | []()
+[Sci-Fi.Flavours.zip](https://github.com/zuckung/test3/releases/download/Latest/Sci-Fi.Flavours.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Sci-Fi Flavours/)
 
 Author: Linear Perk | [https://github.com/LinearPerk/Sci-Fi-Flavours](https://github.com/LinearPerk/Sci-Fi-Flavours)
 
@@ -2382,7 +2355,7 @@ Status: N/A
 
 ### Shields Up
 
-[Shields.Up.zip](https://github.com/zuckung/test3/releases/download/Latest/Shields.Up.zip) | N/A | N/A | []()
+[Shields.Up.zip](https://github.com/zuckung/test3/releases/download/Latest/Shields.Up.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Shields Up/)
 
 Author: Alphean Boolean | [https://github.com/Disiuze/alphean-expansion](https://github.com/Disiuze/alphean-expansion)
 
@@ -2397,7 +2370,7 @@ Status: N/A
 
 ### ShieldsUp Derpy s Expansion
 
-[ShieldsUp.Derpy.s.Expansion.zip](https://github.com/zuckung/test3/releases/download/Latest/ShieldsUp.Derpy.s.Expansion.zip) | N/A | N/A | []()
+[ShieldsUp.Derpy.s.Expansion.zip](https://github.com/zuckung/test3/releases/download/Latest/ShieldsUp.Derpy.s.Expansion.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/ShieldsUp Derpy s Expansion/)
 
 Author: N/A | [N/A](N/A)
 
@@ -2412,7 +2385,7 @@ Status: N/A
 
 ### ShieldsUp Housekeeping
 
-[ShieldsUp.Housekeeping.zip](https://github.com/zuckung/test3/releases/download/Latest/ShieldsUp.Housekeeping.zip) | N/A | N/A | []()
+[ShieldsUp.Housekeeping.zip](https://github.com/zuckung/test3/releases/download/Latest/ShieldsUp.Housekeeping.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/ShieldsUp Housekeeping/)
 
 Author: N/A | [N/A](N/A)
 
@@ -2427,7 +2400,7 @@ Status: N/A
 
 ### ShieldsUp Legacy
 
-[ShieldsUp.Legacy.zip](https://github.com/zuckung/test3/releases/download/Latest/ShieldsUp.Legacy.zip) | N/A | N/A | []()
+[ShieldsUp.Legacy.zip](https://github.com/zuckung/test3/releases/download/Latest/ShieldsUp.Legacy.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/ShieldsUp Legacy/)
 
 Author: N/A | [N/A](N/A)
 
@@ -2442,7 +2415,7 @@ Status: N/A
 
 ### ShieldsUp Override
 
-[ShieldsUp.Override.zip](https://github.com/zuckung/test3/releases/download/Latest/ShieldsUp.Override.zip) | N/A | N/A | []()
+[ShieldsUp.Override.zip](https://github.com/zuckung/test3/releases/download/Latest/ShieldsUp.Override.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/ShieldsUp Override/)
 
 Author: N/A | [N/A](N/A)
 
@@ -2457,7 +2430,7 @@ Status: N/A
 
 ### ShieldsUp_ZZOverride
 
-[ShieldsUp_ZZOverride.zip](https://github.com/zuckung/test3/releases/download/Latest/ShieldsUp_ZZOverride.zip) | N/A | N/A | []()
+[ShieldsUp_ZZOverride.zip](https://github.com/zuckung/test3/releases/download/Latest/ShieldsUp_ZZOverride.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/ShieldsUp_ZZOverride/)
 
 Author: N/A | [N/A](N/A)
 
@@ -2472,7 +2445,7 @@ Status: N/A
 
 ### Star Wars
 
-[Star.Wars.zip](https://github.com/zuckung/test3/releases/download/Latest/Star.Wars.zip) | N/A | N/A | []()
+[Star.Wars.zip](https://github.com/zuckung/test3/releases/download/Latest/Star.Wars.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Star Wars/)
 
 Author: N/A | [N/A](N/A)
 
@@ -2487,7 +2460,7 @@ Status: N/A
 
 ### The Empire s March
 
-[The.Empire.s.March.zip](https://github.com/zuckung/test3/releases/download/Latest/The.Empire.s.March.zip) | N/A | N/A | []()
+[The.Empire.s.March.zip](https://github.com/zuckung/test3/releases/download/Latest/The.Empire.s.March.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/The Empire s March/)
 
 Author: Rushin Neighbour | [N/A](N/A)
 
@@ -2502,7 +2475,7 @@ Status: N/A
 
 ### The Enclave
 
-[The.Enclave.zip](https://github.com/zuckung/test3/releases/download/Latest/The.Enclave.zip) | N/A | N/A | []()
+[The.Enclave.zip](https://github.com/zuckung/test3/releases/download/Latest/The.Enclave.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/The Enclave/)
 
 Author: Storm Crow | [https://github.com/1010todd/The-Enclave](https://github.com/1010todd/The-Enclave)
 
@@ -2517,7 +2490,7 @@ Status: Playable on 0.9.14, 0.9.15 Continuous.
 
 ### The Final Frontier
 
-[The.Final.Frontier.zip](https://github.com/zuckung/test3/releases/download/Latest/The.Final.Frontier.zip) | N/A | N/A | []()
+[The.Final.Frontier.zip](https://github.com/zuckung/test3/releases/download/Latest/The.Final.Frontier.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/The Final Frontier/)
 
 Author: William 'Swingfire' | [https://www.indiedb.com/mods/endless-sky-the-final-frontier](https://www.indiedb.com/mods/endless-sky-the-final-frontier)
 
@@ -2532,7 +2505,7 @@ Status: N/A
 
 ### Titans
 
-[Titans.zip](https://github.com/zuckung/test3/releases/download/Latest/Titans.zip) | N/A | N/A | []()
+[Titans.zip](https://github.com/zuckung/test3/releases/download/Latest/Titans.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Titans/)
 
 Author: N/A | [N/A](N/A)
 
@@ -2547,7 +2520,7 @@ Status: N/A
 
 ### too.many.asteroids
 
-[too.many.asteroids.zip](https://github.com/zuckung/test3/releases/download/Latest/too.many.asteroids.zip) | N/A | N/A | []()
+[too.many.asteroids.zip](https://github.com/zuckung/test3/releases/download/Latest/too.many.asteroids.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/too.many.asteroids/)
 
 Author: zuckung | [https://github.com/zuckung/endless-sky-plugins](https://github.com/zuckung/endless-sky-plugins)
 
@@ -2562,7 +2535,7 @@ Status: made for 0.10.0
 
 ### Undisclosed Plugin
 
-[Undisclosed.Plugin.zip](https://github.com/zuckung/test3/releases/download/Latest/Undisclosed.Plugin.zip) | N/A | N/A | []()
+[Undisclosed.Plugin.zip](https://github.com/zuckung/test3/releases/download/Latest/Undisclosed.Plugin.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Undisclosed Plugin/)
 
 Author: petervdmeer | [https://github.com/petervdmeer/endless-sky-undisclosed-plugin](https://github.com/petervdmeer/endless-sky-undisclosed-plugin)
 
@@ -2577,7 +2550,7 @@ Status: N/A
 
 ### unique.fix
 
-[unique.fix.zip](https://github.com/zuckung/test3/releases/download/Latest/unique.fix.zip) | N/A | N/A | []()
+[unique.fix.zip](https://github.com/zuckung/test3/releases/download/Latest/unique.fix.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/unique.fix/)
 
 Author: zuckung | [https://github.com/zuckung/endless-sky-plugins](https://github.com/zuckung/endless-sky-plugins)
 
@@ -2587,36 +2560,29 @@ Category: Overhauls
 
 Status: made for 0.10.0
 
-</div>
 
-<p><a href="README.md#Introduction">back up <p>
+</details>
 
-<script>
-function OverhaulsFunction() {
-  var x = document.getElementById("OverhaulsDIV");
-  if (x.style.display === "block") {
-    x.style.display = "none";
-  } else {
-    x.style.display = "block";
-  }
-}
-</script>
 
+[back up](#Plugin-Info-and-Download)
+
+
+
+---
 
 ## Overwrites
 
 <p>1 plugins in this category.<p>
 
-<button onclick="OverwritesFunction()">hide/unhide</button>
+<details>
 
-<div hidden id="OverwritesDIV">
-
+ 
 
 ---
 
 ### Nerf This Sound Replacer
 
-[Nerf.This.Sound.Replacer.zip](https://github.com/zuckung/test3/releases/download/Latest/Nerf.This.Sound.Replacer.zip) | N/A | N/A | []()
+[Nerf.This.Sound.Replacer.zip](https://github.com/zuckung/test3/releases/download/Latest/Nerf.This.Sound.Replacer.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Nerf This Sound Replacer/)
 
 Author: N/A | [N/A](N/A)
 
@@ -2626,36 +2592,29 @@ Category: Overwrites
 
 Status: N/A
 
-</div>
 
-<p><a href="README.md#Introduction">back up <p>
+</details>
 
-<script>
-function OverwritesFunction() {
-  var x = document.getElementById("OverwritesDIV");
-  if (x.style.display === "block") {
-    x.style.display = "none";
-  } else {
-    x.style.display = "block";
-  }
-}
-</script>
 
+[back up](#Plugin-Info-and-Download)
+
+
+
+---
 
 ## Patches
 
 <p>3 plugins in this category.<p>
 
-<button onclick="PatchesFunction()">hide/unhide</button>
+<details>
 
-<div hidden id="PatchesDIV">
-
+ 
 
 ---
 
 ### Mega Freight ZHO
 
-[Mega.Freight.ZHO.zip](https://github.com/zuckung/test3/releases/download/Latest/Mega.Freight.ZHO.zip) | N/A | N/A | []()
+[Mega.Freight.ZHO.zip](https://github.com/zuckung/test3/releases/download/Latest/Mega.Freight.ZHO.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Mega Freight ZHO/)
 
 Author: 1010Todd | [N/A](N/A)
 
@@ -2670,7 +2629,7 @@ Status: N/A
 
 ### zFleet Patch
 
-[zFleet.Patch.zip](https://github.com/zuckung/test3/releases/download/Latest/zFleet.Patch.zip) | N/A | N/A | []()
+[zFleet.Patch.zip](https://github.com/zuckung/test3/releases/download/Latest/zFleet.Patch.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/zFleet Patch/)
 
 Author: 1010Todd | [N/A](N/A)
 
@@ -2685,7 +2644,7 @@ Status: N/A
 
 ### zFW Patch
 
-[zFW.Patch.zip](https://github.com/zuckung/test3/releases/download/Latest/zFW.Patch.zip) | N/A | N/A | []()
+[zFW.Patch.zip](https://github.com/zuckung/test3/releases/download/Latest/zFW.Patch.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/zFW Patch/)
 
 Author: N/A | [N/A](N/A)
 
@@ -2695,36 +2654,29 @@ Category: Patches
 
 Status: N/A
 
-</div>
 
-<p><a href="README.md#Introduction">back up <p>
+</details>
 
-<script>
-function PatchesFunction() {
-  var x = document.getElementById("PatchesDIV");
-  if (x.style.display === "block") {
-    x.style.display = "none";
-  } else {
-    x.style.display = "block";
-  }
-}
-</script>
 
+[back up](#Plugin-Info-and-Download)
+
+
+
+---
 
 ## Races
 
 <p>64 plugins in this category.<p>
 
-<button onclick="RacesFunction()">hide/unhide</button>
+<details>
 
-<div hidden id="RacesDIV">
-
+ 
 
 ---
 
 ### Adamas Project
 
-[Adamas.Project.zip](https://github.com/zuckung/test3/releases/download/Latest/Adamas.Project.zip) | N/A | N/A | []()
+[Adamas.Project.zip](https://github.com/zuckung/test3/releases/download/Latest/Adamas.Project.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Adamas Project/)
 
 Author: toiletthings | [https://github.com/kestrel1110/Adamas-Project](https://github.com/kestrel1110/Adamas-Project)
 
@@ -2739,7 +2691,7 @@ Status: N/A
 
 ### AES Aben
 
-[AES.Aben.zip](https://github.com/zuckung/test3/releases/download/Latest/AES.Aben.zip) | N/A | N/A | []()
+[AES.Aben.zip](https://github.com/zuckung/test3/releases/download/Latest/AES.Aben.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/AES Aben/)
 
 Author: Darcy Manoel | [https://github.com/Darcman99/Adde-Endless-Sky](https://github.com/Darcman99/Adde-Endless-Sky)
 
@@ -2754,7 +2706,7 @@ Status: N/A
 
 ### AES Fallen
 
-[AES.Fallen.zip](https://github.com/zuckung/test3/releases/download/Latest/AES.Fallen.zip) | N/A | N/A | []()
+[AES.Fallen.zip](https://github.com/zuckung/test3/releases/download/Latest/AES.Fallen.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/AES Fallen/)
 
 Author: Darcy Manoel | [https://github.com/Darcman99/Adde-Endless-Sky](https://github.com/Darcman99/Adde-Endless-Sky)
 
@@ -2769,7 +2721,7 @@ Status: N/A
 
 ### AES Irm
 
-[AES.Irm.zip](https://github.com/zuckung/test3/releases/download/Latest/AES.Irm.zip) | N/A | N/A | []()
+[AES.Irm.zip](https://github.com/zuckung/test3/releases/download/Latest/AES.Irm.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/AES Irm/)
 
 Author: Darcy Manoel | [https://github.com/Darcman99/Adde-Endless-Sky](https://github.com/Darcman99/Adde-Endless-Sky)
 
@@ -2784,7 +2736,7 @@ Status: N/A
 
 ### AES Korath
 
-[AES.Korath.zip](https://github.com/zuckung/test3/releases/download/Latest/AES.Korath.zip) | N/A | N/A | []()
+[AES.Korath.zip](https://github.com/zuckung/test3/releases/download/Latest/AES.Korath.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/AES Korath/)
 
 Author: Darcy Manoel | [https://github.com/Darcman99/Adde-Endless-Sky](https://github.com/Darcman99/Adde-Endless-Sky)
 
@@ -2799,7 +2751,7 @@ Status: N/A
 
 ### AES Misc
 
-[AES.Misc.zip](https://github.com/zuckung/test3/releases/download/Latest/AES.Misc.zip) | N/A | N/A | []()
+[AES.Misc.zip](https://github.com/zuckung/test3/releases/download/Latest/AES.Misc.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/AES Misc/)
 
 Author: Darcy Manoel | [https://github.com/Darcman99/Adde-Endless-Sky](https://github.com/Darcman99/Adde-Endless-Sky)
 
@@ -2814,7 +2766,7 @@ Status: N/A
 
 ### AES Quarg
 
-[AES.Quarg.zip](https://github.com/zuckung/test3/releases/download/Latest/AES.Quarg.zip) | N/A | N/A | []()
+[AES.Quarg.zip](https://github.com/zuckung/test3/releases/download/Latest/AES.Quarg.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/AES Quarg/)
 
 Author: Darcy Manoel | [https://github.com/Darcman99/Adde-Endless-Sky](https://github.com/Darcman99/Adde-Endless-Sky)
 
@@ -2829,7 +2781,7 @@ Status: N/A
 
 ### Akasha Chronicles
 
-[Akasha.Chronicles.zip](https://github.com/zuckung/test3/releases/download/Latest/Akasha.Chronicles.zip) | N/A | N/A | []()
+[Akasha.Chronicles.zip](https://github.com/zuckung/test3/releases/download/Latest/Akasha.Chronicles.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Akasha Chronicles/)
 
 Author: Gillax / jchamlin | [https://github.com/jchamlin/akasha-chronicles](https://github.com/jchamlin/akasha-chronicles)
 
@@ -2844,7 +2796,7 @@ Status: N/A
 
 ### Akashic War
 
-[Akashic.War.zip](https://github.com/zuckung/test3/releases/download/Latest/Akashic.War.zip) | N/A | N/A | []()
+[Akashic.War.zip](https://github.com/zuckung/test3/releases/download/Latest/Akashic.War.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Akashic War/)
 
 Author: Gillax | [N/A](N/A)
 
@@ -2859,7 +2811,7 @@ Status: N/A
 
 ### Alpha Wars
 
-[Alpha.Wars.zip](https://github.com/zuckung/test3/releases/download/Latest/Alpha.Wars.zip) | N/A | N/A | []()
+[Alpha.Wars.zip](https://github.com/zuckung/test3/releases/download/Latest/Alpha.Wars.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Alpha Wars/)
 
 Author: Makuta-Miras (Storm Crow) and warp-core | [https://github.com/Makuta-Miras/ES-Alpha-Wars](https://github.com/Makuta-Miras/ES-Alpha-Wars)
 
@@ -2874,7 +2826,7 @@ Status: abandoned
 
 ### Arbiter
 
-[Arbiter.zip](https://github.com/zuckung/test3/releases/download/Latest/Arbiter.zip) | N/A | N/A | []()
+[Arbiter.zip](https://github.com/zuckung/test3/releases/download/Latest/Arbiter.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Arbiter/)
 
 Author: czartrak | [https://github.com/czartrak/es-arbiter](https://github.com/czartrak/es-arbiter)
 
@@ -2889,7 +2841,7 @@ Status: N/A
 
 ### Arion
 
-[Arion.zip](https://github.com/zuckung/test3/releases/download/Latest/Arion.zip) | N/A | N/A | []()
+[Arion.zip](https://github.com/zuckung/test3/releases/download/Latest/Arion.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Arion/)
 
 Author: Spectre907YT | [https://github.com/Spectre907YT/Endless-Sky---Arion](https://github.com/Spectre907YT/Endless-Sky---Arion)
 
@@ -2904,7 +2856,7 @@ Status: Should work in Continuous/0.9.15/0.9.16
 
 ### Athmagr Invasion
 
-[Athmagr.Invasion.zip](https://github.com/zuckung/test3/releases/download/Latest/Athmagr.Invasion.zip) | N/A | N/A | []()
+[Athmagr.Invasion.zip](https://github.com/zuckung/test3/releases/download/Latest/Athmagr.Invasion.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Athmagr Invasion/)
 
 Author: 1010todd | [https://github.com/1010todd/Athmagr-Invasion](https://github.com/1010todd/Athmagr-Invasion)
 
@@ -2919,7 +2871,7 @@ Status: Playable on 0.9.15, 0.9.16, Continuous
 
 ### Better Korath
 
-[Better.Korath.zip](https://github.com/zuckung/test3/releases/download/Latest/Better.Korath.zip) | N/A | N/A | []()
+[Better.Korath.zip](https://github.com/zuckung/test3/releases/download/Latest/Better.Korath.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Better Korath/)
 
 Author: superdragon322 | [https://github.com/superdragon322/Better-Korath-](https://github.com/superdragon322/Better-Korath-)
 
@@ -2934,7 +2886,7 @@ Status: N/A
 
 ### BiteOfTheAnt
 
-[BiteOfTheAnt.zip](https://github.com/zuckung/test3/releases/download/Latest/BiteOfTheAnt.zip) | N/A | N/A | []()
+[BiteOfTheAnt.zip](https://github.com/zuckung/test3/releases/download/Latest/BiteOfTheAnt.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/BiteOfTheAnt/)
 
 Author: TayganPhilglas | [https://github.com/TayganPhilglas/EndlessSky-BiteOfTheAnt-Mod](https://github.com/TayganPhilglas/EndlessSky-BiteOfTheAnt-Mod)
 
@@ -2949,7 +2901,7 @@ Status: N/A
 
 ### Core Mining Inc
 
-[Core.Mining.Inc.zip](https://github.com/zuckung/test3/releases/download/Latest/Core.Mining.Inc.zip) | N/A | N/A | []()
+[Core.Mining.Inc.zip](https://github.com/zuckung/test3/releases/download/Latest/Core.Mining.Inc.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Core Mining Inc/)
 
 Author: DJF113 | [https://github.com/DJF113/Core-Mining-Inc](https://github.com/DJF113/Core-Mining-Inc)
 
@@ -2964,7 +2916,7 @@ Status: playable on 0.9.15 Continuous.
 
 ### Core-Mining-Inc-0 1 7 1
 
-[Core-Mining-Inc-0.1.7.1.zip](https://github.com/zuckung/test3/releases/download/Latest/Core-Mining-Inc-0.1.7.1.zip) | N/A | N/A | []()
+[Core-Mining-Inc-0.1.7.1.zip](https://github.com/zuckung/test3/releases/download/Latest/Core-Mining-Inc-0.1.7.1.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Core-Mining-Inc-0 1 7 1/)
 
 Author: DJF113 | [https://github.com/DJF113/Core-Mining-Inc](https://github.com/DJF113/Core-Mining-Inc)
 
@@ -2979,7 +2931,7 @@ Status: playable on 0.9.15 Continuous.
 
 ### COTSA
 
-[COTSA.zip](https://github.com/zuckung/test3/releases/download/Latest/COTSA.zip) | N/A | N/A | []()
+[COTSA.zip](https://github.com/zuckung/test3/releases/download/Latest/COTSA.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/COTSA/)
 
 Author: mdsmestad | [N/A](N/A)
 
@@ -2994,7 +2946,7 @@ Status: N/A
 
 ### Destination Sol
 
-[Destination.Sol.zip](https://github.com/zuckung/test3/releases/download/Latest/Destination.Sol.zip) | N/A | N/A | []()
+[Destination.Sol.zip](https://github.com/zuckung/test3/releases/download/Latest/Destination.Sol.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Destination Sol/)
 
 Author: N/A | [N/A](N/A)
 
@@ -3009,7 +2961,7 @@ Status: N/A
 
 ### Eireen
 
-[Eireen.zip](https://github.com/zuckung/test3/releases/download/Latest/Eireen.zip) | N/A | N/A | []()
+[Eireen.zip](https://github.com/zuckung/test3/releases/download/Latest/Eireen.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Eireen/)
 
 Author: Endros Gunderberg | [N/A](N/A)
 
@@ -3024,7 +2976,7 @@ Status: N/A
 
 ### Elystian Plugin
 
-[Elystian.Plugin.zip](https://github.com/zuckung/test3/releases/download/Latest/Elystian.Plugin.zip) | N/A | N/A | []()
+[Elystian.Plugin.zip](https://github.com/zuckung/test3/releases/download/Latest/Elystian.Plugin.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Elystian Plugin/)
 
 Author: Ferociousfeind | [N/A](N/A)
 
@@ -3039,7 +2991,7 @@ Status: Playable on 0.9.14, 0.9.15 Continuous.
 
 ### Endless Depth Mod
 
-[Endless.Depth.Mod.zip](https://github.com/zuckung/test3/releases/download/Latest/Endless.Depth.Mod.zip) | N/A | N/A | []()
+[Endless.Depth.Mod.zip](https://github.com/zuckung/test3/releases/download/Latest/Endless.Depth.Mod.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Endless Depth Mod/)
 
 Author: Kryes Omega | [N/A](N/A)
 
@@ -3054,7 +3006,7 @@ Status: N/A
 
 ### Endless Fortress 2
 
-[Endless.Fortress.2.zip](https://github.com/zuckung/test3/releases/download/Latest/Endless.Fortress.2.zip) | N/A | N/A | []()
+[Endless.Fortress.2.zip](https://github.com/zuckung/test3/releases/download/Latest/Endless.Fortress.2.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Endless Fortress 2/)
 
 Author: N/A | [N/A](N/A)
 
@@ -3069,7 +3021,7 @@ Status: N/A
 
 ### Endless Horizon
 
-[Endless.Horizon.zip](https://github.com/zuckung/test3/releases/download/Latest/Endless.Horizon.zip) | N/A | N/A | []()
+[Endless.Horizon.zip](https://github.com/zuckung/test3/releases/download/Latest/Endless.Horizon.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Endless Horizon/)
 
 Author: CTheta | [https://www.moddb.com/games/endless-sky-endless-horizon](https://www.moddb.com/games/endless-sky-endless-horizon)
 
@@ -3084,7 +3036,7 @@ Status: Abandoned
 
 ### Ertluk
 
-[Ertluk.zip](https://github.com/zuckung/test3/releases/download/Latest/Ertluk.zip) | N/A | N/A | []()
+[Ertluk.zip](https://github.com/zuckung/test3/releases/download/Latest/Ertluk.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Ertluk/)
 
 Author: ZBok | [N/A](N/A)
 
@@ -3099,7 +3051,7 @@ Status: N/A
 
 ### Eternals
 
-[Eternals.zip](https://github.com/zuckung/test3/releases/download/Latest/Eternals.zip) | N/A | N/A | []()
+[Eternals.zip](https://github.com/zuckung/test3/releases/download/Latest/Eternals.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Eternals/)
 
 Author: comnom | [https://github.com/comnom/Eternals](https://github.com/comnom/Eternals)
 
@@ -3114,7 +3066,7 @@ Status: N/A
 
 ### Exotic Matter
 
-[Exotic.Matter.zip](https://github.com/zuckung/test3/releases/download/Latest/Exotic.Matter.zip) | N/A | N/A | []()
+[Exotic.Matter.zip](https://github.com/zuckung/test3/releases/download/Latest/Exotic.Matter.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Exotic Matter/)
 
 Author: CristopherZhong | [https://github.com/ChristopherZhong/endless-sky-exotic-matter-plugin](https://github.com/ChristopherZhong/endless-sky-exotic-matter-plugin)
 
@@ -3129,7 +3081,7 @@ Status: N/A
 
 ### Exporianes
 
-[Exporianes.zip](https://github.com/zuckung/test3/releases/download/Latest/Exporianes.zip) | N/A | N/A | []()
+[Exporianes.zip](https://github.com/zuckung/test3/releases/download/Latest/Exporianes.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Exporianes/)
 
 Author: Bereskatuket(Kestrel1110) | [https://github.com/kestrel1110/Exporianes](https://github.com/kestrel1110/Exporianes)
 
@@ -3144,7 +3096,7 @@ Status: In development, Playable on 0.9.15 Continuous.
 
 ### Galactic Invaders
 
-[Galactic.Invaders.zip](https://github.com/zuckung/test3/releases/download/Latest/Galactic.Invaders.zip) | N/A | N/A | []()
+[Galactic.Invaders.zip](https://github.com/zuckung/test3/releases/download/Latest/Galactic.Invaders.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Galactic Invaders/)
 
 Author: Matthew Murray | [N/A](N/A)
 
@@ -3159,7 +3111,7 @@ Status: N/A
 
 ### Ironclad
 
-[Ironclad.zip](https://github.com/zuckung/test3/releases/download/Latest/Ironclad.zip) | N/A | N/A | []()
+[Ironclad.zip](https://github.com/zuckung/test3/releases/download/Latest/Ironclad.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Ironclad/)
 
 Author: 1010todd | [N/A](N/A)
 
@@ -3174,7 +3126,7 @@ Status: Playable on 0.9.15 Continuous.
 
 ### Jaling Expansion
 
-[Jaling.Expansion.zip](https://github.com/zuckung/test3/releases/download/Latest/Jaling.Expansion.zip) | N/A | N/A | []()
+[Jaling.Expansion.zip](https://github.com/zuckung/test3/releases/download/Latest/Jaling.Expansion.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Jaling Expansion/)
 
 Author: RizkyPramudyaCJ | [https://github.com/RizkyPramudyaCJ/Jaling-Expansion](https://github.com/RizkyPramudyaCJ/Jaling-Expansion)
 
@@ -3189,7 +3141,7 @@ Status: N/A
 
 ### KorExiles PA
 
-[KorExiles.PA.zip](https://github.com/zuckung/test3/releases/download/Latest/KorExiles.PA.zip) | N/A | N/A | []()
+[KorExiles.PA.zip](https://github.com/zuckung/test3/releases/download/Latest/KorExiles.PA.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/KorExiles PA/)
 
 Author: Ejothims | [N/A](N/A)
 
@@ -3204,7 +3156,7 @@ Status: Playable on 0.9.15 Continuous.
 
 ### Low Tech Worlds
 
-[Low.Tech.Worlds.zip](https://github.com/zuckung/test3/releases/download/Latest/Low.Tech.Worlds.zip) | N/A | N/A | []()
+[Low.Tech.Worlds.zip](https://github.com/zuckung/test3/releases/download/Latest/Low.Tech.Worlds.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Low Tech Worlds/)
 
 Author: Samuel Dennis | [N/A](N/A)
 
@@ -3219,7 +3171,7 @@ Status: N/A
 
 ### Make Communism Great Again
 
-[Make.Communism.Great.Again.zip](https://github.com/zuckung/test3/releases/download/Latest/Make.Communism.Great.Again.zip) | N/A | N/A | []()
+[Make.Communism.Great.Again.zip](https://github.com/zuckung/test3/releases/download/Latest/Make.Communism.Great.Again.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Make Communism Great Again/)
 
 Author: JonathanZhang1 | [https://github.com/JonathanZhang1/Make-communism-great-again-endless-sky](https://github.com/JonathanZhang1/Make-communism-great-again-endless-sky)
 
@@ -3234,7 +3186,7 @@ Status: N/A
 
 ### Mark 2 Pug
 
-[Mark.2.Pug.zip](https://github.com/zuckung/test3/releases/download/Latest/Mark.2.Pug.zip) | N/A | N/A | []()
+[Mark.2.Pug.zip](https://github.com/zuckung/test3/releases/download/Latest/Mark.2.Pug.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Mark 2 Pug/)
 
 Author: N/A | [N/A](N/A)
 
@@ -3249,7 +3201,7 @@ Status: N/A
 
 ### Marsian Ancestors
 
-[Marsian.Ancestors.zip](https://github.com/zuckung/test3/releases/download/Latest/Marsian.Ancestors.zip) | N/A | N/A | []()
+[Marsian.Ancestors.zip](https://github.com/zuckung/test3/releases/download/Latest/Marsian.Ancestors.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Marsian Ancestors/)
 
 Author: Endros Gunderberg | [N/A](N/A)
 
@@ -3264,7 +3216,7 @@ Status: N/A
 
 ### Mata
 
-[Mata.zip](https://github.com/zuckung/test3/releases/download/Latest/Mata.zip) | N/A | N/A | []()
+[Mata.zip](https://github.com/zuckung/test3/releases/download/Latest/Mata.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Mata/)
 
 Author: Karimi(Karirawri) | [N/A](N/A)
 
@@ -3279,7 +3231,7 @@ Status: N/A
 
 ### Military Plugin
 
-[Military.Plugin.zip](https://github.com/zuckung/test3/releases/download/Latest/Military.Plugin.zip) | N/A | N/A | []()
+[Military.Plugin.zip](https://github.com/zuckung/test3/releases/download/Latest/Military.Plugin.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Military Plugin/)
 
 Author: JPG7D | [https://github.com/JPG7D/endless-sky-military-plugin](https://github.com/JPG7D/endless-sky-military-plugin)
 
@@ -3294,7 +3246,7 @@ Status: N/A
 
 ### nomads
 
-[nomads.zip](https://github.com/zuckung/test3/releases/download/Latest/nomads.zip) | N/A | N/A | []()
+[nomads.zip](https://github.com/zuckung/test3/releases/download/Latest/nomads.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/nomads/)
 
 Author: N/A | [N/A](N/A)
 
@@ -3309,7 +3261,7 @@ Status: N/A
 
 ### Octyl
 
-[Octyl.zip](https://github.com/zuckung/test3/releases/download/Latest/Octyl.zip) | N/A | N/A | []()
+[Octyl.zip](https://github.com/zuckung/test3/releases/download/Latest/Octyl.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Octyl/)
 
 Author: Ferociousfeind | [https://github.com/Ferociousfeind/Octyl-Emergence](https://github.com/Ferociousfeind/Octyl-Emergence)
 
@@ -3324,7 +3276,7 @@ Status: Should be playable on 0.9.14, 0.9.15 Continuous.
 
 ### Overseers
 
-[Overseers.zip](https://github.com/zuckung/test3/releases/download/Latest/Overseers.zip) | N/A | N/A | []()
+[Overseers.zip](https://github.com/zuckung/test3/releases/download/Latest/Overseers.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Overseers/)
 
 Author: N/A | [N/A](N/A)
 
@@ -3339,7 +3291,7 @@ Status: N/A
 
 ### Project Technovirus
 
-[Project.Technovirus.zip](https://github.com/zuckung/test3/releases/download/Latest/Project.Technovirus.zip) | N/A | N/A | []()
+[Project.Technovirus.zip](https://github.com/zuckung/test3/releases/download/Latest/Project.Technovirus.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Project Technovirus/)
 
 Author: czartrak | [https://github.com/czartrak/Project-Technovirus](https://github.com/czartrak/Project-Technovirus)
 
@@ -3354,7 +3306,7 @@ Status: N/A
 
 ### Remnant
 
-[Remnant.zip](https://github.com/zuckung/test3/releases/download/Latest/Remnant.zip) | N/A | N/A | []()
+[Remnant.zip](https://github.com/zuckung/test3/releases/download/Latest/Remnant.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Remnant/)
 
 Author: Zitchas | [N/A](N/A)
 
@@ -3369,7 +3321,7 @@ Status: N/A
 
 ### Sarcina
 
-[Sarcina.zip](https://github.com/zuckung/test3/releases/download/Latest/Sarcina.zip) | N/A | N/A | []()
+[Sarcina.zip](https://github.com/zuckung/test3/releases/download/Latest/Sarcina.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Sarcina/)
 
 Author: Darcy Manoel | [N/A](N/A)
 
@@ -3384,7 +3336,7 @@ Status: N/A
 
 ### Shirni
 
-[Shirni.zip](https://github.com/zuckung/test3/releases/download/Latest/Shirni.zip) | N/A | N/A | []()
+[Shirni.zip](https://github.com/zuckung/test3/releases/download/Latest/Shirni.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Shirni/)
 
 Author: Quantumshark | [https://github.com/Quantumshark/ES-Shirni](https://github.com/Quantumshark/ES-Shirni)
 
@@ -3399,7 +3351,7 @@ Status: N/A
 
 ### Space Invaders
 
-[Space.Invaders.zip](https://github.com/zuckung/test3/releases/download/Latest/Space.Invaders.zip) | N/A | N/A | []()
+[Space.Invaders.zip](https://github.com/zuckung/test3/releases/download/Latest/Space.Invaders.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Space Invaders/)
 
 Author: mdsmestad | [N/A](N/A)
 
@@ -3414,7 +3366,7 @@ Status: Playable on 0.9.14, 0.9.15 Continuous.
 
 ### Space Things
 
-[Space.Things.zip](https://github.com/zuckung/test3/releases/download/Latest/Space.Things.zip) | N/A | N/A | []()
+[Space.Things.zip](https://github.com/zuckung/test3/releases/download/Latest/Space.Things.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Space Things/)
 
 Author: Michael Arsollon | [N/A](N/A)
 
@@ -3429,7 +3381,7 @@ Status: N/A
 
 ### Star Wars Map
 
-[Star.Wars.Map.zip](https://github.com/zuckung/test3/releases/download/Latest/Star.Wars.Map.zip) | N/A | N/A | []()
+[Star.Wars.Map.zip](https://github.com/zuckung/test3/releases/download/Latest/Star.Wars.Map.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Star Wars Map/)
 
 Author: N/A | [N/A](N/A)
 
@@ -3444,7 +3396,7 @@ Status: N/A
 
 ### Stargate Mod
 
-[Stargate.Mod.zip](https://github.com/zuckung/test3/releases/download/Latest/Stargate.Mod.zip) | N/A | N/A | []()
+[Stargate.Mod.zip](https://github.com/zuckung/test3/releases/download/Latest/Stargate.Mod.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Stargate Mod/)
 
 Author: N/A | [N/A](N/A)
 
@@ -3459,7 +3411,7 @@ Status: N/A
 
 ### Starlus
 
-[Starlus.zip](https://github.com/zuckung/test3/releases/download/Latest/Starlus.zip) | N/A | N/A | []()
+[Starlus.zip](https://github.com/zuckung/test3/releases/download/Latest/Starlus.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Starlus/)
 
 Author: pilover100 | [https://github.com/pilover100/starlus-plugin](https://github.com/pilover100/starlus-plugin)
 
@@ -3474,7 +3426,7 @@ Status: N/A
 
 ### StarSector
 
-[StarSector.zip](https://github.com/zuckung/test3/releases/download/Latest/StarSector.zip) | N/A | N/A | []()
+[StarSector.zip](https://github.com/zuckung/test3/releases/download/Latest/StarSector.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/StarSector/)
 
 Author: N/A | [N/A](N/A)
 
@@ -3489,7 +3441,7 @@ Status: N/A
 
 ### Synchrony
 
-[Synchrony.zip](https://github.com/zuckung/test3/releases/download/Latest/Synchrony.zip) | N/A | N/A | []()
+[Synchrony.zip](https://github.com/zuckung/test3/releases/download/Latest/Synchrony.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Synchrony/)
 
 Author: N/A | [N/A](N/A)
 
@@ -3504,7 +3456,7 @@ Status: N/A
 
 ### Terrans
 
-[Terrans.zip](https://github.com/zuckung/test3/releases/download/Latest/Terrans.zip) | N/A | N/A | []()
+[Terrans.zip](https://github.com/zuckung/test3/releases/download/Latest/Terrans.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Terrans/)
 
 Author: TimCabbage | [https://github.com/sivael/EndlessSkyTerrans/](https://github.com/sivael/EndlessSkyTerrans/)
 
@@ -3519,7 +3471,7 @@ Status: N/A
 
 ### The Arion Campaign
 
-[The.Arion.Campaign.zip](https://github.com/zuckung/test3/releases/download/Latest/The.Arion.Campaign.zip) | N/A | N/A | []()
+[The.Arion.Campaign.zip](https://github.com/zuckung/test3/releases/download/Latest/The.Arion.Campaign.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/The Arion Campaign/)
 
 Author: Red-57 | [https://github.com/Red-57/The-Arion-Campaign](https://github.com/Red-57/The-Arion-Campaign)
 
@@ -3534,7 +3486,7 @@ Status: N/A
 
 ### The Evora Navaiya
 
-[The.Evora.Navaiya.zip](https://github.com/zuckung/test3/releases/download/Latest/The.Evora.Navaiya.zip) | N/A | N/A | []()
+[The.Evora.Navaiya.zip](https://github.com/zuckung/test3/releases/download/Latest/The.Evora.Navaiya.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/The Evora Navaiya/)
 
 Author: Polaria1 | [https://github.com/Polaria1/The-Evora-Navaiya](https://github.com/Polaria1/The-Evora-Navaiya)
 
@@ -3549,7 +3501,7 @@ Status: N/A
 
 ### The Forgotten
 
-[The.Forgotten.zip](https://github.com/zuckung/test3/releases/download/Latest/The.Forgotten.zip) | N/A | N/A | []()
+[The.Forgotten.zip](https://github.com/zuckung/test3/releases/download/Latest/The.Forgotten.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/The Forgotten/)
 
 Author: Startome | [https://github.com/Startome/TheForgotten](https://github.com/Startome/TheForgotten)
 
@@ -3564,7 +3516,7 @@ Status: N/A
 
 ### The Great Journey
 
-[The.Great.Journey.zip](https://github.com/zuckung/test3/releases/download/Latest/The.Great.Journey.zip) | N/A | N/A | []()
+[The.Great.Journey.zip](https://github.com/zuckung/test3/releases/download/Latest/The.Great.Journey.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/The Great Journey/)
 
 Author: Mr.Guineo | [N/A](N/A)
 
@@ -3579,7 +3531,7 @@ Status: N/A
 
 ### The Jump Gate Project
 
-[The.Jump.Gate.Project.zip](https://github.com/zuckung/test3/releases/download/Latest/The.Jump.Gate.Project.zip) | N/A | N/A | []()
+[The.Jump.Gate.Project.zip](https://github.com/zuckung/test3/releases/download/Latest/The.Jump.Gate.Project.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/The Jump Gate Project/)
 
 Author: N/A | [N/A](N/A)
 
@@ -3594,7 +3546,7 @@ Status: N/A
 
 ### The Swarm Project
 
-[The.Swarm.Project.zip](https://github.com/zuckung/test3/releases/download/Latest/The.Swarm.Project.zip) | N/A | N/A | []()
+[The.Swarm.Project.zip](https://github.com/zuckung/test3/releases/download/Latest/The.Swarm.Project.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/The Swarm Project/)
 
 Author: jafdy | [https://github.com/jafdy/the-swarm-project](https://github.com/jafdy/the-swarm-project)
 
@@ -3609,7 +3561,7 @@ Status: N/A
 
 ### Trin
 
-[Trin.zip](https://github.com/zuckung/test3/releases/download/Latest/Trin.zip) | N/A | N/A | []()
+[Trin.zip](https://github.com/zuckung/test3/releases/download/Latest/Trin.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Trin/)
 
 Author: Elyssaen | [https://github.com/Elyssaen/trin](https://github.com/Elyssaen/trin)
 
@@ -3624,7 +3576,7 @@ Status: N/A
 
 ### Ultaka Invasion of Milky Way
 
-[Ultaka.Invasion.of.Milky.Way.zip](https://github.com/zuckung/test3/releases/download/Latest/Ultaka.Invasion.of.Milky.Way.zip) | N/A | N/A | []()
+[Ultaka.Invasion.of.Milky.Way.zip](https://github.com/zuckung/test3/releases/download/Latest/Ultaka.Invasion.of.Milky.Way.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Ultaka Invasion of Milky Way/)
 
 Author: 1010Todd | [N/A](N/A)
 
@@ -3639,7 +3591,7 @@ Status: N/A
 
 ### Vile Corp
 
-[Vile.Corp.zip](https://github.com/zuckung/test3/releases/download/Latest/Vile.Corp.zip) | N/A | N/A | []()
+[Vile.Corp.zip](https://github.com/zuckung/test3/releases/download/Latest/Vile.Corp.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Vile Corp/)
 
 Author: janitor | [N/A](N/A)
 
@@ -3654,7 +3606,7 @@ Status: N/A
 
 ### West Iron
 
-[West.Iron.zip](https://github.com/zuckung/test3/releases/download/Latest/West.Iron.zip) | N/A | N/A | []()
+[West.Iron.zip](https://github.com/zuckung/test3/releases/download/Latest/West.Iron.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/West Iron/)
 
 Author: Kryes-Omega | [https://github.com/Kryes-Omega/endless-sky-WestIron](https://github.com/Kryes-Omega/endless-sky-WestIron)
 
@@ -3669,7 +3621,7 @@ Status: N/A
 
 ### Yokoyama
 
-[Yokoyama.zip](https://github.com/zuckung/test3/releases/download/Latest/Yokoyama.zip) | N/A | N/A | []()
+[Yokoyama.zip](https://github.com/zuckung/test3/releases/download/Latest/Yokoyama.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Yokoyama/)
 
 Author: dilydaly | [https://github.com/dilydaly/Endless-Sky---Yokoyama](https://github.com/dilydaly/Endless-Sky---Yokoyama)
 
@@ -3679,36 +3631,29 @@ Category: Races
 
 Status: N/A
 
-</div>
 
-<p><a href="README.md#Introduction">back up <p>
+</details>
 
-<script>
-function RacesFunction() {
-  var x = document.getElementById("RacesDIV");
-  if (x.style.display === "block") {
-    x.style.display = "none";
-  } else {
-    x.style.display = "block";
-  }
-}
-</script>
 
+[back up](#Plugin-Info-and-Download)
+
+
+
+---
 
 ## Ships
 
 <p>116 plugins in this category.<p>
 
-<button onclick="ShipsFunction()">hide/unhide</button>
+<details>
 
-<div hidden id="ShipsDIV">
-
+ 
 
 ---
 
 ### Ambriel
 
-[Ambriel.zip](https://github.com/zuckung/test3/releases/download/Latest/Ambriel.zip) | N/A | N/A | []()
+[Ambriel.zip](https://github.com/zuckung/test3/releases/download/Latest/Ambriel.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Ambriel/)
 
 Author: N/A | [N/A](N/A)
 
@@ -3723,7 +3668,7 @@ Status: should work
 
 ### Archetto
 
-[Archetto.zip](https://github.com/zuckung/test3/releases/download/Latest/Archetto.zip) | N/A | N/A | []()
+[Archetto.zip](https://github.com/zuckung/test3/releases/download/Latest/Archetto.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Archetto/)
 
 Author: Hilokiyz | [N/A](N/A)
 
@@ -3738,7 +3683,7 @@ Status: N/A
 
 ### Assault Cruiser
 
-[Assault.Cruiser.zip](https://github.com/zuckung/test3/releases/download/Latest/Assault.Cruiser.zip) | N/A | N/A | []()
+[Assault.Cruiser.zip](https://github.com/zuckung/test3/releases/download/Latest/Assault.Cruiser.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Assault Cruiser/)
 
 Author: N/A | [N/A](N/A)
 
@@ -3753,7 +3698,7 @@ Status: N/A
 
 ### B-25
 
-[B-25.zip](https://github.com/zuckung/test3/releases/download/Latest/B-25.zip) | N/A | N/A | []()
+[B-25.zip](https://github.com/zuckung/test3/releases/download/Latest/B-25.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/B-25/)
 
 Author: N/A | [N/A](N/A)
 
@@ -3768,7 +3713,7 @@ Status: N/A
 
 ### Bacterian T2
 
-[Bacterian.T2.zip](https://github.com/zuckung/test3/releases/download/Latest/Bacterian.T2.zip) | N/A | N/A | []()
+[Bacterian.T2.zip](https://github.com/zuckung/test3/releases/download/Latest/Bacterian.T2.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Bacterian T2/)
 
 Author: N/A | [N/A](N/A)
 
@@ -3783,7 +3728,7 @@ Status: N/A
 
 ### Bailiff
 
-[Bailiff.zip](https://github.com/zuckung/test3/releases/download/Latest/Bailiff.zip) | N/A | N/A | []()
+[Bailiff.zip](https://github.com/zuckung/test3/releases/download/Latest/Bailiff.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Bailiff/)
 
 Author: GeoNeil | [N/A](N/A)
 
@@ -3798,7 +3743,7 @@ Status: N/A
 
 ### Bardagh s Ship Variants
 
-[Bardagh.s.Ship.Variants.zip](https://github.com/zuckung/test3/releases/download/Latest/Bardagh.s.Ship.Variants.zip) | N/A | N/A | []()
+[Bardagh.s.Ship.Variants.zip](https://github.com/zuckung/test3/releases/download/Latest/Bardagh.s.Ship.Variants.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Bardagh s Ship Variants/)
 
 Author: Bardagh | [https://github.com/Bardagh/ship-variants/](https://github.com/Bardagh/ship-variants/)
 
@@ -3813,7 +3758,7 @@ Status: Playable on 0.9.14, 0.9.15 Continuous.
 
 ### Battle Carrier
 
-[Battle.Carrier.zip](https://github.com/zuckung/test3/releases/download/Latest/Battle.Carrier.zip) | N/A | N/A | []()
+[Battle.Carrier.zip](https://github.com/zuckung/test3/releases/download/Latest/Battle.Carrier.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Battle Carrier/)
 
 Author: N/A | [N/A](N/A)
 
@@ -3828,7 +3773,7 @@ Status: Ships and outfit are nowhere for sale.
 
 ### Battleship Test
 
-[Battleship.Test.zip](https://github.com/zuckung/test3/releases/download/Latest/Battleship.Test.zip) | N/A | N/A | []()
+[Battleship.Test.zip](https://github.com/zuckung/test3/releases/download/Latest/Battleship.Test.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Battleship Test/)
 
 Author: Quarg Block(Brick) | [N/A](N/A)
 
@@ -3843,7 +3788,7 @@ Status: N/A
 
 ### Binary reOrder
 
-[Binary.reOrder.zip](https://github.com/zuckung/test3/releases/download/Latest/Binary.reOrder.zip) | N/A | N/A | []()
+[Binary.reOrder.zip](https://github.com/zuckung/test3/releases/download/Latest/Binary.reOrder.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Binary reOrder/)
 
 Author: Vaelophis Nyx & Kezethun | [N/A](N/A)
 
@@ -3858,7 +3803,7 @@ Status: N/A
 
 ### Blended Ships
 
-[Blended.Ships.zip](https://github.com/zuckung/test3/releases/download/Latest/Blended.Ships.zip) | N/A | N/A | []()
+[Blended.Ships.zip](https://github.com/zuckung/test3/releases/download/Latest/Blended.Ships.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Blended Ships/)
 
 Author: mOctave | [https://github.com/mOctave/blended-ships](https://github.com/mOctave/blended-ships)
 
@@ -3873,7 +3818,7 @@ Status: N/A
 
 ### Carriers
 
-[Carriers.zip](https://github.com/zuckung/test3/releases/download/Latest/Carriers.zip) | N/A | N/A | []()
+[Carriers.zip](https://github.com/zuckung/test3/releases/download/Latest/Carriers.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Carriers/)
 
 Author: Arkhne | [N/A](N/A)
 
@@ -3888,7 +3833,7 @@ Status: Should work
 
 ### Cobbled Ships
 
-[Cobbled.Ships.zip](https://github.com/zuckung/test3/releases/download/Latest/Cobbled.Ships.zip) | N/A | N/A | []()
+[Cobbled.Ships.zip](https://github.com/zuckung/test3/releases/download/Latest/Cobbled.Ships.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Cobbled Ships/)
 
 Author: Zoura3025 | [N/A](N/A)
 
@@ -3903,7 +3848,7 @@ Status: Playable on 0.9.15 Continuous.
 
 ### Czartraks Ship Pack
 
-[Czartraks.Ship.Pack.zip](https://github.com/zuckung/test3/releases/download/Latest/Czartraks.Ship.Pack.zip) | N/A | N/A | []()
+[Czartraks.Ship.Pack.zip](https://github.com/zuckung/test3/releases/download/Latest/Czartraks.Ship.Pack.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Czartraks Ship Pack/)
 
 Author: Czartrak | [https://github.com/czartrak/Czartraks-Ship-Pack](https://github.com/czartrak/Czartraks-Ship-Pack)
 
@@ -3918,7 +3863,7 @@ Status: N/A
 
 ### DaBestShipEver
 
-[DaBestShipEver.zip](https://github.com/zuckung/test3/releases/download/Latest/DaBestShipEver.zip) | N/A | N/A | []()
+[DaBestShipEver.zip](https://github.com/zuckung/test3/releases/download/Latest/DaBestShipEver.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/DaBestShipEver/)
 
 Author: mdsmestad | [N/A](N/A)
 
@@ -3933,7 +3878,7 @@ Status: N/A
 
 ### Death Pancake v1 0 0
 
-[Death.Pancake.v1.0.0.zip](https://github.com/zuckung/test3/releases/download/Latest/Death.Pancake.v1.0.0.zip) | N/A | N/A | []()
+[Death.Pancake.v1.0.0.zip](https://github.com/zuckung/test3/releases/download/Latest/Death.Pancake.v1.0.0.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Death Pancake v1 0 0/)
 
 Author: N/A | [N/A](N/A)
 
@@ -3948,7 +3893,7 @@ Status: Should work
 
 ### Defense Drone Plugin
 
-[Defense.Drone.Plugin.zip](https://github.com/zuckung/test3/releases/download/Latest/Defense.Drone.Plugin.zip) | N/A | N/A | []()
+[Defense.Drone.Plugin.zip](https://github.com/zuckung/test3/releases/download/Latest/Defense.Drone.Plugin.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Defense Drone Plugin/)
 
 Author: starmlerp | [https://github.com/starmlerp/ESDefenseDronePlugin](https://github.com/starmlerp/ESDefenseDronePlugin)
 
@@ -3963,7 +3908,7 @@ Status: Playable on 0.9.14, 0.9.15 Continuous.
 
 ### Derogam
 
-[Derogam.zip](https://github.com/zuckung/test3/releases/download/Latest/Derogam.zip) | N/A | N/A | []()
+[Derogam.zip](https://github.com/zuckung/test3/releases/download/Latest/Derogam.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Derogam/)
 
 Author: Lorantine | [https://github.com/Lorantine/derogam](https://github.com/Lorantine/derogam)
 
@@ -3978,7 +3923,7 @@ Status: Functional
 
 ### Derp Ship
 
-[Derp.Ship.zip](https://github.com/zuckung/test3/releases/download/Latest/Derp.Ship.zip) | N/A | N/A | []()
+[Derp.Ship.zip](https://github.com/zuckung/test3/releases/download/Latest/Derp.Ship.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Derp Ship/)
 
 Author: N/A | [N/A](N/A)
 
@@ -3993,7 +3938,7 @@ Status: N/A
 
 ### Destiny
 
-[Destiny.zip](https://github.com/zuckung/test3/releases/download/Latest/Destiny.zip) | N/A | N/A | []()
+[Destiny.zip](https://github.com/zuckung/test3/releases/download/Latest/Destiny.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Destiny/)
 
 Author: Dantoys | [N/A](N/A)
 
@@ -4008,7 +3953,7 @@ Status: N/A
 
 ### Dragoon
 
-[Dragoon.zip](https://github.com/zuckung/test3/releases/download/Latest/Dragoon.zip) | N/A | N/A | []()
+[Dragoon.zip](https://github.com/zuckung/test3/releases/download/Latest/Dragoon.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Dragoon/)
 
 Author: mdsmestad | [N/A](N/A)
 
@@ -4023,7 +3968,7 @@ Status: Should work.
 
 ### Dragoon Industries
 
-[Dragoon.Industries.zip](https://github.com/zuckung/test3/releases/download/Latest/Dragoon.Industries.zip) | N/A | N/A | []()
+[Dragoon.Industries.zip](https://github.com/zuckung/test3/releases/download/Latest/Dragoon.Industries.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Dragoon Industries/)
 
 Author: Hayden Plishka | [N/A](N/A)
 
@@ -4038,7 +3983,7 @@ Status: Should work
 
 ### Elite Sky
 
-[Elite.Sky.zip](https://github.com/zuckung/test3/releases/download/Latest/Elite.Sky.zip) | N/A | N/A | []()
+[Elite.Sky.zip](https://github.com/zuckung/test3/releases/download/Latest/Elite.Sky.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Elite Sky/)
 
 Author: N/A | [N/A](N/A)
 
@@ -4053,7 +3998,7 @@ Status: N/A
 
 ### Ema Skylark
 
-[Ema.Skylark.zip](https://github.com/zuckung/test3/releases/download/Latest/Ema.Skylark.zip) | N/A | N/A | []()
+[Ema.Skylark.zip](https://github.com/zuckung/test3/releases/download/Latest/Ema.Skylark.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Ema Skylark/)
 
 Author: rymeilema | [https://github.com/rymeilema/rymeilema-skylark](https://github.com/rymeilema/rymeilema-skylark)
 
@@ -4068,7 +4013,7 @@ Status: N/A
 
 ### Endless-Sky-Ship
 
-[Endless-Sky-Ship.zip](https://github.com/zuckung/test3/releases/download/Latest/Endless-Sky-Ship.zip) | N/A | N/A | []()
+[Endless-Sky-Ship.zip](https://github.com/zuckung/test3/releases/download/Latest/Endless-Sky-Ship.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Endless-Sky-Ship/)
 
 Author: The-Borg-Captain | [https://github.com/The-Borg-Captain/Endless-Sky-Ship](https://github.com/The-Borg-Captain/Endless-Sky-Ship)
 
@@ -4083,7 +4028,7 @@ Status: N/A
 
 ### Endros human basic ships
 
-[Endros.human.basic.ships.zip](https://github.com/zuckung/test3/releases/download/Latest/Endros.human.basic.ships.zip) | N/A | N/A | []()
+[Endros.human.basic.ships.zip](https://github.com/zuckung/test3/releases/download/Latest/Endros.human.basic.ships.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Endros human basic ships/)
 
 Author: Endros Gunderberg  | [N/A](N/A)
 
@@ -4098,7 +4043,7 @@ Status: N/A
 
 ### Everything-n-More
 
-[Everything-n-More.zip](https://github.com/zuckung/test3/releases/download/Latest/Everything-n-More.zip) | N/A | N/A | []()
+[Everything-n-More.zip](https://github.com/zuckung/test3/releases/download/Latest/Everything-n-More.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Everything-n-More/)
 
 Author: Please-Close-This-Issue | [https://github.com/Please-Close-This-Issue/everything-n-more-mod-](https://github.com/Please-Close-This-Issue/everything-n-more-mod-)
 
@@ -4113,7 +4058,7 @@ Status: N/A
 
 ### Fauxwing
 
-[Fauxwing.zip](https://github.com/zuckung/test3/releases/download/Latest/Fauxwing.zip) | N/A | N/A | []()
+[Fauxwing.zip](https://github.com/zuckung/test3/releases/download/Latest/Fauxwing.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Fauxwing/)
 
 Author: N/A | [N/A](N/A)
 
@@ -4128,7 +4073,7 @@ Status: N/A
 
 ### Flip Those Ships
 
-[Flip.Those.Ships.zip](https://github.com/zuckung/test3/releases/download/Latest/Flip.Those.Ships.zip) | N/A | N/A | []()
+[Flip.Those.Ships.zip](https://github.com/zuckung/test3/releases/download/Latest/Flip.Those.Ships.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Flip Those Ships/)
 
 Author: TheronEpic | [https://github.com/TheronEpic/Flip-Those-Ships](https://github.com/TheronEpic/Flip-Those-Ships)
 
@@ -4143,7 +4088,7 @@ Status: N/A
 
 ### Flying Saucer
 
-[Flying.Saucer.zip](https://github.com/zuckung/test3/releases/download/Latest/Flying.Saucer.zip) | N/A | N/A | []()
+[Flying.Saucer.zip](https://github.com/zuckung/test3/releases/download/Latest/Flying.Saucer.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Flying Saucer/)
 
 Author: N/A | [N/A](N/A)
 
@@ -4158,7 +4103,7 @@ Status: N/A
 
 ### Galaxias
 
-[Galaxias.zip](https://github.com/zuckung/test3/releases/download/Latest/Galaxias.zip) | N/A | N/A | []()
+[Galaxias.zip](https://github.com/zuckung/test3/releases/download/Latest/Galaxias.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Galaxias/)
 
 Author: mdpiper | [https://github.com/mdpiper/galaxias](https://github.com/mdpiper/galaxias)
 
@@ -4173,7 +4118,7 @@ Status: N/A
 
 ### Gulliver
 
-[Gulliver.zip](https://github.com/zuckung/test3/releases/download/Latest/Gulliver.zip) | N/A | N/A | []()
+[Gulliver.zip](https://github.com/zuckung/test3/releases/download/Latest/Gulliver.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Gulliver/)
 
 Author: Danzig Or War(Test-711) | [N/A](N/A)
 
@@ -4188,7 +4133,7 @@ Status: N/A
 
 ### Hauler Expansion
 
-[Hauler.Expansion.zip](https://github.com/zuckung/test3/releases/download/Latest/Hauler.Expansion.zip) | N/A | N/A | []()
+[Hauler.Expansion.zip](https://github.com/zuckung/test3/releases/download/Latest/Hauler.Expansion.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Hauler Expansion/)
 
 Author: N/A | [N/A](N/A)
 
@@ -4203,7 +4148,7 @@ Status: N/A
 
 ### Heliarch Avenger
 
-[Heliarch.Avenger.zip](https://github.com/zuckung/test3/releases/download/Latest/Heliarch.Avenger.zip) | N/A | N/A | []()
+[Heliarch.Avenger.zip](https://github.com/zuckung/test3/releases/download/Latest/Heliarch.Avenger.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Heliarch Avenger/)
 
 Author: Arachi(Arachi-lover) | [N/A](N/A)
 
@@ -4218,7 +4163,7 @@ Status: N/A
 
 ### High Tier Warships
 
-[High.Tier.Warships.zip](https://github.com/zuckung/test3/releases/download/Latest/High.Tier.Warships.zip) | N/A | N/A | []()
+[High.Tier.Warships.zip](https://github.com/zuckung/test3/releases/download/Latest/High.Tier.Warships.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/High Tier Warships/)
 
 Author: 1010todd | [N/A](N/A)
 
@@ -4233,7 +4178,7 @@ Status: Playable on 0.9.14, 0.9.15 Continuous.
 
 ### HONK
 
-[HONK.zip](https://github.com/zuckung/test3/releases/download/Latest/HONK.zip) | N/A | N/A | []()
+[HONK.zip](https://github.com/zuckung/test3/releases/download/Latest/HONK.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/HONK/)
 
 Author: Hurtz | [https://github.com/Killerhurtz/ES-HONK](https://github.com/Killerhurtz/ES-HONK)
 
@@ -4248,7 +4193,7 @@ Status: N/A
 
 ### Human Ship Expansion
 
-[Human.Ship.Expansion.zip](https://github.com/zuckung/test3/releases/download/Latest/Human.Ship.Expansion.zip) | N/A | N/A | []()
+[Human.Ship.Expansion.zip](https://github.com/zuckung/test3/releases/download/Latest/Human.Ship.Expansion.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Human Ship Expansion/)
 
 Author: loyse | [N/A](N/A)
 
@@ -4263,7 +4208,7 @@ Status: N/A
 
 ### IJN Yamato
 
-[IJN.Yamato.zip](https://github.com/zuckung/test3/releases/download/Latest/IJN.Yamato.zip) | N/A | N/A | []()
+[IJN.Yamato.zip](https://github.com/zuckung/test3/releases/download/Latest/IJN.Yamato.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/IJN Yamato/)
 
 Author: Hiloki Zheng | [https://github.com/hilokiyz/IJN-Yamato-Endless-Sky](https://github.com/hilokiyz/IJN-Yamato-Endless-Sky)
 
@@ -4278,7 +4223,7 @@ Status: N/A
 
 ### Jenkins My Beloved
 
-[Jenkins.My.Beloved.zip](https://github.com/zuckung/test3/releases/download/Latest/Jenkins.My.Beloved.zip) | N/A | N/A | []()
+[Jenkins.My.Beloved.zip](https://github.com/zuckung/test3/releases/download/Latest/Jenkins.My.Beloved.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Jenkins My Beloved/)
 
 Author: Zoura (AvianGeneticist) | [N/A](N/A)
 
@@ -4293,7 +4238,7 @@ Status: Should be playable on 0.9.15/0.9.16
 
 ### Just a ship
 
-[Just.a.ship.zip](https://github.com/zuckung/test3/releases/download/Latest/Just.a.ship.zip) | N/A | N/A | []()
+[Just.a.ship.zip](https://github.com/zuckung/test3/releases/download/Latest/Just.a.ship.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Just a ship/)
 
 Author: N/A | [N/A](N/A)
 
@@ -4308,7 +4253,7 @@ Status: N/A
 
 ### Kaynz
 
-[Kaynz.zip](https://github.com/zuckung/test3/releases/download/Latest/Kaynz.zip) | N/A | N/A | []()
+[Kaynz.zip](https://github.com/zuckung/test3/releases/download/Latest/Kaynz.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Kaynz/)
 
 Author: Mcgode | [https://github.com/Mcgode/Kaynz](https://github.com/Mcgode/Kaynz)
 
@@ -4323,7 +4268,7 @@ Status: N/A
 
 ### Kestrel-M
 
-[Kestrel-M.zip](https://github.com/zuckung/test3/releases/download/Latest/Kestrel-M.zip) | N/A | N/A | []()
+[Kestrel-M.zip](https://github.com/zuckung/test3/releases/download/Latest/Kestrel-M.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Kestrel-M/)
 
 Author: mdsmestad | [N/A](N/A)
 
@@ -4338,7 +4283,7 @@ Status: N/A
 
 ### Lampyrid Start
 
-[Lampyrid.Start.zip](https://github.com/zuckung/test3/releases/download/Latest/Lampyrid.Start.zip) | N/A | N/A | []()
+[Lampyrid.Start.zip](https://github.com/zuckung/test3/releases/download/Latest/Lampyrid.Start.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Lampyrid Start/)
 
 Author: Zitchas | [https://github.com/Zitchas/ES_Lampyrid_Start](https://github.com/Zitchas/ES_Lampyrid_Start)
 
@@ -4353,7 +4298,7 @@ Status: Playable on 0.9.15 Continuous.
 
 ### Legendary Pirates
 
-[Legendary.Pirates.zip](https://github.com/zuckung/test3/releases/download/Latest/Legendary.Pirates.zip) | N/A | N/A | []()
+[Legendary.Pirates.zip](https://github.com/zuckung/test3/releases/download/Latest/Legendary.Pirates.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Legendary Pirates/)
 
 Author: Lake(Galaucus) | [https://github.com/Galaucus/Endless-Sky-Legendary-Pirates](https://github.com/Galaucus/Endless-Sky-Legendary-Pirates)
 
@@ -4368,7 +4313,7 @@ Status: N/A
 
 ### Lertsek
 
-[Lertsek.zip](https://github.com/zuckung/test3/releases/download/Latest/Lertsek.zip) | N/A | N/A | []()
+[Lertsek.zip](https://github.com/zuckung/test3/releases/download/Latest/Lertsek.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Lertsek/)
 
 Author: TheronEpic | [https://github.com/TheronEpic/lertsek](https://github.com/TheronEpic/lertsek)
 
@@ -4383,7 +4328,7 @@ Status: N/A
 
 ### Lleytons ES Starships
 
-[Lleytons.ES.Starships.zip](https://github.com/zuckung/test3/releases/download/Latest/Lleytons.ES.Starships.zip) | N/A | N/A | []()
+[Lleytons.ES.Starships.zip](https://github.com/zuckung/test3/releases/download/Latest/Lleytons.ES.Starships.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Lleytons ES Starships/)
 
 Author: Lleyton | [N/A](N/A)
 
@@ -4398,7 +4343,7 @@ Status: N/A
 
 ### Loronar Transport
 
-[Loronar.Transport.zip](https://github.com/zuckung/test3/releases/download/Latest/Loronar.Transport.zip) | N/A | N/A | []()
+[Loronar.Transport.zip](https://github.com/zuckung/test3/releases/download/Latest/Loronar.Transport.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Loronar Transport/)
 
 Author: Armalarde7895 | [https://github.com/Armalarde7895/Loronar-transport](https://github.com/Armalarde7895/Loronar-transport)
 
@@ -4413,7 +4358,7 @@ Status: N/A
 
 ### Marauder Bactrian
 
-[Marauder.Bactrian.zip](https://github.com/zuckung/test3/releases/download/Latest/Marauder.Bactrian.zip) | N/A | N/A | []()
+[Marauder.Bactrian.zip](https://github.com/zuckung/test3/releases/download/Latest/Marauder.Bactrian.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Marauder Bactrian/)
 
 Author: J.C. Hamlin | [https://github.com/jchamlin/marauder-bactrian](https://github.com/jchamlin/marauder-bactrian)
 
@@ -4428,7 +4373,7 @@ Status: N/A
 
 ### Marauder Swarmer
 
-[Marauder.Swarmer.zip](https://github.com/zuckung/test3/releases/download/Latest/Marauder.Swarmer.zip) | N/A | N/A | []()
+[Marauder.Swarmer.zip](https://github.com/zuckung/test3/releases/download/Latest/Marauder.Swarmer.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Marauder Swarmer/)
 
 Author: Tadrix | [https://github.com/Tadrix/es-mswarmer](https://github.com/Tadrix/es-mswarmer)
 
@@ -4443,7 +4388,7 @@ Status: N/A
 
 ### Marausprey
 
-[Marausprey.zip](https://github.com/zuckung/test3/releases/download/Latest/Marausprey.zip) | N/A | N/A | []()
+[Marausprey.zip](https://github.com/zuckung/test3/releases/download/Latest/Marausprey.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Marausprey/)
 
 Author: TheronEpic | [https://github.com/TheronEpic/marausprey](https://github.com/TheronEpic/marausprey)
 
@@ -4458,7 +4403,7 @@ Status: N/A
 
 ### Matthews Alien Ship
 
-[Matthews.Alien.Ship.zip](https://github.com/zuckung/test3/releases/download/Latest/Matthews.Alien.Ship.zip) | N/A | N/A | []()
+[Matthews.Alien.Ship.zip](https://github.com/zuckung/test3/releases/download/Latest/Matthews.Alien.Ship.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Matthews Alien Ship/)
 
 Author: N/A | [N/A](N/A)
 
@@ -4473,7 +4418,7 @@ Status: N/A
 
 ### Maurader Osprey
 
-[Maurader.Osprey.zip](https://github.com/zuckung/test3/releases/download/Latest/Maurader.Osprey.zip) | N/A | N/A | []()
+[Maurader.Osprey.zip](https://github.com/zuckung/test3/releases/download/Latest/Maurader.Osprey.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Maurader Osprey/)
 
 Author: N/A | [N/A](N/A)
 
@@ -4488,7 +4433,7 @@ Status: N/A
 
 ### Maurder Covette
 
-[Maurder.Covette.zip](https://github.com/zuckung/test3/releases/download/Latest/Maurder.Covette.zip) | N/A | N/A | []()
+[Maurder.Covette.zip](https://github.com/zuckung/test3/releases/download/Latest/Maurder.Covette.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Maurder Covette/)
 
 Author: TheronEpic | [N/A](N/A)
 
@@ -4503,7 +4448,7 @@ Status: N/A
 
 ### MAY
 
-[MAY.zip](https://github.com/zuckung/test3/releases/download/Latest/MAY.zip) | N/A | N/A | []()
+[MAY.zip](https://github.com/zuckung/test3/releases/download/Latest/MAY.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/MAY/)
 
 Author: N/A | [N/A](N/A)
 
@@ -4518,7 +4463,7 @@ Status: N/A
 
 ### Mega Bactrian
 
-[Mega.Bactrian.zip](https://github.com/zuckung/test3/releases/download/Latest/Mega.Bactrian.zip) | N/A | N/A | []()
+[Mega.Bactrian.zip](https://github.com/zuckung/test3/releases/download/Latest/Mega.Bactrian.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Mega Bactrian/)
 
 Author: mdsmestad | [N/A](N/A)
 
@@ -4533,7 +4478,7 @@ Status: N/A
 
 ### Mega Freight
 
-[Mega.Freight.zip](https://github.com/zuckung/test3/releases/download/Latest/Mega.Freight.zip) | N/A | N/A | []()
+[Mega.Freight.zip](https://github.com/zuckung/test3/releases/download/Latest/Mega.Freight.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Mega Freight/)
 
 Author: 1010todd | [N/A](N/A)
 
@@ -4548,7 +4493,7 @@ Status: Requires Continuous/0.9.15+
 
 ### Merchant Marine
 
-[Merchant.Marine.zip](https://github.com/zuckung/test3/releases/download/Latest/Merchant.Marine.zip) | N/A | N/A | []()
+[Merchant.Marine.zip](https://github.com/zuckung/test3/releases/download/Latest/Merchant.Marine.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Merchant Marine/)
 
 Author: AnotherMonkey | [N/A](N/A)
 
@@ -4563,7 +4508,7 @@ Status: Playable on 0.9.14, 0.9.15 Continuous.
 
 ### Mercury
 
-[Mercury.zip](https://github.com/zuckung/test3/releases/download/Latest/Mercury.zip) | N/A | N/A | []()
+[Mercury.zip](https://github.com/zuckung/test3/releases/download/Latest/Mercury.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Mercury/)
 
 Author: Orlando Peñarubia | [N/A](N/A)
 
@@ -4578,7 +4523,7 @@ Status: N/A
 
 ### Mining Pinger
 
-[Mining.Pinger.zip](https://github.com/zuckung/test3/releases/download/Latest/Mining.Pinger.zip) | N/A | N/A | []()
+[Mining.Pinger.zip](https://github.com/zuckung/test3/releases/download/Latest/Mining.Pinger.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Mining Pinger/)
 
 Author: N/A | [N/A](N/A)
 
@@ -4593,7 +4538,7 @@ Status: N/A
 
 ### Mining ships
 
-[Mining.ships.zip](https://github.com/zuckung/test3/releases/download/Latest/Mining.ships.zip) | N/A | N/A | []()
+[Mining.ships.zip](https://github.com/zuckung/test3/releases/download/Latest/Mining.ships.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Mining ships/)
 
 Author: 1010todd | [N/A](N/A)
 
@@ -4608,7 +4553,7 @@ Status: Playable since the version that adds minable asteroid (0.9.3).
 
 ### Modified Falcon
 
-[Modified.Falcon.zip](https://github.com/zuckung/test3/releases/download/Latest/Modified.Falcon.zip) | N/A | N/A | []()
+[Modified.Falcon.zip](https://github.com/zuckung/test3/releases/download/Latest/Modified.Falcon.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Modified Falcon/)
 
 Author: N/A | [N/A](N/A)
 
@@ -4623,7 +4568,7 @@ Status: N/A
 
 ### Modular Haulers
 
-[Modular.Haulers.zip](https://github.com/zuckung/test3/releases/download/Latest/Modular.Haulers.zip) | N/A | N/A | []()
+[Modular.Haulers.zip](https://github.com/zuckung/test3/releases/download/Latest/Modular.Haulers.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Modular Haulers/)
 
 Author: PhantomBerserker | [https://github.com/PhantomBerserker/ES-Modular-Haulers](https://github.com/PhantomBerserker/ES-Modular-Haulers)
 
@@ -4638,7 +4583,7 @@ Status: N/A
 
 ### Monitor
 
-[Monitor.zip](https://github.com/zuckung/test3/releases/download/Latest/Monitor.zip) | N/A | N/A | []()
+[Monitor.zip](https://github.com/zuckung/test3/releases/download/Latest/Monitor.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Monitor/)
 
 Author: N/A | [N/A](N/A)
 
@@ -4653,7 +4598,7 @@ Status: N/A
 
 ### More Ships Plugin
 
-[More.Ships.Plugin.zip](https://github.com/zuckung/test3/releases/download/Latest/More.Ships.Plugin.zip) | N/A | N/A | []()
+[More.Ships.Plugin.zip](https://github.com/zuckung/test3/releases/download/Latest/More.Ships.Plugin.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/More Ships Plugin/)
 
 Author: Loyser(Loiseeer) | [https://github.com/loiseeer/The-more-ships-plugin](https://github.com/loiseeer/The-more-ships-plugin)
 
@@ -4668,7 +4613,7 @@ Status: Playable on 0.9.14, 0.9.15 Continuous.
 
 ### Nemesis
 
-[Nemesis.zip](https://github.com/zuckung/test3/releases/download/Latest/Nemesis.zip) | N/A | N/A | []()
+[Nemesis.zip](https://github.com/zuckung/test3/releases/download/Latest/Nemesis.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Nemesis/)
 
 Author: Zavindur | [N/A](N/A)
 
@@ -4683,7 +4628,7 @@ Status: N/A
 
 ### Normandy
 
-[Normandy.zip](https://github.com/zuckung/test3/releases/download/Latest/Normandy.zip) | N/A | N/A | []()
+[Normandy.zip](https://github.com/zuckung/test3/releases/download/Latest/Normandy.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Normandy/)
 
 Author: N/A | [N/A](N/A)
 
@@ -4698,7 +4643,7 @@ Status: N/A
 
 ### Penthrower
 
-[Penthrower.zip](https://github.com/zuckung/test3/releases/download/Latest/Penthrower.zip) | N/A | N/A | []()
+[Penthrower.zip](https://github.com/zuckung/test3/releases/download/Latest/Penthrower.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Penthrower/)
 
 Author: 1010Todd | [N/A](N/A)
 
@@ -4713,7 +4658,7 @@ Status: N/A
 
 ### Pheonix
 
-[Pheonix.zip](https://github.com/zuckung/test3/releases/download/Latest/Pheonix.zip) | N/A | N/A | []()
+[Pheonix.zip](https://github.com/zuckung/test3/releases/download/Latest/Pheonix.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Pheonix/)
 
 Author: N/A | [N/A](N/A)
 
@@ -4728,7 +4673,7 @@ Status: N/A
 
 ### Poseidon
 
-[Poseidon.zip](https://github.com/zuckung/test3/releases/download/Latest/Poseidon.zip) | N/A | N/A | []()
+[Poseidon.zip](https://github.com/zuckung/test3/releases/download/Latest/Poseidon.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Poseidon/)
 
 Author: N/A | [N/A](N/A)
 
@@ -4743,7 +4688,7 @@ Status: N/A
 
 ### Project Olympus
 
-[Project.Olympus.zip](https://github.com/zuckung/test3/releases/download/Latest/Project.Olympus.zip) | N/A | N/A | []()
+[Project.Olympus.zip](https://github.com/zuckung/test3/releases/download/Latest/Project.Olympus.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Project Olympus/)
 
 Author: N/A | [N/A](N/A)
 
@@ -4758,7 +4703,7 @@ Status: N/A
 
 ### Project Runabout
 
-[Project.Runabout.zip](https://github.com/zuckung/test3/releases/download/Latest/Project.Runabout.zip) | N/A | N/A | []()
+[Project.Runabout.zip](https://github.com/zuckung/test3/releases/download/Latest/Project.Runabout.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Project Runabout/)
 
 Author: N/A | [N/A](N/A)
 
@@ -4773,7 +4718,7 @@ Status: N/A
 
 ### Prong
 
-[Prong.zip](https://github.com/zuckung/test3/releases/download/Latest/Prong.zip) | N/A | N/A | []()
+[Prong.zip](https://github.com/zuckung/test3/releases/download/Latest/Prong.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Prong/)
 
 Author: 1010todd | [N/A](N/A)
 
@@ -4788,7 +4733,7 @@ Status: N/A
 
 ### Prototype D
 
-[Prototype.D.zip](https://github.com/zuckung/test3/releases/download/Latest/Prototype.D.zip) | N/A | N/A | []()
+[Prototype.D.zip](https://github.com/zuckung/test3/releases/download/Latest/Prototype.D.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Prototype D/)
 
 Author: 1010todd | [N/A](N/A)
 
@@ -4803,7 +4748,7 @@ Status: Playable on 0.9.15 Continuous.
 
 ### Quaernan
 
-[Quaernan.zip](https://github.com/zuckung/test3/releases/download/Latest/Quaernan.zip) | N/A | N/A | []()
+[Quaernan.zip](https://github.com/zuckung/test3/releases/download/Latest/Quaernan.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Quaernan/)
 
 Author: Zoura3025 | [N/A](N/A)
 
@@ -4818,7 +4763,7 @@ Status: Playable on 0.9.15 Continuous.
 
 ### QuaernanHardpoints
 
-[QuaernanHardpoints.zip](https://github.com/zuckung/test3/releases/download/Latest/QuaernanHardpoints.zip) | N/A | N/A | []()
+[QuaernanHardpoints.zip](https://github.com/zuckung/test3/releases/download/Latest/QuaernanHardpoints.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/QuaernanHardpoints/)
 
 Author: Zoura3025 | [N/A](N/A)
 
@@ -4833,7 +4778,7 @@ Status: Playable on 0.9.15 Continuous.
 
 ### QuaernanHardpointsCarries
 
-[QuaernanHardpointsCarries.zip](https://github.com/zuckung/test3/releases/download/Latest/QuaernanHardpointsCarries.zip) | N/A | N/A | []()
+[QuaernanHardpointsCarries.zip](https://github.com/zuckung/test3/releases/download/Latest/QuaernanHardpointsCarries.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/QuaernanHardpointsCarries/)
 
 Author: Zoura3025 | [N/A](N/A)
 
@@ -4848,7 +4793,7 @@ Status: Playable on 0.9.15 Continuous.
 
 ### QuaernanV2 Lian
 
-[QuaernanV2.Lian.zip](https://github.com/zuckung/test3/releases/download/Latest/QuaernanV2.Lian.zip) | N/A | N/A | []()
+[QuaernanV2.Lian.zip](https://github.com/zuckung/test3/releases/download/Latest/QuaernanV2.Lian.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/QuaernanV2 Lian/)
 
 Author: Zoura3025 | [N/A](N/A)
 
@@ -4863,7 +4808,7 @@ Status: N/A
 
 ### Quarg Elder Dragon
 
-[Quarg.Elder.Dragon.zip](https://github.com/zuckung/test3/releases/download/Latest/Quarg.Elder.Dragon.zip) | N/A | N/A | []()
+[Quarg.Elder.Dragon.zip](https://github.com/zuckung/test3/releases/download/Latest/Quarg.Elder.Dragon.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Quarg Elder Dragon/)
 
 Author: mdsmestad | [N/A](N/A)
 
@@ -4878,7 +4823,7 @@ Status: N/A
 
 ### Quargarriffic
 
-[Quargarriffic.zip](https://github.com/zuckung/test3/releases/download/Latest/Quargarriffic.zip) | N/A | N/A | []()
+[Quargarriffic.zip](https://github.com/zuckung/test3/releases/download/Latest/Quargarriffic.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Quargarriffic/)
 
 Author: N/A | [N/A](N/A)
 
@@ -4893,7 +4838,7 @@ Status: N/A
 
 ### Raptor
 
-[Raptor.zip](https://github.com/zuckung/test3/releases/download/Latest/Raptor.zip) | N/A | N/A | []()
+[Raptor.zip](https://github.com/zuckung/test3/releases/download/Latest/Raptor.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Raptor/)
 
 Author: N/A | [N/A](N/A)
 
@@ -4908,7 +4853,7 @@ Status: N/A
 
 ### Ravens Aerie
 
-[Ravens.Aerie.zip](https://github.com/zuckung/test3/releases/download/Latest/Ravens.Aerie.zip) | N/A | N/A | []()
+[Ravens.Aerie.zip](https://github.com/zuckung/test3/releases/download/Latest/Ravens.Aerie.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Ravens Aerie/)
 
 Author: N/A | [N/A](N/A)
 
@@ -4923,7 +4868,7 @@ Status: N/A
 
 ### Recluse
 
-[Recluse.zip](https://github.com/zuckung/test3/releases/download/Latest/Recluse.zip) | N/A | N/A | []()
+[Recluse.zip](https://github.com/zuckung/test3/releases/download/Latest/Recluse.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Recluse/)
 
 Author: David Reynolds | [https://groups.google.com/forum/#!categories/endless-sky/content-creation](https://groups.google.com/forum/#!categories/endless-sky/content-creation)
 
@@ -4938,7 +4883,7 @@ Status: N/A
 
 ### Recovery Ships
 
-[Recovery.Ships.zip](https://github.com/zuckung/test3/releases/download/Latest/Recovery.Ships.zip) | N/A | N/A | []()
+[Recovery.Ships.zip](https://github.com/zuckung/test3/releases/download/Latest/Recovery.Ships.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Recovery Ships/)
 
 Author: 1010Todd | [N/A](N/A)
 
@@ -4953,7 +4898,7 @@ Status: Playable on 0.9.15 Continuous.
 
 ### Recovery Ships Safemode
 
-[Recovery.Ships.Safemode.zip](https://github.com/zuckung/test3/releases/download/Latest/Recovery.Ships.Safemode.zip) | N/A | N/A | []()
+[Recovery.Ships.Safemode.zip](https://github.com/zuckung/test3/releases/download/Latest/Recovery.Ships.Safemode.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Recovery Ships Safemode/)
 
 Author: 1010Todd | [N/A](N/A)
 
@@ -4968,7 +4913,7 @@ Status: Playable on 0.9.15 Continuous.
 
 ### Red s Star Trek Prime Ship Pack Plugin 0 4
 
-[Red.s.Star.Trek.Prime.Ship.Pack.Plugin.0.4.zip](https://github.com/zuckung/test3/releases/download/Latest/Red.s.Star.Trek.Prime.Ship.Pack.Plugin.0.4.zip) | N/A | N/A | []()
+[Red.s.Star.Trek.Prime.Ship.Pack.Plugin.0.4.zip](https://github.com/zuckung/test3/releases/download/Latest/Red.s.Star.Trek.Prime.Ship.Pack.Plugin.0.4.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Red s Star Trek Prime Ship Pack Plugin 0 4/)
 
 Author: William 'Swingfire' | [N/A](N/A)
 
@@ -4983,7 +4928,7 @@ Status: N/A
 
 ### Red s The Final Frontier 0 0 1a
 
-[Red.s.The.Final.Frontier.0.0.1a.zip](https://github.com/zuckung/test3/releases/download/Latest/Red.s.The.Final.Frontier.0.0.1a.zip) | N/A | N/A | []()
+[Red.s.The.Final.Frontier.0.0.1a.zip](https://github.com/zuckung/test3/releases/download/Latest/Red.s.The.Final.Frontier.0.0.1a.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Red s The Final Frontier 0 0 1a/)
 
 Author: N/A | [N/A](N/A)
 
@@ -4998,7 +4943,7 @@ Status: N/A
 
 ### Republic Battlecruiser
 
-[Republic.Battlecruiser.zip](https://github.com/zuckung/test3/releases/download/Latest/Republic.Battlecruiser.zip) | N/A | N/A | []()
+[Republic.Battlecruiser.zip](https://github.com/zuckung/test3/releases/download/Latest/Republic.Battlecruiser.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Republic Battlecruiser/)
 
 Author: N/A | [N/A](N/A)
 
@@ -5013,7 +4958,7 @@ Status: N/A
 
 ### Republic Destroyer
 
-[Republic.Destroyer.zip](https://github.com/zuckung/test3/releases/download/Latest/Republic.Destroyer.zip) | N/A | N/A | []()
+[Republic.Destroyer.zip](https://github.com/zuckung/test3/releases/download/Latest/Republic.Destroyer.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Republic Destroyer/)
 
 Author: N/A | [N/A](N/A)
 
@@ -5028,7 +4973,7 @@ Status: N/A
 
 ### Republic Juggernaut
 
-[Republic.Juggernaut.zip](https://github.com/zuckung/test3/releases/download/Latest/Republic.Juggernaut.zip) | N/A | N/A | []()
+[Republic.Juggernaut.zip](https://github.com/zuckung/test3/releases/download/Latest/Republic.Juggernaut.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Republic Juggernaut/)
 
 Author: 1010Todd | [N/A](N/A)
 
@@ -5043,7 +4988,7 @@ Status: N/A
 
 ### Riley s Plugin
 
-[Riley.s.Plugin.zip](https://github.com/zuckung/test3/releases/download/Latest/Riley.s.Plugin.zip) | N/A | N/A | []()
+[Riley.s.Plugin.zip](https://github.com/zuckung/test3/releases/download/Latest/Riley.s.Plugin.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Riley s Plugin/)
 
 Author: N/A | [N/A](N/A)
 
@@ -5058,7 +5003,7 @@ Status: N/A
 
 ### Scrapper Extras
 
-[Scrapper.Extras.zip](https://github.com/zuckung/test3/releases/download/Latest/Scrapper.Extras.zip) | N/A | N/A | []()
+[Scrapper.Extras.zip](https://github.com/zuckung/test3/releases/download/Latest/Scrapper.Extras.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Scrapper Extras/)
 
 Author: 1010todd | [N/A](N/A)
 
@@ -5073,7 +5018,7 @@ Status: N/A
 
 ### Shadow s Expansion
 
-[Shadow.s.Expansion.zip](https://github.com/zuckung/test3/releases/download/Latest/Shadow.s.Expansion.zip) | N/A | N/A | []()
+[Shadow.s.Expansion.zip](https://github.com/zuckung/test3/releases/download/Latest/Shadow.s.Expansion.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Shadow s Expansion/)
 
 Author: N/A | [N/A](N/A)
 
@@ -5088,7 +5033,7 @@ Status: N/A
 
 ### Ship Testing
 
-[Ship.Testing.zip](https://github.com/zuckung/test3/releases/download/Latest/Ship.Testing.zip) | N/A | N/A | []()
+[Ship.Testing.zip](https://github.com/zuckung/test3/releases/download/Latest/Ship.Testing.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Ship Testing/)
 
 Author: loiseeer | [https://github.com/loiseeer/Ship-testing](https://github.com/loiseeer/Ship-testing)
 
@@ -5103,7 +5048,7 @@ Status: N/A
 
 ### Squid Ship
 
-[Squid.Ship.zip](https://github.com/zuckung/test3/releases/download/Latest/Squid.Ship.zip) | N/A | N/A | []()
+[Squid.Ship.zip](https://github.com/zuckung/test3/releases/download/Latest/Squid.Ship.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Squid Ship/)
 
 Author: seanpuller | [N/A](N/A)
 
@@ -5118,7 +5063,7 @@ Status: Playable on 0.9.15 Continuous.
 
 ### Star Destroyer
 
-[Star.Destroyer.zip](https://github.com/zuckung/test3/releases/download/Latest/Star.Destroyer.zip) | N/A | N/A | []()
+[Star.Destroyer.zip](https://github.com/zuckung/test3/releases/download/Latest/Star.Destroyer.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Star Destroyer/)
 
 Author: N/A | [N/A](N/A)
 
@@ -5133,7 +5078,7 @@ Status: N/A
 
 ### Starbridge Pack
 
-[Starbridge.Pack.zip](https://github.com/zuckung/test3/releases/download/Latest/Starbridge.Pack.zip) | N/A | N/A | []()
+[Starbridge.Pack.zip](https://github.com/zuckung/test3/releases/download/Latest/Starbridge.Pack.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Starbridge Pack/)
 
 Author: autohummer | [https://github.com/Autohummer/Endless-Sky-Starbridge-Pack](https://github.com/Autohummer/Endless-Sky-Starbridge-Pack)
 
@@ -5148,7 +5093,7 @@ Status: Playable on 0.9.14, 0.9.15 Continuous.
 
 ### Starhopper
 
-[Starhopper.zip](https://github.com/zuckung/test3/releases/download/Latest/Starhopper.zip) | N/A | N/A | []()
+[Starhopper.zip](https://github.com/zuckung/test3/releases/download/Latest/Starhopper.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Starhopper/)
 
 Author: N/A | [N/A](N/A)
 
@@ -5163,7 +5108,7 @@ Status: N/A
 
 ### Subsidurial Petting Zoo
 
-[Subsidurial.Petting.Zoo.zip](https://github.com/zuckung/test3/releases/download/Latest/Subsidurial.Petting.Zoo.zip) | N/A | N/A | []()
+[Subsidurial.Petting.Zoo.zip](https://github.com/zuckung/test3/releases/download/Latest/Subsidurial.Petting.Zoo.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Subsidurial Petting Zoo/)
 
 Author: N/A | [N/A](N/A)
 
@@ -5178,7 +5123,7 @@ Status: N/A
 
 ### Super Carrier
 
-[Super.Carrier.zip](https://github.com/zuckung/test3/releases/download/Latest/Super.Carrier.zip) | N/A | N/A | []()
+[Super.Carrier.zip](https://github.com/zuckung/test3/releases/download/Latest/Super.Carrier.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Super Carrier/)
 
 Author: N/A | [N/A](N/A)
 
@@ -5193,7 +5138,7 @@ Status: N/A
 
 ### Super Kestrel
 
-[Super.Kestrel.zip](https://github.com/zuckung/test3/releases/download/Latest/Super.Kestrel.zip) | N/A | N/A | []()
+[Super.Kestrel.zip](https://github.com/zuckung/test3/releases/download/Latest/Super.Kestrel.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Super Kestrel/)
 
 Author: mdsmestad | [N/A](N/A)
 
@@ -5208,7 +5153,7 @@ Status: N/A
 
 ### Super Ships
 
-[Super.Ships.zip](https://github.com/zuckung/test3/releases/download/Latest/Super.Ships.zip) | N/A | N/A | []()
+[Super.Ships.zip](https://github.com/zuckung/test3/releases/download/Latest/Super.Ships.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Super Ships/)
 
 Author: taldarus | [https://www.moddb.com/mods/super-ships](https://www.moddb.com/mods/super-ships)
 
@@ -5223,7 +5168,7 @@ Status: N/A
 
 ### Swarm Ship
 
-[Swarm.Ship.zip](https://github.com/zuckung/test3/releases/download/Latest/Swarm.Ship.zip) | N/A | N/A | []()
+[Swarm.Ship.zip](https://github.com/zuckung/test3/releases/download/Latest/Swarm.Ship.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Swarm Ship/)
 
 Author: mdsmestad | [N/A](N/A)
 
@@ -5238,7 +5183,7 @@ Status: N/A
 
 ### Syndicate Capital Ships
 
-[Syndicate.Capital.Ships.zip](https://github.com/zuckung/test3/releases/download/Latest/Syndicate.Capital.Ships.zip) | N/A | N/A | []()
+[Syndicate.Capital.Ships.zip](https://github.com/zuckung/test3/releases/download/Latest/Syndicate.Capital.Ships.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Syndicate Capital Ships/)
 
 Author: Ejothims | [https://github.com/EjoThims/Syndicate-Capital-Ships](https://github.com/EjoThims/Syndicate-Capital-Ships)
 
@@ -5253,7 +5198,7 @@ Status: Playable on 0.9.15 Continuous.
 
 ### Tachyon
 
-[Tachyon.zip](https://github.com/zuckung/test3/releases/download/Latest/Tachyon.zip) | N/A | N/A | []()
+[Tachyon.zip](https://github.com/zuckung/test3/releases/download/Latest/Tachyon.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Tachyon/)
 
 Author: mdsmestad | [N/A](N/A)
 
@@ -5268,7 +5213,7 @@ Status: N/A
 
 ### The Borg Captain
 
-[The.Borg.Captain.zip](https://github.com/zuckung/test3/releases/download/Latest/The.Borg.Captain.zip) | N/A | N/A | []()
+[The.Borg.Captain.zip](https://github.com/zuckung/test3/releases/download/Latest/The.Borg.Captain.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/The Borg Captain/)
 
 Author: The Borg Captain | [https://github.com/The-Borg-Captain/TheBorgCaptain-s-Shipyard](https://github.com/The-Borg-Captain/TheBorgCaptain-s-Shipyard)
 
@@ -5283,7 +5228,7 @@ Status: N/A
 
 ### The Heroes
 
-[The.Heroes.zip](https://github.com/zuckung/test3/releases/download/Latest/The.Heroes.zip) | N/A | N/A | []()
+[The.Heroes.zip](https://github.com/zuckung/test3/releases/download/Latest/The.Heroes.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/The Heroes/)
 
 Author: mdsmestad | [https://github.com/Hondolor/The-Heroes-ES-Pluggin](https://github.com/Hondolor/The-Heroes-ES-Pluggin)
 
@@ -5298,7 +5243,7 @@ Status: Playable on 0.9.14, 0.9.15 Continuous.
 
 ### The Ships of the Internet
 
-[The.Ships.of.the.Internet.zip](https://github.com/zuckung/test3/releases/download/Latest/The.Ships.of.the.Internet.zip) | N/A | N/A | []()
+[The.Ships.of.the.Internet.zip](https://github.com/zuckung/test3/releases/download/Latest/The.Ships.of.the.Internet.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/The Ships of the Internet/)
 
 Author: N/A | [N/A](N/A)
 
@@ -5313,7 +5258,7 @@ Status: N/A
 
 ### Tiny Ships
 
-[Tiny.Ships.zip](https://github.com/zuckung/test3/releases/download/Latest/Tiny.Ships.zip) | N/A | N/A | []()
+[Tiny.Ships.zip](https://github.com/zuckung/test3/releases/download/Latest/Tiny.Ships.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Tiny Ships/)
 
 Author: N/A | [N/A](N/A)
 
@@ -5328,7 +5273,7 @@ Status: N/A
 
 ### Tremor Gunship
 
-[Tremor.Gunship.zip](https://github.com/zuckung/test3/releases/download/Latest/Tremor.Gunship.zip) | N/A | N/A | []()
+[Tremor.Gunship.zip](https://github.com/zuckung/test3/releases/download/Latest/Tremor.Gunship.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Tremor Gunship/)
 
 Author: N/A | [N/A](N/A)
 
@@ -5343,7 +5288,7 @@ Status: N/A
 
 ### Tufton Plugin
 
-[Tufton.Plugin.zip](https://github.com/zuckung/test3/releases/download/Latest/Tufton.Plugin.zip) | N/A | N/A | []()
+[Tufton.Plugin.zip](https://github.com/zuckung/test3/releases/download/Latest/Tufton.Plugin.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Tufton Plugin/)
 
 Author: N/A | [N/A](N/A)
 
@@ -5358,7 +5303,7 @@ Status: N/A
 
 ### Tuftons Stuffs
 
-[Tuftons.Stuffs.zip](https://github.com/zuckung/test3/releases/download/Latest/Tuftons.Stuffs.zip) | N/A | N/A | []()
+[Tuftons.Stuffs.zip](https://github.com/zuckung/test3/releases/download/Latest/Tuftons.Stuffs.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Tuftons Stuffs/)
 
 Author: N/A | [N/A](N/A)
 
@@ -5373,7 +5318,7 @@ Status: N/A
 
 ### Twinargosy
 
-[Twinargosy.zip](https://github.com/zuckung/test3/releases/download/Latest/Twinargosy.zip) | N/A | N/A | []()
+[Twinargosy.zip](https://github.com/zuckung/test3/releases/download/Latest/Twinargosy.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Twinargosy/)
 
 Author: Zoura | [N/A](N/A)
 
@@ -5388,7 +5333,7 @@ Status: playable on 0.9.15 Continuous.
 
 ### Ultra Protector
 
-[Ultra.Protector.zip](https://github.com/zuckung/test3/releases/download/Latest/Ultra.Protector.zip) | N/A | N/A | []()
+[Ultra.Protector.zip](https://github.com/zuckung/test3/releases/download/Latest/Ultra.Protector.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Ultra Protector/)
 
 Author: N/A | [N/A](N/A)
 
@@ -5403,7 +5348,7 @@ Status: N/A
 
 ### War of Worlds
 
-[War.of.Worlds.zip](https://github.com/zuckung/test3/releases/download/Latest/War.of.Worlds.zip) | N/A | N/A | []()
+[War.of.Worlds.zip](https://github.com/zuckung/test3/releases/download/Latest/War.of.Worlds.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/War of Worlds/)
 
 Author: fjc130 | [https://www.moddb.com/mods/war-of-worlds-v01](https://www.moddb.com/mods/war-of-worlds-v01)
 
@@ -5418,7 +5363,7 @@ Status: N/A
 
 ### Winners Arrow
 
-[Winners.Arrow.zip](https://github.com/zuckung/test3/releases/download/Latest/Winners.Arrow.zip) | N/A | N/A | []()
+[Winners.Arrow.zip](https://github.com/zuckung/test3/releases/download/Latest/Winners.Arrow.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Winners Arrow/)
 
 Author: N/A | [N/A](N/A)
 
@@ -5433,7 +5378,7 @@ Status: N/A
 
 ### X-70B Phantom
 
-[X-70B.Phantom.zip](https://github.com/zuckung/test3/releases/download/Latest/X-70B.Phantom.zip) | N/A | N/A | []()
+[X-70B.Phantom.zip](https://github.com/zuckung/test3/releases/download/Latest/X-70B.Phantom.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/X-70B Phantom/)
 
 Author: Armalarde7895 | [https://github.com/Armalarde7895/X-70B-Phantom](https://github.com/Armalarde7895/X-70B-Phantom)
 
@@ -5443,36 +5388,29 @@ Category: Ships
 
 Status: N/A
 
-</div>
 
-<p><a href="README.md#Introduction">back up <p>
+</details>
 
-<script>
-function ShipsFunction() {
-  var x = document.getElementById("ShipsDIV");
-  if (x.style.display === "block") {
-    x.style.display = "none";
-  } else {
-    x.style.display = "block";
-  }
-}
-</script>
 
+[back up](#Plugin-Info-and-Download)
+
+
+
+---
 
 ## Story
 
 <p>60 plugins in this category.<p>
 
-<button onclick="StoryFunction()">hide/unhide</button>
+<details>
 
-<div hidden id="StoryDIV">
-
+ 
 
 ---
 
 ### Advanced Starts
 
-[Advanced.Starts.zip](https://github.com/zuckung/test3/releases/download/Latest/Advanced.Starts.zip) | N/A | N/A | []()
+[Advanced.Starts.zip](https://github.com/zuckung/test3/releases/download/Latest/Advanced.Starts.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Advanced Starts/)
 
 Author: Bereskatuket (Kestrel1110) | [https://github.com/kestrel1110/ES-Advanced-Starts](https://github.com/kestrel1110/ES-Advanced-Starts)
 
@@ -5487,7 +5425,7 @@ Status: N/A
 
 ### Alexandria
 
-[Alexandria.zip](https://github.com/zuckung/test3/releases/download/Latest/Alexandria.zip) | N/A | N/A | []()
+[Alexandria.zip](https://github.com/zuckung/test3/releases/download/Latest/Alexandria.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Alexandria/)
 
 Author: N/A | [N/A](N/A)
 
@@ -5502,7 +5440,7 @@ Status: N/A
 
 ### Alternate Start Luna
 
-[Alternate.Start.Luna.zip](https://github.com/zuckung/test3/releases/download/Latest/Alternate.Start.Luna.zip) | N/A | N/A | []()
+[Alternate.Start.Luna.zip](https://github.com/zuckung/test3/releases/download/Latest/Alternate.Start.Luna.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Alternate Start Luna/)
 
 Author: N/A | [N/A](N/A)
 
@@ -5517,7 +5455,7 @@ Status: N/A
 
 ### Arrr Mateys
 
-[Arrr.Mateys.zip](https://github.com/zuckung/test3/releases/download/Latest/Arrr.Mateys.zip) | N/A | N/A | []()
+[Arrr.Mateys.zip](https://github.com/zuckung/test3/releases/download/Latest/Arrr.Mateys.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Arrr Mateys/)
 
 Author: Ryan S. Northrup | [https://bitbucket.org/YellowApple/arrr-mateys/src/master/](https://bitbucket.org/YellowApple/arrr-mateys/src/master/)
 
@@ -5532,7 +5470,7 @@ Status: N/A
 
 ### Bactrian Mission
 
-[Bactrian.Mission.zip](https://github.com/zuckung/test3/releases/download/Latest/Bactrian.Mission.zip) | N/A | N/A | []()
+[Bactrian.Mission.zip](https://github.com/zuckung/test3/releases/download/Latest/Bactrian.Mission.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Bactrian Mission/)
 
 Author: N/A | [N/A](N/A)
 
@@ -5547,7 +5485,7 @@ Status: N/A
 
 ### Boarding Missions
 
-[Boarding.Missions.zip](https://github.com/zuckung/test3/releases/download/Latest/Boarding.Missions.zip) | N/A | N/A | []()
+[Boarding.Missions.zip](https://github.com/zuckung/test3/releases/download/Latest/Boarding.Missions.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Boarding Missions/)
 
 Author: Timothy Butterworth | [https://github.com/tmbutterworth/boarding-missions](https://github.com/tmbutterworth/boarding-missions)
 
@@ -5562,7 +5500,7 @@ Status: N/A
 
 ### Captain Last and the Timeship
 
-[Captain.Last.and.the.Timeship.zip](https://github.com/zuckung/test3/releases/download/Latest/Captain.Last.and.the.Timeship.zip) | N/A | N/A | []()
+[Captain.Last.and.the.Timeship.zip](https://github.com/zuckung/test3/releases/download/Latest/Captain.Last.and.the.Timeship.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Captain Last and the Timeship/)
 
 Author: N/A | [N/A](N/A)
 
@@ -5577,7 +5515,7 @@ Status: N/A
 
 ### Coalition-At-War
 
-[Coalition-At-War.zip](https://github.com/zuckung/test3/releases/download/Latest/Coalition-At-War.zip) | N/A | N/A | []()
+[Coalition-At-War.zip](https://github.com/zuckung/test3/releases/download/Latest/Coalition-At-War.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Coalition-At-War/)
 
 Author: Josh Mudge | [https://github.com/mathwhiz1212/A-Coalition-At-War](https://github.com/mathwhiz1212/A-Coalition-At-War)
 
@@ -5592,7 +5530,7 @@ Status: N/A
 
 ### Cognitive Subdivision
 
-[Cognitive.Subdivision.zip](https://github.com/zuckung/test3/releases/download/Latest/Cognitive.Subdivision.zip) | N/A | N/A | []()
+[Cognitive.Subdivision.zip](https://github.com/zuckung/test3/releases/download/Latest/Cognitive.Subdivision.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Cognitive Subdivision/)
 
 Author: professorlust | [https://github.com/Variance-Moment/cognitive-subdivision](https://github.com/Variance-Moment/cognitive-subdivision)
 
@@ -5607,7 +5545,7 @@ Status: N/A
 
 ### Colorado
 
-[Colorado.zip](https://github.com/zuckung/test3/releases/download/Latest/Colorado.zip) | N/A | N/A | []()
+[Colorado.zip](https://github.com/zuckung/test3/releases/download/Latest/Colorado.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Colorado/)
 
 Author: Clint Moyer | [https://github.com/clintmoyer/endless-sky-plugins](https://github.com/clintmoyer/endless-sky-plugins)
 
@@ -5622,7 +5560,7 @@ Status: N/A
 
 ### Dangerous Games
 
-[Dangerous.Games.zip](https://github.com/zuckung/test3/releases/download/Latest/Dangerous.Games.zip) | N/A | N/A | []()
+[Dangerous.Games.zip](https://github.com/zuckung/test3/releases/download/Latest/Dangerous.Games.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Dangerous Games/)
 
 Author: davidwhitman | [https://github.com/davidwhitman/endless-sky-dangerous-games](https://github.com/davidwhitman/endless-sky-dangerous-games)
 
@@ -5637,7 +5575,7 @@ Status: Allready ingame
 
 ### Endless Romances
 
-[Endless.Romances.zip](https://github.com/zuckung/test3/releases/download/Latest/Endless.Romances.zip) | N/A | N/A | []()
+[Endless.Romances.zip](https://github.com/zuckung/test3/releases/download/Latest/Endless.Romances.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Endless Romances/)
 
 Author: N/A | [N/A](N/A)
 
@@ -5652,7 +5590,7 @@ Status: N/A
 
 ### Enki-Station
 
-[Enki-Station.zip](https://github.com/zuckung/test3/releases/download/Latest/Enki-Station.zip) | N/A | N/A | []()
+[Enki-Station.zip](https://github.com/zuckung/test3/releases/download/Latest/Enki-Station.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Enki-Station/)
 
 Author: Nergal8617 | [https://github.com/Nergal8617/Enki-Station](https://github.com/Nergal8617/Enki-Station)
 
@@ -5667,7 +5605,7 @@ Status: N/A
 
 ### Epic Trucker
 
-[Epic.Trucker.zip](https://github.com/zuckung/test3/releases/download/Latest/Epic.Trucker.zip) | N/A | N/A | []()
+[Epic.Trucker.zip](https://github.com/zuckung/test3/releases/download/Latest/Epic.Trucker.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Epic Trucker/)
 
 Author: KelvallRogers | [https://github.com/kelvallrogers/epic-trucker](https://github.com/kelvallrogers/epic-trucker)
 
@@ -5682,7 +5620,7 @@ Status: Playable on 0.9.14, 0.9.15 Continuous.
 
 ### ES Dawn
 
-[ES.Dawn.zip](https://github.com/zuckung/test3/releases/download/Latest/ES.Dawn.zip) | N/A | N/A | []()
+[ES.Dawn.zip](https://github.com/zuckung/test3/releases/download/Latest/ES.Dawn.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/ES Dawn/)
 
 Author: mOctave | [https://github.com/mOctave/es-dawn/](https://github.com/mOctave/es-dawn/)
 
@@ -5697,7 +5635,7 @@ Status: N/A
 
 ### Flavour Text
 
-[Flavour.Text.zip](https://github.com/zuckung/test3/releases/download/Latest/Flavour.Text.zip) | N/A | N/A | []()
+[Flavour.Text.zip](https://github.com/zuckung/test3/releases/download/Latest/Flavour.Text.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Flavour Text/)
 
 Author: N/A | [N/A](N/A)
 
@@ -5712,7 +5650,7 @@ Status: N/A
 
 ### Free Kitten
 
-[Free.Kitten.zip](https://github.com/zuckung/test3/releases/download/Latest/Free.Kitten.zip) | N/A | N/A | []()
+[Free.Kitten.zip](https://github.com/zuckung/test3/releases/download/Latest/Free.Kitten.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Free Kitten/)
 
 Author: Epchk | [https://github.com/Epchk/ES-free-kitten](https://github.com/Epchk/ES-free-kitten)
 
@@ -5727,7 +5665,7 @@ Status: N/A
 
 ### Free Worlds Saga
 
-[Free.Worlds.Saga.zip](https://github.com/zuckung/test3/releases/download/Latest/Free.Worlds.Saga.zip) | N/A | N/A | []()
+[Free.Worlds.Saga.zip](https://github.com/zuckung/test3/releases/download/Latest/Free.Worlds.Saga.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Free Worlds Saga/)
 
 Author: Ian | [N/A](N/A)
 
@@ -5742,7 +5680,7 @@ Status: N/A
 
 ### Galactic Conquest
 
-[Galactic.Conquest.zip](https://github.com/zuckung/test3/releases/download/Latest/Galactic.Conquest.zip) | N/A | N/A | []()
+[Galactic.Conquest.zip](https://github.com/zuckung/test3/releases/download/Latest/Galactic.Conquest.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Galactic Conquest/)
 
 Author: SpiralCat | [https://www.moddb.com/mods/galactic-conquest](https://www.moddb.com/mods/galactic-conquest)
 
@@ -5757,7 +5695,7 @@ Status: Abandoned. An updated version appears to have been made by 1010Todd. AES
 
 ### Galactic Couriers
 
-[Galactic.Couriers.zip](https://github.com/zuckung/test3/releases/download/Latest/Galactic.Couriers.zip) | N/A | N/A | []()
+[Galactic.Couriers.zip](https://github.com/zuckung/test3/releases/download/Latest/Galactic.Couriers.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Galactic Couriers/)
 
 Author: Derekcz | [https://github.com/Derekcz/galactic-couriers](https://github.com/Derekcz/galactic-couriers)
 
@@ -5772,7 +5710,7 @@ Status: N/A
 
 ### Inheritance
 
-[Inheritance.zip](https://github.com/zuckung/test3/releases/download/Latest/Inheritance.zip) | N/A | N/A | []()
+[Inheritance.zip](https://github.com/zuckung/test3/releases/download/Latest/Inheritance.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Inheritance/)
 
 Author: N/A | [N/A](N/A)
 
@@ -5787,7 +5725,7 @@ Status: N/A
 
 ### Join the Navy
 
-[Join.the.Navy.zip](https://github.com/zuckung/test3/releases/download/Latest/Join.the.Navy.zip) | N/A | N/A | []()
+[Join.the.Navy.zip](https://github.com/zuckung/test3/releases/download/Latest/Join.the.Navy.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Join the Navy/)
 
 Author: N/A | [N/A](N/A)
 
@@ -5802,7 +5740,7 @@ Status: N/A
 
 ### Jojo s Galactic Adventure
 
-[Jojo.s.Galactic.Adventure.zip](https://github.com/zuckung/test3/releases/download/Latest/Jojo.s.Galactic.Adventure.zip) | N/A | N/A | []()
+[Jojo.s.Galactic.Adventure.zip](https://github.com/zuckung/test3/releases/download/Latest/Jojo.s.Galactic.Adventure.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Jojo s Galactic Adventure/)
 
 Author: N/A | [N/A](N/A)
 
@@ -5817,7 +5755,7 @@ Status: N/A
 
 ### Korath Remnant War
 
-[Korath.Remnant.War.zip](https://github.com/zuckung/test3/releases/download/Latest/Korath.Remnant.War.zip) | N/A | N/A | []()
+[Korath.Remnant.War.zip](https://github.com/zuckung/test3/releases/download/Latest/Korath.Remnant.War.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Korath Remnant War/)
 
 Author: Rafael Ramawadh | [https://github.com/Disiuze/tributeplus](https://github.com/Disiuze/tributeplus)
 
@@ -5832,7 +5770,7 @@ Status: N/A
 
 ### Lemurias Extra ES Stuff
 
-[Lemurias.Extra.ES.Stuff.zip](https://github.com/zuckung/test3/releases/download/Latest/Lemurias.Extra.ES.Stuff.zip) | N/A | N/A | []()
+[Lemurias.Extra.ES.Stuff.zip](https://github.com/zuckung/test3/releases/download/Latest/Lemurias.Extra.ES.Stuff.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Lemurias Extra ES Stuff/)
 
 Author: a-random-lemurian | [https://github.com/a-random-lemurian/Lemurias-Extra-ES-Stuff](https://github.com/a-random-lemurian/Lemurias-Extra-ES-Stuff)
 
@@ -5847,7 +5785,7 @@ Status: N/A
 
 ### Little Addon
 
-[Little.Addon.zip](https://github.com/zuckung/test3/releases/download/Latest/Little.Addon.zip) | N/A | N/A | []()
+[Little.Addon.zip](https://github.com/zuckung/test3/releases/download/Latest/Little.Addon.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Little Addon/)
 
 Author: HorusX5 | [http://steamcommunity.com/id/HorusX5](http://steamcommunity.com/id/HorusX5)
 
@@ -5862,7 +5800,7 @@ Status: Playable on 0.9.14, 0.9.15 Continuous.
 
 ### Lost in Midnight-0 9 16 5 4
 
-[Lost.in.Midnight-0.9.16.5.4.zip](https://github.com/zuckung/test3/releases/download/Latest/Lost.in.Midnight-0.9.16.5.4.zip) | N/A | N/A | []()
+[Lost.in.Midnight-0.9.16.5.4.zip](https://github.com/zuckung/test3/releases/download/Latest/Lost.in.Midnight-0.9.16.5.4.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Lost in Midnight-0 9 16 5 4/)
 
 Author: MidnightPlugins | [https://github.com/MidnightPlugins/Lost-in-Midnight/releases](https://github.com/MidnightPlugins/Lost-in-Midnight/releases)
 
@@ -5877,7 +5815,7 @@ Status: In development, Playable on 0.9.14, 0.9.15 Continuous.
 
 ### Mad Quest
 
-[Mad.Quest.zip](https://github.com/zuckung/test3/releases/download/Latest/Mad.Quest.zip) | N/A | N/A | []()
+[Mad.Quest.zip](https://github.com/zuckung/test3/releases/download/Latest/Mad.Quest.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Mad Quest/)
 
 Author: czartrak | [https://github.com/czartrak/Mad-Quest](https://github.com/czartrak/Mad-Quest)
 
@@ -5892,7 +5830,7 @@ Status: N/A
 
 ### Midnight Expansion
 
-[Midnight.Expansion.zip](https://github.com/zuckung/test3/releases/download/Latest/Midnight.Expansion.zip) | N/A | N/A | []()
+[Midnight.Expansion.zip](https://github.com/zuckung/test3/releases/download/Latest/Midnight.Expansion.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Midnight Expansion/)
 
 Author: Michael Arsollon | [N/A](N/A)
 
@@ -5907,7 +5845,7 @@ Status: N/A
 
 ### Midnight Scrapyard-0 9 16 3 2
 
-[Midnight.Scrapyard-0.9.16.3.2.zip](https://github.com/zuckung/test3/releases/download/Latest/Midnight.Scrapyard-0.9.16.3.2.zip) | N/A | N/A | []()
+[Midnight.Scrapyard-0.9.16.3.2.zip](https://github.com/zuckung/test3/releases/download/Latest/Midnight.Scrapyard-0.9.16.3.2.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Midnight Scrapyard-0 9 16 3 2/)
 
 Author: MidnightPlugins | [https://github.com/MidnightPlugins/Midnight-Scrapyard/releases](https://github.com/MidnightPlugins/Midnight-Scrapyard/releases)
 
@@ -5922,7 +5860,7 @@ Status: In development, Playable on 0.9.14, 0.9.15 Continuous.
 
 ### Moar Jobs
 
-[Moar.Jobs.zip](https://github.com/zuckung/test3/releases/download/Latest/Moar.Jobs.zip) | N/A | N/A | []()
+[Moar.Jobs.zip](https://github.com/zuckung/test3/releases/download/Latest/Moar.Jobs.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Moar Jobs/)
 
 Author: appdevland | [https://github.com/appdevland/moarjobs-es-plugin](https://github.com/appdevland/moarjobs-es-plugin)
 
@@ -5937,7 +5875,7 @@ Status: N/A
 
 ### More Missions
 
-[More.Missions.zip](https://github.com/zuckung/test3/releases/download/Latest/More.Missions.zip) | N/A | N/A | []()
+[More.Missions.zip](https://github.com/zuckung/test3/releases/download/Latest/More.Missions.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/More Missions/)
 
 Author: N/A | [N/A](N/A)
 
@@ -5952,7 +5890,7 @@ Status: N/A
 
 ### Nanachi Missions
 
-[Nanachi.Missions.zip](https://github.com/zuckung/test3/releases/download/Latest/Nanachi.Missions.zip) | N/A | N/A | []()
+[Nanachi.Missions.zip](https://github.com/zuckung/test3/releases/download/Latest/Nanachi.Missions.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Nanachi Missions/)
 
 Author: N/A | [N/A](N/A)
 
@@ -5967,7 +5905,7 @@ Status: N/A
 
 ### Navy Campaign
 
-[Navy.Campaign.zip](https://github.com/zuckung/test3/releases/download/Latest/Navy.Campaign.zip) | N/A | N/A | []()
+[Navy.Campaign.zip](https://github.com/zuckung/test3/releases/download/Latest/Navy.Campaign.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Navy Campaign/)
 
 Author: N/A | [N/A](N/A)
 
@@ -5982,7 +5920,7 @@ Status: N/A
 
 ### Navy Conscript
 
-[Navy.Conscript.zip](https://github.com/zuckung/test3/releases/download/Latest/Navy.Conscript.zip) | N/A | N/A | []()
+[Navy.Conscript.zip](https://github.com/zuckung/test3/releases/download/Latest/Navy.Conscript.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Navy Conscript/)
 
 Author: Timothy Butterworth | [https://github.com/tmbutterworth/navy-conscript](https://github.com/tmbutterworth/navy-conscript)
 
@@ -5997,7 +5935,7 @@ Status: N/A
 
 ### News Plugin
 
-[News.Plugin.zip](https://github.com/zuckung/test3/releases/download/Latest/News.Plugin.zip) | N/A | N/A | []()
+[News.Plugin.zip](https://github.com/zuckung/test3/releases/download/Latest/News.Plugin.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/News Plugin/)
 
 Author: Lars Rune "SeaLiteral" Præstmark | [https://github.com/SeaLiteral/endless-sky-news-plugin](https://github.com/SeaLiteral/endless-sky-news-plugin)
 
@@ -6012,7 +5950,7 @@ Status: Playable on 0.9.14, 0.9.15.
 
 ### Outfits Expansion
 
-[Outfits.Expansion.zip](https://github.com/zuckung/test3/releases/download/Latest/Outfits.Expansion.zip) | N/A | N/A | []()
+[Outfits.Expansion.zip](https://github.com/zuckung/test3/releases/download/Latest/Outfits.Expansion.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Outfits Expansion/)
 
 Author: N/A | [N/A](N/A)
 
@@ -6027,7 +5965,7 @@ Status: N/A
 
 ### Paradigm Shift
 
-[Paradigm.Shift.zip](https://github.com/zuckung/test3/releases/download/Latest/Paradigm.Shift.zip) | N/A | N/A | []()
+[Paradigm.Shift.zip](https://github.com/zuckung/test3/releases/download/Latest/Paradigm.Shift.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Paradigm Shift/)
 
 Author: N/A | [N/A](N/A)
 
@@ -6042,7 +5980,7 @@ Status: N/A
 
 ### Paradise World Jobs
 
-[Paradise.World.Jobs.zip](https://github.com/zuckung/test3/releases/download/Latest/Paradise.World.Jobs.zip) | N/A | N/A | []()
+[Paradise.World.Jobs.zip](https://github.com/zuckung/test3/releases/download/Latest/Paradise.World.Jobs.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Paradise World Jobs/)
 
 Author: Timothy Butterworth | [https://github.com/tmbutterworth/paradise-world-jobs](https://github.com/tmbutterworth/paradise-world-jobs)
 
@@ -6057,7 +5995,7 @@ Status: N/A
 
 ### Pathmakers Way
 
-[Pathmakers.Way.zip](https://github.com/zuckung/test3/releases/download/Latest/Pathmakers.Way.zip) | N/A | N/A | []()
+[Pathmakers.Way.zip](https://github.com/zuckung/test3/releases/download/Latest/Pathmakers.Way.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Pathmakers Way/)
 
 Author: Zachary Chupinsky | [N/A](N/A)
 
@@ -6072,7 +6010,7 @@ Status: N/A
 
 ### Portraits for News
 
-[Portraits.for.News.zip](https://github.com/zuckung/test3/releases/download/Latest/Portraits.for.News.zip) | N/A | N/A | []()
+[Portraits.for.News.zip](https://github.com/zuckung/test3/releases/download/Latest/Portraits.for.News.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Portraits for News/)
 
 Author: Anarchist2 | [https://github.com/Anarchist2/ES-news-portraits](https://github.com/Anarchist2/ES-news-portraits)
 
@@ -6087,7 +6025,7 @@ Status: made for 0.9.13
 
 ### Quarg Military Retalition
 
-[Quarg.Military.Retalition.zip](https://github.com/zuckung/test3/releases/download/Latest/Quarg.Military.Retalition.zip) | N/A | N/A | []()
+[Quarg.Military.Retalition.zip](https://github.com/zuckung/test3/releases/download/Latest/Quarg.Military.Retalition.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Quarg Military Retalition/)
 
 Author: Issacssv | [N/A](N/A)
 
@@ -6102,7 +6040,7 @@ Status: Playable on 0.9.14, 0.9.15 Continuous.
 
 ### Red Cross
 
-[Red.Cross.zip](https://github.com/zuckung/test3/releases/download/Latest/Red.Cross.zip) | N/A | N/A | []()
+[Red.Cross.zip](https://github.com/zuckung/test3/releases/download/Latest/Red.Cross.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Red Cross/)
 
 Author: SirRailOfGun | [https://github.com/SirRailOfGun/ES-Red-Cross](https://github.com/SirRailOfGun/ES-Red-Cross)
 
@@ -6117,7 +6055,7 @@ Status: N/A
 
 ### sheragi-rebirth-0 9 16 1 1
 
-[sheragi-rebirth-0.9.16.1.1.zip](https://github.com/zuckung/test3/releases/download/Latest/sheragi-rebirth-0.9.16.1.1.zip) | N/A | N/A | []()
+[sheragi-rebirth-0.9.16.1.1.zip](https://github.com/zuckung/test3/releases/download/Latest/sheragi-rebirth-0.9.16.1.1.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/sheragi-rebirth-0 9 16 1 1/)
 
 Author: N/A | [N/A](N/A)
 
@@ -6132,7 +6070,7 @@ Status: N/A
 
 ### Smugglers Corporations and Other Thieves
 
-[Smugglers.Corporations.and.Other.Thieves.zip](https://github.com/zuckung/test3/releases/download/Latest/Smugglers.Corporations.and.Other.Thieves.zip) | N/A | N/A | []()
+[Smugglers.Corporations.and.Other.Thieves.zip](https://github.com/zuckung/test3/releases/download/Latest/Smugglers.Corporations.and.Other.Thieves.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Smugglers Corporations and Other Thieves/)
 
 Author: pootthedestroyer | [N/A](N/A)
 
@@ -6147,7 +6085,7 @@ Status: Playable on 0.9.14, 0.9.15 Continuous.
 
 ### SpaceCrate-0 4
 
-[SpaceCrate-0.4.zip](https://github.com/zuckung/test3/releases/download/Latest/SpaceCrate-0.4.zip) | N/A | N/A | []()
+[SpaceCrate-0.4.zip](https://github.com/zuckung/test3/releases/download/Latest/SpaceCrate-0.4.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/SpaceCrate-0 4/)
 
 Author: Arnan de Gans | [www.arnan.me](www.arnan.me)
 
@@ -6162,7 +6100,7 @@ Status: Tested on: ES 0.9.16.1 (macOS)
 
 ### Superquest
 
-[Superquest.zip](https://github.com/zuckung/test3/releases/download/Latest/Superquest.zip) | N/A | N/A | []()
+[Superquest.zip](https://github.com/zuckung/test3/releases/download/Latest/Superquest.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Superquest/)
 
 Author: N/A | [N/A](N/A)
 
@@ -6177,7 +6115,7 @@ Status: N/A
 
 ### Syndicate
 
-[Syndicate.zip](https://github.com/zuckung/test3/releases/download/Latest/Syndicate.zip) | N/A | N/A | []()
+[Syndicate.zip](https://github.com/zuckung/test3/releases/download/Latest/Syndicate.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Syndicate/)
 
 Author: N/A | [N/A](N/A)
 
@@ -6192,7 +6130,7 @@ Status: N/A
 
 ### Syndicate Consultancy
 
-[Syndicate.Consultancy.zip](https://github.com/zuckung/test3/releases/download/Latest/Syndicate.Consultancy.zip) | N/A | N/A | []()
+[Syndicate.Consultancy.zip](https://github.com/zuckung/test3/releases/download/Latest/Syndicate.Consultancy.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Syndicate Consultancy/)
 
 Author: Elyssaen | [https://github.com/Elyssaen/syndicate-consultancy](https://github.com/Elyssaen/syndicate-consultancy)
 
@@ -6207,7 +6145,7 @@ Status: N/A
 
 ### Syndicate Story
 
-[Syndicate.Story.zip](https://github.com/zuckung/test3/releases/download/Latest/Syndicate.Story.zip) | N/A | N/A | []()
+[Syndicate.Story.zip](https://github.com/zuckung/test3/releases/download/Latest/Syndicate.Story.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Syndicate Story/)
 
 Author: N/A | [N/A](N/A)
 
@@ -6222,7 +6160,7 @@ Status: N/A
 
 ### test convo
 
-[test.convo.zip](https://github.com/zuckung/test3/releases/download/Latest/test.convo.zip) | N/A | N/A | []()
+[test.convo.zip](https://github.com/zuckung/test3/releases/download/Latest/test.convo.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/test convo/)
 
 Author: N/A | [N/A](N/A)
 
@@ -6237,7 +6175,7 @@ Status: N/A
 
 ### That Someone
 
-[That.Someone.zip](https://github.com/zuckung/test3/releases/download/Latest/That.Someone.zip) | N/A | N/A | []()
+[That.Someone.zip](https://github.com/zuckung/test3/releases/download/Latest/That.Someone.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/That Someone/)
 
 Author: N/A | [N/A](N/A)
 
@@ -6252,7 +6190,7 @@ Status: N/A
 
 ### The Legacy
 
-[The.Legacy.zip](https://github.com/zuckung/test3/releases/download/Latest/The.Legacy.zip) | N/A | N/A | []()
+[The.Legacy.zip](https://github.com/zuckung/test3/releases/download/Latest/The.Legacy.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/The Legacy/)
 
 Author: pega3 | [https://github.com/pega3/endless-sky-the-legacy-plugin](https://github.com/pega3/endless-sky-the-legacy-plugin)
 
@@ -6267,7 +6205,7 @@ Status: N/A
 
 ### The Mysterious Baby
 
-[The.Mysterious.Baby.zip](https://github.com/zuckung/test3/releases/download/Latest/The.Mysterious.Baby.zip) | N/A | N/A | []()
+[The.Mysterious.Baby.zip](https://github.com/zuckung/test3/releases/download/Latest/The.Mysterious.Baby.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/The Mysterious Baby/)
 
 Author: N/A | [N/A](N/A)
 
@@ -6282,7 +6220,7 @@ Status: N/A
 
 ### The Station of Dr Rousseau
 
-[The.Station.of.Dr.Rousseau.zip](https://github.com/zuckung/test3/releases/download/Latest/The.Station.of.Dr.Rousseau.zip) | N/A | N/A | []()
+[The.Station.of.Dr.Rousseau.zip](https://github.com/zuckung/test3/releases/download/Latest/The.Station.of.Dr.Rousseau.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/The Station of Dr Rousseau/)
 
 Author: N/A | [N/A](N/A)
 
@@ -6297,7 +6235,7 @@ Status: N/A
 
 ### Tribute and Domination
 
-[Tribute.and.Domination.zip](https://github.com/zuckung/test3/releases/download/Latest/Tribute.and.Domination.zip) | N/A | N/A | []()
+[Tribute.and.Domination.zip](https://github.com/zuckung/test3/releases/download/Latest/Tribute.and.Domination.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Tribute and Domination/)
 
 Author: Legolas | [N/A](N/A)
 
@@ -6312,7 +6250,7 @@ Status: Playable on 0.9.14, 0.9.15 Continuous.
 
 ### Unfettered Conquest
 
-[Unfettered.Conquest.zip](https://github.com/zuckung/test3/releases/download/Latest/Unfettered.Conquest.zip) | N/A | N/A | []()
+[Unfettered.Conquest.zip](https://github.com/zuckung/test3/releases/download/Latest/Unfettered.Conquest.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Unfettered Conquest/)
 
 Author: N/A | [N/A](N/A)
 
@@ -6327,7 +6265,7 @@ Status: N/A
 
 ### Wanderers Storyline
 
-[Wanderers.Storyline.zip](https://github.com/zuckung/test3/releases/download/Latest/Wanderers.Storyline.zip) | N/A | N/A | []()
+[Wanderers.Storyline.zip](https://github.com/zuckung/test3/releases/download/Latest/Wanderers.Storyline.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Wanderers Storyline/)
 
 Author: beccabunny | [https://github.com/beccabunny/Wanderer-Storyline](https://github.com/beccabunny/Wanderer-Storyline)
 
@@ -6342,7 +6280,7 @@ Status: N/A
 
 ### Warm Start
 
-[Warm.Start.zip](https://github.com/zuckung/test3/releases/download/Latest/Warm.Start.zip) | N/A | N/A | []()
+[Warm.Start.zip](https://github.com/zuckung/test3/releases/download/Latest/Warm.Start.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Warm Start/)
 
 Author: David Elworthy | [N/A](N/A)
 
@@ -6357,7 +6295,7 @@ Status: N/A
 
 ### Watcher
 
-[Watcher.zip](https://github.com/zuckung/test3/releases/download/Latest/Watcher.zip) | N/A | N/A | []()
+[Watcher.zip](https://github.com/zuckung/test3/releases/download/Latest/Watcher.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Watcher/)
 
 Author: Natan Gold | [N/A](N/A)
 
@@ -6367,36 +6305,29 @@ Category: Story
 
 Status: N/A
 
-</div>
 
-<p><a href="README.md#Introduction">back up <p>
+</details>
 
-<script>
-function StoryFunction() {
-  var x = document.getElementById("StoryDIV");
-  if (x.style.display === "block") {
-    x.style.display = "none";
-  } else {
-    x.style.display = "block";
-  }
-}
-</script>
 
+[back up](#Plugin-Info-and-Download)
+
+
+
+---
 
 ## Weapons
 
 <p>40 plugins in this category.<p>
 
-<button onclick="WeaponsFunction()">hide/unhide</button>
+<details>
 
-<div hidden id="WeaponsDIV">
-
+ 
 
 ---
 
 ### 50 cal
 
-[50.cal.zip](https://github.com/zuckung/test3/releases/download/Latest/50.cal.zip) | N/A | N/A | []()
+[50.cal.zip](https://github.com/zuckung/test3/releases/download/Latest/50.cal.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/50 cal/)
 
 Author: 1010Todd | [N/A](N/A)
 
@@ -6411,7 +6342,7 @@ Status: complete and playable on 0.9.15 continous
 
 ### Andromeda Torpedo
 
-[Andromeda.Torpedo.zip](https://github.com/zuckung/test3/releases/download/Latest/Andromeda.Torpedo.zip) | N/A | N/A | []()
+[Andromeda.Torpedo.zip](https://github.com/zuckung/test3/releases/download/Latest/Andromeda.Torpedo.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Andromeda Torpedo/)
 
 Author: N/A | [N/A](N/A)
 
@@ -6426,7 +6357,7 @@ Status: N/A
 
 ### Ballistic Mayhem
 
-[Ballistic.Mayhem.zip](https://github.com/zuckung/test3/releases/download/Latest/Ballistic.Mayhem.zip) | N/A | N/A | []()
+[Ballistic.Mayhem.zip](https://github.com/zuckung/test3/releases/download/Latest/Ballistic.Mayhem.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Ballistic Mayhem/)
 
 Author: SpiralCat | [N/A](N/A)
 
@@ -6441,7 +6372,7 @@ Status: Ship and outfits are nowhere for sale.
 
 ### Better Thunderhead Lance
 
-[Better.Thunderhead.Lance.zip](https://github.com/zuckung/test3/releases/download/Latest/Better.Thunderhead.Lance.zip) | N/A | N/A | []()
+[Better.Thunderhead.Lance.zip](https://github.com/zuckung/test3/releases/download/Latest/Better.Thunderhead.Lance.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Better Thunderhead Lance/)
 
 Author: BCPowerhouse | [N/A](N/A)
 
@@ -6456,7 +6387,7 @@ Status: N/A
 
 ### Burst Anti-Missile
 
-[Burst.Anti-Missile.zip](https://github.com/zuckung/test3/releases/download/Latest/Burst.Anti-Missile.zip) | N/A | N/A | []()
+[Burst.Anti-Missile.zip](https://github.com/zuckung/test3/releases/download/Latest/Burst.Anti-Missile.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Burst Anti-Missile/)
 
 Author: mdsmestad | [N/A](N/A)
 
@@ -6471,7 +6402,7 @@ Status: N/A
 
 ### Cannon Friendly Weapon Pack
 
-[Cannon.Friendly.Weapon.Pack.zip](https://github.com/zuckung/test3/releases/download/Latest/Cannon.Friendly.Weapon.Pack.zip) | N/A | N/A | []()
+[Cannon.Friendly.Weapon.Pack.zip](https://github.com/zuckung/test3/releases/download/Latest/Cannon.Friendly.Weapon.Pack.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Cannon Friendly Weapon Pack/)
 
 Author: Kyle Willey | [N/A](N/A)
 
@@ -6486,7 +6417,7 @@ Status: N/A
 
 ### Dual Blaster
 
-[Dual.Blaster.zip](https://github.com/zuckung/test3/releases/download/Latest/Dual.Blaster.zip) | N/A | N/A | []()
+[Dual.Blaster.zip](https://github.com/zuckung/test3/releases/download/Latest/Dual.Blaster.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Dual Blaster/)
 
 Author: Nathan | [N/A](N/A)
 
@@ -6501,7 +6432,7 @@ Status: Should work
 
 ### EMP Weapons
 
-[EMP.Weapons.zip](https://github.com/zuckung/test3/releases/download/Latest/EMP.Weapons.zip) | N/A | N/A | []()
+[EMP.Weapons.zip](https://github.com/zuckung/test3/releases/download/Latest/EMP.Weapons.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/EMP Weapons/)
 
 Author: N/A | [N/A](N/A)
 
@@ -6516,7 +6447,7 @@ Status: Ship and outfits are nowhere for sale.
 
 ### Evasion Bomb
 
-[Evasion.Bomb.zip](https://github.com/zuckung/test3/releases/download/Latest/Evasion.Bomb.zip) | N/A | N/A | []()
+[Evasion.Bomb.zip](https://github.com/zuckung/test3/releases/download/Latest/Evasion.Bomb.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Evasion Bomb/)
 
 Author: Vilhelm | [N/A](N/A)
 
@@ -6531,7 +6462,7 @@ Status: Outfits are nowhere for sale.
 
 ### Extra Missiles Outfit
 
-[Extra.Missiles.Outfit.zip](https://github.com/zuckung/test3/releases/download/Latest/Extra.Missiles.Outfit.zip) | N/A | N/A | []()
+[Extra.Missiles.Outfit.zip](https://github.com/zuckung/test3/releases/download/Latest/Extra.Missiles.Outfit.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Extra Missiles Outfit/)
 
 Author: N/A | [N/A](N/A)
 
@@ -6546,7 +6477,7 @@ Status: Should work
 
 ### Fancy Weapons
 
-[Fancy.Weapons.zip](https://github.com/zuckung/test3/releases/download/Latest/Fancy.Weapons.zip) | N/A | N/A | []()
+[Fancy.Weapons.zip](https://github.com/zuckung/test3/releases/download/Latest/Fancy.Weapons.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Fancy Weapons/)
 
 Author: 1010todd | [N/A](N/A)
 
@@ -6561,7 +6492,7 @@ Status: Requires AES Omnis to access.
 
 ### Flak Snare
 
-[Flak.Snare.zip](https://github.com/zuckung/test3/releases/download/Latest/Flak.Snare.zip) | N/A | N/A | []()
+[Flak.Snare.zip](https://github.com/zuckung/test3/releases/download/Latest/Flak.Snare.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Flak Snare/)
 
 Author: tehhowch | [https://github.com/tehhowch/es-modding](https://github.com/tehhowch/es-modding)
 
@@ -6576,7 +6507,7 @@ Status: N/A
 
 ### Flak Weapons
 
-[Flak.Weapons.zip](https://github.com/zuckung/test3/releases/download/Latest/Flak.Weapons.zip) | N/A | N/A | []()
+[Flak.Weapons.zip](https://github.com/zuckung/test3/releases/download/Latest/Flak.Weapons.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Flak Weapons/)
 
 Author: tehhowch | [https://github.com/tehhowch/es-modding](https://github.com/tehhowch/es-modding)
 
@@ -6591,7 +6522,7 @@ Status: N/A
 
 ### Flamethrower Turret
 
-[Flamethrower.Turret.zip](https://github.com/zuckung/test3/releases/download/Latest/Flamethrower.Turret.zip) | N/A | N/A | []()
+[Flamethrower.Turret.zip](https://github.com/zuckung/test3/releases/download/Latest/Flamethrower.Turret.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Flamethrower Turret/)
 
 Author: ItsNickBarry | [https://github.com/ItsNickBarry/endless-sky-flamethrower-turret](https://github.com/ItsNickBarry/endless-sky-flamethrower-turret)
 
@@ -6606,7 +6537,7 @@ Status: N/A
 
 ### Gungnir
 
-[Gungnir.zip](https://github.com/zuckung/test3/releases/download/Latest/Gungnir.zip) | N/A | N/A | []()
+[Gungnir.zip](https://github.com/zuckung/test3/releases/download/Latest/Gungnir.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Gungnir/)
 
 Author: jschiav | [https://github.com/jschiav/Gungnir](https://github.com/jschiav/Gungnir)
 
@@ -6621,7 +6552,7 @@ Status: N/A
 
 ### HellFire Missile
 
-[HellFire.Missile.zip](https://github.com/zuckung/test3/releases/download/Latest/HellFire.Missile.zip) | N/A | N/A | []()
+[HellFire.Missile.zip](https://github.com/zuckung/test3/releases/download/Latest/HellFire.Missile.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/HellFire Missile/)
 
 Author: N/A | [N/A](N/A)
 
@@ -6636,7 +6567,7 @@ Status: N/A
 
 ### Incendiary Grenades
 
-[Incendiary.Grenades.zip](https://github.com/zuckung/test3/releases/download/Latest/Incendiary.Grenades.zip) | N/A | N/A | []()
+[Incendiary.Grenades.zip](https://github.com/zuckung/test3/releases/download/Latest/Incendiary.Grenades.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Incendiary Grenades/)
 
 Author: czartrak | [https://github.com/czartrak/Incendiary-Grenades-ES](https://github.com/czartrak/Incendiary-Grenades-ES)
 
@@ -6651,7 +6582,7 @@ Status: N/A
 
 ### Interdictor
 
-[Interdictor.zip](https://github.com/zuckung/test3/releases/download/Latest/Interdictor.zip) | N/A | N/A | []()
+[Interdictor.zip](https://github.com/zuckung/test3/releases/download/Latest/Interdictor.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Interdictor/)
 
 Author: Nechochwen | [N/A](N/A)
 
@@ -6666,7 +6597,7 @@ Status: N/A
 
 ### Kinetic Weaponry
 
-[Kinetic.Weaponry.zip](https://github.com/zuckung/test3/releases/download/Latest/Kinetic.Weaponry.zip) | N/A | N/A | []()
+[Kinetic.Weaponry.zip](https://github.com/zuckung/test3/releases/download/Latest/Kinetic.Weaponry.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Kinetic Weaponry/)
 
 Author: Bereskatuket (kestrel1110) | [https://github.com/kestrel1110/KineticWeaponry](https://github.com/kestrel1110/KineticWeaponry)
 
@@ -6681,7 +6612,7 @@ Status: Playable on 0.9.15, 0.9.16, Continuous.
 
 ### M A C cannon
 
-[M.A.C.cannon.zip](https://github.com/zuckung/test3/releases/download/Latest/M.A.C.cannon.zip) | N/A | N/A | []()
+[M.A.C.cannon.zip](https://github.com/zuckung/test3/releases/download/Latest/M.A.C.cannon.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/M A C cannon/)
 
 Author: N/A | [N/A](N/A)
 
@@ -6696,7 +6627,7 @@ Status: N/A
 
 ### Mass Driver
 
-[Mass.Driver.zip](https://github.com/zuckung/test3/releases/download/Latest/Mass.Driver.zip) | N/A | N/A | []()
+[Mass.Driver.zip](https://github.com/zuckung/test3/releases/download/Latest/Mass.Driver.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Mass Driver/)
 
 Author: N/A | [N/A](N/A)
 
@@ -6711,7 +6642,7 @@ Status: N/A
 
 ### Missile Turrets
 
-[Missile.Turrets.zip](https://github.com/zuckung/test3/releases/download/Latest/Missile.Turrets.zip) | N/A | N/A | []()
+[Missile.Turrets.zip](https://github.com/zuckung/test3/releases/download/Latest/Missile.Turrets.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Missile Turrets/)
 
 Author: Dalrethliant | [N/A](N/A)
 
@@ -6726,7 +6657,7 @@ Status: N/A
 
 ### Non Lethal
 
-[Non.Lethal.zip](https://github.com/zuckung/test3/releases/download/Latest/Non.Lethal.zip) | N/A | N/A | []()
+[Non.Lethal.zip](https://github.com/zuckung/test3/releases/download/Latest/Non.Lethal.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Non Lethal/)
 
 Author: N/A | [N/A](N/A)
 
@@ -6741,7 +6672,7 @@ Status: N/A
 
 ### Nuclear Launcher
 
-[Nuclear.Launcher.zip](https://github.com/zuckung/test3/releases/download/Latest/Nuclear.Launcher.zip) | N/A | N/A | []()
+[Nuclear.Launcher.zip](https://github.com/zuckung/test3/releases/download/Latest/Nuclear.Launcher.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Nuclear Launcher/)
 
 Author: N/A | [N/A](N/A)
 
@@ -6756,7 +6687,7 @@ Status: N/A
 
 ### Nuke turret
 
-[Nuke.turret.zip](https://github.com/zuckung/test3/releases/download/Latest/Nuke.turret.zip) | N/A | N/A | []()
+[Nuke.turret.zip](https://github.com/zuckung/test3/releases/download/Latest/Nuke.turret.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Nuke turret/)
 
 Author: 1010todd | [N/A](N/A)
 
@@ -6771,7 +6702,7 @@ Status: N/A
 
 ### OP Thunderhead Lance
 
-[OP.Thunderhead.Lance.zip](https://github.com/zuckung/test3/releases/download/Latest/OP.Thunderhead.Lance.zip) | N/A | N/A | []()
+[OP.Thunderhead.Lance.zip](https://github.com/zuckung/test3/releases/download/Latest/OP.Thunderhead.Lance.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/OP Thunderhead Lance/)
 
 Author: BCPowerhouse | [N/A](N/A)
 
@@ -6786,7 +6717,7 @@ Status: N/A
 
 ### Orion Missile
 
-[Orion.Missile.zip](https://github.com/zuckung/test3/releases/download/Latest/Orion.Missile.zip) | N/A | N/A | []()
+[Orion.Missile.zip](https://github.com/zuckung/test3/releases/download/Latest/Orion.Missile.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Orion Missile/)
 
 Author: Marksman-ES | [https://github.com/TheMarksman-ES/Orion-Missile](https://github.com/TheMarksman-ES/Orion-Missile)
 
@@ -6801,7 +6732,7 @@ Status: Playable on 0.9.15 Continuous.
 
 ### Particle Turret
 
-[Particle.Turret.zip](https://github.com/zuckung/test3/releases/download/Latest/Particle.Turret.zip) | N/A | N/A | []()
+[Particle.Turret.zip](https://github.com/zuckung/test3/releases/download/Latest/Particle.Turret.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Particle Turret/)
 
 Author: N/A | [N/A](N/A)
 
@@ -6816,7 +6747,7 @@ Status: N/A
 
 ### Plasma Mine
 
-[Plasma.Mine.zip](https://github.com/zuckung/test3/releases/download/Latest/Plasma.Mine.zip) | N/A | N/A | []()
+[Plasma.Mine.zip](https://github.com/zuckung/test3/releases/download/Latest/Plasma.Mine.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Plasma Mine/)
 
 Author: John Abbe | [N/A](N/A)
 
@@ -6831,7 +6762,7 @@ Status: N/A
 
 ### Pulse
 
-[Pulse.zip](https://github.com/zuckung/test3/releases/download/Latest/Pulse.zip) | N/A | N/A | []()
+[Pulse.zip](https://github.com/zuckung/test3/releases/download/Latest/Pulse.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Pulse/)
 
 Author: Jesse Dickens | [N/A](N/A)
 
@@ -6846,7 +6777,7 @@ Status: N/A
 
 ### Punt Gun
 
-[Punt.Gun.zip](https://github.com/zuckung/test3/releases/download/Latest/Punt.Gun.zip) | N/A | N/A | []()
+[Punt.Gun.zip](https://github.com/zuckung/test3/releases/download/Latest/Punt.Gun.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Punt Gun/)
 
 Author: 1010todd | [N/A](N/A)
 
@@ -6861,7 +6792,7 @@ Status: N/A
 
 ### Quarg AM
 
-[Quarg.AM.zip](https://github.com/zuckung/test3/releases/download/Latest/Quarg.AM.zip) | N/A | N/A | []()
+[Quarg.AM.zip](https://github.com/zuckung/test3/releases/download/Latest/Quarg.AM.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Quarg AM/)
 
 Author: N/A | [N/A](N/A)
 
@@ -6876,7 +6807,7 @@ Status: N/A
 
 ### sensor
 
-[sensor.zip](https://github.com/zuckung/test3/releases/download/Latest/sensor.zip) | N/A | N/A | []()
+[sensor.zip](https://github.com/zuckung/test3/releases/download/Latest/sensor.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/sensor/)
 
 Author: orbitalsupershell | [https://github.com/orbitalsupershell/sensor](https://github.com/orbitalsupershell/sensor)
 
@@ -6891,7 +6822,7 @@ Status: N/A
 
 ### Spacetime Ripper Warhead
 
-[Spacetime.Ripper.Warhead.zip](https://github.com/zuckung/test3/releases/download/Latest/Spacetime.Ripper.Warhead.zip) | N/A | N/A | []()
+[Spacetime.Ripper.Warhead.zip](https://github.com/zuckung/test3/releases/download/Latest/Spacetime.Ripper.Warhead.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Spacetime Ripper Warhead/)
 
 Author: Karirawri | [https://github.com/Karirawri/Spacetime-Ripper-Warhead](https://github.com/Karirawri/Spacetime-Ripper-Warhead)
 
@@ -6906,7 +6837,7 @@ Status: N/A
 
 ### Stat Reworks
 
-[Stat.Reworks.zip](https://github.com/zuckung/test3/releases/download/Latest/Stat.Reworks.zip) | N/A | N/A | []()
+[Stat.Reworks.zip](https://github.com/zuckung/test3/releases/download/Latest/Stat.Reworks.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Stat Reworks/)
 
 Author: Saturnalia9 | [N/A](N/A)
 
@@ -6921,7 +6852,7 @@ Status: Should work on 0.9.15, 0.9.16, Continuous.
 
 ### Support Beams
 
-[Support.Beams.zip](https://github.com/zuckung/test3/releases/download/Latest/Support.Beams.zip) | N/A | N/A | []()
+[Support.Beams.zip](https://github.com/zuckung/test3/releases/download/Latest/Support.Beams.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Support Beams/)
 
 Author: 1010Todd | [N/A](N/A)
 
@@ -6936,7 +6867,7 @@ Status: N/A
 
 ### The Witch
 
-[The.Witch.zip](https://github.com/zuckung/test3/releases/download/Latest/The.Witch.zip) | N/A | N/A | []()
+[The.Witch.zip](https://github.com/zuckung/test3/releases/download/Latest/The.Witch.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/The Witch/)
 
 Author: 1010todd | [N/A](N/A)
 
@@ -6951,7 +6882,7 @@ Status: N/A
 
 ### Thunderhead Lance
 
-[Thunderhead.Lance.zip](https://github.com/zuckung/test3/releases/download/Latest/Thunderhead.Lance.zip) | N/A | N/A | []()
+[Thunderhead.Lance.zip](https://github.com/zuckung/test3/releases/download/Latest/Thunderhead.Lance.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Thunderhead Lance/)
 
 Author: BCPowerhouse | [N/A](N/A)
 
@@ -6966,7 +6897,7 @@ Status: N/A
 
 ### TooManyBlasters
 
-[TooManyBlasters.zip](https://github.com/zuckung/test3/releases/download/Latest/TooManyBlasters.zip) | N/A | N/A | []()
+[TooManyBlasters.zip](https://github.com/zuckung/test3/releases/download/Latest/TooManyBlasters.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/TooManyBlasters/)
 
 Author: N/A | [N/A](N/A)
 
@@ -6981,7 +6912,7 @@ Status: N/A
 
 ### YEET
 
-[YEET.zip](https://github.com/zuckung/test3/releases/download/Latest/YEET.zip) | N/A | N/A | []()
+[YEET.zip](https://github.com/zuckung/test3/releases/download/Latest/YEET.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/YEET/)
 
 Author: BCPowerhouse | [N/A](N/A)
 
@@ -6991,36 +6922,29 @@ Category: Weapons
 
 Status: N/A
 
-</div>
 
-<p><a href="README.md#Introduction">back up <p>
+</details>
 
-<script>
-function WeaponsFunction() {
-  var x = document.getElementById("WeaponsDIV");
-  if (x.style.display === "block") {
-    x.style.display = "none";
-  } else {
-    x.style.display = "block";
-  }
-}
-</script>
 
+[back up](#Plugin-Info-and-Download)
+
+
+
+---
 
 ## Uncategorized
 
 <p>23 plugins in this category.<p>
 
-<button onclick="UncategorizedFunction()">hide/unhide</button>
+<details>
 
-<div hidden id="UncategorizedDIV">
-
+ 
 
 ---
 
 ### Amalgamation
 
-[Amalgamation.zip](https://github.com/zuckung/test3/releases/download/Latest/Amalgamation.zip) | N/A | N/A | []()
+[Amalgamation.zip](https://github.com/zuckung/test3/releases/download/Latest/Amalgamation.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Amalgamation/)
 
 Author: demolish238 | [N/A](N/A)
 
@@ -7035,7 +6959,7 @@ Status: N/A
 
 ### Arena of the worthy
 
-[Arena.of.the.worthy.zip](https://github.com/zuckung/test3/releases/download/Latest/Arena.of.the.worthy.zip) | N/A | N/A | []()
+[Arena.of.the.worthy.zip](https://github.com/zuckung/test3/releases/download/Latest/Arena.of.the.worthy.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Arena of the worthy/)
 
 Author: RisingLeaf | [https://github.com/RisingLeaf/Arena-of-the-Worthy/tree/main](https://github.com/RisingLeaf/Arena-of-the-Worthy/tree/main)
 
@@ -7050,7 +6974,7 @@ Status: REQUIRES PR #7348. Either wait for it to be merged or use ESLauncher2 to
 
 ### Automation and Planetside Storage
 
-[Automation.and.Planetside.Storage.zip](https://github.com/zuckung/test3/releases/download/Latest/Automation.and.Planetside.Storage.zip) | N/A | N/A | []()
+[Automation.and.Planetside.Storage.zip](https://github.com/zuckung/test3/releases/download/Latest/Automation.and.Planetside.Storage.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Automation and Planetside Storage/)
 
 Author: N/A | [N/A](N/A)
 
@@ -7065,7 +6989,7 @@ Status: N/A
 
 ### Endless Addon
 
-[Endless.Addon.zip](https://github.com/zuckung/test3/releases/download/Latest/Endless.Addon.zip) | N/A | N/A | []()
+[Endless.Addon.zip](https://github.com/zuckung/test3/releases/download/Latest/Endless.Addon.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Endless Addon/)
 
 Author: IModThings | [https://github.com/IModThings/I_M_T-Endless-Sky-Mods](https://github.com/IModThings/I_M_T-Endless-Sky-Mods)
 
@@ -7080,7 +7004,7 @@ Status: N/A
 
 ### Endless Gauntlet
 
-[Endless.Gauntlet.zip](https://github.com/zuckung/test3/releases/download/Latest/Endless.Gauntlet.zip) | N/A | N/A | []()
+[Endless.Gauntlet.zip](https://github.com/zuckung/test3/releases/download/Latest/Endless.Gauntlet.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Endless Gauntlet/)
 
 Author: comnom(maintained by samrocketman) | [https://github.com/EndlessSkyPlugins/Endless-Gauntlet](https://github.com/EndlessSkyPlugins/Endless-Gauntlet)
 
@@ -7095,7 +7019,7 @@ Status: Playable on 0.9.14, 0.9.15 Continuous.
 
 ### Endless Sky except everything makes that werid Tim Allen noise
 
-[Endless.Sky.except.everything.makes.that.werid.Tim.Allen.noise.zip](https://github.com/zuckung/test3/releases/download/Latest/Endless.Sky.except.everything.makes.that.werid.Tim.Allen.noise.zip) | N/A | N/A | []()
+[Endless.Sky.except.everything.makes.that.werid.Tim.Allen.noise.zip](https://github.com/zuckung/test3/releases/download/Latest/Endless.Sky.except.everything.makes.that.werid.Tim.Allen.noise.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Endless Sky except everything makes that werid Tim Allen noise/)
 
 Author: N/A | [N/A](N/A)
 
@@ -7110,7 +7034,7 @@ Status: Should work
 
 ### Endless Sky except ships make that weird Tim Allen sound when they die
 
-[Endless.Sky.except.ships.make.that.weird.Tim.Allen.sound.when.they.die.zip](https://github.com/zuckung/test3/releases/download/Latest/Endless.Sky.except.ships.make.that.weird.Tim.Allen.sound.when.they.die.zip) | N/A | N/A | []()
+[Endless.Sky.except.ships.make.that.weird.Tim.Allen.sound.when.they.die.zip](https://github.com/zuckung/test3/releases/download/Latest/Endless.Sky.except.ships.make.that.weird.Tim.Allen.sound.when.they.die.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Endless Sky except ships make that weird Tim Allen sound when they die/)
 
 Author: N/A | [N/A](N/A)
 
@@ -7125,7 +7049,7 @@ Status: Should work
 
 ### Enigma Corp
 
-[Enigma.Corp.zip](https://github.com/zuckung/test3/releases/download/Latest/Enigma.Corp.zip) | N/A | N/A | []()
+[Enigma.Corp.zip](https://github.com/zuckung/test3/releases/download/Latest/Enigma.Corp.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Enigma Corp/)
 
 Author: Amazinite | [https://github.com/amazinite/enigma-corp](https://github.com/amazinite/enigma-corp)
 
@@ -7140,7 +7064,7 @@ Status: N/A
 
 ### Expanded Territory
 
-[Expanded.Territory.zip](https://github.com/zuckung/test3/releases/download/Latest/Expanded.Territory.zip) | N/A | N/A | []()
+[Expanded.Territory.zip](https://github.com/zuckung/test3/releases/download/Latest/Expanded.Territory.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Expanded Territory/)
 
 Author: virmitio | [https://github.com/virmitio/ES_ExpandedTerritory](https://github.com/virmitio/ES_ExpandedTerritory)
 
@@ -7155,7 +7079,7 @@ Status: N/A
 
 ### Experimental
 
-[Experimental.zip](https://github.com/zuckung/test3/releases/download/Latest/Experimental.zip) | N/A | N/A | []()
+[Experimental.zip](https://github.com/zuckung/test3/releases/download/Latest/Experimental.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Experimental/)
 
 Author: N/A | [N/A](N/A)
 
@@ -7170,7 +7094,7 @@ Status: N/A
 
 ### Hi Quality Stainless Steel Nonstick Pan
 
-[Hi.Quality.Stainless.Steel.Nonstick.Pan.zip](https://github.com/zuckung/test3/releases/download/Latest/Hi.Quality.Stainless.Steel.Nonstick.Pan.zip) | N/A | N/A | []()
+[Hi.Quality.Stainless.Steel.Nonstick.Pan.zip](https://github.com/zuckung/test3/releases/download/Latest/Hi.Quality.Stainless.Steel.Nonstick.Pan.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Hi Quality Stainless Steel Nonstick Pan/)
 
 Author: N/A | [N/A](N/A)
 
@@ -7185,7 +7109,7 @@ Status: N/A
 
 ### Improvisatory
 
-[Improvisatory.zip](https://github.com/zuckung/test3/releases/download/Latest/Improvisatory.zip) | N/A | N/A | []()
+[Improvisatory.zip](https://github.com/zuckung/test3/releases/download/Latest/Improvisatory.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Improvisatory/)
 
 Author: N/A | [N/A](N/A)
 
@@ -7200,7 +7124,7 @@ Status: N/A
 
 ### Logbook Help
 
-[Logbook.Help.zip](https://github.com/zuckung/test3/releases/download/Latest/Logbook.Help.zip) | N/A | N/A | []()
+[Logbook.Help.zip](https://github.com/zuckung/test3/releases/download/Latest/Logbook.Help.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Logbook Help/)
 
 Author: Michael Arsollon | [https://github.com/MidnightPlugins/Logbook-Help](https://github.com/MidnightPlugins/Logbook-Help)
 
@@ -7215,7 +7139,7 @@ Status: Compatible with ES 0.9.14
 
 ### multiplayer map
 
-[multiplayer.map.zip](https://github.com/zuckung/test3/releases/download/Latest/multiplayer.map.zip) | N/A | N/A | []()
+[multiplayer.map.zip](https://github.com/zuckung/test3/releases/download/Latest/multiplayer.map.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/multiplayer map/)
 
 Author: N/A | [N/A](N/A)
 
@@ -7230,7 +7154,7 @@ Status: N/A
 
 ### MultiTech Extra Light
 
-[MultiTech.Extra.Light.zip](https://github.com/zuckung/test3/releases/download/Latest/MultiTech.Extra.Light.zip) | N/A | N/A | []()
+[MultiTech.Extra.Light.zip](https://github.com/zuckung/test3/releases/download/Latest/MultiTech.Extra.Light.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/MultiTech Extra Light/)
 
 Author: sgtdrew720 | [https://github.com/sgtdrew720/MultiTech-Extra-Light-v1.0.0-](https://github.com/sgtdrew720/MultiTech-Extra-Light-v1.0.0-)
 
@@ -7245,7 +7169,7 @@ Status: N/A
 
 ### Newscasts
 
-[Newscasts.zip](https://github.com/zuckung/test3/releases/download/Latest/Newscasts.zip) | N/A | N/A | []()
+[Newscasts.zip](https://github.com/zuckung/test3/releases/download/Latest/Newscasts.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Newscasts/)
 
 Author: czartrak | [https://github.com/czartrak/ES-newscasts](https://github.com/czartrak/ES-newscasts)
 
@@ -7260,7 +7184,7 @@ Status: N/A
 
 ### Play As Sestor
 
-[Play.As.Sestor.zip](https://github.com/zuckung/test3/releases/download/Latest/Play.As.Sestor.zip) | N/A | N/A | []()
+[Play.As.Sestor.zip](https://github.com/zuckung/test3/releases/download/Latest/Play.As.Sestor.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Play As Sestor/)
 
 Author: Zoura (AvianGeneticist) | [N/A](N/A)
 
@@ -7275,7 +7199,7 @@ Status: Playable on 0.9.15/0.9.16.
 
 ### ShieldsUp Phils Flavours
 
-[ShieldsUp.Phils.Flavours.zip](https://github.com/zuckung/test3/releases/download/Latest/ShieldsUp.Phils.Flavours.zip) | N/A | N/A | []()
+[ShieldsUp.Phils.Flavours.zip](https://github.com/zuckung/test3/releases/download/Latest/ShieldsUp.Phils.Flavours.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/ShieldsUp Phils Flavours/)
 
 Author: Phil Morley | [N/A](N/A)
 
@@ -7290,7 +7214,7 @@ Status: N/A
 
 ### ShieldsUp Pompano s Ever Expanding Galaxy
 
-[ShieldsUp.Pompano.s.Ever.Expanding.Galaxy.zip](https://github.com/zuckung/test3/releases/download/Latest/ShieldsUp.Pompano.s.Ever.Expanding.Galaxy.zip) | N/A | N/A | []()
+[ShieldsUp.Pompano.s.Ever.Expanding.Galaxy.zip](https://github.com/zuckung/test3/releases/download/Latest/ShieldsUp.Pompano.s.Ever.Expanding.Galaxy.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/ShieldsUp Pompano s Ever Expanding Galaxy/)
 
 Author: N/A | [N/A](N/A)
 
@@ -7305,7 +7229,7 @@ Status: N/A
 
 ### Sounds Of Endless Sky
 
-[Sounds.Of.Endless.Sky.zip](https://github.com/zuckung/test3/releases/download/Latest/Sounds.Of.Endless.Sky.zip) | N/A | N/A | []()
+[Sounds.Of.Endless.Sky.zip](https://github.com/zuckung/test3/releases/download/Latest/Sounds.Of.Endless.Sky.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Sounds Of Endless Sky/)
 
 Author: Sam Gleske | [https://github.com/samrocketman/sounds-of-endless-sky](https://github.com/samrocketman/sounds-of-endless-sky)
 
@@ -7320,7 +7244,7 @@ Status: N/A
 
 ### Space Shuttle Start
 
-[Space.Shuttle.Start.zip](https://github.com/zuckung/test3/releases/download/Latest/Space.Shuttle.Start.zip) | N/A | N/A | []()
+[Space.Shuttle.Start.zip](https://github.com/zuckung/test3/releases/download/Latest/Space.Shuttle.Start.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Space Shuttle Start/)
 
 Author: MidnightPlugins | [https://github.com/MidnightPlugins/Space-Shuttle-Start/releases](https://github.com/MidnightPlugins/Space-Shuttle-Start/releases)
 
@@ -7335,7 +7259,7 @@ Status: story
 
 ### Syndicate Campaign
 
-[Syndicate.Campaign.zip](https://github.com/zuckung/test3/releases/download/Latest/Syndicate.Campaign.zip) | N/A | N/A | []()
+[Syndicate.Campaign.zip](https://github.com/zuckung/test3/releases/download/Latest/Syndicate.Campaign.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Syndicate Campaign/)
 
 Author: N/A | [N/A](N/A)
 
@@ -7350,7 +7274,7 @@ Status: story
 
 ### Warehouse
 
-[Warehouse.zip](https://github.com/zuckung/test3/releases/download/Latest/Warehouse.zip) | N/A | N/A | []()
+[Warehouse.zip](https://github.com/zuckung/test3/releases/download/Latest/Warehouse.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/Warehouse/)
 
 Author: Wanderer | [https://www.nexusmods.com/endlesssky/mods/2](https://www.nexusmods.com/endlesssky/mods/2)
 
@@ -7360,18 +7284,10 @@ Category: N/A
 
 Status: N/A
 
-</div>
 
-<p><a href="README.md#Introduction">back up <p>
+</details>
 
-<script>
-function UncategorizedFunction() {
-  var x = document.getElementById("UncategorizedDIV");
-  if (x.style.display === "block") {
-    x.style.display = "none";
-  } else {
-    x.style.display = "block";
-  }
-}
-</script>
+
+[back up](#Plugin-Info-and-Download)
+
 
