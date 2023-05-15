@@ -7,6 +7,7 @@ from PIL import Image
 pathtoplugins = "Working/All Plugins/"
 indexfile = "README.md"
 assetfullpath = "https://github.com/zuckung/test3/releases/download/Latest/"
+assetfullpath = assetfullpath.replace(" ", ".")
 pluginurl = "https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/"
 template = "res/template.txt"
 listfolder = "res/pluginlist/"
@@ -74,6 +75,7 @@ def replacevarp(string):
 	string = string.replace("%category%", category)
 	string = string.replace("%status%", status)
 	string = string.replace("%iconpng%", str(iconpng))
+	string = string.replace("%pluginnameurl%", pluginnameurl)	
 	string = string.replace("%description%", description)
 	return string
 				
@@ -160,6 +162,7 @@ with open(indexfile, "w") as file1:
 				else:
 					category = description[0].capitalize() 
 				pluginname = description[1]
+				pluginnameurl = pluginname.replace(" ", "%20")
 				author = description[2][7:] 
 				website = description[3][8:] 
 				status = description[5][7:]
@@ -171,7 +174,7 @@ with open(indexfile, "w") as file1:
 					alllines = alllines + ">" + lines + "\n"
 				description = alllines
 				
-				if os.path.exists(pathtoplugins + pluginname + "/icon.png") == True:
+				if os.path.exists(pathtoplugins + pluginname + "/icon.png") == True: # check for icon.png, resize it, or hide it
 					im = Image.open(pathtoplugins + pluginname + "/icon.png")
 					w, h = im.size
 					if h > w:
