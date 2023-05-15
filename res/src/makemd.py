@@ -1,5 +1,8 @@
 import os
-
+import requests
+from datetime import datetime
+import PIL
+from PIL import Image
 
 pathtoplugins = "Working/All Plugins/"
 indexfile = "README.md"
@@ -7,15 +10,14 @@ assetfullpath = "https://github.com/zuckung/test3/releases/download/Latest/"
 pluginurl = "https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/"
 template = "res/template.txt"
 listfolder = "res/pluginlist/"
-categories = ["AllPlugins", "Cheats", "Gameplay", "Graphics", "Outfits", "Overhauls", "Overwrites", "Patches", "Races", "Ships", "Story", "Weapons", "Uncategorized"]
+categories = ["Cheats", "Gameplay", "Graphics", "Outfits", "Overhauls", "Overwrites", "Patches", "Races", "Ships", "Story", "Weapons", "Uncategorized"]
+iconpng = ""
 plist = []
 allplugins = cheats = gameplay = graphics = outfits = overhauls = overwrites = patches = races = ships = story = weapons = uncategorized = 0
-
 
 # check for local testing
 if os.getcwd() == "/storage/emulated/0/Download/mgit/test3/res/src":
 	os.chdir("../../")
-
 
 def replacevar(string): # replaces %variables% in header template with real values
 	if cat == "AllPlugins":
@@ -44,6 +46,19 @@ def replacevar(string): # replaces %variables% in header template with real valu
 		string = string.replace("%amount%", str(weapons))
 	elif cat == "Uncategorized":
 		string = string.replace("%amount%", str(uncategorized))
+	string = string.replace("%allplugins%", str(allplugins))
+	string = string.replace("%cheats%", str(cheats))
+	string = string.replace("%gameplay%", str(gameplay))
+	string = string.replace("%graphics%", str(graphics))
+	string = string.replace("%outfits%", str(outfits))
+	string = string.replace("%overhauls%", str(overhauls))
+	string = string.replace("%overwrites%", str(overwrites))
+	string = string.replace("%patches%", str(patches))
+	string = string.replace("%races%", str(races))
+	string = string.replace("%ships%", str(ships))
+	string = string.replace("%story%", str(story))
+	string = string.replace("%weapons%", str(weapons))
+	string = string.replace("%uncategorized%", str(uncategorized))
 	return string
 
 def replacevarp(string):
@@ -53,20 +68,16 @@ def replacevarp(string):
 	string = string.replace("%assetfile%", assetfile)
 	string = string.replace("%lastmodified%", lastmodified)
 	string = string.replace("%size%", size)
+	string = string.replace("%pluginurl%", pluginurl)
 	string = string.replace("%author%", author)
 	string = string.replace("%website%", website)
 	string = string.replace("%category%", category)
 	string = string.replace("%status%", status)
-	string = string.replace("%description%", str(description))
+	string = string.replace("%iconpng%", str(iconpng))
+	string = string.replace("%description%", description)
 	return string
-
-
-	
-
-
-
 				
-# counting categories of files in  pluginlistfolder 
+# counting categories of files in  pluginlistfolder
 entries = os.listdir(pathtoplugins)
 entries.sort(key=str.lower)
 for entry in entries:
@@ -110,12 +121,6 @@ for entry in entries:
 	with open(listfolder + entry + ".txt", "r") as file1:
 		text = file1.read()
 		plist.append(str(cat) + "\n" + entry + "\n" + text) # create a list of all listfiles
-			
-
-
-
-			
-				
 
 # reading template file and splitting it to the 3 templates
 with open(template, "r") as file1:
@@ -130,9 +135,9 @@ pos = temptempcat.find("%pluginhere%")
 tempcatup = temptempcat[:pos] # upper half of template category
 tempcatdown = temptempcat[pos +12:] # lower half of template string
 
-
 # writing the md file
 with open(indexfile, "w") as file1:
+	temphead = replacevar(temphead)
 	file1.writelines(temphead) # writer header template
 	for cat in categories: # for each category
 		tempcatupt = tempcatup.replace("%category%", cat)
@@ -141,7 +146,7 @@ with open(indexfile, "w") as file1:
 		tempcatdownt = replacevar(tempcatdownt)
 		file1.writelines(tempcatupt) # write upper category template
 	
-		for p in plist: # listfiles list element, created in counting block... 'array' of all 
+		for p in plist: # listfiles list element, created in counting block... 'array' of all plugins
 			pos = p.find("\n")
 			catcomp = p[:pos]
 			catcomp = catcomp.strip() # get category for comparing with actual category
@@ -160,9 +165,25 @@ with open(indexfile, "w") as file1:
 				status = description[5][7:]
 				for x in range(1, 7):
 					description.pop(0)
-				description[0] = description[0].replace("description=", "")	
+				description[0] = description[0].replace("description=", "")
+				alllines = ""
+				for lines in description:
+					alllines = alllines + ">" + lines + "\n"
+				description = alllines
+				
+				if os.path.exists(pathtoplugins + pluginname + "/icon.png") == True:
+					im = Image.open(pathtoplugins + pluginname + "/icon.png")
+					w, h = im.size
+					if h > w:
+						iconpng = "<img src='"+ pathtoplugins + pluginname + "/icon.png' height='100'></img><br>\n"
+					else:
+						iconpng = "<img src='"+ pathtoplugins + pluginname + "/icon.png' width='100'></img><br>\n"
+				else:
+					iconpng = ""
+				
 				# get last modified date from the assetfiles
-				#response = requests.head(assetfiles + withdots + ".zip", allow_redirects=True)
+				#withdots = pluginname.replace(" ", ".") 
+				#response = requests.head(assetfullpath + withdots + ".zip", allow_redirects=True)
 				#modif = response.headers['Last-Modified']
 				#datetime_object = datetime.strptime(modif, '%a, %d %b %Y %H:%M:%S %Z')
 				#lastmodified = str(datetime_object.date())
