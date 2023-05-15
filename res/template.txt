@@ -133,9 +133,9 @@ Ship "Gladius" conflicts with a ship of the same name from Eternals
 
 Ship "Gladius" conflicts with a ship of the same name from Alterra
 
-# Contribution
-
 </details>
+
+# Contribution
 
 ## Regarding Plugin Informations
 
@@ -174,7 +174,7 @@ Ships (%ships%) | Story (%story%) | Weapons (%weapons%) | Uncategorized (%uncate
 </details>
 
 
-[back to top](/README.md#plugin-info-and-download)
+[back to top](/README.md#plugin-download)
 
 
 %%% template for plugin entry below this point %%%
