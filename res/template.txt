@@ -2,30 +2,30 @@
 
 # Table of Contents
 
-[Introduction](/README.md#introduction) 
+[Introduction](#-introduction) 
  
-[Download Information](/README.md#download-information)  
-- [Downloading Alternative](/README.md#downloading-alternative)  
-- [Notes](/README.md#notes)  
-- [Known Plugin Issues](/README.md#known-plugin-issues)  
+[Download Information](#-download-information)  
+- [Downloading Alternative](#-downloading-alternative)  
+- [Notes](#-notes)  
+- [Known Plugin Issues](#-known-plugin-issues)  
 
-[Contribution](/README.md#contribution)  
-- [Regarding Plugin Informations](/README.md#regarding-plugin-informations)  
-- [Add your Plugin](/README.md#add-your-plugin)  
+[Contribution](#-contribution)  
+- [Regarding Plugin Informations](-regarding-plugin-informations)  
+- [Add your Plugin](#-add-your-plugin)  
 
-[Plugin Download](/README.md#plugin-download)  
-- [Cheats](/README.md#cheats)  
-- [Gameplay](/README.md#gameplay)  
-- [Graphics](/README.md#graphics)  
-- [Outfits](/README.md#outfits)  
-- [Overhauls](/README.md#overhauls)  
-- [Overwrites](/README.md#overwrites)  
-- [Patches](/README.md#patches)  
-- [Races](/README.md#races)  
-- [Ships](/README.md#ships)  
-- [Story](/README.md#story)   
-- [Weapons](/README.md#weapons)  
-- [Uncategorized](/README.md#uncategorized)  
+[Plugin Download](#-plugin-download)  
+- [Cheats](#-cheats)  
+- [Gameplay](#-gameplay)  
+- [Graphics](#-graphics)  
+- [Outfits](#-outfits)  
+- [Overhauls](#-overhauls)  
+- [Overwrites](#-overwrites)  
+- [Patches](#-patches)  
+- [Races](#-races)  
+- [Ships](#-ships)  
+- [Story](#-story)   
+- [Weapons](#-weapons)  
+- [Uncategorized](#-uncategorized)  
 
 ---
 
@@ -160,9 +160,9 @@ For Pull Requests... the folder structure has changed with this update. There ar
 
 All Plugins (%allplugins%)
 
-[Cheats](/README.md#cheats) (%cheats%) | [Gameplay](/README.md#gameplay) (%gameplay%) | [Graphics](/README.md#graphics) (%graphics%) | [Outfits](/README.md#outfits) (%outfits%)<br>
-[Overhauls](/README.md#overhauls) (%overhauls%) | [Overwrites](/README.md#overwrites) (%overwrites%) | [Patches](/README.md#patches) (%patches%) | [Races](/README.md#races) (%races%)<br>
-[Ships](/README.md#ships) (%ships%) | [Story](/README.md#story) (%story%) | [Weapons](/README.md#weapons) (%weapons%) | [Uncategorized](/README.md#uncategorized) (%uncategorized%)<br>
+[Cheats](#-cheats) (%cheats%) | [Gameplay](#-gameplay) (%gameplay%) | [Graphics](#-graphics) (%graphics%) | [Outfits](#-outfits) (%outfits%)<br>
+[Overhauls](#-overhauls) (%overhauls%) | [Overwrites](#-overwrites) (%overwrites%) | [Patches](#-patches) (%patches%) | [Races](#-races) (%races%)<br>
+[Ships](#-ships) (%ships%) | [Story](#-story) (%story%) | [Weapons](#-weapons) (%weapons%) | [Uncategorized](#-uncategorized) (%uncategorized%)<br>
 
 
 %%% template for category below this point %%%
@@ -180,7 +180,7 @@ All Plugins (%allplugins%)
 </details>
 
 
-[back to top](/README.md#plugin-download)
+[back to top](#-plugin-download)
 
 
 %%% template for plugin entry below this point %%%
