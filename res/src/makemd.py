@@ -71,7 +71,11 @@ def replacevarp(string):
 	string = string.replace("%size%", size)
 	string = string.replace("%pluginurl%", pluginurl)
 	string = string.replace("%author%", author)
-	string = string.replace("%website%", website)
+	if website == "N/A":
+		webreplace = ""
+	else:
+		webreplace = website
+	string = string.replace("%website%", webreplace)
 	string = string.replace("%category%", category)
 	string = string.replace("%status%", status)
 	string = string.replace("%iconpng%", str(iconpng))
@@ -117,9 +121,9 @@ for entry in entries:
 	else:
 		uncategorized += 1
 		cat = "uncategorized"
-		# if no pluginlist file exists, create an empty one		
+		# if no pluginlist file exists, create an empty one	
 		with open(listfolder + entry + ".txt" , "w") as file1:
-			file1.writelines("author = N/A\nwebsite = N/A\ncategory = N/A\nstatus = N/A\ndescription = N/A\n")
+			file1.writelines("author=N/A\nwebsite=N/A\ncategory=N/A\nstatus=N/A\ndescription=N/A\n")
 		print(entry + ".txt CREATED! because plugin was there, but no listfile!")
 	with open(listfolder + entry + ".txt", "r") as file1:
 		text = file1.read()
