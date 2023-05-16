@@ -1,31 +1,31 @@
 <img src='res/logo.png' width='500'></img>
 
-#Table of Contents
+# Table of Contents
 
-[Introduction](https://github.com/zuckung/test3/blob/main/README.md#introduction) 
+[Introduction](%webroot%%indexfile%#introduction) 
  
-[Download Information](https://github.com/zuckung/test3/blob/main/README.md#download-information)  
-- [Downloading Alternative](https://github.com/zuckung/test3/blob/main/README.md#downloading-alternative)  
-- [Notes](https://github.com/zuckung/test3/blob/main/README.md#notes)  
-- [Known Plugin Issues](https://github.com/zuckung/test3/blob/main/README.md#known-plugin-issues)  
+[Download Information](%webroot%%indexfile%#download-information)  
+- [Downloading Alternative](%webroot%%indexfile%#downloading-alternative)  
+- [Notes](%webroot%%indexfile%#notes)  
+- [Known Plugin Issues](%webroot%%indexfile%#known-plugin-issues)  
 
-[Contribution](https://github.com/zuckung/test3/blob/main/README.md#contribution)  
-- [Regarding Plugin Informations](https://github.com/zuckung/test3/blob/main/README.md#regarding-plugin-informations)  
-- [Add your Plugin](https://github.com/zuckung/test3/blob/main/README.md#add-your-plugin)  
+[Contribution](%webroot%%indexfile%#contribution)  
+- [Regarding Plugin Informations](%webroot%%indexfile%#regarding-plugin-informations)  
+- [Add your Plugin](%webroot%%indexfile%#add-your-plugin)  
 
-[Plugin Download](https://github.com/zuckung/test3/blob/main/README.md#plugin-download)  
-- [Cheats](https://github.com/zuckung/test3/blob/main/README.md#cheats)  
-- [Gameplay](https://github.com/zuckung/test3/blob/main/README.md#gameplay)  
-- [Graphics](https://github.com/zuckung/test3/blob/main/README.md#graphics)  
-- [Outfits](https://github.com/zuckung/test3/blob/main/README.md#outfits)  
-- [Overhauls](https://github.com/zuckung/test3/blob/main/README.md#overhauls)  
-- [Overwrites](https://github.com/zuckung/test3/blob/main/README.md#overwrites)  
-- [Patches](https://github.com/zuckung/test3/blob/main/README.md#patches)  
-- [Races](https://github.com/zuckung/test3/blob/main/README.md#races)  
-- [Ships](https://github.com/zuckung/test3/blob/main/README.md#ships)  
-- [Story](https://github.com/zuckung/test3/blob/main/README.md#story)   
-- [Weapons](https://github.com/zuckung/test3/blob/main/README.md#weapons)  
-- [Uncategorized](https://github.com/zuckung/test3/blob/main/README.md#uncategorized)  
+[Plugin Download](h%webroot%%indexfile%#plugin-download)  
+- [Cheats](%webroot%%indexfile%#cheats)  
+- [Gameplay](%webroot%%indexfile%#gameplay)  
+- [Graphics](%webroot%%indexfile%#graphics)  
+- [Outfits](%webroot%%indexfile%#outfits)  
+- [Overhauls](%webroot%%indexfile%#overhauls)  
+- [Overwrites](%webroot%%indexfile%#overwrites)  
+- [Patches](%webroot%%indexfile%#patches)  
+- [Races](%webroot%%indexfile%#races)  
+- [Ships](%webroot%%indexfile%#ships)  
+- [Story](%webroot%%indexfile%#story)   
+- [Weapons](%webroot%%indexfile%#weapons)  
+- [Uncategorized](%webroot%%indexfile%#uncategorized)  
 
 ---
 
@@ -160,16 +160,16 @@ For Pull Requests... the folder structure has changed with this update. There ar
 
 All Plugins (%allplugins%)
 
-[Cheats](https://github.com/zuckung/test3/blob/main/README.md#cheats) (%cheats%) | [Gameplay](https://github.com/zuckung/test3/blob/main/README.md#gameplay) (%gameplay%) | [Graphics](https://github.com/zuckung/test3/blob/main/README.md#graphics) (%graphics%) | [Outfits](https://github.com/zuckung/test3/blob/main/README.md#outfits) (%outfits%)<br>
-[Overhauls](https://github.com/zuckung/test3/blob/main/README.md#overhauls) (%overhauls%) | [Overwrites](https://github.com/zuckung/test3/blob/main/README.md#overwrites) (%overwrites%) | [Patches](https://github.com/zuckung/test3/blob/main/README.md#patches) (%patches%) | [Races](https://github.com/zuckung/test3/blob/main/README.md#races) (%races%)<br>
-[Ships](https://github.com/zuckung/test3/blob/main/README.md#ships) (%ships%) | [Story](https://github.com/zuckung/test3/blob/main/README.md#story) (%story%) | [Weapons](https://github.com/zuckung/test3/blob/main/README.md#weapons) (%weapons%) | [Uncategorized](https://github.com/zuckung/test3/blob/main/README.md#uncategorized) (%uncategorized%)<br>
+[Cheats](%webroot%%indexfile%#cheats) (%cheats%) | [Gameplay](%webroot%%indexfile%#gameplay) (%gameplay%) | [Graphics](%webroot%%indexfile%#graphics) (%graphics%) | [Outfits](%webroot%%indexfile%#outfits) (%outfits%)<br>
+[Overhauls](%webroot%%indexfile%#overhauls) (%overhauls%) | [Overwrites](%webroot%%indexfile%#overwrites) (%overwrites%) | [Patches](%webroot%%indexfile%#patches) (%patches%) | [Races](%webroot%%indexfile%#races) (%races%)<br>
+[Ships](%webroot%%indexfile%#ships) (%ships%) | [Story](%webroot%%indexfile%#story) (%story%) | [Weapons](%webroot%%indexfile%#weapons) (%weapons%) | [Uncategorized](%webroot%%indexfile%#uncategorized) (%uncategorized%)<br>
 
 
 %%% template for category below this point %%%
 
 ---
 
-##%category%
+## %category%
 
 <p>%amount% plugins in this category.<p>
 
@@ -180,18 +180,18 @@ All Plugins (%allplugins%)
 </details>
 
 
-[back to top](https://github.com/zuckung/test3/blob/main/README.md#plugin-download)
+[back to top](%webroot%%indexfile%#plugin-download)
 
 
 %%% template for plugin entry below this point %%%
 
 ---
 
-###%pluginname%
+### %pluginname%
 %iconpng%
 
 [%assetfile%](%assetfullpath%%assetfile%) | %size% | %lastmodified% | [view files](%pluginurl%%pluginnameurl%/)  
-Author: %author% | [%website%](%websitecheck%)  
+Author: %author% | %websitecheck%[%website%](%website%)  
 Category: %category%  
 
 %description%

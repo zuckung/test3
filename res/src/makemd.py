@@ -9,10 +9,11 @@ indexfile = "README.md"
 assetfullpath = "https://github.com/zuckung/test3/releases/download/Latest/"
 assetfullpath = assetfullpath.replace(" ", ".")
 pluginurl = "https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/"
+webroot = "https://github.com/zuckung/test3/blob/main/"
 template = "res/template.txt"
 listfolder = "res/pluginlist/"
 categories = ["Cheats", "Gameplay", "Graphics", "Outfits", "Overhauls", "Overwrites", "Patches", "Races", "Ships", "Story", "Weapons", "Uncategorized"]
-iconpng = ""
+iconpng = assetfile = pluginname =  lastmodified = size = author = website = category = status = description = pluginnameurl = ""
 plist = []
 allplugins = cheats = gameplay = graphics = outfits = overhauls = overwrites = patches = races = ships = story = weapons = uncategorized = 0
 
@@ -71,12 +72,16 @@ def replacevarp(string):
 	string = string.replace("%size%", size)
 	string = string.replace("%pluginurl%", pluginurl)
 	string = string.replace("%author%", author)
+	string = string.replace("%webroot%", webroot)
+	string = string.replace("%indexfile%", indexfile)
 	if website == "N/A": # for prevent [N/A](N/A) links
-		websitecheck = ""
+		websitecheck = "N/A"
+		websitelink = ""
 	else:
-		websitecheck = website
-	string = string.replace("%website%", website)
-	string = string.replace("%websitecheck%", websiecheck)
+		websitecheck = ""
+		websitelink = website
+	string = string.replace("%website%", websitelink)
+	string = string.replace("%websitecheck%", websitecheck)
 	string = string.replace("%category%", category)
 	string = string.replace("%status%", status)
 	string = string.replace("%iconpng%", str(iconpng))
@@ -146,6 +151,7 @@ tempcatdown = temptempcat[pos +12:] # lower half of template string
 # writing the md file
 with open(indexfile, "w") as file1:
 	temphead = replacevar(temphead)
+	temphead = replacevarp(temphead)
 	file1.writelines(temphead) # writer header template
 	for cat in categories: # for each category
 		tempcatupt = tempcatup.replace("%category%", cat)
