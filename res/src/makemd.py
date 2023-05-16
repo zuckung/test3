@@ -156,7 +156,9 @@ with open(indexfile, "w") as file1:
 	for cat in categories: # for each category
 		tempcatupt = tempcatup.replace("%category%", cat)
 		tempcatupt = replacevar(tempcatupt)
+		tempcatupt = replacevarp(tempcatupt)
 		tempcatdownt = tempcatdown.replace("%category%", cat)
+		tempcatdownt = replacevarp(tempcatdownt)
 		tempcatdownt = replacevar(tempcatdownt)
 		file1.writelines(tempcatupt) # write upper category template
 	
