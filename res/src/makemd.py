@@ -71,11 +71,12 @@ def replacevarp(string):
 	string = string.replace("%size%", size)
 	string = string.replace("%pluginurl%", pluginurl)
 	string = string.replace("%author%", author)
-	if website == "N/A":
-		webreplace = ""
+	if website == "N/A": # for prevent [N/A](N/A) links
+		websitecheck = ""
 	else:
-		webreplace = website
-	string = string.replace("%website%", webreplace)
+		websitecheck = website
+	string = string.replace("%website%", website)
+	string = string.replace("%websitecheck%", websiecheck)
 	string = string.replace("%category%", category)
 	string = string.replace("%status%", status)
 	string = string.replace("%iconpng%", str(iconpng))

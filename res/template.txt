@@ -191,7 +191,7 @@ All Plugins (%allplugins%)
 %iconpng%
 
 [%assetfile%](%assetfullpath%%assetfile%) | %size% | %lastmodified% | [view files](%pluginurl%%pluginnameurl%/)  
-Author: %author% | [%website%](%website%)  
+Author: %author% | [%website%](%websitecheck%)  
 Category: %category%  
 
 %description%
