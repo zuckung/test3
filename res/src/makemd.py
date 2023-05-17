@@ -4,23 +4,34 @@ from datetime import datetime
 import PIL
 from PIL import Image
 
-pathtoplugins = "Working/All Plugins/"
-indexfile = "README.md"
-assetfullpath = "https://github.com/zuckung/test3/releases/download/Latest/"
-assetfullpath = assetfullpath.replace(" ", ".")
-pluginurl = "https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/"
-webroot = "https://github.com/zuckung/test3/blob/main/"
-template = "res/template.txt"
-listfolder = "res/pluginlist/"
-categories = ["Cheats", "Gameplay", "Graphics", "Outfits", "Overhauls", "Overwrites", "Patches", "Races", "Ships", "Story", "Weapons", "Uncategorized"]
 iconpng = assetfile = pluginname =  lastmodified = size = author = website = category = status = description = pluginnameurl = ""
-plist = []
 allplugins = cheats = gameplay = graphics = outfits = overhauls = overwrites = patches = races = ships = story = weapons = uncategorized = 0
+categories = ["Cheats", "Gameplay", "Graphics", "Outfits", "Overhauls", "Overwrites", "Patches", "Races", "Ships", "Story", "Weapons", "Uncategorized"]
+plist = []
 
 # check for local testing
 if os.getcwd() == "/storage/emulated/0/Download/mgit/test3/res/src":
 	os.chdir("../../")
 
+# read paths and files
+with open("res/config.txt") as f:
+	for line in f:
+		line = str((line.strip()))
+		if line.find("indexfile") == 0:	# i.e. indexfile = README.md | can get changed to whatever file you want the script output go
+			indexfile = line.split(" = ")[1]
+		if line.find("template") == 0:	# i.e. template = res/template.txt | a template how the indexfile should look, can be edited
+			template = line.split(" = ")[1]
+		if line.find("listfolder") == 0:	# i.e. listfolder = res/pluginlist/ | folder to where the plugin descriptions files are
+			listfolder = line.split(" = ")[1]
+		if line.find("pathtoplugins") == 0:	# i.e. pathtoplugins = myplugins/ | folder where the plugin folder and files are
+			pathtoplugins = line.split(" = ")[1]
+		if line.find("webroot") == 0:	# i.e. webroot = https://github.com/zuckung/test3/blob/main/
+			webroot = line.split(" = ")[1]	
+		if line.find("pluginurl") == 0:	# i.e. pluginurl = https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/
+			pluginurl = line.split(" = ")[1]
+		if line.find("assetfullpath") == 0:	# i.e. assetfullpath = https://github.com/zuckung/test3/releases/download/Latest/
+			assetfullpath = line.split(" = ")[1]
+			
 def replacevar(string): # replaces %variables% in header template with real values
 	if cat == "AllPlugins":
 		string = string.replace("%amount%", str(allplugins))
@@ -149,6 +160,9 @@ tempcatup = temptempcat[:pos] # upper half of template category
 tempcatdown = temptempcat[pos +12:] # lower half of template string
 
 # writing the md file
+filerr = open("res/errorlog.txt", "w")
+filerr.writelines("header request error log:\n")
+filerr.close
 with open(indexfile, "w") as file1:
 	temphead = replacevar(temphead)
 	temphead = replacevarp(temphead)
@@ -161,7 +175,6 @@ with open(indexfile, "w") as file1:
 		tempcatdownt = replacevarp(tempcatdownt)
 		tempcatdownt = replacevar(tempcatdownt)
 		file1.writelines(tempcatupt) # write upper category template
-	
 		for p in plist: # listfiles list element, created in counting block... 'array' of all plugins
 			pos = p.find("\n")
 			catcomp = p[:pos]
@@ -199,20 +212,31 @@ with open(indexfile, "w") as file1:
 					iconpng = ""
 				
 				# get last modified date from the assetfiles
-				#withdots = pluginname.replace(" ", ".") 
-				#response = requests.head(assetfullpath + withdots + ".zip", allow_redirects=True)
-				#modif = response.headers['Last-Modified']
-				#datetime_object = datetime.strptime(modif, '%a, %d %b %Y %H:%M:%S %Z')
-				#lastmodified = str(datetime_object.date())
-				lastmodified = "N/A"
-				# get file size of the assetfiles in kb or mb
-				#assetsize = int(response.headers['Content-Length']) / 1024
-				#form = " kb"
-				#if assetsize > 1024:
-				#	assetsize = assetsize / 1024
-				#	form = " mb"
-				#size = str(round(assetsize, 2)) + form
-				size = "N/A"
+				withdots = pluginname.replace(" ", ".") 
+				try:
+					response = requests.head(assetfullpath + withdots + ".zip", allow_redirects=True)
+					response.raise_for_status()
+				except requests.exceptions.HTTPError as err:
+					print(err)
+					lastmodified = "N/A"
+					size = "N/A" 
+					filerr = open("res/errorlog.txt", "a")
+					filerr.writelines(str(err) + " \n")
+					filerr.close
+				else:
+					response = requests.head(assetfullpath + withdots + ".zip", allow_redirects=True)
+					response.raise_for_status()
+					modif = response.headers['Last-Modified']
+					datetime_object = datetime.strptime(modif, '%a, %d %b %Y %H:%M:%S %Z')
+					lastmodified = str(datetime_object.date())
+					# get file size of the assetfiles in kb or mb
+					assetsize = int(response.headers['Content-Length']) / 1024
+					form = " kb"
+					if assetsize > 1024:
+						assetsize = assetsize / 1024
+						form = " mb"
+					size = str(round(assetsize, 2)) + form
+					print("requesting header " + assetfullpath + withdots + ".zip DONE")
 				assetfile = pluginname.replace(" ", ".") + ".zip"
 				file1.writelines(replacevarp(tempplug))
 		file1.writelines(tempcatdownt) # write lower category template

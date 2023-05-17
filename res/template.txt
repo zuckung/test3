@@ -13,7 +13,7 @@
 - [Regarding Plugin Informations](%webroot%%indexfile%#regarding-plugin-informations)  
 - [Add your Plugin](%webroot%%indexfile%#add-your-plugin)  
 
-[Plugin Download](h%webroot%%indexfile%#plugin-download)  
+[Plugin Download](%webroot%%indexfile%#plugin-download)  
 - [Cheats](%webroot%%indexfile%#cheats)  
 - [Gameplay](%webroot%%indexfile%#gameplay)  
 - [Graphics](%webroot%%indexfile%#graphics)  
