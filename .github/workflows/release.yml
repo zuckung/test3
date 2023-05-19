@@ -37,6 +37,13 @@ jobs:
               print(p)
               os.chdir('Working/All Plugins/')
               corrected = p.replace(" ", ".")
+              corrected = p.replace("'", ".")
+              corrected = p.replace(",", ".")
+              corrected = p.replace("(", ".")
+              corrected = p.replace(")", ".")
+              corrected = p.replace("&", ".")
+              corrected = p.replace("...", ".")
+              corrected = p.replace("..", ".")
               subprocess.run(["zip", "-r", "../../" + corrected + ".zip", p],
                 stdout=subprocess.DEVNULL)
               os.chdir('../../')

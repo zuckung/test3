@@ -110,6 +110,7 @@ for entry in entries:
 		with open(listfolder + entry + ".txt", "r") as file1:
 			cat = file1.readline()
 			cat = file1.readline()
+			cat = file1.readline()
 			cat = file1.readline().split("=")[1].replace("\n", "")
 			if cat == "cheats":
 				cheats += 1
@@ -140,7 +141,7 @@ for entry in entries:
 		cat = "uncategorized"
 		# if no pluginlist file exists, create an empty one	
 		with open(listfolder + entry + ".txt" , "w") as file1:
-			file1.writelines("author=N/A\nwebsite=N/A\ncategory=N/A\nstatus=N/A\ndescription=N/A\n")
+			file1.writelines("author=N/A\nwebsite=N/A\ndirectlink=N/A\ncategory=N/A\nstatus=N/A\ndescription=N/A\n")
 		print(entry + ".txt CREATED! because plugin was there, but no listfile!")
 	with open(listfolder + entry + ".txt", "r") as file1:
 		text = file1.read()
@@ -192,8 +193,9 @@ with open(indexfile, "w") as file1:
 				pluginnameurl = pluginname.replace(" ", "%20")
 				author = description[2][7:] 
 				website = description[3][8:] 
-				status = description[5][7:]
-				for x in range(1, 7):
+				directlink = description[4][11:]
+				status = description[6][7:]
+				for x in range(0, 7):
 					description.pop(0)
 				description[0] = description[0].replace("description=", "")
 				alllines = ""
@@ -213,10 +215,15 @@ with open(indexfile, "w") as file1:
 				
 				# get last modified date from the assetfiles
 				withdots = pluginname.replace(" ", ".") 
-				withdots = withdots.replace("'", ".") 
+				withdots = withdots.replace("'", ".")
+				withdots = withdots.replace(",", ".") 
 				withdots = withdots.replace("(", ".") 
 				withdots = withdots.replace(")", ".") 
 				withdots = withdots.replace("&", ".") 
+				withdots = withdots.replace("...", ".")
+				withdots = withdots.replace("..", ".")
+				if withdots[len(withdots)-1] == ".":
+					withdots = withdots[:len(withdots)-1]
 				try:
 					response = requests.head(assetfullpath + withdots + ".zip", allow_redirects=True)
 					response.raise_for_status()
@@ -241,11 +248,6 @@ with open(indexfile, "w") as file1:
 						form = " mb"
 					size = str(round(assetsize, 2)) + form
 					print("requesting header " + assetfullpath + withdots + ".zip DONE")
-				withdots = pluginname.replace(" ", ".")
-				withdots = withdots.replace("'", ".") 
-				withdots = withdots.replace("(", ".") 
-				withdots = withdots.replace(")", ".") 
-				withdots = withdots.replace("&", ".") 
 				assetfile =  withdots + ".zip"
 				file1.writelines(replacevarp(tempplug))
 		file1.writelines(tempcatdownt) # write lower category template

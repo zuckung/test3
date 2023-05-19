@@ -1,5 +1,6 @@
 author=Lorantine
 website=https://github.com/Lorantine/derogam
+directlink=N/A
 category=ships
 status=Functional
 description=A big WIP project of dragon aliens.
