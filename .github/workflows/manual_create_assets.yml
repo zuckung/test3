@@ -1,10 +1,6 @@
 name: Manual check/create missing assets
 on: 
   workflow_dispatch:
-    inputs:
-      git-ref:
-        description: Git Ref (Optional)    
-        required: false
 jobs:
   deploy:
     name: First job
@@ -14,9 +10,8 @@ jobs:
       - uses: actions/checkout@v3
         with:
           fetch-depth: 2
-        # checks plugin folders and if corresponding asset files are there, if not create zip of tht folder in root
       - name: makeassets
-        run: python src/makeassets.py
+        run: python res/src/makeassets.py
       - name: Upload plugins to release
         uses: ncipollo/release-action@v1.12.0
         with:
