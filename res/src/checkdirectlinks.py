@@ -107,7 +107,7 @@ print("last modified checks DONE, extracting zips now")
 for entry in listing:
 	# unzip all zips
 	with ZipFile(entry, 'r') as zObject:
-		zObject.extractall("./")
+		zObject.extractall()
 		firstfolder = zObject.namelist()[0]
 		firstfolder = firstfolder[:len(firstfolder) -1]
 		stripped = entry[:len(entry)-4]

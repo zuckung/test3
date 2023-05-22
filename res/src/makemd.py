@@ -4,7 +4,7 @@ from datetime import datetime
 import PIL
 from PIL import Image
 
-iconpng = assetfile = pluginname =  lastmodified = size = author = website = category = status = description = pluginnameurl = ""
+iconpng = assetfile = pluginname =  lastmodified = size = author = website = category = status = description = pluginnameurl = news = ""
 allplugins = cheats = gameplay = graphics = outfits = overhauls = overwrites = patches = races = ships = story = weapons = uncategorized = 0
 categories = ["Cheats", "Gameplay", "Graphics", "Outfits", "Overhauls", "Overwrites", "Patches", "Races", "Ships", "Story", "Weapons", "Uncategorized"]
 plist = []
@@ -85,6 +85,8 @@ def replacevarp(string):
 	string = string.replace("%author%", author)
 	string = string.replace("%webroot%", webroot)
 	string = string.replace("%indexfile%", indexfile)
+	string = string.replace("%news%", news)
+	
 	if website == "N/A": # for prevent [N/A](N/A) links
 		websitecheck = "N/A"
 		websitelink = ""
@@ -159,6 +161,12 @@ tempplug = foot[pos + 50:] # set plugin string
 pos = temptempcat.find("%pluginhere%")
 tempcatup = temptempcat[:pos] # upper half of template category
 tempcatdown = temptempcat[pos +12:] # lower half of template string
+
+
+with open("res/news.txt", "r") as file1: # reading and formating lines
+	newslist = file1.readlines()
+for lines in newslist:
+	news =  news + lines + " \n"
 
 # writing the md file
 filerr = open("res/errorlog.txt", "w")
