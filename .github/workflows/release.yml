@@ -42,6 +42,7 @@ jobs:
               corrected = p.replace("(", ".")
               corrected = p.replace(")", ".")
               corrected = p.replace("&", ".")
+              corrected = p.replace(",", ".")
               corrected = p.replace("...", ".")
               corrected = p.replace("..", ".")
               subprocess.run(["zip", "-r", "../../" + corrected + ".zip", p],

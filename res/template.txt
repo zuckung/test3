@@ -1,5 +1,15 @@
 <img src='res/logo.png' width='500'></img>
 
+
+News:
+<table><tr><td>
+
+%news%
+
+</td></tr></table>
+(provide a directlink to your zipped plugin and we do a daily check if it is newer than the one we host here)
+
+
 # Table of Contents
 
 [Introduction](%webroot%%indexfile%#introduction) 

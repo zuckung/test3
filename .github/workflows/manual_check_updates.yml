@@ -1,0 +1,66 @@
+name: Manual make md
+on: 
+  workflow_dispatch:
+jobs:
+  First:
+    name: First job
+    runs-on: ubuntu-latest
+    permissions: write-all
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 2
+      - name: Install beautifulsoup4 and Pillow
+        run: |
+          python3 -m pip install bs4
+          python3 -m pip install lxml
+          python3 -m pip install Pillow
+      - name: Check directlinks for updates
+        run: python res/src/checkdirectlinks.py
+      - name: rename zips
+        run: |
+          import os
+          import glob
+          listing = glob.glob('*.zip')
+          for p in listing:
+            corrected = p.replace(" ", ".")
+            corrected = p.replace("'", ".")
+            corrected = p.replace(",", ".")
+            corrected = p.replace("(", ".")
+            corrected = p.replace(")", ".")
+            corrected = p.replace("&", ".")
+            corrected = p.replace(",", ".")
+            corrected = p.replace("...", ".")
+            corrected = p.replace("..", ".")
+            os.rename(p, corrected)
+        shell: python
+      - name: Upload plugins to release
+        uses: ncipollo/release-action@v1.11.1
+        with:
+          name: Downloads
+          tag: Latest
+          allowUpdates: true
+          replacesArtifacts: true
+          updateOnlyUnreleased: false
+          artifacts: "*.zip"
+      - name: Delete zips
+        run: |
+          import os
+          import glob
+          listing = glob.glob('*.zip')
+          for p in listing:
+            os.remove(p)
+        shell: python
+      - name: Make README.md
+        run: python res/src/makemd.py
+      - name: Commit file
+        run: |
+          git config user.name "script" 
+          git config user.email "<>"
+          git add .
+          git commit -m "Plugin md generated" || true
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          force: true
