@@ -17,6 +17,17 @@ jobs:
           python3 -m pip install Pillow
       - name: Check directlinks for updates
         run: python res/src/checkdirectlinks.py
+      - name: Commit file
+        run: |
+          git config user.name "script" 
+          git config user.email "<>"
+          git add 'Working/All Plugins/' res/
+          git commit -m "Plugin updated" || true
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          force: true
       - name: rename zips
         run: |
           import os
