@@ -85,9 +85,9 @@ for entry in entries:
 						datetime_object = datetime.strptime(modif, '%a, %d %b %Y %H:%M:%S %Z')
 						linklastmodified = str(datetime_object.date())
 						if assetlastmodified == linklastmodified: # both lastmodified were successful, compare them
-							print("ABORTING: both files have same modified header")
+							print("ABORTING: both files have same last modified header")
 						else:	
-							print("SUCCESS: both files have different modified header")
+							print("SUCCESS: both files have different last modified header")
 						
 							assetsize = int(response.headers['Content-Length']) / 1024 # get size in kb
 							if assetsize >= 102400:
@@ -104,6 +104,7 @@ for entry in entries:
 # extracting zips
 listing = glob.glob('*.zip')
 print("last modified checks DONE, extracting zips now")
+print(listing)
 for entry in listing:
 	# unzip all zips
 	with ZipFile(entry, 'r') as zObject:
@@ -116,9 +117,11 @@ for entry in listing:
 		if stripped != firstfolder:
 			print("ERROR: mismatch between zipname and in-zip folder!")	
 			shutil.move(firstfolder, stripped)
-			print(firstfolder + " | renamed to: " + stripped)		
+			print(firstfolder + " | renamed to: " + stripped)	
+		print(os.listdir())	
 		shutil.rmtree(pathtoplugins + stripped)
 		shutil.move(stripped, pathtoplugins + stripped)
+		print(os.listdir())
 	with open("res/news.txt", "r") as file1: 
 		news = file1.readlines()
 	with open("res/news.txt", "w") as file1: # write to news file
