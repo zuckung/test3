@@ -214,10 +214,12 @@ with open(indexfile, "w") as file1:
 				if os.path.exists(pathtoplugins + pluginname + "/icon.png") == True: # check for icon.png, resize it, or hide it
 					im = Image.open(pathtoplugins + pluginname + "/icon.png")
 					w, h = im.size
+					iconpath = pathtoplugins + pluginname
+					iconpath = iconpath.replace(" ", "%20")
 					if h > w:
-						iconpng = "<img src='"+ pathtoplugins + pluginname + "/icon.png' height='100'></img><br>\n"
+						iconpng = "<img src='"+ iconpath + "/icon.png' height='100'></img><br>\n"
 					else:
-						iconpng = "<img src='"+ pathtoplugins + pluginname + "/icon.png' width='100'></img><br>\n"
+						iconpng = "<img src='"+ iconpath + "/icon.png' width='100'></img><br>\n"
 				else:
 					iconpng = ""
 				
