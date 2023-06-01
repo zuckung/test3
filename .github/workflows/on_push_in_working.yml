@@ -1,5 +1,5 @@
 
-name: Zip Release Readme
+name: on push in working dir
 on:
   push:
     paths:
@@ -23,7 +23,7 @@ jobs:
           import subprocess
           changed = "${{ steps.files.outputs.all_changed_and_modified_files }}"
           plugins = set()
-          for f in changed.split("%25%25%25"):
+          for f in changed.split("%%%"):
             if not "All Plugins" in f:
               continue
             path = f.split(os.sep)
@@ -37,14 +37,16 @@ jobs:
               print(p)
               os.chdir('Working/All Plugins/')
               corrected = p.replace(" ", ".")
-              corrected = p.replace("'", ".")
-              corrected = p.replace(",", ".")
-              corrected = p.replace("(", ".")
-              corrected = p.replace(")", ".")
-              corrected = p.replace("&", ".")
-              corrected = p.replace(",", ".")
-              corrected = p.replace("...", ".")
-              corrected = p.replace("..", ".")
+              corrected = corrected.replace("'", ".") 
+              corrected = corrected.replace(",", ".") 
+              corrected = corrected.replace("(", ".") 
+              corrected = corrected.replace(")", ".") 
+              corrected = corrected.replace("&", ".") 
+              corrected = corrected.replace(",", ".") 
+              corrected = corrected.replace("...", ".")
+              corrected = corrected.replace("..", ".") 
+              if corrected[len(corrected)-1] == ".":
+                corrected = corrected[:len(corrected)-1]
               subprocess.run(["zip", "-r", "../../" + corrected + ".zip", p],
                 stdout=subprocess.DEVNULL)
               os.chdir('../../')
@@ -60,6 +62,15 @@ jobs:
           replacesArtifacts: true
           updateOnlyUnreleased: false
           artifacts: "*.zip"
+      - name: delete zips in root
+        run: |
+          import os
+          import glob
+          listing = glob.glob('*.zip')
+          for entry in listing:
+            os.remove(entry)
+            print("removed: " + entry)
+        shell: python
       - name: Install beautifulsoup4 and Pillow
         run: |
           python3 -m pip install bs4
