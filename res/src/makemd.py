@@ -215,7 +215,11 @@ with open(indexfile, "w") as file1:
 					im = Image.open(pathtoplugins + pluginname + "/icon.png")
 					w, h = im.size
 					iconpath = pathtoplugins + pluginname
-					iconpath = iconpath.replace(" ", "%20")
+					iconpath = iconpath.replace("&", "%26")
+					iconpath = iconpath.replace("'", "%27")
+					iconpath = iconpath.replace("(", "%28")
+					iconpath = iconpath.replace(")", "%29")
+					iconpath = iconpath.replace(",", "%2C")
 					if h > w:
 						iconpng = "<img src='"+ iconpath + "/icon.png' height='100'></img><br>\n"
 					else:
@@ -257,7 +261,6 @@ with open(indexfile, "w") as file1:
 						assetsize = assetsize / 1024
 						form = " mb"
 					size = str(round(assetsize, 2)) + form
-					print("requesting header " + assetfullpath + withdots + ".zip DONE")
 				assetfile =  withdots + ".zip"
 				file1.writelines(replacevarp(tempplug))
 		file1.writelines(tempcatdownt) # write lower category template
