@@ -234,6 +234,7 @@ with open(indexfile, "w") as file1:
 				withdots = withdots.replace("(", ".") 
 				withdots = withdots.replace(")", ".") 
 				withdots = withdots.replace("&", ".") 
+				withdots = withdots.replace(",", ".") 
 				withdots = withdots.replace("...", ".")
 				withdots = withdots.replace("..", ".")
 				if withdots[len(withdots)-1] == ".":
