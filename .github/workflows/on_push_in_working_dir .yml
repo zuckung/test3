@@ -1,5 +1,5 @@
 
-name: on push in working dir
+name: on push in working dir 
 on:
   push:
     paths:
@@ -61,7 +61,7 @@ jobs:
           allowUpdates: true
           replacesArtifacts: true
           updateOnlyUnreleased: false
-          artifacts: "*.zip"
+          artifacts: "*.zip"      
       - name: delete zips in root
         run: |
           import os

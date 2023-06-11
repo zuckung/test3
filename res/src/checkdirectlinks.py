@@ -49,8 +49,7 @@ for entry in entries:
 			withdots = withdots.replace(",", ".") 
 			withdots = withdots.replace("(", ".") 
 			withdots = withdots.replace(")", ".") 
-			withdots = withdots.replace("&", ".") 
-			withdots = withdots.replace(",", ".") 
+			withdots = withdots.replace("&", ".")  
 			withdots = withdots.replace("...", ".")
 			withdots = withdots.replace("..", ".")
 			if withdots[len(withdots)-1] == ".":
@@ -72,7 +71,7 @@ for entry in entries:
 					response.raise_for_status()
 					modif = response.headers['Last-Modified']
 					datetime_object = datetime.strptime(modif, '%a, %d %b %Y %H:%M:%S %Z')
-					assetlastmodified = str(datetime_object.date())
+					assetlastmodified = datetime_object.date()
 					try: # check directlink
 						response = requests.head(directlink, allow_redirects=True)
 						response.raise_for_status()
@@ -83,8 +82,10 @@ for entry in entries:
 						response.raise_for_status()
 						modif = response.headers['Last-Modified']
 						datetime_object = datetime.strptime(modif, '%a, %d %b %Y %H:%M:%S %Z')
-						linklastmodified = str(datetime_object.date())
-						if assetlastmodified == linklastmodified: # both lastmodified were successful, compare them
+						linklastmodified = datetime_object.date()
+						datediff = linklastmodified - assetlastmodified # both lastmodified were successful, compare them
+						print(datediff)
+						if datediff < 1: 
 							print("ABORTING: both files have same last modified header")
 						else:	
 							print("SUCCESS: both files have different last modified header")
