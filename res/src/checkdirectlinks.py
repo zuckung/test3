@@ -43,7 +43,7 @@ for entry in entries:
 		if directlink != "N/A\n": # when there is a direct link
 			directlink = directlink.strip()
 			pluginname = entry[:len(entry) -4]
-			print("directlink found for: " + pluginname)
+			print("\ndirectlink found for: " + pluginname)
 			withdots = pluginname.replace(" ", ".") 
 			withdots = withdots.replace("'", ".")
 			withdots = withdots.replace(",", ".") 
@@ -84,11 +84,10 @@ for entry in entries:
 						datetime_object = datetime.strptime(modif, '%a, %d %b %Y %H:%M:%S %Z')
 						linklastmodified = datetime_object.date()
 						datediff = linklastmodified - assetlastmodified # both lastmodified were successful, compare them
-						print(datediff)
-						if datediff < 1: 
-							print("ABORTING: both files have same last modified header")
+						if datediff.days < 1: 
+							print("ABORTING: assetfile is newer | link: " + str(linklastmodified) + " asset: " + str(assetlastmodified) + " datediff: " + str(datediff.days))
 						else:	
-							print("SUCCESS: both files have different last modified header")
+							print("SUCCESS: linkfile is newer")
 						
 							assetsize = int(response.headers['Content-Length']) / 1024 # get size in kb
 							if assetsize >= 102400:
@@ -96,38 +95,50 @@ for entry in entries:
 								print("ABORTING: directlink is bigger than 100 mb")
 							else:
 								print("SUCCESS: file is smaller than 100 mb")
-								with open(directzip, 'wb') as file2:
+								if os.path.isdir("temp") == False:
+									os.mkdir("temp")
+								with open("temp/" + directzip, 'wb') as file2:
 									r = requests.get(directlink, allow_redirects=True)
 									file2.write(r.content)
 									print("SUCCESS: downloaded zip")
 						
 
 # extracting zips
-listing = glob.glob('*.zip')
-print("last modified checks DONE, extracting zips now")
-print(listing)
+listing = glob.glob("temp/*.zip")
+print("\nlast modified checks DONE, extracting zips now")
 for entry in listing:
 	# unzip all zips
 	with ZipFile(entry, 'r') as zObject:
-		zObject.extractall()
-		firstfolder = zObject.namelist()[0]
+		zObject.extractall("temp/")
+		firstfolder = zObject.namelist()[0] # first folder inside zip, should be pluginname
 		firstfolder = firstfolder[:len(firstfolder) -1]
-		stripped = entry[:len(entry)-4]
-		print(entry + " | extacted to: " + firstfolder)
+		ossep = entry.split(os.sep)
+		stripped = ossep[1]
+		stripped = stripped[:len(stripped)-4] # pluginname stripped from zip name
+		print(entry + " | extacted to: temp/" + firstfolder)
 		# check for same names of zip and first folder in zip
 		if stripped != firstfolder:
-			print("ERROR: mismatch between zipname and in-zip folder!")	
+			print("ERROR: mismatch between zipname and in-zip folder!")
 			shutil.move(firstfolder, stripped)
-			print(firstfolder + " | renamed to: " + stripped)	
-		print(os.listdir())	
-		shutil.rmtree(pathtoplugins + stripped)
-		shutil.move(stripped, pathtoplugins + stripped)
-		print(os.listdir())
+			print("temp/" + firstfolder + " | renamed to: temp/" + stripped)
+		shutil.rmtree(pathtoplugins + stripped) # delete old plugin
+		shutil.move("temp/" + stripped, pathtoplugins + stripped)
 	with open("res/news.txt", "r") as file1: 
 		news = file1.readlines()
-	with open("res/news.txt", "w") as file1: # write to news file
+	with open("res/news.txt", "w") as file1: # write to news file, newest on top, keep old contents
 		today = datetime.today().strftime('%Y-%m-%d')
 		news = [today + " '" + stripped + "' updated\n"] + news
 		file1.writelines(news)
-		
+	# renaming zips to asset convention
+	withdots = stripped.replace(" ", ".") 
+	withdots = withdots.replace("'", ".")
+	withdots = withdots.replace(",", ".") 
+	withdots = withdots.replace("(", ".") 
+	withdots = withdots.replace(")", ".") 
+	withdots = withdots.replace("&", ".") 
+	withdots = withdots.replace("...", ".")
+	withdots = withdots.replace("..", ".")
+	if withdots[len(withdots)-1] == ".":
+		withdots = withdots[:len(withdots)-1]
+	shutil.move(entry, "temp/" + withdots + ".zip")
 					

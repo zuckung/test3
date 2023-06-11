@@ -4,13 +4,35 @@
 News:
 <table><tr><td>
 
-%news%
+2023-06-11 'unique.fix' updated
+
+2023-06-11 'snowfeather.robotics' updated
+
+2023-06-11 'more.boarding.missions' updated
+
+2023-06-11 'kor.efret.shipyard' updated
+
+2023-06-11 'galactic.capital.investment' updated
+
+2023-06-11 'automata.in.human.space' updated
+
+2023-06-11 'automata.destruction.75percent' updated
+
+2023-06-11 'automata.destruction.51percent' updated
+
+2023-06-11 'automata.destruction.23percent' updated
+
+2023-06-11 'automata.destruction.0percent' updated
+
+2023-06-11 repo update: directlink and news
+
+
 
 </td></tr></table>
 (provide a directlink to your zipped plugin and we do a daily check if it is newer than the one we host here)
 <details>
 
-The files in `res/pluginlist/` which are used to generate this README.md, now have a new line `directlink=`, where you can put an URL to your zipped plugin(hosted on any directly accessable webspace). The line should look like:  `directlink=https://github.com/userxyz/esplugins/releases/download/Latest/myplugin.zip`.
+The files in `res/pluginlist/` which are used to generate this README.md, now have a new line `directlink=`, where you can put an URL to your zipped plugin(hosted on any directly accessable webspace). The libe should look like:  `directlink=https://github.com/userxyz/esplugins/releases/download/Latest/myplugin.zip`.
 
 This repository does an automated check for your directlink once a day and if your plugin there is newer than the one hosted here, it updates it and puts it in the news box. 
 

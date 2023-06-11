@@ -1,1 +1,11 @@
-2023-05-22 repo update: directlink and news
+2023-06-11 'unique.fix' updated
+2023-06-11 'snowfeather.robotics' updated
+2023-06-11 'more.boarding.missions' updated
+2023-06-11 'kor.efret.shipyard' updated
+2023-06-11 'galactic.capital.investment' updated
+2023-06-11 'automata.in.human.space' updated
+2023-06-11 'automata.destruction.75percent' updated
+2023-06-11 'automata.destruction.51percent' updated
+2023-06-11 'automata.destruction.23percent' updated
+2023-06-11 'automata.destruction.0percent' updated
+2023-06-11 repo update: directlink and news
