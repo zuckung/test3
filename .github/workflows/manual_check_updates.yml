@@ -22,7 +22,7 @@ jobs:
           git config user.name "script" 
           git config user.email "<>"
           git add .
-          git commit -m "Plugin updated" || true
+          git commit -m "Plugins updated" || true
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
@@ -40,7 +40,9 @@ jobs:
       - name: Delete zips
         run: |
           import shutil
-          shutil.rmtree("temp")
+          import os
+          if os.path.isdir("temp"):
+            shutil.rmtree("temp")
         shell: python
       - name: Make README.md
         run: python res/src/makemd.py
