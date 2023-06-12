@@ -7,11 +7,9 @@ news = ""
 
 with open("res/news.txt", "r") as file1: # reading and formating lines
 	newslist = file1.readlines()
-for i in range(20):
+for i in range(15):
 	if i <= len(newslist)-1:
-		news = news + newslist[i] + "\n"
-
-print(news)
+		news = news + newslist[i] + "<br>"
 
 with open("res/template.txt", "r") as file1:
 	template = file1.read()
