@@ -7705,7 +7705,7 @@ Status: N/A
 
 [1first.zip](https://github.com/zuckung/test3/releases/download/Latest/1first.zip) | 0.32 kb | 2023-06-01 | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/1first/)  
 Author: N/A | N/A[]()  
-Category: Uncategorized  
+Category: N/A  
 
 >N/A
 >
@@ -7721,7 +7721,7 @@ Status: N/A
 
 [2.second.plugin.zip](https://github.com/zuckung/test3/releases/download/Latest/2.second.plugin.zip) | 0.36 kb | 2023-06-01 | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/2%20second%20plugin/)  
 Author: N/A | N/A[]()  
-Category: Uncategorized  
+Category: N/A  
 
 >N/A
 >
