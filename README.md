@@ -4,6 +4,8 @@
 News(latest 15 entries):
 <table width=100%><tr><td>
 
+2023-06-13 'unique.fix' updated
+
 2023-06-12 repo update: directlink and news
 
 
@@ -2917,7 +2919,7 @@ Status: N/A
 <img src='Working/All Plugins/unique.fix/icon.png' width='100'></img><br>
 
 
-[unique.fix.zip](https://github.com/zuckung/test3/releases/download/Latest/unique.fix.zip) | 97.34 kb | 2023-06-11 | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/unique.fix/)  
+[unique.fix.zip](https://github.com/zuckung/test3/releases/download/Latest/unique.fix.zip) | 96.94 kb | 2023-06-13 | [view files](https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/unique.fix/)  
 Author: zuckung | [https://github.com/zuckung/endless-sky-plugins](https://github.com/zuckung/endless-sky-plugins)  
 Category: Overhauls  
 
