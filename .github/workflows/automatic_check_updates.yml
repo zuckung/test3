@@ -1,7 +1,7 @@
 name: Automatic check updated plugins
 on: 
   schedule: 
-    - cron: '30 * * * *' 
+    - cron: '30 3 * * *' 
     # runs at 03:30 am utc every day
     # minute(0-59) / hour(0-23) / day of month(1-31) / month(1-12) / day of week(0-6)
 jobs:
