@@ -133,8 +133,12 @@ for entry in listing:
 			c = file2.readline()
 			c = file2.readline()
 			c = file2.readline()
-			c.replace("category=", "")
-		news = [today + " '" + stripped + "' updated" + c] + news
+			c = c.replace("category=", "")
+			c = c.strip()
+			if c == "N/A":
+				c = "uncategorized"
+			c = "[" + c + "](" + webroot + indexfile + "#" + c + ")\n" # anchor link to category
+		news = [today + " '" + stripped + "' updated | category: " + c] + news
 		file1.writelines(news)
 	# renaming zips to asset convention
 	withdots = stripped.replace(" ", ".") 
