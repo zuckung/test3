@@ -1,7 +1,7 @@
 indexfile = README.md
 template = res/template.txt
 listfolder = res/pluginlist/
-pathtoplugins = Working/All Plugins/
+pathtoplugins = Working/
 webroot = https://github.com/zuckung/test3/blob/main/
-pluginurl = https://github.com/zuckung/test3/tree/main/Working/All%20Plugins/
+pluginurl = https://github.com/zuckung/test3/tree/main/Working/
 assetfullpath = https://github.com/zuckung/test3/releases/download/Latest/
