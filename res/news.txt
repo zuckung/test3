@@ -1,3 +1,4 @@
+2023-06-21 'galactic.capital.investment' updated | category: [gameplay](https://github.com/zuckung/test3/blob/main/README.md#gameplay)
 2023-06-21 'too.many.asteroids' updatedcategory=overhauls
 2023-06-21 'additional.command.buttons' updatedcategory=graphics
 2023-06-21 'snowfeather.robotics' updatedcategory=outfits
