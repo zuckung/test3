@@ -1,2 +1,5 @@
+2023-06-21 'too.many.asteroids' updatedcategory=overhauls
+2023-06-21 'additional.command.buttons' updatedcategory=graphics
+2023-06-21 'snowfeather.robotics' updatedcategory=outfits
 2023-06-13 'unique.fix' updated
 2023-06-12 repo update: directlink and news
