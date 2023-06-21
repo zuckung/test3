@@ -4,6 +4,8 @@
 News(latest 15 entries):
 <table><tr><td width=800>
 
+2023-06-21 'galactic.capital.investment' updated | category: [gameplay](https://github.com/zuckung/test3/blob/main/README.md#gameplay)
+
 2023-06-21 'too.many.asteroids' updatedcategory=overhauls
 
 2023-06-21 'additional.command.buttons' updatedcategory=graphics
@@ -1044,7 +1046,7 @@ Status: N/A
 <img src='Working/galactic.capital.investment/icon.png' width='100'></img><br>
 
 
-[galactic.capital.investment.zip](https://github.com/zuckung/test3/releases/download/Latest/galactic.capital.investment.zip) | 54.79 kb | 2023-06-18 | [view files](https://github.com/zuckung/test3/tree/main/Working/galactic.capital.investment/)  
+[galactic.capital.investment.zip](https://github.com/zuckung/test3/releases/download/Latest/galactic.capital.investment.zip) | 54.79 kb | 2023-06-21 | [view files](https://github.com/zuckung/test3/tree/main/Working/galactic.capital.investment/)  
 Author: zuckung | [https://github.com/zuckung/endless-sky-plugins](https://github.com/zuckung/endless-sky-plugins)  
 Category: Gameplay  
 
@@ -2149,7 +2151,7 @@ Status: N/A
 <img src='Working/snowfeather.robotics/icon.png' width='100'></img><br>
 
 
-[snowfeather.robotics.zip](https://github.com/zuckung/test3/releases/download/Latest/snowfeather.robotics.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/snowfeather.robotics/)  
+[snowfeather.robotics.zip](https://github.com/zuckung/test3/releases/download/Latest/snowfeather.robotics.zip) | 54.77 kb | 2023-06-21 | [view files](https://github.com/zuckung/test3/tree/main/Working/snowfeather.robotics/)  
 Author: zuckung | [https://github.com/zuckung/endless-sky-plugins](https://github.com/zuckung/endless-sky-plugins)  
 Category: Outfits  
 
@@ -2595,7 +2597,7 @@ Status: No longer developed. Playable on 0.9.14, 0.9.15 Continuous.
 ### PipMod
 
 
-[PipMod.zip](https://github.com/zuckung/test3/releases/download/Latest/PipMod.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/PipMod/)  
+[PipMod.zip](https://github.com/zuckung/test3/releases/download/Latest/PipMod.zip) | 0.31 kb | 2023-05-13 | [view files](https://github.com/zuckung/test3/tree/main/Working/PipMod/)  
 Author: N/A | N/A[]()  
 Category: Overhauls  
 
@@ -2881,7 +2883,7 @@ Status: N/A
 <img src='Working/too.many.asteroids/icon.png' width='100'></img><br>
 
 
-[too.many.asteroids.zip](https://github.com/zuckung/test3/releases/download/Latest/too.many.asteroids.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/too.many.asteroids/)  
+[too.many.asteroids.zip](https://github.com/zuckung/test3/releases/download/Latest/too.many.asteroids.zip) | 57.36 kb | 2023-06-21 | [view files](https://github.com/zuckung/test3/tree/main/Working/too.many.asteroids/)  
 Author: zuckung | [https://github.com/zuckung/endless-sky-plugins](https://github.com/zuckung/endless-sky-plugins)  
 Category: Overhauls  
 
@@ -7737,7 +7739,7 @@ Status: N/A
 
 [Core-Mining-Inc-0.1.7.1.zip](https://github.com/zuckung/test3/releases/download/Latest/Core-Mining-Inc-0.1.7.1.zip) | 0.37 kb | 2023-05-15 | [view files](https://github.com/zuckung/test3/tree/main/Working/Core-Mining-Inc-0%201%207%201/)  
 Author: N/A | N/A[]()  
-Category: Uncategorized  
+Category: N/A  
 
 >N/A
 >
@@ -7866,7 +7868,7 @@ Status: N/A
 
 [Heliarch.Shopping.Korath.Konvenience.zip](https://github.com/zuckung/test3/releases/download/Latest/Heliarch.Shopping.Korath.Konvenience.zip) | 50.35 kb | 2023-06-01 | [view files](https://github.com/zuckung/test3/tree/main/Working/Heliarch%20Shopping&Korath%20Konvenience/)  
 Author: N/A | N/A[]()  
-Category: Uncategorized  
+Category: N/A  
 
 >N/A
 >
@@ -8067,7 +8069,7 @@ Status: story
 
 [TaleOfApoxys.zip](https://github.com/zuckung/test3/releases/download/Latest/TaleOfApoxys.zip) | 0.13 kb | 2023-05-19 | [view files](https://github.com/zuckung/test3/tree/main/Working/TaleOfApoxys/)  
 Author: N/A | N/A[]()  
-Category: Uncategorized  
+Category: N/A  
 
 >N/A
 >
