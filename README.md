@@ -1,28 +1,23 @@
 <img src='res/logo.png' width='500'></img>
 
 
-News(latest 15 entries):
+News(latest 10 entries):
 <table><tr><td width=800>
 
 2023-06-21 'galactic.capital.investment' updated | category: [gameplay](https://github.com/zuckung/test3/blob/main/README.md#gameplay)
-
-2023-06-21 'too.many.asteroids' updatedcategory=overhauls
-
-2023-06-21 'additional.command.buttons' updatedcategory=graphics
-
-2023-06-21 'snowfeather.robotics' updatedcategory=outfits
-
-2023-06-13 'unique.fix' updated
-
-2023-06-12 repo update: directlink and news
-
-
+<br>2023-06-21 'too.many.asteroids' updatedcategory=overhauls
+<br>2023-06-21 'additional.command.buttons' updatedcategory=graphics
+<br>2023-06-21 'snowfeather.robotics' updatedcategory=outfits
+<br>2023-06-13 'unique.fix' updated
+<br>2023-06-12 repo update: directlink and news
+<br>
 
 </td></tr></table>
 Provide a directlink to your zipped plugin and we do a daily check if it is newer than the one we host here.<br>
 
 [howto](https://github.com/zuckung/test3/blob/main/README.md#automatic-updating)
 
+---
 
 # Table of Contents
 
@@ -1046,7 +1041,7 @@ Status: N/A
 <img src='Working/galactic.capital.investment/icon.png' width='100'></img><br>
 
 
-[galactic.capital.investment.zip](https://github.com/zuckung/test3/releases/download/Latest/galactic.capital.investment.zip) | 54.79 kb | 2023-06-21 | [view files](https://github.com/zuckung/test3/tree/main/Working/galactic.capital.investment/)  
+[galactic.capital.investment.zip](https://github.com/zuckung/test3/releases/download/Latest/galactic.capital.investment.zip) | 54.81 kb | 2023-06-28 | [view files](https://github.com/zuckung/test3/tree/main/Working/galactic.capital.investment/)  
 Author: zuckung | [https://github.com/zuckung/endless-sky-plugins](https://github.com/zuckung/endless-sky-plugins)  
 Category: Gameplay  
 
@@ -4989,7 +4984,7 @@ Category: Ships
 >
 
 
-Status: Requires Continuous/0.9.15+  
+Status: Requires Continuous/0.10.1+  
 
 
 ---
