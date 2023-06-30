@@ -1,0 +1,14 @@
+name: Manual start test.py
+on: 
+  workflow_dispatch:
+jobs:
+  deploy:
+    name: First job
+    runs-on: ubuntu-latest
+    permissions: write-all
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 2
+      - name: makeassets
+        run: python res/src/test.py

@@ -29,9 +29,6 @@ with open("res/config.txt") as f:
 		if line.find("assetfullpath") == 0:	# i.e. assetfullpath = https://github.com/zuckung/test3/releases/download/Latest/
 			assetfullpath = line.split(" = ")[1]
 			
-			
-			
-			
 entries = os.listdir(listfolder) # for all listfiles
 entries.sort(key=str.lower)
 for entry in entries:
@@ -56,39 +53,41 @@ for entry in entries:
 				withdots = withdots[:len(withdots)-1]
 			directzip = directlink.split(os.sep)
 			directzip = str(directzip[len(directzip)-1])
-			if directzip[:len(directzip) - 4] != pluginname: # checking for same name
-				print("ABORTING: naming convention mismatch")
-			else:
-				print("SUCCESS: naming convention match")		
 						
-				try: # check asset file
-					response = requests.head(assetfullpath + withdots + ".zip", allow_redirects=True)
+			try: # check asset file
+				response = requests.head(assetfullpath + withdots + ".zip", allow_redirects=True)
+				response.raise_for_status()
+			except requests.exceptions.HTTPError as err:
+				print(err)
+			else:
+				response = requests.head(assetfullpath + withdots + ".zip", allow_redirects=True)
+				response.raise_for_status()
+				modif = response.headers['Last-Modified']
+				datetime_object = datetime.strptime(modif, '%a, %d %b %Y %H:%M:%S %Z')
+				assetlastmodified = datetime_object.date()
+				try: # check directlink
+					response = requests.head(directlink, allow_redirects=True)
 					response.raise_for_status()
 				except requests.exceptions.HTTPError as err:
 					print(err)
 				else:
-					response = requests.head(assetfullpath + withdots + ".zip", allow_redirects=True)
+					response = requests.head(directlink, allow_redirects=True)
 					response.raise_for_status()
-					modif = response.headers['Last-Modified']
-					datetime_object = datetime.strptime(modif, '%a, %d %b %Y %H:%M:%S %Z')
-					assetlastmodified = datetime_object.date()
-					try: # check directlink
-						response = requests.head(directlink, allow_redirects=True)
-						response.raise_for_status()
-					except requests.exceptions.HTTPError as err:
-						print(err)
+					try: # checking if last-modicied tag is there
+						modif = response.headers['Last-Modified']
+					except:
+						print("ABORTING: no Last-Modified tag in header")
 					else:
-						response = requests.head(directlink, allow_redirects=True)
-						response.raise_for_status()
 						modif = response.headers['Last-Modified']
 						datetime_object = datetime.strptime(modif, '%a, %d %b %Y %H:%M:%S %Z')
 						linklastmodified = datetime_object.date()
 						datediff = linklastmodified - assetlastmodified # both lastmodified were successful, compare them
+						print(datediff)
+						print(datediff.seconds)
 						if datediff.days < 1: 
 							print("ABORTING: assetfile is newer | link: " + str(linklastmodified) + " asset: " + str(assetlastmodified) + " datediff: " + str(datediff.days))
 						else:	
-							print("SUCCESS: linkfile is newer")
-						
+							print("SUCCESS: linkfile is newer")				
 							assetsize = int(response.headers['Content-Length']) / 1024 # get size in kb
 							if assetsize >= 102400:
 								print(assetsize)
@@ -97,11 +96,10 @@ for entry in entries:
 								print("SUCCESS: file is smaller than 100 mb")
 								if os.path.isdir("temp") == False:
 									os.mkdir("temp")
-								with open("temp/" + directzip, 'wb') as file2:
+								with open("temp/" + pluginname, 'wb') as file2: # create zip file
 									r = requests.get(directlink, allow_redirects=True)
 									file2.write(r.content)
-									print("SUCCESS: downloaded zip")
-						
+									print("SUCCESS: downloaded zip")						
 
 # extracting zips
 listing = glob.glob("temp/*.zip")
