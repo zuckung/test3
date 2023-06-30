@@ -10,5 +10,8 @@ jobs:
       - uses: actions/checkout@v3
         with:
           fetch-depth: 2
+      - name: Install gitpython
+        run: |
+          python3 -m pip install gitpython
       - name: makeassets
         run: python res/src/test.py
