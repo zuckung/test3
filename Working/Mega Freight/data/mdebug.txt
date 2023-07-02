@@ -1,0 +1,1388 @@
+
+mission "MGF Debug: Toggle Event Mode"
+	job
+	deadline 1
+	name `MGF Debug`
+	description `Accept this job if new ships don't spawn. Depart and land again then it should work. Effect is permanent.`
+	source
+		government "cheat" Omnis
+	on accept
+		"mgf event spawn" = 1
+	
+mission `MGF: Canaveral Naval Yard Begin Debug`
+	job
+	deadline 1
+	name "MGF CNY start"
+	description `Force begin the construction of Canaveral Naval Yard in Sol.`
+	source
+		government "cheat" Omnis
+	on accept
+		event "mgf: canaveral naval yard begin"
+		
+mission "MGF Debug: Reset Alcazar Spawn"
+	job
+	deadline 1
+	name "MGF Reset Alcazar Spawn"
+	description `If the Alcazar spawned don't have correct weapon due to being spawned in previous version. Can also be used if you want to challenge them again. NOTE: Will not reset reputation loss.`
+	source
+		government "cheat"
+	on accept
+		fail "MGF: Polaris Alcazar"
+		fail "MGF: Sol Alcazar"
+		fail "MGF: Almaaz Alcazar"
+		clear "MGF: Polaris Alcazar: offered"
+		clear "MGF: Sol Alcazar: offered"
+		clear "MGF: Almaaz Alcazar: offered"
+		clear "MGF: Polaris Alcazar: failed"
+		clear "MGF: Sol Alcazar: failed"
+		clear "MGF: Almaaz Alcazar: failed"
+	on enter
+		clear "MGF: Polaris Alcazar: failed"
+		clear "MGF: Sol Alcazar: failed"
+		clear "MGF: Almaaz Alcazar: failed"
+	
+mission "MGF-Omnis: Obtain License"
+	job
+	name "MGF Add Licenses"
+	deadline 1
+	description `Get all licenses added by Mega Freight plugin. (Espion Employee, Syndicate Platinum, Navy Battleship, Amusement Equipment, Casino Operator)`
+	source
+		government "cheat" Omnis
+	on accept
+		set "license: Espion Employee"
+		set "license: Syndicate Platinum"
+		set "license: Navy Battleship"
+		set "license: Amusement Equipment"
+		set "license: Casino Operator"
+		
+mission "MGF-Omnis: Remove License"
+	job
+	name "MGF Remove Licenses"
+	deadline 1
+	description `Remove all licenses added by Mega Freight plugin. (Espion Employee, Syndicate Platinum, Navy Battleship, Amusement Equipment, Casino Operator)`
+	source
+		government "cheat" Omnis
+	on accept
+		clear "license: Espion Employee"
+		clear "license: Syndicate Platinum"
+		clear "license: Navy Battleship"
+		clear "license: Amusement Equipment"
+		clear "license: Casino Operator"
+	
+mission "MGF: Reset Add ships to fleets"
+	job
+	name "MGF Reset add ships to fleet"
+	description `Reset "MGF: Add ships to fleets" so ships will get added to fleets again. Only use if new ships are missing from vanilla fleets.`
+	to offer
+		has "mgf event spawn"
+	source
+		government "cheat" Omnis
+	on offer
+		fail "MGF: Add ships to fleets"
+		clear "MGF: Add ships to fleets: active"
+		clear "MGF: Add ships to fleets: offered"
+	
+mission "MGF: Add ships to fleets"
+	landing
+	invisible
+	deadline 1
+	to offer
+		has "mgf event spawn"
+	on offer
+		event "MGF: Add Ships to Fleets"
+
+event "MGF: Add Ships to Fleets"
+	fleet "Small Southern Merchants"
+		add variant 40
+			"FR-4 Dart"
+		add variant 20
+			"CF-50 Cart"
+		add variant 5
+			"FG-6 Startrain"
+			
+		add variant 1
+			"QYG-30 Qazan"
+			
+		add variant 10
+			"FF-30 Volant"
+		add variant 5
+			"FF-30 Volant" 2
+			
+		add variant 10
+			"TS-650 Herrenbal"
+		add variant 5
+			"TS-650 Herrenbal"
+			"Sparrow" 2
+			
+		add variant 1
+			"AD-012C Iaphia"
+			
+		add variant 4
+			"FG-6 Startrain-A"
+			
+		add variant 10
+			"QYG-30r Qazan"
+
+	fleet "Large Southern Merchants"
+		add variant 6
+			"CH-6 Carrack"
+			"Finch" 5
+		add variant 12
+			"CH-6 Carrack"
+			"Finch" 5
+			"Hawk" 3
+		add variant 5
+			"LCC-3 Sierra"
+			"Osprey"
+		add variant 6
+			"FG-7 Conveyor"
+			"CSE-6 Steward" #6
+			"Lance" 14
+		add variant 4
+			"FG-7 Conveyor" 3
+			"CS-24 Garrison" #18
+			"Lance" 42
+		add variant 4
+			"Hauler III" 3
+			"Hawk" 3
+			"CS-24 Garrison" #18
+			"Lance" 18
+		add variant 2
+			"Hauler" 6
+			"CS-24 Garrison" #18
+			"Lance" 18
+			
+		add variant 1
+			"QYG-60 Sandiq" 2
+			
+		add variant 6
+			"FG-7 Conveyor-A"
+			"CSE-6 Steward" #6
+			"Lance" 14
+		add variant 4
+			"FG-7 Conveyor-A" 3
+			"CS-24 Garrison" #18
+			"Lance" 42
+			
+		add variant 8
+			"PF-80 Intrepid"
+		add variant 6
+			"PF-80 Intrepid" 2
+			"Osprey"
+			
+		add variant 8
+			"TS-CH0 Kratzbal"
+		add variant 6
+			"TS-CH0 Kratzbal"
+			"Hawk" 2
+		add variant 4
+			"TS-CH0 Kratzbal"
+			"TS-650 Herrenbal" 2
+			"Osprey"
+		add variant 2
+			"PF-80 Intrepid"
+			"TS-CH0 Kratzbal"
+			"Osprey"
+			
+		add variant 1
+			"FTV-33 Acareus"
+		
+		add variant 4
+			"CK50T Stahbar"
+		add variant 1
+			"AD-019A Iabayi"
+			
+		add variant 6
+			"CK40T Treibard"
+			"Headhunter"
+		add variant 1
+			"Tlielart (Cargo Carrier)"
+			"Dagger" 12
+			"AGT-31 Xencar" 24
+		add variant 1
+			"Tlielart (Cargo Engine)"
+			"Corvette" 2
+			"Manta" 2
+			
+		add variant 2
+			"PF-80 Intrepid (Swordfish)"
+		add variant 3
+			"Nasprite (Swordfish)"
+		add variant 2
+			"PF-80 Intrepid (Plasma Engine)"
+			
+		add variant 2
+			"LXC-2 Strata"
+			"Hawk" 3
+			
+		add variant 1
+			"LVC-2 Sandura"
+			"Splinter"
+			"Quicksilver" 3
+			"Osprey"
+			
+		add variant 3
+			"PT-60 Gallant"
+			"Bastion"
+		add variant 3
+			"LPC-3 Lavaka"
+			"Splinter" 2
+			
+		add variant 5
+			"PL-50 Impavid"
+			"Bastion"
+			
+		add variant 10
+			"QYG-30r Qazan" 3
+			"Bastion"
+		
+	fleet "Small Core Merchants"
+		add variant 40
+			"FR-4 Dart"
+		add variant 20
+			"CF-50 Cart"
+		add variant 5
+			"FG-6 Startrain"
+			
+		add variant 7
+			"QYG-30 Qazan"
+			
+		add variant 5
+			"FG-6 Startrain-A"
+		
+		add variant 5
+			"FF-30 Volant"
+			
+		add variant 10
+			"TS-650 Herrenbal"
+		add variant 5
+			"TS-650 Herrenbal"
+			"Sparrow" 2
+			
+		add variant 1
+			"AD-012C Iaphia"
+			
+		add variant 10
+			"QYG-30r Qazan"
+
+	fleet "Large Core Merchants"
+		add variant 10
+			"CH-6 Carrack"
+			"Barb (Proton)" 4
+		add variant 12
+			"CH-6 Carrack"
+			"Barb" 4
+		add variant 1
+			"SV-4450 Sovereign"
+			"Lance" 32
+		add variant 6
+			"LCC-3 Sierra"
+		add variant 10
+			"FG-6 Startrain"
+		add variant 7
+			"FG-7 Conveyor"
+			"CSE-6 Steward" #6
+			"Barb" 8
+			"Barb (Proton)" 6
+		add variant 5
+			"FG-7 Conveyor" 3
+			"Barb" 24
+			"CS-24 Garrison" #18
+			"Lance" 18
+		add variant 1
+			"FG-7 Conveyor" 6
+			"Barb" 24
+			"Barb (Proton)" 24
+			"CS-24 Garrison" 3 #18
+			"Lance" 54
+		add variant 1
+			"FG-5 Bluewhale" 8
+			"CS-24 Garrison" 3 #18
+			"Lance" 54
+		add variant 5
+			"FG-5 Bluewhale"
+		add variant 1
+			"FG-7 Conveyor" 6
+			"Barb" 24
+			"Barb (Proton)" 24
+			"CS-24 Garrison" 3 #18
+			"Lance" 54
+			"CSE-6 Steward" 5 #6
+			"Finch" 30
+			
+		add variant 20
+			"QYG-30 Qazan" 3
+		add variant 25
+			"QYG-60 Sandiq" 2
+		add variant 20
+			"QYG-60 Sandiq" 3
+		add variant 5
+			"QYG-60 Sandiq"
+			"QYG-30 Qazan" 2
+		add variant 10
+			"Nasprite"
+			"Quicksilver" 3
+		add variant 10
+			"Nasprite"
+		add variant 10
+			"FG-7 Conveyor"
+			"AGT-31 Xencar" 8
+		add variant 1
+			"FG-5 Bluewhale" 8
+			"CS-24 Garrison" 3 #18
+			"Lance" 36
+			"AGT-31 Xencar" 18
+		add variant 8
+			"CH-6 Carrack"
+			"AGT-31 Xencar" 4
+			
+		add variant 5
+			"FG-7 Conveyor-A" 3
+			"Barb" 24
+			"CS-24 Garrison" #18
+			"Lance" 18
+		add variant 1
+			"FG-7 Conveyor-A" 6
+			"Barb" 24
+			"Barb (Proton)" 24
+			"CS-24 Garrison" 3 #18
+			"Lance" 54
+		add variant 1
+			"FG-5 Bluewhale-A" 8
+			"CS-24 Garrison" 3 #18
+			"Lance" 54
+		add variant 5
+			"FG-5 Bluewhale-A"
+			
+		add variant 1
+			"AP-7 Sentinel"
+			"FG-7 Conveyor-A" 3
+			"Barb (Proton)" 24
+			"CS-24 Garrison" #18
+			"Lance" 18
+			
+		add variant 6
+			"PF-80 Intrepid"
+			
+		add variant 8
+			"TS-CH0 Kratzbal"
+		add variant 6
+			"TS-CH0 Kratzbal"
+			"Wasp" 2
+		add variant 4
+			"TS-CH0 Kratzbal"
+			"TS-650 Herrenbal" 2
+			"Quicksilver" 3
+		add variant 2
+			"PF-80 Intrepid"
+			"TS-CH0 Kratzbal"
+			"Manta" 2
+			
+		add variant 1
+			"FTV-33 Acareus"
+			
+		add variant 1
+			"AD-019A Iabayi"
+		add variant 4
+			"AsK12-6 Celjurai"
+			"Quicksilver" 3
+			
+		add variant 1
+			"CK80T Tlielart"
+			"Vanguard"
+			"Manta" 2
+		add variant 1
+			"Tlielart (Cargo Engine)"
+			"Manta" 2
+			"Quicksilver" 3
+			
+		add variant 6
+			"FG-5 Bluewhale-A"
+			"Quicksilver" 3
+		add variant 4
+			"FG-5 Bluewhale-A"
+			"Manta" 2
+		add variant 3
+			"FG-5 Bluewhale-A" 2
+			"Vanguard"
+			"Quicksilver" 3
+		
+		add variant 4
+			"PF-80 Intrepid (Swordfish)"
+		add variant 6
+			"Nasprite (Swordfish)"
+			
+		add variant 4
+			"LXC-2 Strata"
+			"Quicksilver (Proton)" 2
+		add variant 2
+			"LXC-2 Strata"
+			"Manta"
+		add variant 1
+			"Strata (Sulfuric Acid Filled)"
+			"Quicksilver (Proton)" 2
+		add variant 1
+			"Strata (Methanol Filled)"
+			"Manta"
+		add variant 1
+			"Strata (Sulfuric Acid Half-Filled)"
+			"Quicksilver (Proton)" 2
+		add variant 1
+			"Strata (Hydrazine Filled)"
+			"Manta"
+		add variant 1
+			"Strata (Sulfuric Acid Half-Filled)"
+			"Quicksilver (Proton)" 2
+		add variant 1
+			"Strata (Phosphoric Acid Filled)"
+			"Manta"
+		add variant 1
+			"Strata (Ammonia Filled)"
+			"Quicksilver (Proton)" 2
+			
+		add variant 3
+			"FG-5 Bluewhale-A" 2
+			"AP-7 Sentinel"
+			
+		add variant 1
+			"LVC-2 Sandura"
+			"Splinter"
+			"Quicksilver" 3
+			
+		add variant 3
+			"LPC-3 Lavaka"
+			"Splinter" 2
+			
+		add variant 10
+			"QYG-30r Qazan" 2
+			"Quicksilver"
+		
+	fleet "Paradise Merchants"
+		add variant 10
+			"FR-4 Dart"
+		add variant 2
+			"CH-6 Carrack"
+		add variant 1
+			"SV-4450 Sovereign"
+			"Lance" 32
+		add variant 5
+			"FG-6 Startrain"
+			
+		add variant 20
+			"QYG-30 Qazan" 3
+		add variant 25
+			"QYG-60 Sandiq" 2
+		add variant 20
+			"QYG-60 Sandiq" 3
+			
+		add variant 10
+			"TS-650 Herrenbal"
+			
+		add variant 5
+			"FTV-33 Acareus"
+		
+		add variant 10
+			"AD-012C Iaphia"
+		add variant 5
+			"AD-019A Iabayi"
+		add variant 4
+			"AsK12-6 Celjurai"
+		add variant 3
+			"CK40T Treibard"
+		add variant 1
+			"CK80T Tlielart"
+		add variant 1
+			"Tlielart (Cargo Engine)"
+			
+		add variant 1
+			"CH-6 Carrack (Atomic I)"
+			"AGT-31 Xencar" 4
+			
+		add variant 5
+			"FG-6 Startrain-A"
+			
+		add variant 8
+			"SKVS-2 Mudskipper"
+		add variant 5
+			"SKVS-2 Mudskipper" 3
+		add variant 4
+			"SKVS-3 Gudgeon"
+			
+		add variant 1
+			"Strata (Sulfuric Acid Half-Filled)"
+			"Headhunter" 2
+		add variant 1
+			"Strata (Hydrazine Filled)"
+			"Firebird"
+		add variant 1
+			"Strata (Ammonia Filled)"
+			"Headhunter" 2
+		add variant 1
+			"Mesa (LNG Half-Filled)"
+			
+		add variant 1
+			"LVC-2 Sandura"
+			"Firebird"
+			"Headhunter" 2
+			
+		add variant 3
+			"LPC-3 Lavaka"
+			"Splinter" 2
+			
+		add variant 5
+			"PL-50 Impavid"
+			"Bastion"
+			
+		add variant 10
+			"QYG-30r Qazan"
+
+	fleet "Small Northern Merchants"
+		add variant 10
+			"FR-4 Dart"
+		add variant 5
+			"CF-50 Cart"
+			
+		add variant 7
+			"QYG-30 Qazan"
+			
+		add variant 6
+			"FF-30 Volant"
+			
+		add variant 10
+			"TS-650 Herrenbal"
+		add variant 5
+			"TS-650 Herrenbal"
+			"Sparrow" 2
+			
+		add variant 5
+			"AD-012C Iaphia"
+			
+		add variant 5
+			"FG-6 Startrain"
+		add variant 5
+			"FG-6 Startrain-A"
+			
+		add variant 10
+			"QYG-30r Qazan"
+
+	fleet "Large Northern Merchants"
+		add variant 5
+			"CH-6 Carrack"
+		add variant 10
+			"CH-6 Carrack"
+			"Lance" 4
+		add variant 10
+			"CH-6 Carrack"
+			"Dagger" 4
+		add variant 10
+			"CH-6 Carrack"
+			"Barb" 4
+		add variant 6
+			"LCC-3 Sierra"
+			"Raven" 2
+		add variant 6
+			"LCC-3 Sierra"
+			"CSE-6 Steward" #6
+			"Dagger" 6
+		add variant 5
+			"FG-5 Bluewhale"
+		add variant 10
+			"FG-7 Conveyor"
+			"Lance" 8
+		add variant 10
+			"FG-7 Conveyor"
+			"Dagger" 8
+		add variant 10
+			"FG-7 Conveyor"
+			"Barb" 8
+		add variant 7
+			"FG-5 Bluewhale"
+			"Raven" 2
+		add variant 10
+			"FG-6 Startrain"
+		add variant 5
+			"FG-6 Startrain" 3
+		add variant 5
+			"FG-6 Startrain" 3
+			"CSE-6 Steward" #6
+			"Dagger" 6
+		add variant 7
+			"FG-7 Conveyor"
+			"CSE-6 Steward" #6
+			"Dagger" 14
+		add variant 5
+			"FG-7 Conveyor" 3
+			"Dagger" 24
+			"CS-24 Garrison" #18
+			"Lance" 18
+			
+		add variant 20
+			"QYG-30 Qazan" 3
+		add variant 25
+			"QYG-60 Sandiq" 2
+		add variant 20
+			"QYG-60 Sandiq" 3
+		add variant 10
+			"FG-7 Conveyor"
+			"AGT-31 Xencar" 8
+			
+		add variant 3
+			"RF-03 Gerlache"
+			"Dagger" 8
+			"Firebird" 2
+		add variant 5
+			"FG-5 Bluewhale-A"
+		add variant 10
+			"FG-7 Conveyor-A"
+			"Lance" 8
+		add variant 10
+			"FG-7 Conveyor-A"
+			"Dagger" 8
+		add variant 10
+			"FG-7 Conveyor-A"
+			"Barb" 8
+		add variant 7
+			"FG-5 Bluewhale-A"
+			"Raven" 2
+		add variant 10
+			"FG-6 Startrain-A"
+			
+		add variant 6
+			"PF-80 Intrepid"
+			
+		add variant 8
+			"TS-CH0 Kratzbal"
+		add variant 6
+			"TS-CH0 Kratzbal"
+			"Berserker" 2
+		add variant 4
+			"TS-CH0 Kratzbal"
+			"TS-650 Herrenbal" 2
+			"Headhunter" 2
+			"Corvette"
+		add variant 2
+			"PF-80 Intrepid"
+			"TS-CH0 Kratzbal"
+			"Firebird" 2
+			
+		add variant 9
+			"FTV-33 Acareus"
+			
+		add variant 7
+			"CK50T Stahbar"
+		add variant 5
+			"AD-019A Iabayi"
+		add variant 4
+			"AsK12-6 Celjurai"
+			"Corvette"
+		add variant 2
+			"CK40T Treibard"
+		add variant 2
+			"CK40T Treibard"
+			"Firebird"
+		add variant 1
+			"CK80T Tlielart"
+			"CSE-6 Steward" #6
+			"Dagger" 6
+		add variant 1
+			"Tlielart (Cargo Carrier)"
+			"Dagger" 36
+			
+		add variant 3
+			"CH-6 Carrack (Atomic I)"
+			"AGT-31 Xencar" 4
+			
+		add variant 4
+			"LGC-3 Mesa"
+			"Firebird" 2
+			
+		add variant 2
+			"PF-80 Intrepid (Plasma Engine)"
+		add variant 4
+			"PF-80 Intrepid (Laser)"
+			
+		add variant 4
+			"LXC-2 Strata"
+			"Firebird" 2
+		add variant 1
+			"Strata (Sulfuric Acid Filled)"
+			"Firebird" 2
+		add variant 1
+			"Strata (Methanol Filled)"
+			"Firebird"
+		add variant 1
+			"Strata (Sulfuric Acid Half-Filled)"
+			"Headhunter" 2
+		add variant 1
+			"Strata (Hydrazine Filled)"
+			"Firebird"
+		add variant 1
+			"Strata (Ammonia Filled)"
+			"Headhunter" 2
+		add variant 1
+			"Strata (Phosphoric Acid Filled)"
+			"Firebird"
+			
+		add variant 1
+			"LVC-2 Sandura"
+			"Firebird"
+			"Headhunter" 2
+			
+		add variant 3
+			"LPC-3 Lavaka"
+			"Splinter" 2
+			
+		add variant 10
+			"QYG-30r Qazan" 2
+			
+	fleet "Large Human Merchants (Hai)"
+		add variant 3
+			"SV-4450 Sovereign"
+			"Lance" 32
+		add variant 6 #Say no to Xenos ships.
+			"FG-7 Conveyor" 3 
+			"Dagger" 24
+			"CS-24 Garrison" #18
+			"Lance" 18
+		add variant 6
+			"FG-5 Bluewhale"
+		add variant 5
+			"FG-5 Bluewhale" 2
+			"CSE-6 Steward" #6
+			"Dagger" 6
+			
+		add variant 6
+			"FG-5 Bluewhale-A"
+		add variant 5
+			"FG-5 Bluewhale-A" 2
+			"CSE-6 Steward" #6
+			"Dagger" 6
+			
+		add variant 3
+			"FTV-33 Acareus"
+			
+		add variant 1
+			"CK50T Stahbar"
+		add variant 1
+			"AD-012C Iaphia"
+		add variant 1
+			"AD-019A Iabayi"
+			
+		add variant 1
+			"CK80T Tlielart"
+			"Firebird" 2
+		add variant 2
+			"CK40T Treibard" 2
+			
+		add variant 3
+			"FG-7 Conveyor-A" 3 
+			"Dagger" 24
+			"CS-24 Garrison" #18
+			"Lance" 18
+		add variant 3
+			"FG-5 Bluewhale-A"
+		add variant 2
+			"FG-5 Bluewhale-A" 2
+			"CSE-6 Steward" #6
+			"Dagger" 6
+			
+		add variant 5
+			"CH-6 Carrack"
+			"Lance" 4
+		add variant 2
+			"CH-6 Carrack" 3
+			"Lance" 12
+			"Firebird" 2
+			
+		add variant 1
+			"AYS-17 Proetida"
+	
+	fleet "Large Hai Merchant"
+		add variant 1
+			"AYS-17 Proetida"
+			"Shield Beetle"
+			"Lightning Bug" 3
+			
+	fleet "Large Hai Merchant (Sympathizers)"
+		add variant 1
+			"AYS-17 Proetida"
+			"Shield Beetle"
+			"Lightning Bug" 2
+	
+	fleet "Human Miners"
+		add variant 1
+			"SMM-111 Bagger"
+			"Barb (Proton)" 2
+			"Boxwing" 2
+			
+		add variant 3
+			"Sparrow (Chainsaw)"
+			
+		add variant 2
+			"Argosy (Laser)"
+		add variant 2
+			"Clipper (Heavy Laser)"
+			
+		add variant 1
+			"HMM-190 Kotroger"
+			
+		add variant 3 #To balance out the variants.
+			"Sparrow"
+		add variant 3
+			"Hawk"
+		add variant 3
+			"Fury"
+		add variant 3
+			"Headhunter"
+			
+	fleet "Small Free Worlds"
+		add variant 4
+			"CY-10 (Fighter)"
+			"Finch"
+			
+	fleet "Large Free Worlds"
+		add variant 8
+			"CSE-6 Steward" #6
+			"Finch" 6
+		add variant 5
+			"CSE-6 Steward" 2 #6
+			"Finch" 12
+		add variant 5
+			"CS-24 Garrison"
+			"Finch" 18
+		add variant 4
+			"CS-24 Garrison" 2
+			"Finch" 36
+		add variant 6
+			"Bastion"
+			"CSE-6 Steward" #6
+			"Finch" 6
+		add variant 6
+			"Bastion"
+			"Osprey"
+			"CSE-6 Steward" #6
+			"Finch" 6
+		add variant 3
+			"Bastion (Heavy)"
+			"Osprey (Missile)"
+			"CSE-6 Steward" #6
+			"Finch" 6
+		add variant 3
+			"Bastion (Laser)"
+			"Osprey (Laser)"
+			"CSE-6 Steward" #6
+			"Finch" 6
+		add variant 4
+			"Bastion"
+			"Sparrow" 2
+			"CSE-6 Steward" #6
+			"Finch" 6
+		add variant 2
+			"Falcon"
+			"CSE-6 Steward" #6
+			"Finch" 6
+		add variant 1
+			"Falcon (Heavy)"
+			"CSE-6 Steward" #6
+			"Finch" 6
+		add variant 1
+			"Falcon (Laser)"
+			"CSE-6 Steward" #6
+			"Finch" 6
+		add variant 2
+			"Falcon"
+			"CS-24 Garrison"
+			"Finch" 18
+		add variant 1
+			"Falcon (Heavy)"
+			"CS-24 Garrison"
+			"Finch" 18
+		add variant 1
+			"Falcon (Laser)"
+			"CS-24 Garrison"
+			"Finch" 18
+		add variant 2
+			"Falcon (Heavy)"
+			"Falcon"
+			"CS-24 Garrison" 2
+			"Finch" 36
+		add variant 3
+			"CS-24 Garrison" 3
+			"Finch" 54
+		add variant 1
+			"Falcon (Heavy)" 2
+			"Falcon" 2
+			"CS-24 Garrison" 5
+			"Finch" 90
+			
+
+	fleet "Large Southern Pirates"
+		add variant 4
+			"CSE-6 Steward" #6
+			"Finch" 6
+		add variant 2
+			"CSE-6 Steward" 2 #6
+			"Finch" 12
+		add variant 1
+			"CS-24 Garrison"
+			"Finch" 18
+		add variant 1
+			"Falcon (Heavy)"
+			"CSE-6 Steward" #6
+			"Finch" 6
+		add variant 1
+			"Falcon (Heavy)"
+			"CSE-6 Steward" 2 #6
+			"Finch" 12
+		add variant 1
+			"Falcon (Heavy)"
+			"CS-24 Garrison"
+			"Finch" 18
+			
+	fleet "Large Northern Pirates"
+		add variant 4
+			"CSE-6 Steward" #6
+			"Dagger" 6
+		add variant 2
+			"CSE-6 Steward" 2 #6
+			"Dagger" 12
+		add variant 1
+			"CS-24 Garrison"
+			"Dagger" 18
+		add variant 1
+			"Leviathan"
+			"CSE-6 Steward" #6
+			"Dagger" 6
+		add variant 1
+			"Leviathan"
+			"CSE-6 Steward" 2 #6
+			"Dagger" 12
+		add variant 1
+			"Leviathan"
+			"CS-24 Garrison"
+			"Dagger" 18
+		add variant 1
+			"Bactrian"
+			"Dagger" 3
+			"Leviathan"
+			"CS-24 Garrison" 2
+			"Dagger" 36
+		add variant 1
+			"Leviathan"
+			"CS-24 Garrison" 5
+			"Dagger" 90
+			
+	fleet "Large Core Pirates"
+		add variant 4
+			"CSE-6 Steward" #6
+			"Barb" 6
+		add variant 2
+			"CSE-6 Steward" 2 #6
+			"Barb" 12
+		add variant 1
+			"CS-24 Garrison"
+			"Barb" 18
+		add variant 1
+			"Protector"
+			"CS-24 Garrison"
+			"Barb" 18
+		add variant 1
+			"Vanguard"
+			"CS-24 Garrison"
+			"Barb" 18
+		add variant 1
+			"Vanguard"
+			"Protector"
+			"CSE-6 Steward" 2 #6
+			"Barb" 12
+			
+mission "MGF: Add ships to fleets (Pirate Update)"
+	landing
+	invisible
+	deadline 1
+	to offer
+		has "mgf event spawn"
+	on offer
+		event "MGF: Add Ships to Fleets (Pirate Update)"
+
+event "MGF: Add Ships to Fleets (Pirate Update)"
+	fleet "Large Southern Pirates"
+		add variant 7
+			"Aplomado"
+		add variant 7
+			"Aplomado (Heavy)"
+		add variant 5
+			"Aplomado"
+			"Aplomado (Heavy)"
+		add variant 3
+			"Aplomado (Heavy)"
+			"Fury" 3
+		add variant 2
+			"Battle Bulk"
+			"Falcon (Heavy)"
+		add variant 2
+			"Battle Bulk"
+			"Aplomado (Heavy)"
+		add variant 1
+			"Battle Behemoth"
+		add variant 1
+			"Aplomado"
+			"CSE-6 Steward" #6
+			"Finch" 6
+		add variant 1
+			"Aplomado"
+			"CSE-6 Steward" 2 #6
+			"Finch" 12
+		add variant 1
+			"Aplomado"
+			"CS-24 Garrison"
+			"Finch" 18
+		add variant 1
+			"Aplomado (Heavy)"
+			"CSE-6 Steward" #6
+			"Finch" 6
+		add variant 1
+			"Aplomado (Heavy)"
+			"CSE-6 Steward" 2 #6
+			"Finch" 12
+		add variant 1
+			"Aplomado (Heavy)"
+			"CS-24 Garrison"
+			"Finch" 18
+			
+	fleet "Large Northern Pirates"
+		add variant 5
+			"Aplomado"
+		add variant 3
+			"Battle Behemoth"
+		add variant 2
+			"Battle Behemoth (Proton)"
+		add variant 2
+			"Battle Behemoth" 2
+		add variant 2
+			"Battle Behemoth (Proton)" 2
+		add variant 2
+			"Battle Behemoth"
+			"Battle Behemoth (Proton)"
+		add variant 2
+			"Battle Behemoth (Proton)"
+			"CSE-6 Steward"
+			"Dagger" 6
+		add variant 1
+			"Battle Bulk"
+			"CSE-6 Steward"
+			"Barb" 6
+		add variant 1
+			"Leviathan"
+			"Battle Behemoth"
+			"CSE-6 Steward" 2 #6
+			"Dagger" 12
+		add variant 1
+			"Leviathan"
+			"Battle Behemoth (Proton)"
+			"CS-24 Garrison"
+			"Dagger" 18
+		add variant 1
+			"Bactrian"
+			"Dagger" 3
+			"Battle Behemoth (Proton)"
+			"CS-24 Garrison" 2
+			"Dagger" 36
+			
+	fleet "Large Core Pirates"
+		add variant 6
+			"Aplomado"
+		add variant 3
+			"Battle Bulk"
+			"Vanguard"
+		add variant 3
+			"Battle Bulk"
+			"CSE-6 Steward"
+			"Barb" 6
+		add variant 1
+			"Battle Bulk"
+			"CS-24 Garrison"
+			"Barb" 18
+		add variant 3
+			"Battle Bulk"
+			"CSE-6 Steward" 2
+			"Barb" 12
+		add variant 1
+			"Battle Bulk" 3
+			"Vanguard" 2
+			"CS-24 Garrison" 5
+			"Barb" 90
+		add variant 5
+			"Battle Bulk"
+			"Fury" 3
+		add variant 5
+			"Battle Bulk"
+			"Sparrow" 3
+		add variant 5
+			"Battle Bulk"
+			"Quicksilver" 3
+		add variant 5
+			"Battle Bulk"
+			"Manta" 2
+		add variant 1
+			"Battle Behemoth"
+		add variant 1
+			"Battle Behemoth (Proton)"
+		add variant 3
+			"Battle Bulk (Mod Blaster)"
+			"Vanguard"
+		add variant 3
+			"Battle Bulk (Mod Blaster)"
+			"CSE-6 Steward"
+			"Barb" 6
+		add variant 1
+			"Battle Bulk (Mod Blaster)"
+			"CS-24 Garrison"
+			"Barb" 18
+		add variant 3
+			"Battle Bulk (Mod Blaster)"
+			"CSE-6 Steward" 2
+			"Barb" 12
+		add variant 1
+			"Battle Bulk (Mod Blaster)"
+			"Battle Bulk" 2
+			"Vanguard" 2
+			"CS-24 Garrison" 5
+			"Barb" 90
+		add variant 5
+			"Battle Bulk (Mod Blaster)"
+			"Fury" 3
+		add variant 5
+			"Battle Bulk (Mod Blaster)"
+			"Sparrow" 3
+		add variant 5
+			"Battle Bulk (Mod Blaster)"
+			"Quicksilver" 3
+		add variant 5
+			"Battle Bulk (Mod Blaster)"
+			"Manta" 2
+		add variant 3
+			"Battle Bulk (Mod Blaster)"
+			"Vanguard"
+		add variant 3
+			"Battle Bulk (Mod Blaster)"
+			"CSE-6 Steward"
+			"Barb" 6
+		add variant 1
+			"Battle Bulk (Proton)"
+			"CS-24 Garrison"
+			"Barb" 18
+		add variant 3
+			"Battle Bulk (Proton)"
+			"CSE-6 Steward" 2
+			"Barb" 12
+		add variant 1
+			"Battle Bulk (Proton)"
+			"Battle Bulk (Mod Blaster)" 2
+			"Vanguard" 2
+			"CS-24 Garrison" 5
+			"Barb" 90
+		add variant 5
+			"Battle Bulk (Proton)"
+			"Sparrow" 3
+		add variant 5
+			"Battle Bulk (Proton)"
+			"Battle Bulk (Mod Blaster)"
+			"Sparrow" 3
+		add variant 5
+			"Battle Bulk (Proton)"
+			"Battle Bulk"
+			"Quicksilver" 3
+		add variant 5
+			"Battle Bulk (Proton)"
+			"Quicksilver" 3
+		add variant 5
+			"Battle Bulk (Proton)"
+			"Quicksilver (Proton)" 3
+		add variant 5
+			"Battle Bulk (Proton)"
+			"Manta" 2
+		
+			
+mission "MGF: Add Ships to Fleets (Navy Update)"
+	landing
+	invisible
+	deadline 1
+	to offer
+		has "mgf event spawn"
+	on offer
+		event "MGF: Add Ships to Fleets (Navy Update)"
+	
+event "MGF: Add Ships to Fleets (Navy Update)"
+	fleet "Large Republic"
+		add variant 1
+			"Culverin Class"
+			"Lance" 2
+		add variant 1
+			"Carrier"
+			"Lance" 4
+			"Combat Drone" 6
+			"Cruiser"
+			"Combat Drone" 4
+			"Frigate" 2
+			"Rainmaker" 2
+			"Gunboat" 2
+			"Culverin Class"
+			"Lance" 2
+		add variant 1
+			"Culverin Class"
+			"Lance" 2
+			"Frigate" 2
+		add variant 1
+			"Cruiser"
+			"Combat Drone" 4
+			"Culverin Class"
+			"Lance" 2
+		add variant 1
+			"Culverin Class"
+			"Lance" 2
+			"Rainmaker"
+			"Gunboat" 2
+		add variant 1
+			"Spetum Class"
+			"Lance" 80
+			"Combat Drone" 24
+			"Cruiser" 2
+			"Combat Drone" 8
+		add variant 1
+			"Spetum Class"
+			"Lance" 80
+			"Combat Drone" 24
+			"Culverin Class"
+			"Lance" 2
+			"Carrier" 2
+			"Lance" 8
+			"Combat Drone" 12
+			"Cruiser" 2
+			"Combat Drone" 8
+			"Frigate" 4
+			"Rainmaker" 2
+			"Gunboat" 4
+			
+mission "MGF: Add ships to fleets (Light Freighter Update)"
+	landing
+	invisible
+	deadline 1
+	to offer
+		#never
+		has "mgf event spawn"
+	on offer
+		event "MGF: Add Ships to Fleets (Light Freighter Update)" #WIP
+
+event "MGF: Add Ships to Fleets (Light Freighter Update)"
+	fleet "Small Southern Merchants"
+		add variant 1
+			"QYG-30 Qazan"
+			
+	fleet "Large Southern Merchants"
+		add variant 1
+			"QYG-60 Sandiq" 2
+			
+	fleet "Small Core Merchants"
+		add variant 7
+			"QYG-30 Qazan"
+			
+	fleet "Large Core Merchants"
+		add variant 20
+			"QYG-30 Qazan" 3
+		add variant 25
+			"QYG-60 Sandiq" 2
+		add variant 20
+			"QYG-60 Sandiq" 3
+		add variant 5
+			"QYG-60 Sandiq"
+			"QYG-30 Qazan" 2
+		add variant 10
+			"Nasprite"
+			"Quicksilver" 3
+		add variant 10
+			"Nasprite"
+		add variant 10
+			"FG-7 Conveyor"
+			"AGT-31 Xencar" 8
+		add variant 1
+			"FG-5 Bluewhale" 8
+			"CS-24 Garrison" 3 #18
+			"Lance" 36
+			"AGT-31 Xencar" 18
+		add variant 8
+			"CH-6 Carrack"
+			"AGT-31 Xencar" 4
+			
+	fleet "Paradise Merchants"
+		add variant 20
+			"QYG-30 Qazan" 3
+		add variant 25
+			"QYG-60 Sandiq" 2
+		add variant 20
+			"QYG-60 Sandiq" 3
+	
+	fleet "Small Northern Merchants"
+		add variant 7
+			"QYG-30 Qazan"
+			
+	fleet "Large Northern Merchants"
+		add variant 20
+			"QYG-30 Qazan" 3
+		add variant 25
+			"QYG-60 Sandiq" 2
+		add variant 20
+			"QYG-60 Sandiq" 3
+		add variant 10
+			"FG-7 Conveyor"
+			"AGT-31 Xencar" 8
+			
+	fleet "Large Free Worlds"
+		add variant 1
+			"Falcon (Heavy)" 2
+			"Falcon" 2
+			"CS-24 Garrison" 5
+			"Finch" 54
+			"AGT-31 Xencar" 36
+		add variant 4
+			"CS-24 Garrison" 2
+			"Finch" 24
+			"AGT-31 Xencar" 12
+		add variant 5
+			"Bastion"
+			"CSE-6 Steward" #6
+			"Finch" 3
+			"AGT-31 Xencar" 3
+			
+	fleet "Large Core Pirate"
+		add variant 1
+			"Vanguard"
+			"CS-24 Garrison"
+			"Barb" 10
+			"AGT-31 Xencar" 8
+				
+mission "MGF: Add ships to fleets (Syndicate HW Update)"
+	landing
+	invisible
+	deadline 1
+	to offer
+		has "mgf event spawn"
+	on offer
+		event "MGF: Add ships to fleets (Syndicate HW Update)" #WIP
+		
+event "MGF: Add ships to fleets (Syndicate HW Update)" #WIP
+	fleet "Large Core Merchants"
+		add variant 1
+			"AP-22 Fusillade"
+			"FG-7 Conveyor-A" 3
+			"Barb (Proton)" 24
+			"CS-24 Garrison" #18
+			"Lance" 18
+			
+	fleet "Large Syndicate"
+		add variant 1
+			"AP-22 Fusillade"
+			"Vanguard" 2
+			"Protector" 2
+			"Quicksilver (Proton)" 4
+			

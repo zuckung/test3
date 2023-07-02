@@ -101,7 +101,7 @@ for entry in entries:
 									print("SUCCESS: file is smaller than 100 mb")
 									if os.path.isdir("temp") == False:
 										os.mkdir("temp")
-									with open("temp/" + pluginname, 'wb') as file2: # create zip file
+									with open("temp/" + pluginname + ".zip", "wb") as file2: # create zip file
 										r = requests.get(directlink, allow_redirects=True)
 										file2.write(r.content)
 										print("SUCCESS: downloaded zip")
@@ -124,7 +124,7 @@ for entry in entries:
 								print("SUCCESS: file is smaller than 100 mb")
 								if os.path.isdir("temp") == False:
 									os.mkdir("temp")
-								with open("temp/" + pluginname, 'wb') as file2: # create zip file
+								with open("temp/" + pluginname + ".zip", "wb") as file2: # create zip file
 									r = requests.get(directlink, allow_redirects=True)
 									file2.write(r.content)
 									print("SUCCESS: downloaded zip")						
@@ -145,7 +145,7 @@ for entry in listing:
 		# check for same names of zip and first folder in zip
 		if stripped != firstfolder:
 			print("ERROR: mismatch between zipname and in-zip folder!")
-			shutil.move(firstfolder, stripped)
+			shutil.move("temp/" + firstfolder, "temp/" + stripped)
 			print("temp/" + firstfolder + " | renamed to: temp/" + stripped)
 		if os.path.isdir(pathtoplugins + stripped):
 			shutil.rmtree(pathtoplugins + stripped) # delete old plugin
