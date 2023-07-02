@@ -76,14 +76,42 @@ for entry in entries:
 					try: # checking if last-modicied tag is there
 						modif = response.headers['Last-Modified']
 					except:
-						print("ABORTING: no Last-Modified tag in header")
+						if directlink[:18] == "https://github.com": # if github repo, get last commit
+							print("no Last-Modified tag in header, but found github")
+							urllist = directlink.split(os.sep)
+							author = urllist[3]
+							plug = urllist[4]
+							params = {'page': '1', 'per_page': '1'}
+							response = requests.get('https://api.github.com/repos/' + author +'/' + plug + '/commits', params=params)
+							cont = str(response.content)
+							dateandtime = cont.split(",")[4]
+							commitdate = dateandtime[8:18] 
+							committime = dateandtime[19:27]
+							linklastmodified = datetime.strptime(commitdate, '%Y-%m-%d').date()
+							datediff = linklastmodified - assetlastmodified # both lastmodified were successful, compare them
+							if datediff.days < 1: 
+								print("ABORTING: assetfile is newer | link: " + str(linklastmodified) + " asset: " + str(assetlastmodified) + " datediff: " + str(datediff.days))
+							else:	
+								print("SUCCESS: linkfile is newer")				
+								assetsize = int(response.headers['Content-Length']) / 1024 # get size in kb
+								if assetsize >= 102400:
+									print(assetsize)
+									print("ABORTING: directlink is bigger than 100 mb")
+								else:
+									print("SUCCESS: file is smaller than 100 mb")
+									if os.path.isdir("temp") == False:
+										os.mkdir("temp")
+									with open("temp/" + pluginname, 'wb') as file2: # create zip file
+										r = requests.get(directlink, allow_redirects=True)
+										file2.write(r.content)
+										print("SUCCESS: downloaded zip")
+						else:
+							print("ABORTING: no Last-Modified tag in header")
 					else:
 						modif = response.headers['Last-Modified']
 						datetime_object = datetime.strptime(modif, '%a, %d %b %Y %H:%M:%S %Z')
 						linklastmodified = datetime_object.date()
 						datediff = linklastmodified - assetlastmodified # both lastmodified were successful, compare them
-						print(datediff)
-						print(datediff.seconds)
 						if datediff.days < 1: 
 							print("ABORTING: assetfile is newer | link: " + str(linklastmodified) + " asset: " + str(assetlastmodified) + " datediff: " + str(datediff.days))
 						else:	
