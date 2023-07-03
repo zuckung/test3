@@ -1,0 +1,5 @@
+planet "Alta Hai"
+	add tribute 10000000
+		threshold 8000
+		fleet "Quarg Warfleet" 50000
+		fleet "Quarg Titan Warfleet" 150
