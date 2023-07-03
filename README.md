@@ -4,7 +4,11 @@
 News(latest 10 entries):
 <table><tr><td width=800>
 
-2023-06-21 'galactic.capital.investment' updated | category: [gameplay](https://github.com/zuckung/test3/blob/main/README.md#gameplay)
+2023-07-03 'Derogam' updated | category: [ships](https://github.com/zuckung/test3/blob/main/README.md#ships)
+<br>2023-07-03 'Beyond the Sky' updated | category: [overhauls](https://github.com/zuckung/test3/blob/main/README.md#overhauls)
+<br>2023-07-03 'Blended Ships' updated | category: [ships](https://github.com/zuckung/test3/blob/main/README.md#ships)
+<br>2023-07-02 'Mega Freight' updated | category: [ships](https://github.com/zuckung/test3/blob/main/README.md#ships)
+<br>2023-06-21 'galactic.capital.investment' updated | category: [gameplay](https://github.com/zuckung/test3/blob/main/README.md#gameplay)
 <br>2023-06-21 'too.many.asteroids' updatedcategory=overhauls
 <br>2023-06-21 'additional.command.buttons' updatedcategory=graphics
 <br>2023-06-21 'snowfeather.robotics' updatedcategory=outfits
@@ -1878,7 +1882,7 @@ Status: 0.9.17/Continuous
 
 
 [Gyroscopes.zip](https://github.com/zuckung/test3/releases/download/Latest/Gyroscopes.zip) | 0.32 kb | 2023-05-13 | [view files](https://github.com/zuckung/test3/tree/main/Working/Gyroscopes/)  
-Author: TheronEpic | [Playable on 0.9.14, 0.9.15 Continuous.](Playable on 0.9.14, 0.9.15 Continuous.)  
+Author: TheronEpic | N/A[]()  
 Category: Outfits  
 
 >This plugin adds a set of Gyroscopes: They can store an amount of energy, and can produce turning force, despite not taking any engine space. But, they are dense, and constantly consume energy.
@@ -1887,7 +1891,7 @@ Category: Outfits
 >
 
 
-Status: N/A  
+Status: Playable on 0.9.14, 0.9.15 Continuous.  
 
 
 ---
@@ -2312,7 +2316,7 @@ Status: N/A
 
 
 [40k.Pack.zip](https://github.com/zuckung/test3/releases/download/Latest/40k.Pack.zip) | 0.32 kb | 2023-05-15 | [view files](https://github.com/zuckung/test3/tree/main/Working/40k%20Pack/)  
-Author:  1010Todd | [ https//github.com/1010todd/Endless-Sky-40k]( https//github.com/1010todd/Endless-Sky-40k)  
+Author: 1010Todd | [https://github.com/1010todd/Endless-Sky-40k](https://github.com/1010todd/Endless-Sky-40k)  
 Category: Overhauls  
 
 >Endless Sky 40K plugin adds ships and outfits from Warhammer 40k to Endless Sky!
@@ -2332,7 +2336,7 @@ Status: in development and playable 0.9.15 continous
 
 
 [A.Galaxy.Far.Far.Away.zip](https://github.com/zuckung/test3/releases/download/Latest/A.Galaxy.Far.Far.Away.zip) | 0.37 kb | 2023-05-15 | [view files](https://github.com/zuckung/test3/tree/main/Working/A%20Galaxy%20Far%20Far%20Away/)  
-Author: Ember369 | [https//github.com/Ember369/Endless-Sky-A-Galaxy-Far-Far-Away](https//github.com/Ember369/Endless-Sky-A-Galaxy-Far-Far-Away)  
+Author: Ember369 | [https://github.com/Ember369/Endless-Sky-A-Galaxy-Far-Far-Away](https://github.com/Ember369/Endless-Sky-A-Galaxy-Far-Far-Away)  
 Category: Overhauls  
 
 >A mod designed to replicate Star Wars in Endless Sky.
@@ -2414,7 +2418,7 @@ Status: N/A
 ### Beyond the Sky
 
 
-[Beyond.the.Sky.zip](https://github.com/zuckung/test3/releases/download/Latest/Beyond.the.Sky.zip) | 0.34 kb | 2023-05-15 | [view files](https://github.com/zuckung/test3/tree/main/Working/Beyond%20the%20Sky/)  
+[Beyond.the.Sky.zip](https://github.com/zuckung/test3/releases/download/Latest/Beyond.the.Sky.zip) | 15.48 mb | 2023-07-03 | [view files](https://github.com/zuckung/test3/tree/main/Working/Beyond%20the%20Sky/)  
 Author: 1010todd | [https://github.com/1010todd/Beyond-the-Sky](https://github.com/1010todd/Beyond-the-Sky)  
 Category: Overhauls  
 
@@ -4248,9 +4252,10 @@ Status: N/A
 ---
 
 ### Blended Ships
+<img src='Working/Blended Ships/icon.png' width='100'></img><br>
 
 
-[Blended.Ships.zip](https://github.com/zuckung/test3/releases/download/Latest/Blended.Ships.zip) | 0.33 kb | 2023-05-15 | [view files](https://github.com/zuckung/test3/tree/main/Working/Blended%20Ships/)  
+[Blended.Ships.zip](https://github.com/zuckung/test3/releases/download/Latest/Blended.Ships.zip) | 3.71 mb | 2023-07-03 | [view files](https://github.com/zuckung/test3/tree/main/Working/Blended%20Ships/)  
 Author: mOctave | [https://github.com/mOctave/blended-ships](https://github.com/mOctave/blended-ships)  
 Category: Ships  
 
@@ -4360,9 +4365,10 @@ Status: Playable on 0.9.14, 0.9.15 Continuous.
 ---
 
 ### Derogam
+<img src='Working/Derogam/icon.png' width='100'></img><br>
 
 
-[Derogam.zip](https://github.com/zuckung/test3/releases/download/Latest/Derogam.zip) | 0.31 kb | 2023-05-13 | [view files](https://github.com/zuckung/test3/tree/main/Working/Derogam/)  
+[Derogam.zip](https://github.com/zuckung/test3/releases/download/Latest/Derogam.zip) | 5.73 mb | 2023-07-03 | [view files](https://github.com/zuckung/test3/tree/main/Working/Derogam/)  
 Author: Lorantine | [https://github.com/Lorantine/derogam](https://github.com/Lorantine/derogam)  
 Category: Ships  
 
@@ -4974,9 +4980,10 @@ Status: N/A
 ---
 
 ### Mega Freight
+<img src='Working/Mega Freight/icon.png' width='100'></img><br>
 
 
-[Mega.Freight.zip](https://github.com/zuckung/test3/releases/download/Latest/Mega.Freight.zip) | 0.33 kb | 2023-05-15 | [view files](https://github.com/zuckung/test3/tree/main/Working/Mega%20Freight/)  
+[Mega.Freight.zip](https://github.com/zuckung/test3/releases/download/Latest/Mega.Freight.zip) | 82.97 mb | 2023-07-02 | [view files](https://github.com/zuckung/test3/tree/main/Working/Mega%20Freight/)  
 Author: 1010todd | [https://github.com/1010todd/Mega-Freight](https://github.com/1010todd/Mega-Freight)  
 Category: Ships  
 
@@ -6111,7 +6118,7 @@ Status: N/A
 
 
 [Cognitive.Subdivision.zip](https://github.com/zuckung/test3/releases/download/Latest/Cognitive.Subdivision.zip) | 0.37 kb | 2023-05-15 | [view files](https://github.com/zuckung/test3/tree/main/Working/Cognitive%20Subdivision/)  
-Author: professorlust | [https://github.com/Variance-Moment/cognitive-subdivision](https://github.com/Variance-Moment/cognitive-subdivision)  
+Author: professorlust | N/A[]()  
 Category: Story  
 
 >Cognitive Subdivision introduces a new difficult story taking place after the first part of the Wanderer Campaign
