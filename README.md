@@ -775,7 +775,7 @@ Status: N/A
 
 
 [World.Forge.zip](https://github.com/zuckung/test3/releases/download/Latest/World.Forge.zip) | 0.13 kb | 2023-05-19 | [view files](https://github.com/zuckung/test3/tree/main/Working/World%20Forge/)  
-Author: N/A | [https://github.com/Amazinite/world-forge](https://github.com/Amazinite/world-forge)  
+Author: Amazinite | [https://github.com/Amazinite/world-forge](https://github.com/Amazinite/world-forge)  
 Category: Cheats  
 
 >"This plugin was made to allow content creators to have access to all outfits in a single place, for the purpose of designing and testing outfit loadouts for new ships. Of course, it can also be used by people who want to ruin the game for themselves by getting a massive fleet without needing to work for it."
@@ -1556,7 +1556,7 @@ Status: N/A
 
 
 [New.Galaxy.zip](https://github.com/zuckung/test3/releases/download/Latest/New.Galaxy.zip) | 0.32 kb | 2023-05-15 | [view files](https://github.com/zuckung/test3/tree/main/Working/New%20Galaxy/)  
-Author: Lia Gerty | [https://github.com/ravenshining](https://github.com/ravenshining)  
+Author: Lia Gerty | N/A[]()  
 Category: Graphics  
 
 >This is just a demonstration of the map image that would be used with an expanded core region.  Since it does not include the new systems that would be between Sagittarius A* and human space, Sagittarius A* will appear off centre.
@@ -6361,7 +6361,7 @@ Status: N/A
 
 
 [Korath.Remnant.War.zip](https://github.com/zuckung/test3/releases/download/Latest/Korath.Remnant.War.zip) | 0.35 kb | 2023-05-15 | [view files](https://github.com/zuckung/test3/tree/main/Working/Korath%20Remnant%20War/)  
-Author: Rafael Ramawadh | [https://github.com/Disiuze/tributeplus](https://github.com/Disiuze/tributeplus)  
+Author: Rafael Ramawadh | N/A[]()  
 Category: Story  
 
 >This mod is all about allowing a player to have access to the korath world ship which now is allowed to spawn inside the remnant worlds, all i did was make it is the korath home fleets spawn at half the rate of raids.... my first plugin so don't enjoy
@@ -6409,7 +6409,7 @@ Status: Playable on 0.9.14, 0.9.15 Continuous.
 
 
 [Lost.in.Midnight.zip](https://github.com/zuckung/test3/releases/download/Latest/Lost.in.Midnight.zip) | 0.14 kb | 2023-05-19 | [view files](https://github.com/zuckung/test3/tree/main/Working/Lost%20in%20Midnight/)  
-Author: MidnightPlugins | [https://github.com/MidnightPlugins/Lost-in-Midnight/releases](https://github.com/MidnightPlugins/Lost-in-Midnight/releases)  
+Author: MidnightPlugins | [https://github.com/MidnightPlugins/Lost-in-Midnight](https://github.com/MidnightPlugins/Lost-in-Midnight)  
 Category: Story  
 
 >A mission focused plugin for Endless Sky.
@@ -6457,7 +6457,7 @@ Status: N/A
 
 
 [Midnight.Scrapyard.zip](https://github.com/zuckung/test3/releases/download/Latest/Midnight.Scrapyard.zip) | 0.14 kb | 2023-05-19 | [view files](https://github.com/zuckung/test3/tree/main/Working/Midnight%20Scrapyard/)  
-Author: MidnightPlugins | [https://github.com/MidnightPlugins/Midnight-Scrapyard/releases](https://github.com/MidnightPlugins/Midnight-Scrapyard/releases)  
+Author: MidnightPlugins | [https://github.com/MidnightPlugins/Midnight-Scrapyard](https://github.com/MidnightPlugins/Midnight-Scrapyard)  
 Category: Story  
 
 >A plugin suggesting an epilogue for the Kor Sestor region of Endless Sky.
@@ -6720,7 +6720,7 @@ Status: Playable on 0.9.14, 0.9.15 Continuous.
 
 
 [Space.Shuttle.Start.zip](https://github.com/zuckung/test3/releases/download/Latest/Space.Shuttle.Start.zip) | 0.36 kb | 2023-05-15 | [view files](https://github.com/zuckung/test3/tree/main/Working/Space%20Shuttle%20Start/)  
-Author: MidnightPlugins | [https://github.com/MidnightPlugins/Space-Shuttle-Start/releases](https://github.com/MidnightPlugins/Space-Shuttle-Start/releases)  
+Author: MidnightPlugins | [https://github.com/MidnightPlugins/Space-Shuttle-Start](https://github.com/MidnightPlugins/Space-Shuttle-Start)  
 Category: Story  
 
 >Start in the Sol system with an old Earth relic for your ship.
