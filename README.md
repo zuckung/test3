@@ -4,16 +4,16 @@
 News(latest 10 entries):
 <table><tr><td width=800>
 
-2023-07-03 'Derogam' updated | category: [ships](https://github.com/zuckung/test3/blob/main/README.md#ships)
-<br>2023-07-03 'Beyond the Sky' updated | category: [overhauls](https://github.com/zuckung/test3/blob/main/README.md#overhauls)
-<br>2023-07-03 'Blended Ships' updated | category: [ships](https://github.com/zuckung/test3/blob/main/README.md#ships)
-<br>2023-07-02 'Mega Freight' updated | category: [ships](https://github.com/zuckung/test3/blob/main/README.md#ships)
-<br>2023-06-21 'galactic.capital.investment' updated | category: [gameplay](https://github.com/zuckung/test3/blob/main/README.md#gameplay)
-<br>2023-06-21 'too.many.asteroids' updatedcategory=overhauls
-<br>2023-06-21 'additional.command.buttons' updatedcategory=graphics
-<br>2023-06-21 'snowfeather.robotics' updatedcategory=outfits
-<br>2023-06-13 'unique.fix' updated
-<br>2023-06-12 repo update: directlink and news
+2023-07-04 'World Forge' updated | category: [cheats](https://github.com/zuckung/test3/blob/main/README.md#cheats)
+<br>2023-07-04 'Galactic War' updated | category: [overhauls](https://github.com/zuckung/test3/blob/main/README.md#overhauls)
+<br>2023-07-04 'Amphibious-Ships' updated | category: [ships](https://github.com/zuckung/test3/blob/main/README.md#ships)
+<br>2023-07-04 'Bulkheads-and-Battleships' updated | category: [uncategorized](https://github.com/zuckung/test3/blob/main/README.md#uncategorized)
+<br>2023-07-04 'StarProtector-Endless-Sky' updated | category: [ships](https://github.com/zuckung/test3/blob/main/README.md#ships)
+<br>2023-07-04 'Midnight Scrapyard' updated | category: [story](https://github.com/zuckung/test3/blob/main/README.md#story)
+<br>2023-07-04 'The Evora Navaiya' updated | category: [races](https://github.com/zuckung/test3/blob/main/README.md#races)
+<br>2023-07-04 'Sestor-Expansion' updated | category: [ships](https://github.com/zuckung/test3/blob/main/README.md#ships)
+<br>2023-07-04 'Lost in Midnight' updated | category: [story](https://github.com/zuckung/test3/blob/main/README.md#story)
+<br>2023-07-03 'Derogam' updated | category: [ships](https://github.com/zuckung/test3/blob/main/README.md#ships)
 <br>
 
 </td></tr></table>
@@ -56,7 +56,7 @@ Provide a directlink to your zipped plugin and we do a daily check if it is newe
 
 # Introduction
 
-A comprehensive library of 467 ancient and new plugins for the open-source game Endless Sky.
+A comprehensive library of 471 ancient and new plugins for the open-source game Endless Sky.
 
 ---
 
@@ -203,11 +203,11 @@ To keep these files related together, you have to give them the same name.
 
 # Plugin Download
 
-All Plugins (467)
+All Plugins (471)
 
 [Cheats](https://github.com/zuckung/test3/blob/main/README.md#cheats) (35) | [Gameplay](https://github.com/zuckung/test3/blob/main/README.md#gameplay) (33) | [Graphics](https://github.com/zuckung/test3/blob/main/README.md#graphics) (17) | [Outfits](https://github.com/zuckung/test3/blob/main/README.md#outfits) (35)<br>
 [Overhauls](https://github.com/zuckung/test3/blob/main/README.md#overhauls) (38) | [Overwrites](https://github.com/zuckung/test3/blob/main/README.md#overwrites) (1) | [Patches](https://github.com/zuckung/test3/blob/main/README.md#patches) (3) | [Races](https://github.com/zuckung/test3/blob/main/README.md#races) (63)<br>
-[Ships](https://github.com/zuckung/test3/blob/main/README.md#ships) (116) | [Story](https://github.com/zuckung/test3/blob/main/README.md#story) (61) | [Weapons](https://github.com/zuckung/test3/blob/main/README.md#weapons) (40) | [Uncategorized](https://github.com/zuckung/test3/blob/main/README.md#uncategorized) (25)<br>
+[Ships](https://github.com/zuckung/test3/blob/main/README.md#ships) (119) | [Story](https://github.com/zuckung/test3/blob/main/README.md#story) (61) | [Weapons](https://github.com/zuckung/test3/blob/main/README.md#weapons) (40) | [Uncategorized](https://github.com/zuckung/test3/blob/main/README.md#uncategorized) (26)<br>
 
 
 
@@ -772,9 +772,10 @@ Status: N/A
 ---
 
 ### World Forge
+<img src='Working/World Forge/icon.png' width='100'></img><br>
 
 
-[World.Forge.zip](https://github.com/zuckung/test3/releases/download/Latest/World.Forge.zip) | 0.13 kb | 2023-05-19 | [view files](https://github.com/zuckung/test3/tree/main/Working/World%20Forge/)  
+[World.Forge.zip](https://github.com/zuckung/test3/releases/download/Latest/World.Forge.zip) | 576.47 kb | 2023-07-04 | [view files](https://github.com/zuckung/test3/tree/main/Working/World%20Forge/)  
 Author: Amazinite | [https://github.com/Amazinite/world-forge](https://github.com/Amazinite/world-forge)  
 Category: Cheats  
 
@@ -2529,9 +2530,10 @@ Status: N/A
 ---
 
 ### Galactic War
+<img src='Working/Galactic War/icon.png' width='100'></img><br>
 
 
-[Galactic.War.zip](https://github.com/zuckung/test3/releases/download/Latest/Galactic.War.zip) | 0.33 kb | 2023-05-15 | [view files](https://github.com/zuckung/test3/tree/main/Working/Galactic%20War/)  
+[Galactic.War.zip](https://github.com/zuckung/test3/releases/download/Latest/Galactic.War.zip) | 161.26 mb | 2023-07-04 | [view files](https://github.com/zuckung/test3/tree/main/Working/Galactic%20War/)  
 Author: 1010todd | [https://github.com/1010todd/Galactic-War](https://github.com/1010todd/Galactic-War)  
 Category: Overhauls  
 
@@ -3912,7 +3914,7 @@ Status: N/A
 ### The Evora Navaiya
 
 
-[The.Evora.Navaiya.zip](https://github.com/zuckung/test3/releases/download/Latest/The.Evora.Navaiya.zip) | 0.35 kb | 2023-05-15 | [view files](https://github.com/zuckung/test3/tree/main/Working/The%20Evora%20Navaiya/)  
+[The.Evora.Navaiya.zip](https://github.com/zuckung/test3/releases/download/Latest/The.Evora.Navaiya.zip) | 6.53 kb | 2023-07-04 | [view files](https://github.com/zuckung/test3/tree/main/Working/The%20Evora%20Navaiya/)  
 Author: Polaria1 | [https://github.com/Polaria1/The-Evora-Navaiya](https://github.com/Polaria1/The-Evora-Navaiya)  
 Category: Races  
 
@@ -4082,7 +4084,7 @@ Status: N/A
 
 ## Ships
 
-<p>116 plugins in this category.<p>
+<p>119 plugins in this category.<p>
 
 <details>
 
@@ -4102,6 +4104,22 @@ Category: Ships
 
 
 Status: should work  
+
+
+---
+
+### Amphibious-Ships
+
+
+[Amphibious-Ships.zip](https://github.com/zuckung/test3/releases/download/Latest/Amphibious-Ships.zip) | 6.19 mb | 2023-07-04 | [view files](https://github.com/zuckung/test3/tree/main/Working/Amphibious-Ships/)  
+Author: Zoura | [https://github.com/AvianGeneticist/Amphibious-Ships](https://github.com/AvianGeneticist/Amphibious-Ships)  
+Category: Ships  
+
+>Adds sea-to-space ships to Endless Sky.
+>
+
+
+Status: Playable on 0.10.0/Continuous  
 
 
 ---
@@ -5563,6 +5581,22 @@ Status: N/A
 
 ---
 
+### Sestor-Expansion
+
+
+[Sestor-Expansion.zip](https://github.com/zuckung/test3/releases/download/Latest/Sestor-Expansion.zip) | 1.34 mb | 2023-07-04 | [view files](https://github.com/zuckung/test3/tree/main/Working/Sestor-Expansion/)  
+Author: Zoura | [https://github.com/AvianGeneticist/Sestor-Expansion](https://github.com/AvianGeneticist/Sestor-Expansion)  
+Category: Ships  
+
+>Greatly increases the variety in Kor Sestor ships and fleets.
+>
+
+
+Status: Playable on 0.9.16  
+
+
+---
+
 ### Shadow's Expansion
 
 
@@ -5654,6 +5688,22 @@ Category: Ships
 
 
 Status: N/A  
+
+
+---
+
+### StarProtector-Endless-Sky
+
+
+[StarProtector-Endless-Sky.zip](https://github.com/zuckung/test3/releases/download/Latest/StarProtector-Endless-Sky.zip) | 412.39 kb | 2023-07-04 | [view files](https://github.com/zuckung/test3/tree/main/Working/StarProtector-Endless-Sky/)  
+Author: BawSaqS | [https://github.com/BawSaqS/StarProtector-Endless-Sky](https://github.com/BawSaqS/StarProtector-Endless-Sky)  
+Category: Ships  
+
+>Add a ship called StrProtector.
+>
+
+
+Status: Playable on 0.9.16  
 
 
 ---
@@ -6406,9 +6456,10 @@ Status: Playable on 0.9.14, 0.9.15 Continuous.
 ---
 
 ### Lost in Midnight
+<img src='Working/Lost in Midnight/icon.png' width='100'></img><br>
 
 
-[Lost.in.Midnight.zip](https://github.com/zuckung/test3/releases/download/Latest/Lost.in.Midnight.zip) | 0.14 kb | 2023-05-19 | [view files](https://github.com/zuckung/test3/tree/main/Working/Lost%20in%20Midnight/)  
+[Lost.in.Midnight.zip](https://github.com/zuckung/test3/releases/download/Latest/Lost.in.Midnight.zip) | 61.15 mb | 2023-07-04 | [view files](https://github.com/zuckung/test3/tree/main/Working/Lost%20in%20Midnight/)  
 Author: MidnightPlugins | [https://github.com/MidnightPlugins/Lost-in-Midnight](https://github.com/MidnightPlugins/Lost-in-Midnight)  
 Category: Story  
 
@@ -6454,9 +6505,10 @@ Status: N/A
 ---
 
 ### Midnight Scrapyard
+<img src='Working/Midnight Scrapyard/icon.png' width='100'></img><br>
 
 
-[Midnight.Scrapyard.zip](https://github.com/zuckung/test3/releases/download/Latest/Midnight.Scrapyard.zip) | 0.14 kb | 2023-05-19 | [view files](https://github.com/zuckung/test3/tree/main/Working/Midnight%20Scrapyard/)  
+[Midnight.Scrapyard.zip](https://github.com/zuckung/test3/releases/download/Latest/Midnight.Scrapyard.zip) | 11.0 mb | 2023-07-04 | [view files](https://github.com/zuckung/test3/tree/main/Working/Midnight%20Scrapyard/)  
 Author: MidnightPlugins | [https://github.com/MidnightPlugins/Midnight-Scrapyard](https://github.com/MidnightPlugins/Midnight-Scrapyard)  
 Category: Story  
 
@@ -7678,7 +7730,7 @@ Status: N/A
 
 ## Uncategorized
 
-<p>25 plugins in this category.<p>
+<p>26 plugins in this category.<p>
 
 <details>
 
@@ -7732,6 +7784,22 @@ Category: N/A
 
 
 Status: N/A  
+
+
+---
+
+### Bulkheads-and-Battleships
+
+
+[Bulkheads-and-Battleships.zip](https://github.com/zuckung/test3/releases/download/Latest/Bulkheads-and-Battleships.zip) | 43.28 kb | 2023-07-04 | [view files](https://github.com/zuckung/test3/tree/main/Working/Bulkheads-and-Battleships/)  
+Author: Zoura | [https://github.com/AvianGeneticist/Bulkheads-and-Battleships](https://github.com/AvianGeneticist/Bulkheads-and-Battleships)  
+Category: N/A  
+
+>Turn Endless Sky into DnD-style RPG.
+>
+
+
+Status: Playable on 0.10.0 continuous  
 
 
 ---
