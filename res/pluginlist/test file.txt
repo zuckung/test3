@@ -1,0 +1,6 @@
+author=tester
+website=N/A
+directlink=https://github.com/zuckung/test/releases/download/Latest/additional.command.buttons.zip
+category=N/A
+status=N/A
+description=N/A
