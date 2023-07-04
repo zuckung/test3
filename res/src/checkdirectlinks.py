@@ -5,8 +5,8 @@ import glob
 import shutil
 from zipfile import ZipFile
 
-username = os.environ("GITHUB_ACTOR")
-token = os.environ("github_token")
+username = os.getenv("GITHUB_ACTOR")
+token = os.getenv("github_token")
 
 # check for local testing
 if os.getcwd() == "/storage/emulated/0/Download/mgit/test3/res/src":
