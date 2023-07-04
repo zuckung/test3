@@ -1,0 +1,1190 @@
+# Copyright (c) 2021 by Michael Arsollon
+# derived from original game at https://github.com/endless-sky/endless-sky
+#
+# Endless Sky is free software: you can redistribute it and/or modify it under the
+# terms of the GNU General Public License as published by the Free Software
+# Foundation, either version 3 of the License, or (at your option) any later version.
+#
+# Endless Sky is distributed in the hope that it will be useful, but WITHOUT ANY
+# WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+# PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+
+
+
+# Contents:
+# - Become an arms dealer for the Unfettered.
+# - Offend the Hai when they find out.
+# - Dominate the Unfettered.
+# - Guide the Unfettered on a Journey to the Southwest.
+# - Uncover a secret cult of Unfettered sympathizers
+
+
+
+#################################
+# Unfettered arms dealer missions
+#################################
+
+
+mission "Angry Squirrels: Laser Rifle Deal"
+	minor
+	name "Unfettered Laser Rifles"
+	description "Deliver 100 Laser Rifles to your client on <planet>. Payment is <payment>." 
+	source
+		government "Hai (Unfettered)"
+	to offer
+		random < 10
+	on offer
+		require "Laser Rifle"
+		conversation
+			`One of the Unfettered approaches you. "That is an interesting looking rifle you have there. What kind is it?"`
+			`	"A Laser Rifle," you reply.`
+			scene "outfit/laser rifle"
+			`	"Interesting. If you would like to sell, I'm looking for something new to add to my arsenal. There is a firing range nearby. Would you be willing to demonstrate it?"`
+			choice
+				`	(Agree.)`
+				`	(Disagree.)`
+					decline
+			`	Most of the Unfettered at the firing range are unfriendly and are not impressed with your demonstration of the Laser Rifle. Even the original Unfettered who invited you here declines to make a purchase. However, the owner of the firing range sees potential in a low budget weapon option and asks that you return with 100 rifles to stock his own inventory in exchange for <payment>.`
+				accept
+	on accept
+		conversation
+			scene "outfit/laser rifle"
+			`Laser Rifles are sold on several Human worlds. But the cost of buying them outweighs the reward being offered. You'll probably have to steal them from captured ships.`
+	on complete
+		outfit "Laser Rifle" -100
+		payment 400000
+		"Unfettered Arms Dealer" ++
+		conversation
+			scene "outfit/laser rifle"
+			`The Unfettered are grateful for your delivery of 100 Laser Rifles and pay you the agreed amount of <payment>. You can expect orders for more Laser Rifles to appear on the Unfettered job boards.`
+
+mission "Angry Squirrels: Tuning Rifle Deal"
+	minor
+	name "Unfettered Tuning Rifles"
+	description "Deliver 100 Tuning Rifles to your client on <planet>. Payment is <payment>." 
+	source
+		government "Hai (Unfettered)"
+	to offer
+		random < 20
+	on offer
+		require "Tuning Rifle"
+		conversation
+			`One of the Unfettered approaches you. "That is an interesting looking rifle you have there. What kind is it?"`
+			`	"A Tuning Rifle," you reply.`
+			scene "outfit/remnant rifle"
+			`	"Interesting. If you would like to sell, I'm looking for something new to add to my arsenal. There is a firing range nearby. Would you be willing to demonstrate it?"`
+			choice
+				`	(Agree.)`
+				`	(Disagree.)`
+					decline
+			`	The Unfettered at the firing range are unfriendly at first but are soon impressed with your demonstration of the Tuning Rifle. Several express an interest in purchasing one. The owner of the firing range organizes the orders and asks that you return with 100 rifles in exchange for <payment>. You're certain that some of that is for his own inventory.`
+				accept
+	on accept
+		conversation
+			scene "outfit/remnant rifle"
+			`Tuning Rifles are sold on Remnant worlds. But the cost of buying them outweighs the reward being offered. You'll probably have to steal them from captured ships.`
+	on complete
+		outfit "Tuning Rifle" -100
+		payment 1100000
+		"Unfettered Arms Dealer" ++
+		"reputation: Hai" --
+		conversation
+			scene "outfit/remnant rifle"
+			`The Unfettered are grateful for your delivery of 100 Tuning Rifles and pay you the agreed amount of <payment>. You can expect orders for more Tuning Rifles to appear on the Unfettered job boards.`
+
+mission "Angry Squirrels: Korath Rifle Deal"
+	minor
+	name "Unfettered Korath Rifles"
+	description "Deliver 100 Korath Repeater Rifles to your client on <planet>. Payment is <payment>." 
+	source
+		government "Hai (Unfettered)"
+	to offer
+		random < 20
+	on offer
+		require "Thermal Repeater Rifle"
+		conversation
+			`One of the Unfettered approaches you. "That is an interesting looking rifle you have there. What kind is it?"`
+			`	"A Korath Repeater Rifle," you reply.`
+			scene "outfit/korath rifle"
+			`	"Interesting. If you would like to sell, I'm looking for something new to add to my arsenal. There is a firing range nearby. Would you be willing to demonstrate it?"`
+			choice
+				`	(Agree.)`
+				`	(Disagree.)`
+					decline
+			`	The Unfettered at the firing range are unfriendly at first but are soon impressed with your demonstration of the Korath Repeater Rifle. Several express an interest in purchasing one. The owner of the firing range organizes the orders and asks that you return with 100 rifles in exchange for <payment>. You're certain that some of that is for his own inventory.`
+				accept
+	on accept
+		conversation
+			scene "outfit/korath rifle"
+			`Korath Repeater Rifles aren't normally in stock at your local outfitter. You'll probably have to steal them from captured ships.`
+	on complete
+		"Angry Squirrels: Korath Rifle Deal: offered" --
+		outfit "Thermal Repeater Rifle" -100
+		payment 2600000
+		"Unfettered Arms Dealer" ++
+		"reputation: Hai" --
+		conversation
+			scene "outfit/korath rifle"
+			`The Unfettered are grateful for your delivery of 100 Korath Repeater Rifles and pay you the agreed amount of <payment>. You can expect orders for more Korath Repeater Rifles to appear on the Unfettered job boards.`
+
+mission "Angry Squirrels: Confrontation Gear Deal"
+	minor
+	name "Unfettered Confrontation Gear"
+	description "Deliver 10 sets of Enforcer Confrontation Gear to your client on <planet>. Payment is <payment>." 
+	source
+		government "Hai (Unfettered)"
+	to offer
+		random < 20
+	on offer
+		require "Enforcer Confrontation Gear"
+		conversation
+			`One of the Unfettered approaches you. "That is an interesting looking weapon you have there. What kind is it?"`
+			`	"Enforcer Confrontation Gear," you reply.`
+			scene "outfit/enforcer confrontation gear"
+			`	"Interesting. If you would like to sell, I'm looking for something new to add to my arsenal. There is a firing range nearby. Would you be willing to demonstrate it?"`
+			choice
+				`	(Agree.)`
+				`	(Disagree.)`
+					decline
+			`	The Unfettered at the firing range are unfriendly at first but are soon impressed with your demonstration of the Enforcer Confrontation Gear. Several express an interest in purchasing one. The owner of the firing range organizes the orders and asks that you return with 10 sets of Enforcer Confrontation Gear in exchange for <payment>. You're certain that some of that is for his own inventory.`
+				accept
+	on accept
+		conversation
+			scene "outfit/enforcer confrontation gear"
+			`Sets of Enforcer Confrontation Gear aren't normally in stock at your local outfitter. You'll probably have to steal them from captured ships.`
+	on complete
+		outfit "Enforcer Confrontation Gear" -10
+		payment 3690000
+		"Unfettered Arms Dealer" ++
+		"reputation: Hai" --
+		conversation
+			scene "outfit/enforcer confrontation gear"
+			`The Unfettered are grateful for your delivery of 10 sets of Enforcer Confrontation Gear and pay you the agreed amount of <payment>. You can expect orders for more sets of Enforcer Confrontation Gear to appear on the Unfettered job boards.`
+
+mission "Angry Squirrels: Fragmentation Grenade Deal"
+	minor
+	name "Unfettered Fragmentation Grenades"
+	description "Deliver 100 sets of Fragmentation Grenades to your client on <planet>. Payment is <payment>." 
+	source
+		government "Hai (Unfettered)"
+	to offer
+		random < 20
+	on offer
+		require "Fragmentation Grenades"
+		conversation
+			`One of the Unfettered approaches you. "That is an interesting looking device you have there. What is it?"`
+			`	"A Fragmentation Grenade," you reply. "An explosive device," you clarify.`
+			scene "outfit/fragmentation grenades"
+			`	"Interesting. If you would like to sell, I'm looking for something new to add to my arsenal. There is a firing range nearby. Would you be willing to demonstrate it?"`
+			choice
+				`	(Agree.)`
+				`	(Disagree.)`
+					decline
+			`	The Unfettered at the firing range are unfriendly at first but are soon startled and impressed with your demonstration of the Fragmentation Grenade. Several express an interest in purchasing a set. The owner of the firing range organizes the orders and asks that you return with 100 sets of Fragmentation Grenades in exchange for <payment>. You're certain that some of that is for his own inventory.`
+				accept
+	on accept
+		conversation
+			scene "outfit/fragmentation grenades"
+			`Fragmentation Grenades are sold on pirate worlds. But the cost of buying them outweighs the reward being offered. You'll probably have to steal them from captured ships.`
+	on complete
+		outfit "Fragmentation Grenades" -100
+		payment 850000
+		"Unfettered Arms Dealer" ++
+		"reputation: Hai" --
+		conversation
+			scene "outfit/enforcer confrontation gear"
+			`The Unfettered are grateful for your delivery of 100 sets of Fragmentation Grenades and pay you the agreed amount of <payment>. You can expect orders for more sets of Fragmentation Grenades to appear on the Unfettered job boards.`
+
+
+
+fleet "unfettered weapon collectors"
+	government "Hai (Unfettered Civilians)"
+	names "hai"
+	cargo 1
+	personality
+		disables
+		plunders
+	variant 1
+		"Shield Beetle (Weapon Collector)"
+
+mission "Angry Squirrels: Unfettered Weapon Collectors"
+	landing
+	invisible
+	to offer
+		or
+			"Unfettered Arms Dealer" >= 10
+			and
+				has "Angry Squirrels: Laser Rifle Deal: done"
+				has "Angry Squirrels: Tuning Rifle Deal: done"
+				has "Angry Squirrels: Korath Rifle Deal: done"
+				has "Angry Squirrels: Confrontation Gear Deal: done"
+				has "Angry Squirrels: Fragmentation Grenade Deal: done"
+	on offer
+		log `I've become a regular supplier of weapons to the Unfettered. Supposedly, not since the time of their grandparents were they able to import quality weapons from outside their space.`
+		event "unfettered weapon collectors"
+		conversation
+			scene "outfit/enforcer confrontation gear"
+			`You spot an Unfettered polishing a weapon that does not appear to be of Hai origin. It notices you and waves. "You must be the monkey that has been supplying us with weapons from beyond our space. Not since the times of Kuwashi, the Unfettered Quarg, have we had such a benefactor!"`
+			choice
+				`	"Kuwashi?"`
+				`	"Unfettered Quarg?"`
+			`	The Unfettered nods. "My grandfather purchased this Enforcer Confrontation Gear from Kuwashi. It served him and my father well. I suspect the weapons you've brought us are also being put to good use by my fellow True Hai."`
+				decline
+	on decline
+		set "Angry Squirrels: Unfettered Weapon Collectors: failed"
+
+event "unfettered weapon collectors"
+	system "Ehma Ti"
+		add fleet "unfettered weapon collectors" 20000
+	system "Wah Yoot"
+		add fleet "unfettered weapon collectors" 20000
+	system "Hi Yahr"
+		add fleet "unfettered weapon collectors" 20000
+
+
+
+
+mission "Angry Squirrels: Nerve Gas Smuggling"
+	minor
+	name "Unfettered Nerve Gas Smuggling"
+	description "Deliver 100 sets of illegal Nerve Gas to your client on <planet>. Payment is <payment>." 
+	source
+		government "Hai (Unfettered)"
+	to offer
+		"Unfettered Arms Dealer" > 2
+		random < 10
+	on offer
+		conversation
+			`One of the Unfettered approaches you. "I have heard that you can get access to exotic weapons. There is a rumor that monkeys have a chemical weapon called Nerve Gas. Is this true?"`
+			choice
+				`	"I have nothing to say about that."`
+					defer
+				`	"Yes. It's a highly illegal substance."`
+			
+			scene "outfit/nerve gas"
+			`	"Interesting. Would you be willing to deliver some to me? I'm looking for something new to add to my arsenal."`
+			choice
+				`	(Agree.)`
+				`	(Disagree.)`
+					defer
+
+			`	The Unfettered asks that you return with 100 sets of Nerve Gas in exchange for <payment>. You're certain that he won't be keeping them idle in a collector's display case.`
+				accept
+	on accept
+		conversation
+			scene "outfit/nerve gas"
+			`Nerve Gas is a highly illegal substance sold on pirate worlds. If the authorities catch you with it, the fines could exceed your reward for delivering it.`
+	on complete
+		outfit "Nerve Gas" -100
+		payment 9000000
+		"Unfettered Arms Dealer" ++
+		"reputation: Hai" --
+		conversation
+			scene "outfit/nerve gas"
+			`After testing a random canister on some local wildlife, the Unfettered is satisfied with your delivery of 100 sets of Nerve Gas and pays you the agreed amount of <payment>. You can expect orders for more sets of Nerve Gas to appear on the Unfettered job boards.`
+
+
+
+mission "Angry Squirrels: Nerve Gas Exposed"
+	landing
+	invisible
+	source
+		government "Hai"
+		not planet "Darkwaste"
+	to offer
+		has "Unfettered Arms Dealer" > 29
+		has "Unfettered Nerve Gas Smuggling: done"
+		not "event: angry squirrels"
+		random < 5
+	on offer
+		conversation
+			`You receive a message from the Hai government.`
+			scene "outfit/nerve gas"
+			`	"Captain <first> <last>, there are disturbing rumors circulating that you are involved in selling illegal Nerve Gas and other weapons to the Unfettered. Until this issue is cleared up, we are restricting your access to our worlds."`
+				decline
+	on decline
+		"reputation: Hai" <?= 0
+		event "angry squirrels"
+
+
+
+mission "Angry Squirrels: Mass Smuggling Exposed"
+	landing
+	invisible
+	source
+		government "Hai"
+		not planet "Darkwaste"
+	to offer
+		has "Unfettered Arms Dealer" > 99
+		not "event: angry squirrels"
+		random < 10
+	on offer
+		conversation
+			`You receive a message from the Hai government.`
+			scene "scene/scene-weapons"
+			`	"Captain <first> <last>, there are disturbing rumors circulating that you are involved in selling massive amounts of weapons to the Unfettered. Until this issue is cleared up, we are restricting your access to our worlds."`
+				decline
+	on decline
+		"reputation: Hai" <?= 0
+		event "angry squirrels"
+
+
+event "angry squirrels"
+	planet Snowfeather
+		"required reputation" 100
+	planet Newhome
+		"required reputation" 100
+	planet Frostmark
+		"required reputation" 100
+	planet Greenbloom
+		"required reputation" 100
+	planet Darkwaste
+		"required reputation" 100
+	planet Greenwater
+		"required reputation" 100
+	planet Allhome
+		"required reputation" 100
+	planet Stonebreak
+		"required reputation" 100
+	planet Heartvalley
+		"required reputation" 100
+	planet Darkmetal
+		"required reputation" 100
+	planet Dustmaker
+		"required reputation" 100
+	planet Makerplace
+		"required reputation" 100
+	planet Icelake
+		"required reputation" 100
+	planet Cloudfire
+		"required reputation" 25
+	planet Farwater
+		"required reputation" 100
+	planet Hai-home
+		"required reputation" 200
+	planet Mirrorlake
+		"required reputation" 200
+	planet Giverstone
+		"required reputation" 100
+	planet Skyfarm
+		"required reputation" 100
+
+
+
+mission "Angry Squirrels: Countermeasures 1"
+	invisible
+	source
+		government "Hai (Unfettered)"
+	to offer
+		has "Unfettered Arms Dealer" >= 3
+	on offer
+		require "Intrusion Countermeasures"
+		conversation
+			`One of the Unfettered approaches you. "I have heard that you can get access to exotic weapons. There is a rumor that Quarg ships have powerful internal weapons systems. Would you be able to sell me one? I can offer you 1,000,000 credits."`
+			scene "outfit/quarg countermeasures"
+			choice
+				`	"I don't have any to sell you."`
+					defer
+				`	"Yes. But they are a purely defensive system."`
+			`"That's alright. I'd like to experiment with one and see what it's capable of."`
+			`You happen to already have an Intrusion Countermeasures device and unload it from your ship. He gladly hands over the agreed upon payment in exchange.`
+				accept
+	on accept
+		outfit "Intrusion Countermeasures" -1
+		payment 1000000
+		"Unfettered Arms Dealer" ++
+		event "Angry Squirrels Countermeasures timer" 30
+
+event "Angry Squirrels Countermeasures timer"
+
+mission "Angry Squirrels: Countermeasures 2"
+	landing
+	name "Unfettered Intrusion Device"
+	description "Meet Go Foo Ku on <planet> in the <system> system."
+	source
+		government "Hai (Unfettered)"
+		not planet "Darkcloak"
+	destination "Darkcloak"
+	to offer
+		has "event: Angry Squirrels Countermeasures timer"
+		has "event: battle in arneb end"
+	on offer
+		log "People" "Go Foo Ku" `An Unfettered weapons researcher who purchased a Quarg Intrusion Countermeasures device from me. He seems to really enjoy his work.`
+		dialog 
+			`You receive a message: "Greetings Captain <first> <last>. My name is Go Foo Ku. Some time ago you sold me a Quarg Intrusion Countermeasures system. After experimenting with it, I now have a job for you. We can discuss the details when you come to <planet> in the <system> system."`
+	on complete
+		dialog `Meet Go Foo Ku at the spaceport to find out what sort of job he has to offer you.`
+
+mission "Angry Squirrels: Countermeasures 3"
+	name "Unfettered Intrusion Device"
+	description "Go to <waypoints> and board a suitable target to test out a new Unfettered boarding weapon. Return to <planet> when you are done."
+	source "Darkcloak"
+	waypoint "Almaaz"
+	to offer
+		has "Angry Squirrels: Countermeasures 2: done"
+	on offer
+		conversation
+			`Go Foo Ku meets you at the spaceport with a tarp covered hoverlift in tow. "I have created a new boarding weapon I would like to test out. Just load it up and pick a target! Of course you can keep whatever ships we capture. We could go hunt birds. Or maybe you would prefer Hai? I suppose you would be opposed to going after monkeys...`
+			choice
+				`	"Why did you call on me for this job?"`
+					goto risk
+				`	"Sure, I know some people I wouldn't mind trying it out on."`
+					goto bloodthirst
+
+			label risk
+			`	"Since you are the one who brought the sample Intrusion unit to me in the first place, I figured I could count on you for this next step. Besides, if something goes wrong, the leadership thought it would be better to risk a monkey ship than one of our own."`
+			choice
+				`	"OK. I know some people I wouldn't mind trying it out on."`
+					goto bloodthirst
+				`	"Forget it. Find someone else to do this job."`
+					decline
+
+			label bloodthirst
+			`	"You are alright with trying it on your fellow monkeys?" Go Foo Ku laughs, "I knew I made the right choice with you!"`
+			`	You don't bother to tell him about pirates.`
+				accept
+
+	on enter "Almaaz"
+		dialog `That Bactrian looks like the perfect target to try this new boarding weapon on. Disable it without destroying it then move in for the capture!`
+
+	npc
+		system "Almaaz"
+		government "Pirate"
+		personality waiting staying plunders harvests
+		fleet
+			names "pirate"
+			variant
+				"Aerie (Energy Cannons)"
+				"Dagger" 5
+	npc board
+		system "Almaaz"
+		government "Pirate"
+		personality target waiting staying timid marked
+		ship "Bactrian (Cosmic Devil)" "Cosmic Temptress"
+		conversation
+			scene "outfit/quarg countermeasures"
+			`The tarp has been removed and you can see that the Intrusion Countermeasures device has been loaded onto the hoverlift. Several smaller devices are connected to it. As soon as the docking doors blast open, Go Foo Ku operates a remote control to launch the hoverlift towards the defenders!`
+			`	Several pirates fire at it but the Intrusion Countermeasures device remains unscathed. The smaller devices are not so invulnerable and a few burst into flames. Meanwhile, the Intrusion Countermeasures device hasn't done anything to harm the defenders. All you notice is a low hum that is steadily increasing in pitch and volume.`
+			`	"No!" exclaims Go Foo Ku. "It's overloading! Close the blast doors! Close them NOW!"`
+			`	Just as the blast doors close, your ship is rocked by an explosion...`
+				launch
+
+	on complete
+		dialog `Go Foo Ku hasn't said anything since the Intrusion Device blew up. All his energy and excitement is gone. After you open the exit hatch he mutters his thanks and leaves. The experimental weapons business can be an unstable one. For a moment you think of Barmy Edward, Chief Offensive Engineer at Kraz Cybernetics, and wonder what he'd have to say about this venture. Then you decide it might be best to keep this story to yourself.`
+
+
+
+#########################################
+# Allows domination of Unfettered worlds.
+#########################################
+
+
+mission "Angry Squirrels: Dominate Unfettered"
+	landing
+	invisible
+	to offer
+		has "First Contact: Unfettered: offered"
+	on offer
+		event "unfettered tribute main"
+		fail
+
+event "unfettered tribute main"
+	planet Firelode
+		tribute 2000
+			threshold 10000
+			fleet "Large Unfettered" 15
+			fleet "Small Unfettered" 5
+	planet Darkcloak
+		tribute 3500
+			threshold 10000
+			fleet "Large Unfettered" 25
+			fleet "Small Unfettered" 15
+	planet Warfeed
+		tribute 6000
+			threshold 10000
+			fleet "Large Unfettered" 10
+			fleet "Small Unfettered" 100
+
+
+
+# Allows domination of Wanderer worlds conqured by the Unfettered
+
+mission "Angry Squirrels: planet Varu Mer'ek"
+	landing
+	invisible
+	to offer
+		has "Wanderers Invaded 3: done"
+	on offer
+		event "unfettered tribute Varu Mer'ek"
+
+event "unfettered tribute Varu Mer'ek"
+	planet "Varu Mer'ek"
+		tribute 2000
+			threshold 10000
+			fleet "Large Unfettered" 15
+			fleet "Small Unfettered" 5
+
+mission "Angry Squirrels: planet Kort Vek'kri"
+	landing
+	invisible
+	to offer
+		has "Wanderers Defend Sich'ka'ara: done"
+	on offer
+		event "unfettered tribute Vek'kri"
+
+event "unfettered tribute Vek'kri"
+	planet "Kort Vek'kri"
+		tribute 2000
+			threshold 10000
+			fleet "Large Unfettered" 15
+			fleet "Small Unfettered" 5
+			
+mission "Angry Squirrels: more planets"
+	landing
+	invisible
+	to offer
+		has "Wanderers Rek 2: offered"
+	on offer
+		event "unfettered tribute Vara Ke'sok"
+		event "unfettered tribute Vara Ke'stai"
+		event "unfettered tribute Var' Kar'i'i"
+		
+event "unfettered tribute Vara Ke'sok"
+	planet "Vara Ke'sok"
+		tribute 2000
+			threshold 10000
+			fleet "Large Unfettered" 15
+			fleet "Small Unfettered" 5
+			
+event "unfettered tribute Vara Ke'stai"
+	planet "Vara Ke'stai"
+		tribute 2000
+			threshold 10000
+			fleet "Large Unfettered" 15
+			fleet "Small Unfettered" 5
+
+event "unfettered tribute Var' Kar'i'i"
+	planet "Var' Kar'i'i"
+		tribute 2000
+			threshold 10000
+			fleet "Large Unfettered" 15
+			fleet "Small Unfettered" 5
+
+			
+mission "Angry Squirrels: planet Varu K'est"
+	landing
+	invisible
+	to offer
+		has "Wanderers: Alpha Surveillance J: done"
+	on offer
+		event "unfettered tribute Varu K'est" 64
+
+event "unfettered tribute Varu K'est"
+	planet "Varu K'est"
+		tribute 2000
+			threshold 10000
+			fleet "Large Unfettered" 15
+			fleet "Small Unfettered" 5
+
+
+
+##########################
+# Journey to the Southwest
+##########################
+
+# The event: "Hai Ancestral Lands Discovered" is triggered during a Cartography Compass/Map mission.
+
+
+
+mission "Angry Squirrels: The Monkey King"
+	landing
+	invisible
+	source
+		government "Hai" "Hai (Unfettered)"
+		not planet "Darkwaste"
+	to offer
+		"tribute: Earth" > 0
+		"tribute: Foundry" > 0
+		"tribute: Bourne" > 0
+	on offer
+		dialog `A street vendor tries to sell you a book, "Journey to the Southwest." Apparently it's an adaptation of "Journey to the West" that's been altered to appeal to a Hai audience.`
+	on accept
+		fail
+
+
+
+mission "Angry Squirrels: Journey to the Southwest"
+	minor
+	name "Journey to the Southwest"
+	description "Guide the Unfettered pilgrims to <destination>. Try to avoid battles along the way."
+	source
+		government "Hai (Unfettered)"
+	destination "Oldhome"
+	to offer
+		has "Angry Squirrels: The Monkey King: offered"
+		has "event: Hai Ancestral Lands Discovered"
+		"combat rating" > 2981
+		"ships: Light Warship" + "ships: Medium Warship" + "ships: Heavy Warship" + "ships: Utility" >= 10
+		or
+			and
+				not "Randomize Angry Squirrels: Journey to the Southwest"
+				random < 70
+			and
+				has "Randomize Angry Squirrels: Journey to the Southwest"
+				random < 15
+	on offer
+		conversation
+			`When you get back to your ship, you find that a crowd has formed at the landing pad. Before you can ask what is going on, one of the Unfettered points at you and proclaims, "The Monkey King has arrived!"`
+
+			branch "second encounter"
+				has "Randomize Angry Squirrels: Journey to the Southwest" > 0
+
+			choice
+				`	"Monkey King?"`
+				`	"Huh?"`
+			`	"Oh great warrior who has bested the three beasts and earned the right to the title of Monkey King, will you not answer the call of destiny and guide us to the ancestral lands?"`
+			choice
+				`	"Three Beasts?"`
+				`	"... Huh?"`
+			`	"The Republic, The Syndicate, and The Free Worlds, all offer tribute to you oh great Monkey King. We ask that you guide us on a Journey to the Southwest!"`
+			choice
+				`	"Ah, I see. 'Journey to the Southwest' otaku. I'm not interested."`
+					goto destiny
+				`	"What's in it for me?"`
+					goto negotiate
+
+			label "second encounter"
+			branch "third encounter"
+				has "Randomize Angry Squirrels: Journey to the Southwest" > 1
+
+			choice
+				`	"Not this again..."`
+			`	"Oh great warrior who has bested the three beasts and earned the right to the title of Monkey King, will you not answer the call of destiny and guide us to the ancestral lands?"`
+			choice
+				`	"I'm still not interested."`
+					goto destiny
+				`	"Alright, what's in it for me?"`
+					goto negotiate
+				
+			label "third encounter"
+
+			choice
+				`	"Wow, you guys are really serious..."`
+			`	"Oh great warrior who has bested the three beasts and earned the right to the title of Monkey King, will you not answer the call of destiny and guide us to the ancestral lands?"`
+			choice
+				`	"I'm still not interested."`
+					goto destiny
+				`	"I have to admit, you're persistent. So, what's in it for me?"`
+					goto negotiate
+			
+			label destiny
+			`	"You cannot deny your fate. Destiny waits for no one." The Unfettered states as the crowd disperses.`
+				defer
+
+			label negotiate
+			scene "thumbnail/hai solifuge prototype-thumb"
+			`	"The Monkey King's passion for collecting warships is infamous. I happen to have the prototype Solifuge, Muramasa. It's one of a kind, slightly different from the production model. How about it? Will you heed the call of destiny?"`
+			choice
+				`	"Sorry, destiny will have to find someone else to guide you on your Journey to the Southwest."`
+				`	"Alright, I suppose it really is my destiny to guide you to the Ancestral Lands."`
+					goto guide
+			
+			`	The Unfettered looks dejected as the crowd disperses. It seems the Muramasa was all he had to offer.`
+				decline
+				
+			label guide
+			`	The crowd cheers. "By the way, I am San Zo. I look forward to our Journey to the Southwest."`
+				accept
+
+	on defer
+		"Randomize Angry Squirrels: Journey to the Southwest" ++
+		clear "Angry Squirrels: Journey to the Southwest: offered"
+	
+	on accept
+		log "People" "San Zo" `An Unfettered who convinced me to guide a group of colonists to the Hai Ancestral Lands on a Journey to the Southwest.` 
+		"reputation: Hai (Unfettered)" >?= 10
+	
+	npc
+		government "Hai (Friendly Unfettered)"
+		personality heroic plunders escort
+		fleet
+			names "hai"
+			variant
+				"Shield Beetle (Jump, Pulse)"
+				"Shield Beetle (Jump, Tracker)"
+				"Water Bug (Jump, Pulse)" 2
+				"Water Bug (Jump)" 2
+				"Lightning Bug (Jump, Pulse)" 3
+				"Lightning Bug (Jump)" 3
+	
+	npc accompany save
+		government "Hai (Unfettered)"
+		personality heroic vindictive escort
+		ship "Solifuge Prototype" "Muramasa"
+		
+	on abort
+		"reputation: Hai (Unfettered)" <?= -1000
+	
+	on fail
+		"reputation: Hai (Unfettered)" <?= -1000
+		dialog `[MISSION FAILED] You failed to escort the Muramasa to <destination>. If life were a game, you could load a save file and try again.`
+	
+	on visit
+		dialog `The Muramasa hasn't arrived. Return to space and wait for them.`
+
+	on complete
+		give ship "Solifuge Prototype" "Muramasa"
+		event "Completed Journey to the Southwest"
+		event "Unfettered Expand in Ancestral Lands" 30
+		event "It came from the desert..." 180
+		event "It came from the canyon..." 210
+		event "It came from the ocean..." 240
+		conversation
+			scene "thumbnail/hai solifuge prototype-thumb"
+			`	As promised, San Zo presents you with the Muramasa. The Unfettered disperse into the forest. You can't help but wonder if it was a mistake bringing them here...`
+
+event "Completed Journey to the Southwest"
+	system Ehmahai
+		government "Hai (Unfettered)"
+		fleet "Ancestral Unfettered" 6000
+		fleet "Nova Firefly" 4000
+	planet Oldhome
+		remove attributes
+			"uninhabited"
+		add attributes
+			"unfettered"
+		add description `The Unfettered have uncovered underground bunkers filled with supplies and equipment. They've even found some completed ships, ready for launch. It's as if the Hai were prepared to return someday.`
+		spaceport `The spaceport was once concealed underneath a thick forest canopy. Despite the Unfettered's attempt to clear away the brush, branches and leaves are still scattered across the landing pads.`
+		
+event "Unfettered Expand in Ancestral Lands"
+	system Ehmahai
+		fleet "Ancestral Unfettered" 3000
+		fleet "Nova Firefly" 6000
+	system Heiahai
+		government "Hai (Unfettered)"
+		fleet "Ancestral Unfettered" 6000
+		fleet "Nova Firefly" 4000
+	system Zubahai
+		government "Hai (Unfettered)"
+		fleet "Ancestral Unfettered" 6000
+		fleet "Nova Firefly" 4000
+	planet Oldhome
+		add shipyard "Unfettered Basics"
+		add outfitter "Unfettered Basics"
+	planet Nearwater
+		add attributes
+			"unfettered"
+		add description `While the Unfettered lay claim to Nearwater, they don't have the resources or patience to build an outpost in the midst of the constant storms here.`
+	planet Drywaste
+		add attributes
+			"unfettered"
+		add description `Unfettered scavengers have started digging through the sand in search of working warship parts. They aren't having much success.`
+	planet Takerstone
+		add attributes
+			"unfettered"
+		add description `Unfettered scavengers have started searching the rocky crevices in search of a salvageable warship. They aren't having much success.`
+	planet Wildland
+		remove attributes
+			"uninhabited"
+		add attributes
+			"unfettered"
+		spaceport `The Unfettered have converted part of the ruins into a spaceport. It seems the civilization that once lived here used it to launch and land terrestrial aircraft.`
+		
+event "It came from the desert..."
+	unvisit Ehmahai
+	unvisit Heiahai
+	unvisit Zubahai
+	system Hazehai
+		fleet "Nova Firefly Hatchery" 600
+		fleet "Nova Firefly" 1000
+	system Ehmahai
+		add fleet "Large Unfettered" 6000
+	system Heiahai
+		fleet "Ancestral Unfettered" 3000
+		fleet "Nova Firefly" 6000
+	system Zubahai
+		fleet "Ancestral Unfettered" 3000
+	planet Oldhome
+		tribute 300
+			threshold 800
+			fleet "Small Unfettered" 10
+			fleet "Large Unfettered" 20
+	planet Nearwater
+		remove attributes
+			"uninhabited"
+		spaceport `The "spaceport" is the exposed flagstones of a former Hai fortress. A section of crumbling wall provides some shelter for the Unfettered captain and his ship unfortunate enough to be assigned the duty of port authority.`
+		tribute 200
+			threshold 500
+			fleet "Small Unfettered" 10
+			fleet "Large Unfettered" 15
+	planet Drywaste
+		remove attributes
+			"uninhabited"
+		tribute 200
+			threshold 500
+			fleet "Small Unfettered" 10
+			fleet "Large Unfettered" 15
+		spaceport `A trading outpost has been set up in the shadow of a derelict Megalocoleus. Some nearby hills keep the sand from covering the area, allowing a flat surface for parking ships.`
+	planet Wildland
+		add shipyard "Unfettered Basics"
+		add outfitter "Unfettered Basics"
+		tribute 300
+			threshold 800
+			fleet "Small Unfettered" 10
+			fleet "Large Unfettered" 20
+
+event "It came from the canyon..."
+	system Zubahai
+		add fleet "Large Unfettered" 6000
+
+event "It came from the ocean..."
+	system Heiahai
+		add fleet "Large Unfettered" 6000
+
+
+
+mission "Angry Squirrels: Megalocoleus Intro"
+	landing
+	name "Ancestral Lands"
+	description "Visit <destination> to see how the Unfettered are faring in the Ancestral Lands."
+	source
+		government "Hai" "Hai (Unfettered)"
+		not attributes "ancestral lands"
+	destination Oldhome
+	to offer
+		has "event: It came from the desert..."
+	on offer
+		"reputation: Hai (Unfettered)" <?= -1000
+		conversation
+			scene "planet/forest3"
+			`Lately, the Unfettered seem agitated. You realize it's been a while since you've visited the Ancestral Lands. Perhaps you should see how they've developed.`
+				accept
+	on complete
+		conversation
+			scene "thumbnail/hai megalocoleus-thumb"
+			`You ask about the new ship you saw patrolling the system.`
+			`Ah, you must be referring to the Megalocoleus! The scavengers finally found something worthwhile under the sand dunes of Drywaste.`
+				decline
+
+mission "Angry Squirrels: It came from the desert..."
+	landing
+	invisible
+	source
+		government "Hai" "Hai (Unfettered)"
+		not attributes "ancestral lands"
+	destination Oldhome
+	to offer
+		has "event: It came from the desert..."
+	on enter Ehmahai
+		conversation
+			scene "scene/scene-megalocoleus1"
+			`There is a Hai ship you haven't seen before patrolling the system. But it doesn't seem new. On the contrary, its hull looks worn with age."`
+	npc kill
+		government "Hai (Unfettered)"
+		system "Ehmahai"
+		personality waiting staying timid uninterested
+		ship "Megalocoleus" "Go Jyo"
+		
+mission "Angry Squirrels: It came from the canyon..."
+	landing
+	invisible
+	source
+		government "Hai" "Hai (Unfettered)"
+		not attributes "ancestral lands"
+	destination Oldhome
+	to offer
+		has "event: It came from the canyon..."
+		has "Angry Squirrels: Megalocoleus Intro: declined"
+	on enter Zubahai
+		conversation
+			scene "scene/scene-megalocoleus2"
+			`Another old Megalocoleus is patrolling the system."`
+	npc kill
+		government "Hai (Unfettered)"
+		system "Zubahai"
+		personality waiting staying timid uninterested
+		ship "Megalocoleus" "Hak Kai"
+		
+
+mission "Ancestral Lands: Nova Firefly Swarm"
+	repeat
+	minor
+	name "Nova Firefly Swarm"
+	description "A large swarm of Nova Fireflies has entered <system>. Drive them off then land on <planet> for payment."
+	source
+		government "Hai (Unfettered)"
+		attributes "ancestral lands"
+	to offer
+		has "event: Completed Journey to the Southwest"
+		or
+			and
+				not "Randomize Ancestral Lands: Nova Firefly Swarm"
+				random < 70
+			and
+				has "Randomize Ancestral Lands: Nova Firefly Swarm"
+				random < 5
+	on offer
+		conversation
+			`Suddenly you hear raised voices and shouting outside: "We are under attack! A swarm of Nova Fireflies has entered the system! We need every combat-worthy ship to join the defenses!" The Unfettered will probably pay you quite well if you assist them, but this could also be an easy way to get yourself killed.`
+			choice
+				`	(Stay here until the fight is over.)`
+					defer
+				`	(Join the defense fleet.)`
+			`A few Unfettered pilots have gathered to help repel the Nova Firefly swarm. You join them, and take off together...`
+				launch
+	on defer
+		"reputation: Hai (Unfettered)" <?= -1000
+		set "Randomize Ancestral Lands: Nova Firefly Swarm"
+	npc
+		government "Hai (Unfettered)"
+		personality launching staying heroic vindictive
+		fleet "Small Unfettered" 2
+	npc evade
+		government "Invasive Lifeform"
+		personality waiting vindictive mining mute coward
+		fleet "Nova Firefly" 7
+	on visit
+		dialog `The swarm still threatens the system. Get back in the fight!`
+	on complete
+		set "Randomize Ancestral Lands: Nova Firefly Swarm"
+		payment 150000
+		dialog `The Unfettered pay you <payment> for your assistance.`
+
+
+
+###############################
+# Unfettered Cultists
+###############################
+
+mission "Danger In Darkwaste 1"
+	minor
+	name "Hai Camping Trip"
+	description "Transport Blawi and his camping club to the wilderness world of <destination> for an overnight camping trip."
+	source
+		government Hai
+		not attributes "uninhabited"
+		not planet "Darkwaste"
+	destination "Darkwaste"
+	passengers 3
+	to offer
+		month == 10
+		random < 70
+	on offer
+		conversation
+			`You return from the spaceport to find an old Hai in what looks like hiking gear waiting for you. "Greetings human, would you happen to be the captain of the <ship>?"`
+			choice
+				`	"Yes, Captain <first> <last>, at your service."`
+				`	"Yes, but I'm not taking jobs right now."`
+					goto refused
+			`	"Ah <first> <last> is it? A fine name indeed. My name is Blawi and the camping club I organize has been looking for a captain not susceptible to superstitions. We need transportation to the wilderness world of <destination> for an overnight camping trip, then a return trip to Hai-home. Would you be interested in taking the job? We can pay you 1,000,000 credits for the trouble."`
+			choice
+				`	"A million credits? Sure, no problem!"`
+				`	"What superstitions?"`
+					goto superstitions
+			label end
+			`	"Wonderful1! I'll tell the other club members the great news!"`
+				accept
+			label superstitions
+			scene "planet/rock18"
+			`	"Some Hai captains have weird notions about <planet> being cursed. Some won't even enter the system! Such a bother for camping enthusiasts like myself. So how about it? Would you be able to transport us there and back?"`
+			choice
+				`	"Alright, I'll take you there."`
+					goto end
+				`	"Sorry, not interested."`
+			label refused
+			`	"The camping club members will be so disappointed. At this rate it looks like our camping trip will be cancelled."`
+				decline
+	on accept
+		log "People" "Blawi" `The organizer of a Hai camping club planning an overnight trip to the wilderness world of Darkwaste.`
+
+	on enter "Fah Root"
+		dialog `Several human ships are already in this system. "Other campers," explains Blawi. "Hurry and land before all the good spots are taken!"`
+	npc
+		government "Merchant"
+		system "Fah Root"
+		personality waiting staying uninterested
+		fleet
+			names "civilian"
+			cargo 3
+			commodities "Food" "Equipment" "Medical"
+			variant
+				"Star Queen (Hai)"
+				"Bounder"
+				"Scout (Speedy)"
+				"Shuttle" 2
+
+mission "Danger In Darkwaste 2"
+	landing
+	invisible
+	name "Hai Camping Trip"
+	description "Transport Blawi and his camping club to <destination> after their camping trip."
+	source "Darkwaste"
+	destination "Hai-home"
+	passengers 3
+	to offer
+		has "Danger In Darkwaste 1: done"
+	on offer
+		conversation
+			`As Blawi and the others unpack their things, he asks "Captain <last>, would you like to join us? Sleeping under the stars might be a nice change of pace from sleeping in your ship."`
+			choice
+				`	"Alright. Some fresh air might be refreshing."`
+				`	"No thanks, I'll be fine on the <ship>."`
+					goto end
+			scene "scene/scene-campfire"
+			`	"Don't worry about supplies. We've brought enough to share." The group welcomes you and introduce themselves as they begin their hike into the nearby mountains. After a few hours, you arrive at a place where several other groups have set up tents and campfires. By the time the sun sets Blawi's camping club has their own campfire going.`
+			`	"Let's roast chestnuts!" One of the club members, Hemijo if you remember her name correctly, is holding up a big bag of what are supposedly chestnuts. After she tears it open, Dolewi, a husky Hai who had some trouble during the earlier hike, starts impaling the nuts on barbecue sticks. From their large size and ease with which he pierced them, it's obvious that these aren't the chestnuts from Earth that are sold and distributed throughout human space. Hemijo notices your interest and explains, "Oh <first>! These aren't the chestnuts imported from human space. It's actually a tropical fruit native to Greenbloom's rainforests. We just call them chestnuts because that's what humans say they are reminded of when we roast them."`
+			`	Dolewi soon has some "chestnuts" roasting over the fire and hands one finished stick to you. As they roast, a sweet aroma fills your nostrils.`
+			choice
+				`	(Dig in!)`
+					goto eat
+				`	(Hand it to Hemijo.)`
+			scene "scene/scene-campfire"
+			`	You hand the stick of roasted "chestnuts" to Hemijo and she gladly accepts it. Without hesitation she bites into the still steaming fruit. There are audible wet chewing sounds as some of the juice leaks from the sides of her mouth. "My gosh! It's so good!"`
+			`	"The next one is finished." Dolewi offers the barbecue stick to you.`
+			choice
+				`	(Dig in!)`
+					goto eat
+				`	(Hand it to Blawi.)`
+			scene "scene/scene-campfire"
+			`	You offer the stick of roasted fruit to Blawi, who has just finished setting up a tent. "Thanks <first>!" He bites into the fruit, munching on it as some juice leaks from the corners of his mouth. "Mmm! Tasty! Just what I needed!"`
+			`	"This one is just about done." Dolewi looks at you as he holds out the stick of roasted fruit. "Be careful. It's hot."`
+			choice
+				`	(Dig in!)`
+					goto eat
+				`	(Politely refuse.)`
+			scene "scene/scene-campfire"
+			`	Dolewi shrugs and chomps down the fruit himself. "Mmh!" He sucks in air and grabs a nearby canteen for some water. "It's good but hot!" He takes another bite, wiping the juice running down the sides of his mouth and licks his paws. There's still one stick of uncooked fruit, but Dolewi doesn't seem interested in roasting it.`
+			choice
+				`	(Cook it yourself.)`
+				`	(Get a drink instead.)`
+					goto drink
+				`	(Go for a walk.)`
+					goto walk
+			scene "scene/scene-campfire"
+			`	You pick up the last stick and hold it out over the fire. "Keep it above the flame or you'll burn it," warns Dolewi. After a while you can hear the juices sizzling within. Hot steam wafts up from the roasted fruit when you pull it back from the flames. Its sweet aroma tantalizes your senses. Remembering how Dolewi reacted earlier, you blow on the "chestnut" a few times to let it cool before taking a bite. Blawi, Hemijo, and Dolewi are all staring as you swallow...`
+			choice
+				`	(The nightmare begins.)`
+					goto nightmare
+			label eat
+			scene "scene/scene-campfire"
+			`	You accept the stick of still sizzling fruit and are about to take a bite when Hemijo yells "Stop!" Blawi and Dolewi are both startled by her exclamation. "Let it cool a bit, you don't want to burn yourself," she explains. The sizzling slows down and you carefully bite into the warm roasted "chestnut". Blawi, Hemijo, and Dolewi are all staring as you swallow...`
+			choice
+				`	(The nightmare begins.)`
+					goto nightmare
+			label drink
+			scene "scene/scene-campfire"
+			`	You pull a flask of whisky from your pocket and help yourself to a bit of happy juice. What starts with a few sips turns into gulps and you fall asleep holding the empty bottle as Blawi, Hemijo, and Dolewi are all staring at you...`
+			choice
+				`	(The nightmare begins.)`
+			label nightmare
+			scene "scene/scene-bloodyknife"
+			``
+			`THUD.`
+			``
+			`THUD.`
+			``
+			`THUD.`
+			``
+			`	Your head is pounding as you wake up bleary eyed, your mind still wrapped in the murky fog of blissful unconsciousness. After a moment you realize that you've been tied up along with the humans from other camping groups. The Hai campers have gathered all around you, chanting in their native language. You recognize Dolewi beating a drum while Hemijo has joined in the chant. The chanting stops as Blawi stands before you. He yells, "In the name of the true Hai we offer this SACRIFICE TO THE ACORN GOD," before stabbing you in the chest! The Hai cultists cheer as the other human sacrifices look with horror at your last dying moments, knowing they'll soon meet the same fate.`
+				die
+			label walk
+			scene "scene/scene-campfire"
+			`	"I'm going for a walk," you say as you turn to leave.`
+			`	"Don't stray too far," warns Blawi.`
+			`	"Being alone in the dark can be dangerous," suggests Hemijo.`
+			`	You nod, noticing that Dolewi has set up a stew pot over the fire and is sharpening a knife, presumably to cut some vegetables. "Don't stay out too late," he says while staring at you. "It'd be a shame if you missed the main course!"`
+			choice
+				`	(Walk for a bit.)`
+			`	As you put some distance between yourself and the camp, the cold night air instills a craving for the warmth of the campfire. What will you do?`
+			choice
+				`	(Return to camp.)`
+				`	(Snoop around.)`
+					goto snoop
+				`	(Return to the <ship>)`
+					goto ship
+			`	When you return Dolewi is still chopping vegetables, but the last stick of "chestnuts" is available. After your walk in the cold, the thought of eating the warm fruit is impossible to resist and you set about roasting and eating it. Blawi, Hemijo, and Dolewi are all staring as you swallow...`
+			choice
+				`	(The nightmare begins.)`
+					goto nightmare
+			label snoop
+			`	You make your way to one of the other camps and peek at them from the darkness. This group of Hai campers have begun tying up an unconscious human, probably the ship captain that brought them here. You try to listen to their chatter, but it's in a language you are unfamiliar with. You weren't expecting a fight, so all you have is a pistol.`
+			choice
+				`	(Make a rescue attempt.)`
+				`	(Seek help.)`
+					goto help
+				`	(Slip away into the darkness.)`
+					goto darkness
+			`	You pull your pistol and take aim at the nearest Hai. You're not sure why they've tied up the human but something in your gut tells you that what they're doing is wrong. The Hai are a peaceful people, right? Right?`
+			`	As these thoughts rush through your mind someone clobbers you on the back of the head...`
+			choice
+				`	(The nightmare begins.)`
+					goto nightmare
+			label help
+			scene "scene/scene-bloodyknife"
+			`	You rush back to Blawi's camp to seek help. "Some of the other campers have taken a human hostage!"`
+			`	"Now calm down <first> and show us where," replies Blawi.`
+			`	"This way!" You turn towards the other Hai camp when you feel a sharp pain in your back and abdomen. Startled, you realize the tip of Dolewi's cooking knife is protruding from your belly!`
+			`	"Now's as good a time as any," mutters Blawi before screaming, "In the name of the true Hai we offer this SACRIFICE TO THE ACORN GOD!" You slump to the ground in pain as the Hai cultists begin butchering you...`
+				die
+			label darkness
+			`	You slip away into the darkness before anyone notices your presence. Checking the other camp sites, similar situations are unfolding as the Hai tie up their human guests. In the distance, you can hear a steady drum beat. The Hai begin chanting in their native language as they carry off the human captives toward the sound. Blawi and the others might have intended to do the same thing to you. Could this be some sort of cult?`
+			choice
+				`	(Head towards the sound of the drums.)`
+				`	(Return to your ship and escape from Darkwaste.)`
+					goto escape
+			`	The sound of the drums reverberates through your bones as you get closer. Suddenly, you hear Hai chittering in their native language nearby! You see a blur as something rushes through the darkness and knocks you out...`
+			choice
+				`	(The nightmare begins.)`
+					goto nightmare
+			label escape
+			`	You rush back to the <ship> and begin an emergency take off. You're not sure what's going to happen to the captured humans, but someone needs to report this to the Hai authorities. Rising above Darkwaste, the orange lights of their campfires glow like the eyes of demons in the dark...`
+				flee
+			label ship
+			`	It's a long walk to get back to the <ship>. After getting in you set the environmental controls to warm the interior and grab some canned slop from the supply chest to fill your empty belly. As you settle into your bunk for a relaxing sleep you wonder if the campers are enjoying themselves.`
+			``
+			`	The following day, Blawi and the others return to the <ship>. "You had us worried <first>. I'm glad you're okay, but that was a very selfish thing you did!" They finish stowing away their gear and are ready to head to <destination>.`
+				accept
+			label end
+			`	"Suit yourself." Blawi seems disappointed as he joins the other campers. You watch them hike towards the mountains. As the sun sets you can see them lighting their campfires, mere specks of orange light, far in the distance.`
+			``
+			`	The following day, Blawi and the others return to the <ship>, ready to go to <destination>. They seem more relaxed after enjoying their camping trip.`
+				accept
+	on enter
+		dialog `The other human captains seem to still be parked on Darkwaste. Maybe they slept in...`
+	on decline
+		log "People" "Blawi" `Blawi seems to be involved in some sort of Hai cult.`
+		log "Blawi and the other Darkwaste campers may actually be cultists. During their camping trip they kidnapped humans and seemed to be preparing for some kind of ritual."
+
+	on complete
+		payment 1000000
+		conversation
+			scene "effect/blood"
+			`	After landing Blawi and his companions thank you for making the trip possible and hand over credit chips worth <payment>. That's a lot to be carrying around. After they're gone you notice a dark stain where Blawi had stored his gear. When you try wiping it away the wash cloth smears red, as if stained with blood...`
+
+mission "Danger In Darkwaste Escape Epilogue"
+	landing
+	invisible
+	source
+		government Hai
+		attributes spaceport
+		not attributes "uninhabited"
+		not planet "Darkwaste"
+	to offer
+		has "Danger In Darkwaste 2: declined"
+	on offer
+		conversation
+			scene "scene/scene-campfire"
+			`Do you want to tell the Hai authorities about your experience with Blawi's camping club on Darkwaste?`
+			choice
+				`	(Report the situation to the authorities.)`
+				`	(Not yet.)`
+					defer
+			scene "outfit/bloodstone"
+			`You find the spaceport authorities and report your tale of suspected Hai cultists and human hostages.`
+			`	"That's just a conspiracy theory," exclaims one of the officers on duty. "Stop wasting our time or I'll have you arrested for interfering with Hai police operations!"`
+			`	You are about to leave when a Hai prisoner being processed yells out to you, "The cultists are real! Look for the Quantum Bloodstones!" The Hai police struggle to keep the prisoner under control, finally stunning him with a Pulse Pistol. They drag his unconscious form off to their detention facility. The officer who shot him comments, "Don't listen that criminal. He'd say anything to cause a disruption and escape."`
+				decline
+	on decline
+		event "add quantum bloodstones"
+		log "The authorities claim the existance of the Hai cultists is nothing more than a conspiracy theory. A Hai criminal claims that the Hai cultists are real and that they are associated with Quantum Bloodstones."
+
