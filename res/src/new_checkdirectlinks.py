@@ -34,8 +34,8 @@ if os.path.isdir("temp") == False: # creating temp directory
 	os.mkdir("temp")						
 
 
-username = os.environ("GITHUB_ACTOR")
-token = os.environ("github_token")
+username = os.getenv("GITHUB_ACTOR")
+token = os.getenv("github_token")
 # login = requests.get('https://api.github.com/search/repositories?q=github+api', auth=(username,token))
 
 
