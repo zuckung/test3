@@ -5,6 +5,8 @@ import glob
 import shutil
 from zipfile import ZipFile
 
+username = os.environ("GITHUB_ACTOR")
+token = os.environ("github_token")
 
 # check for local testing
 if os.getcwd() == "/storage/emulated/0/Download/mgit/test3/res/src":
@@ -82,7 +84,7 @@ for entry in entries:
 							author = urllist[3]
 							plug = urllist[4]
 							params = {'page': '1', 'per_page': '1'}
-							response = requests.get('https://api.github.com/repos/' + author +'/' + plug + '/commits', params=params)
+							response = requests.get('https://api.github.com/repos/' + author +'/' + plug + '/commits', params=params, auth=(username,token))
 							cont = str(response.content)
 							dateandtime = cont.split(",")[4]
 							commitdate = dateandtime[8:18] 
