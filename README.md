@@ -4,7 +4,8 @@
 News(latest 10 entries):
 <table><tr><td width=800>
 
-2023-07-04 'World Forge' updated | category: [cheats](https://github.com/zuckung/test3/blob/main/README.md#cheats)
+2023-07-04 'test file' updated | category: [uncategorized](https://github.com/zuckung/test3/blob/main/README.md#uncategorized)
+<br>2023-07-04 'World Forge' updated | category: [cheats](https://github.com/zuckung/test3/blob/main/README.md#cheats)
 <br>2023-07-04 'Galactic War' updated | category: [overhauls](https://github.com/zuckung/test3/blob/main/README.md#overhauls)
 <br>2023-07-04 'Amphibious-Ships' updated | category: [ships](https://github.com/zuckung/test3/blob/main/README.md#ships)
 <br>2023-07-04 'Bulkheads-and-Battleships' updated | category: [uncategorized](https://github.com/zuckung/test3/blob/main/README.md#uncategorized)
@@ -13,7 +14,6 @@ News(latest 10 entries):
 <br>2023-07-04 'The Evora Navaiya' updated | category: [races](https://github.com/zuckung/test3/blob/main/README.md#races)
 <br>2023-07-04 'Sestor-Expansion' updated | category: [ships](https://github.com/zuckung/test3/blob/main/README.md#ships)
 <br>2023-07-04 'Lost in Midnight' updated | category: [story](https://github.com/zuckung/test3/blob/main/README.md#story)
-<br>2023-07-03 'Derogam' updated | category: [ships](https://github.com/zuckung/test3/blob/main/README.md#ships)
 <br>
 
 </td></tr></table>
@@ -56,7 +56,7 @@ Provide a directlink to your zipped plugin and we do a daily check if it is newe
 
 # Introduction
 
-A comprehensive library of 471 ancient and new plugins for the open-source game Endless Sky.
+A comprehensive library of 472 ancient and new plugins for the open-source game Endless Sky.
 
 ---
 
@@ -203,11 +203,11 @@ To keep these files related together, you have to give them the same name.
 
 # Plugin Download
 
-All Plugins (471)
+All Plugins (472)
 
 [Cheats](https://github.com/zuckung/test3/blob/main/README.md#cheats) (35) | [Gameplay](https://github.com/zuckung/test3/blob/main/README.md#gameplay) (33) | [Graphics](https://github.com/zuckung/test3/blob/main/README.md#graphics) (17) | [Outfits](https://github.com/zuckung/test3/blob/main/README.md#outfits) (35)<br>
 [Overhauls](https://github.com/zuckung/test3/blob/main/README.md#overhauls) (38) | [Overwrites](https://github.com/zuckung/test3/blob/main/README.md#overwrites) (1) | [Patches](https://github.com/zuckung/test3/blob/main/README.md#patches) (3) | [Races](https://github.com/zuckung/test3/blob/main/README.md#races) (63)<br>
-[Ships](https://github.com/zuckung/test3/blob/main/README.md#ships) (119) | [Story](https://github.com/zuckung/test3/blob/main/README.md#story) (61) | [Weapons](https://github.com/zuckung/test3/blob/main/README.md#weapons) (40) | [Uncategorized](https://github.com/zuckung/test3/blob/main/README.md#uncategorized) (26)<br>
+[Ships](https://github.com/zuckung/test3/blob/main/README.md#ships) (119) | [Story](https://github.com/zuckung/test3/blob/main/README.md#story) (61) | [Weapons](https://github.com/zuckung/test3/blob/main/README.md#weapons) (40) | [Uncategorized](https://github.com/zuckung/test3/blob/main/README.md#uncategorized) (27)<br>
 
 
 
@@ -7730,7 +7730,7 @@ Status: N/A
 
 ## Uncategorized
 
-<p>26 plugins in this category.<p>
+<p>27 plugins in this category.<p>
 
 <details>
 
@@ -8139,6 +8139,23 @@ Status: story
 
 [TaleOfApoxys.zip](https://github.com/zuckung/test3/releases/download/Latest/TaleOfApoxys.zip) | 0.13 kb | 2023-05-19 | [view files](https://github.com/zuckung/test3/tree/main/Working/TaleOfApoxys/)  
 Author: N/A | N/A[]()  
+Category: N/A  
+
+>N/A
+>
+
+
+Status: N/A  
+
+
+---
+
+### test file
+<img src='Working/test file/icon.png' width='100'></img><br>
+
+
+[test.file.zip](https://github.com/zuckung/test3/releases/download/Latest/test.file.zip) | 54.6 kb | 2023-07-04 | [view files](https://github.com/zuckung/test3/tree/main/Working/test%20file/)  
+Author: tester | N/A[]()  
 Category: N/A  
 
 >N/A
