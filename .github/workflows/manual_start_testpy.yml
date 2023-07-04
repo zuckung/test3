@@ -1,4 +1,6 @@
 name: Manual start test.py
+env:
+  github_token: ${{ secrets.GITHUB_TOKEN }}
 on: 
   workflow_dispatch:
 jobs:
@@ -13,5 +15,5 @@ jobs:
       - name: Install gitpython
         run: |
           python3 -m pip install gitpython
-      - name: makeassets
-        run: python res/src/test.py
+      - name: testing
+        run: python res/src/new_checkdirectlinks.py
