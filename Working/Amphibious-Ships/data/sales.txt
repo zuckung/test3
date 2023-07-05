@@ -1,5 +1,6 @@
 shipyard "Navarch Basics"
 	"Subvarietas"
+	"Forma"
 	"Tribus"
 	"Infrafamilia"
 
@@ -33,6 +34,7 @@ shipyard "Navarch Outrigger Intermediate"
 	"Infrafamilia (Minelayer)"
 	"Infrafamilia (Missile)"
 	"Infrafamilia (Logistic)"
+	"Infrafamilia (Carrier)"
 	
 shipyard "Navarch Logistics Expert"
 	"Imperium"
@@ -97,6 +99,10 @@ outfitter "Navarch Advanced"
 	"Nanoplasma Thruster (Giant)"
 	"Nanoplasma Steering (Giant)"
 
+outfitter "Navarch Experimental Intermediate"
+	`"Lythang" Rearmorer`
+	
 outfitter "Navarch Experimental Advanced"
 	"Hyperdrive Malformer"
 	"THEL Node"
+	`"Kecid" Rearmorer`

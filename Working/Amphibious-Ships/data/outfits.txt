@@ -1,3 +1,5 @@
+# Regeneration
+
 outfit "Pantheon-Class Breach Sealant"
 	category "Systems"
 	cost 4000000
@@ -36,6 +38,34 @@ outfit "Throne-Class Breach Sealant"
 	"shield energy" 5.6
 	"hull repair rate" 1.12
 	description "Utilizing techniques discovered during the creation of the larger Pantheon-Class Breach Sealant, the Throne-Class is a far smaller rig designed for small torpedo boats or fighters. A little over one-tenth the size of the Pantheon-Class, the Throne-Class serves its role well."
+
+outfit `"Kecid" Rearmorer`
+	category "Systems"
+	cost 1520000
+	thumbnail "outfit/large shield"
+	series "Shields: Navarchs"
+	index 100
+	"mass" 313
+	"outfit space" -313
+	"hull repair rate" 28.1
+	"hull energy" 2.81
+	"energy consumption" 30.91
+	description `This larger rearmorer is capable of repairing even the largest Navarch ships in a fraction of the time that a breach sealant unit of comparable size would, but requires an enormous amount of energy to keep running and has no ability to recover a ship's shields.`
+
+outfit `"Lythang" Rearmorer`
+	category "Systems"
+	cost 1520000
+	thumbnail "outfit/small shield"
+	series "Shields: Navarchs"
+	index 100
+	"mass" 107
+	"outfit space" -107
+	"hull repair rate" 9.1
+	"hull energy" .91
+	"energy consumption" 10.01
+	description `Experimental Navarch vessels rely primarily on their cutting-edge armor rather than shield matricies. These odd "hull reactors" contain loops that allow them to circulate a gel that solidifies and crystallizes into this new armor when exposed to open space, allowing a ship to repair itself at great speed. The system takes a constant supply of energy to fabricate and circulate replacement fluid, but as a consequence, requires very little active energy when the hull is damaged.`
+
+# Power
 
 outfit "20x Fusion Reactor"
 	category "Power"
@@ -109,9 +139,21 @@ outfit "2x Fusion Reactor"
 	"heat generation" 40
 	description "For their fighters, the Navarchs simply scaled down their pre-existing reactor design. This isn't a particularly elegant solution, but provides the necessary energy to run all of a Subvarietas' systems and weapons."
 
+outfit "1x Fusion Reactor"
+	category "Power"
+	cost 5000000
+	thumbnail "outfit/core"
+	series "Reactors: Navarchs"
+	index 100
+	"mass" 32
+	"outfit space" -32
+	"energy generation" 9.7
+	"heat generation" 18
+	description "This is a miniscule generator by Navarch standards, allowing their smallest ships to boast significant electrical output while remaining compact."
+
 outfit "Cluster Battery"
 	category "Power"
-	cost 320000
+	cost 1280000
 	thumbnail "outfit/huge battery"
 	series "Energy Storage: Navarchs"
 	index 600
@@ -122,7 +164,7 @@ outfit "Cluster Battery"
 
 outfit "Galaxy Battery"
 	category "Power"
-	cost 320000
+	cost 640000
 	thumbnail "outfit/large battery"
 	series "Energy Storage: Navarchs"
 	index 500
@@ -152,7 +194,18 @@ outfit "Moon Battery"
 	"outfit space" -50
 	"energy capacity" 56000
 	description "This relatively compact battery is used by small Navarch ships with low energy needs, such as their light carriers."
-	
+
+outfit "Accretion Capacitor"
+	category "Power"
+	cost 60000
+	thumbnail "outfit/small battery"
+	series "Energy Storage: Navarchs"
+	index 200
+	"mass" 20
+	"outfit space" -20
+	"energy capacity" 25000
+	description "This larger capacitor was designed by the Navarchs for small ships with inconsistent energy needs, such as those fielding lots of anti-missile."
+
 outfit "Comet Capacitor"
 	category "Power"
 	cost 20000
@@ -190,7 +243,7 @@ outfit "AHDU (Small)"
 	"outfit space" -20
 	"cooling" 43.2
 	description "This small Heat Dissipation Unit is designed as a small add-on for most Navarch Vessels, but has use as primary cooling on some of their smallest ships."
-	
+
 outfit "Fuel Distillery"
 	category "Systems"
 	cost 1000000
