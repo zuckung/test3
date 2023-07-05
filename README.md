@@ -4,7 +4,8 @@
 News(latest 10 entries):
 <table><tr><td width=800>
 
-2023-07-04 'test file' updated | category: [uncategorized](https://github.com/zuckung/test3/blob/main/README.md#uncategorized)
+2023-07-05 'Amphibious-Ships' updated | category: [ships](https://github.com/zuckung/test3/blob/main/README.md#ships)
+<br>2023-07-04 'test file' updated | category: [uncategorized](https://github.com/zuckung/test3/blob/main/README.md#uncategorized)
 <br>2023-07-04 'World Forge' updated | category: [cheats](https://github.com/zuckung/test3/blob/main/README.md#cheats)
 <br>2023-07-04 'Galactic War' updated | category: [overhauls](https://github.com/zuckung/test3/blob/main/README.md#overhauls)
 <br>2023-07-04 'Amphibious-Ships' updated | category: [ships](https://github.com/zuckung/test3/blob/main/README.md#ships)
@@ -13,7 +14,6 @@ News(latest 10 entries):
 <br>2023-07-04 'Midnight Scrapyard' updated | category: [story](https://github.com/zuckung/test3/blob/main/README.md#story)
 <br>2023-07-04 'The Evora Navaiya' updated | category: [races](https://github.com/zuckung/test3/blob/main/README.md#races)
 <br>2023-07-04 'Sestor-Expansion' updated | category: [ships](https://github.com/zuckung/test3/blob/main/README.md#ships)
-<br>2023-07-04 'Lost in Midnight' updated | category: [story](https://github.com/zuckung/test3/blob/main/README.md#story)
 <br>
 
 </td></tr></table>
@@ -4111,7 +4111,7 @@ Status: should work
 ### Amphibious-Ships
 
 
-[Amphibious-Ships.zip](https://github.com/zuckung/test3/releases/download/Latest/Amphibious-Ships.zip) | 6.19 mb | 2023-07-04 | [view files](https://github.com/zuckung/test3/tree/main/Working/Amphibious-Ships/)  
+[Amphibious-Ships.zip](https://github.com/zuckung/test3/releases/download/Latest/Amphibious-Ships.zip) | 6.35 mb | 2023-07-05 | [view files](https://github.com/zuckung/test3/tree/main/Working/Amphibious-Ships/)  
 Author: Zoura | [https://github.com/AvianGeneticist/Amphibious-Ships](https://github.com/AvianGeneticist/Amphibious-Ships)  
 Category: Ships  
 
