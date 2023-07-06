@@ -4,9 +4,9 @@
 News(latest 10 entries):
 <table><tr><td width=800>
 
-2023-07-06 'Amphibious-Ships' updated by author=Zoura
+2023-07-06 'Amphibious-Ships' updated by Zoura
 <br> | category: [ships](https://github.com/zuckung/test3/blob/main/README.md#ships)
-<br>2023-07-06 'test file' updated by author=tester
+<br>2023-07-06 'test file' updated by tester
 <br> | category: [uncategorized](https://github.com/zuckung/test3/blob/main/README.md#uncategorized)
 <br>2023-07-06 'Adamas Project' updated by todd1010 | category: [races](https://github.com/zuckung/test3/blob/main/README.md#races)
 <br>2023-07-05 'test file' updated by N/A | category: [uncategorized](https://github.com/zuckung/test3/blob/main/README.md#uncategorized)
