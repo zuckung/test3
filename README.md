@@ -4,7 +4,8 @@
 News(latest 10 entries):
 <table><tr><td width=800>
 
-2023-07-06 'Amphibious-Ships' updated by Zoura | category: [ships](https://github.com/zuckung/test3/blob/main/README.md#ships)
+2023-07-06 'additional.command.buttons' updated by zuckung | category: [graphics](https://github.com/zuckung/test3/blob/main/README.md#graphics)
+<br>2023-07-06 'Amphibious-Ships' updated by Zoura | category: [ships](https://github.com/zuckung/test3/blob/main/README.md#ships)
 <br>2023-07-06 'test file' updated by tester | category: [uncategorized](https://github.com/zuckung/test3/blob/main/README.md#uncategorized)
 <br>2023-07-06 'Adamas Project' updated by todd1010 | category: [races](https://github.com/zuckung/test3/blob/main/README.md#races)
 <br>2023-07-05 'test file' updated by N/A | category: [uncategorized](https://github.com/zuckung/test3/blob/main/README.md#uncategorized)
@@ -13,7 +14,6 @@ News(latest 10 entries):
 <br>2023-07-04 'World Forge' updated | category: [cheats](https://github.com/zuckung/test3/blob/main/README.md#cheats)
 <br>2023-07-04 'Galactic War' updated | category: [overhauls](https://github.com/zuckung/test3/blob/main/README.md#overhauls)
 <br>2023-07-04 'Amphibious-Ships' updated | category: [ships](https://github.com/zuckung/test3/blob/main/README.md#ships)
-<br>2023-07-04 'Bulkheads-and-Battleships' updated | category: [uncategorized](https://github.com/zuckung/test3/blob/main/README.md#uncategorized)
 <br>
 
 </td></tr></table>
@@ -1408,7 +1408,7 @@ Status: N/A
 <img src='Working/additional.command.buttons/icon.png' width='100'></img><br>
 
 
-[additional.command.buttons.zip](https://github.com/zuckung/test3/releases/download/Latest/additional.command.buttons.zip) | 54.49 kb | 2023-06-21 | [view files](https://github.com/zuckung/test3/tree/main/Working/additional.command.buttons/)  
+[additional.command.buttons.zip](https://github.com/zuckung/test3/releases/download/Latest/additional.command.buttons.zip) | 54.6 kb | 2023-07-06 | [view files](https://github.com/zuckung/test3/tree/main/Working/additional.command.buttons/)  
 Author: zuckung | [https://github.com/zuckung/endless-sky-plugins](https://github.com/zuckung/endless-sky-plugins)  
 Category: Graphics  
 
