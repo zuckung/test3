@@ -4,7 +4,8 @@
 News(latest 10 entries):
 <table><tr><td width=800>
 
-2023-07-05 'test file' updated | category: [uncategorized](https://github.com/zuckung/test3/blob/main/README.md#uncategorized)
+2023-07-06 'Adamas Project' updated | category: [races](https://github.com/zuckung/test3/blob/main/README.md#races)
+<br>2023-07-05 'test file' updated | category: [uncategorized](https://github.com/zuckung/test3/blob/main/README.md#uncategorized)
 <br>2023-07-05 'Amphibious-Ships' updated | category: [ships](https://github.com/zuckung/test3/blob/main/README.md#ships)
 <br>2023-07-04 'test file' updated | category: [uncategorized](https://github.com/zuckung/test3/blob/main/README.md#uncategorized)
 <br>2023-07-04 'World Forge' updated | category: [cheats](https://github.com/zuckung/test3/blob/main/README.md#cheats)
@@ -13,7 +14,6 @@ News(latest 10 entries):
 <br>2023-07-04 'Bulkheads-and-Battleships' updated | category: [uncategorized](https://github.com/zuckung/test3/blob/main/README.md#uncategorized)
 <br>2023-07-04 'StarProtector-Endless-Sky' updated | category: [ships](https://github.com/zuckung/test3/blob/main/README.md#ships)
 <br>2023-07-04 'Midnight Scrapyard' updated | category: [story](https://github.com/zuckung/test3/blob/main/README.md#story)
-<br>2023-07-04 'The Evora Navaiya' updated | category: [races](https://github.com/zuckung/test3/blob/main/README.md#races)
 <br>
 
 </td></tr></table>
@@ -3051,9 +3051,10 @@ Status: N/A
 ---
 
 ### Adamas Project
+<img src='Working/Adamas Project/icon.png' width='100'></img><br>
 
 
-[Adamas.Project.zip](https://github.com/zuckung/test3/releases/download/Latest/Adamas.Project.zip) | 0.34 kb | 2023-05-15 | [view files](https://github.com/zuckung/test3/tree/main/Working/Adamas%20Project/)  
+[Adamas.Project.zip](https://github.com/zuckung/test3/releases/download/Latest/Adamas.Project.zip) | 17.88 mb | 2023-07-06 | [view files](https://github.com/zuckung/test3/tree/main/Working/Adamas%20Project/)  
 Author: toiletthings | [https://github.com/kestrel1110/Adamas-Project](https://github.com/kestrel1110/Adamas-Project)  
 Category: Races  
 
