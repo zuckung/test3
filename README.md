@@ -4,16 +4,16 @@
 News(latest 10 entries):
 <table><tr><td width=800>
 
-2023-07-06 'Adamas Project' updated by todd1010 | category: [races](https://github.com/zuckung/test3/blob/main/README.md#races)
+2023-07-06 'Amphibious-Ships' updated by author=Zoura
+<br> | category: [ships](https://github.com/zuckung/test3/blob/main/README.md#ships)
+<br>2023-07-06 'test file' updated by author=tester
+<br> | category: [uncategorized](https://github.com/zuckung/test3/blob/main/README.md#uncategorized)
+<br>2023-07-06 'Adamas Project' updated by todd1010 | category: [races](https://github.com/zuckung/test3/blob/main/README.md#races)
 <br>2023-07-05 'test file' updated by N/A | category: [uncategorized](https://github.com/zuckung/test3/blob/main/README.md#uncategorized)
 <br>2023-07-05 'Amphibious-Ships' updated | category: [ships](https://github.com/zuckung/test3/blob/main/README.md#ships)
 <br>2023-07-04 'test file' updated | category: [uncategorized](https://github.com/zuckung/test3/blob/main/README.md#uncategorized)
 <br>2023-07-04 'World Forge' updated | category: [cheats](https://github.com/zuckung/test3/blob/main/README.md#cheats)
 <br>2023-07-04 'Galactic War' updated | category: [overhauls](https://github.com/zuckung/test3/blob/main/README.md#overhauls)
-<br>2023-07-04 'Amphibious-Ships' updated | category: [ships](https://github.com/zuckung/test3/blob/main/README.md#ships)
-<br>2023-07-04 'Bulkheads-and-Battleships' updated | category: [uncategorized](https://github.com/zuckung/test3/blob/main/README.md#uncategorized)
-<br>2023-07-04 'StarProtector-Endless-Sky' updated | category: [ships](https://github.com/zuckung/test3/blob/main/README.md#ships)
-<br>2023-07-04 'Midnight Scrapyard' updated | category: [story](https://github.com/zuckung/test3/blob/main/README.md#story)
 <br>
 
 </td></tr></table>
@@ -4112,7 +4112,7 @@ Status: should work
 ### Amphibious-Ships
 
 
-[Amphibious-Ships.zip](https://github.com/zuckung/test3/releases/download/Latest/Amphibious-Ships.zip) | 6.35 mb | 2023-07-05 | [view files](https://github.com/zuckung/test3/tree/main/Working/Amphibious-Ships/)  
+[Amphibious-Ships.zip](https://github.com/zuckung/test3/releases/download/Latest/Amphibious-Ships.zip) | 8.38 mb | 2023-07-06 | [view files](https://github.com/zuckung/test3/tree/main/Working/Amphibious-Ships/)  
 Author: Zoura | [https://github.com/AvianGeneticist/Amphibious-Ships](https://github.com/AvianGeneticist/Amphibious-Ships)  
 Category: Ships  
 
@@ -8155,7 +8155,7 @@ Status: N/A
 <img src='Working/test file/icon.png' width='100'></img><br>
 
 
-[test.file.zip](https://github.com/zuckung/test3/releases/download/Latest/test.file.zip) | 54.6 kb | 2023-07-05 | [view files](https://github.com/zuckung/test3/tree/main/Working/test%20file/)  
+[test.file.zip](https://github.com/zuckung/test3/releases/download/Latest/test.file.zip) | 54.6 kb | 2023-07-06 | [view files](https://github.com/zuckung/test3/tree/main/Working/test%20file/)  
 Author: tester | N/A[]()  
 Category: N/A  
 
