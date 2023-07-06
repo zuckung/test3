@@ -4,16 +4,16 @@
 News(latest 10 entries):
 <table><tr><td width=800>
 
-2023-07-06 'Amphibious-Ships' updated by Zoura
-<br> | category: [ships](https://github.com/zuckung/test3/blob/main/README.md#ships)
-<br>2023-07-06 'test file' updated by tester
-<br> | category: [uncategorized](https://github.com/zuckung/test3/blob/main/README.md#uncategorized)
+2023-07-06 'Amphibious-Ships' updated by Zoura | category: [ships](https://github.com/zuckung/test3/blob/main/README.md#ships)
+<br>2023-07-06 'test file' updated by tester | category: [uncategorized](https://github.com/zuckung/test3/blob/main/README.md#uncategorized)
 <br>2023-07-06 'Adamas Project' updated by todd1010 | category: [races](https://github.com/zuckung/test3/blob/main/README.md#races)
 <br>2023-07-05 'test file' updated by N/A | category: [uncategorized](https://github.com/zuckung/test3/blob/main/README.md#uncategorized)
 <br>2023-07-05 'Amphibious-Ships' updated | category: [ships](https://github.com/zuckung/test3/blob/main/README.md#ships)
 <br>2023-07-04 'test file' updated | category: [uncategorized](https://github.com/zuckung/test3/blob/main/README.md#uncategorized)
 <br>2023-07-04 'World Forge' updated | category: [cheats](https://github.com/zuckung/test3/blob/main/README.md#cheats)
 <br>2023-07-04 'Galactic War' updated | category: [overhauls](https://github.com/zuckung/test3/blob/main/README.md#overhauls)
+<br>2023-07-04 'Amphibious-Ships' updated | category: [ships](https://github.com/zuckung/test3/blob/main/README.md#ships)
+<br>2023-07-04 'Bulkheads-and-Battleships' updated | category: [uncategorized](https://github.com/zuckung/test3/blob/main/README.md#uncategorized)
 <br>
 
 </td></tr></table>
