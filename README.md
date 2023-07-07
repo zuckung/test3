@@ -4,7 +4,8 @@
 News(latest 10 entries):
 <table><tr><td width=800>
 
-2023-07-06 'additional.command.buttons' updated by zuckung | category: [graphics](https://github.com/zuckung/test3/blob/main/README.md#graphics)
+2023-07-07 'Lemurias Extra ES Stuff' updated by a-random-lemurian | category: [story](https://github.com/zuckung/test3/blob/main/README.md#story)
+<br>2023-07-06 'additional.command.buttons' updated by zuckung | category: [graphics](https://github.com/zuckung/test3/blob/main/README.md#graphics)
 <br>2023-07-06 'Amphibious-Ships' updated by Zoura | category: [ships](https://github.com/zuckung/test3/blob/main/README.md#ships)
 <br>2023-07-06 'test file' updated by tester | category: [uncategorized](https://github.com/zuckung/test3/blob/main/README.md#uncategorized)
 <br>2023-07-06 'Adamas Project' updated by todd1010 | category: [races](https://github.com/zuckung/test3/blob/main/README.md#races)
@@ -13,7 +14,6 @@ News(latest 10 entries):
 <br>2023-07-04 'test file' updated | category: [uncategorized](https://github.com/zuckung/test3/blob/main/README.md#uncategorized)
 <br>2023-07-04 'World Forge' updated | category: [cheats](https://github.com/zuckung/test3/blob/main/README.md#cheats)
 <br>2023-07-04 'Galactic War' updated | category: [overhauls](https://github.com/zuckung/test3/blob/main/README.md#overhauls)
-<br>2023-07-04 'Amphibious-Ships' updated | category: [ships](https://github.com/zuckung/test3/blob/main/README.md#ships)
 <br>
 
 </td></tr></table>
@@ -3054,7 +3054,7 @@ Status: N/A
 <img src='Working/Adamas Project/icon.png' width='100'></img><br>
 
 
-[Adamas.Project.zip](https://github.com/zuckung/test3/releases/download/Latest/Adamas.Project.zip) | 17.88 mb | 2023-07-06 | [view files](https://github.com/zuckung/test3/tree/main/Working/Adamas%20Project/)  
+[Adamas.Project.zip](https://github.com/zuckung/test3/releases/download/Latest/Adamas.Project.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/Adamas%20Project/)  
 Author: toiletthings | [https://github.com/kestrel1110/Adamas-Project](https://github.com/kestrel1110/Adamas-Project)  
 Category: Races  
 
@@ -6425,9 +6425,10 @@ Status: N/A
 ---
 
 ### Lemurias Extra ES Stuff
+<img src='Working/Lemurias Extra ES Stuff/icon.png' width='100'></img><br>
 
 
-[Lemurias.Extra.ES.Stuff.zip](https://github.com/zuckung/test3/releases/download/Latest/Lemurias.Extra.ES.Stuff.zip) | 0.37 kb | 2023-05-15 | [view files](https://github.com/zuckung/test3/tree/main/Working/Lemurias%20Extra%20ES%20Stuff/)  
+[Lemurias.Extra.ES.Stuff.zip](https://github.com/zuckung/test3/releases/download/Latest/Lemurias.Extra.ES.Stuff.zip) | 13.63 mb | 2023-07-07 | [view files](https://github.com/zuckung/test3/tree/main/Working/Lemurias%20Extra%20ES%20Stuff/)  
 Author: a-random-lemurian | [https://github.com/a-random-lemurian/Lemurias-Extra-ES-Stuff](https://github.com/a-random-lemurian/Lemurias-Extra-ES-Stuff)  
 Category: Story  
 
