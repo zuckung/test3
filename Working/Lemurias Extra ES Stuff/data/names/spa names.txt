@@ -1,0 +1,543 @@
+# LEESt: The world's greatest Endless Sky plugin.
+# Copyright (C) 2021-2023 Lemuria
+
+# This program is free software: you can redistribute it and/or modify it under the terms of the GNU
+# General Public License as published by the Free Software Foundation, either version 3 of the
+# License, or (at your option) any later version.
+
+# This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without
+# even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+# General Public License for more details.
+
+# You should have received a copy of the GNU General Public License along with this program.
+# If not,see <https://www.gnu.org/licenses/>.
+
+# Lemuria is contactable in the Endless Sky discord server
+# as Lemuria#0685. Invite: https://discord.gg/ZeuASSx
+
+phrase "spa small"
+	word
+		"SPA-"
+	phrase
+		"digit"
+		"letter"
+	phrase
+		"digit"
+		"letter"
+	phrase
+		"digit"
+		"letter"
+	phrase
+		"digit"
+		"letter"
+	phrase
+		"digit"
+		"letter"
+	phrase
+		"digit"
+		"letter"
+	phrase
+		"digit"
+		"letter"
+
+phrase spa.allNames
+	word
+		"S.P.S "
+	phrase
+		"spa, no prefix"
+###
+###
+phrase "spa, no prefix"
+	phrase
+		"chemical elements" 118
+		"ingame characters" 17
+		"people worthy of being ship names" 15
+		"politicians" 63
+		"leest surnames" 27
+		"leest standalone names" 2
+		"leest female names" 140
+		"locations" 141
+		"mountains" 170
+
+phrase "ingame characters"
+	word
+		"Albert Foster"
+		"Alondo Gruyere"
+		"Anna Fangvin"
+		"Carla von Hausen"
+		"Diana Howl"
+		"David Turner"
+		"Edward Tivrusky"
+		"Emeka'a Isai"
+		"Freya Winters"
+		"Ijs Springborn"
+		"Katya Reynolds"
+		"Kiru"
+		"Nanachi"
+		"Sayari"
+		"Sawyer"
+		"Tom Paris"
+		"William Danforth"
+
+phrase "SPA Republic Livery names"
+	word
+		"R.N.S"
+
+	# The only way to tell between an actual
+	# Republic ship and a fake is the period
+	# after the 'S' (R.N.S.).
+
+	# This will make it a bit harder to tell
+	# the difference.
+	word
+		"."
+		""
+	word
+		" "
+	phrase
+		"spa, no prefix"
+
+phrase "locations"
+	phrase
+		"Hai systems" 18
+		"cities" 73
+		"american states" 50
+
+# General category for people who:
+# - aren't politicians, and who
+# - the SPA names its ships after.
+phrase "people worthy of being ship names"
+	word
+		"May Berenbaum"           # American entomologist
+		"Johnny Depp"             # American actor, you should know
+		"Amber Heard"             # American actress, you should know
+		"Jen Kiggans"             # American congresswoman
+		"Elaine Luria"            # American congresswoman
+		"Itzhak Perlman"          # Israeli-American violinist
+		"Radia Perlman"           # American programmer
+		"Richard Stallman"        # GNU Project creator
+		"Lisa Su"                 # CEO of AMD
+		"Lena Raine"              # Minecraft music maker
+		"Rainych Ran"             # Indonesian singer
+		"Anne Rice"               # American author (1941-2021)
+		"Lizz Robinett"           # American singer
+		"Linus Torvalds"          # Linux kernel creator
+		"Camille Vasquez"         # Johnny Depp's lawyer
+
+phrase "Hai systems"
+	word
+		"Bore Fah"
+		"Da Ent"
+		"Da Lest"
+		"Due Yoot"
+		"Fah Soom"
+		"Heia Due"
+		"Hevru Hai"
+		"Imo Dep"
+		"Io Lowe"
+		"Io Mann"
+		"Mei Yohn"
+		"Rati Cal"
+		"Ula Mon"
+		"Uwa Fahn"
+		"Wah Ki"
+		"Wah Oh"
+		"Ya Hai"
+		"Zuba Zub"
+
+phrase "leest standalone names"
+	word
+		"Radical Dreamland"
+		"Nautilus"
+
+phrase "leest female names"
+	phrase
+		"female names"
+
+phrase "leest female names"
+	word
+		"Anne" 40
+		"Anna" 20
+		"Ann" 10
+		"Freya" 30
+		"Jacinda"
+		"Marine"
+		"Elaine"
+		"Carla"
+
+phrase "leest surnames"
+	word
+		"Abe"
+		"Berenbaum"
+		"Cantwell"
+		"Charpentier"
+		"Couric"
+		"Elven"
+		"Goodman"
+		"Henderson"
+		"Hobbs"
+		"Howl"
+		"Kaufman"
+		"Li"
+		"Luria"
+		"May"
+		"Mills"
+		"Montani"
+		"Nurak"
+		"Palin"
+		"Raine"
+		"Rampling"
+		"Reburn"
+		"Reynolds"
+		"Rice"
+		"Schader"
+		"Su"
+		"Winters"
+		"Xi"
+
+phrase "politicians"
+	phrase
+		"male politicians"
+		"female politicians"
+		# "non-binary politicians"
+
+phrase "female politicians"
+	word
+		# United States
+		"Cynthia Lummis"
+		"Liz Cheney"
+
+		# Asia
+		"Leni Robredo"
+		"Sara Duterte"
+		"Tsai Ing-wen"
+		"Halimah Yacob"
+
+		# Europe
+		"Angela Merkel"
+		"Theresa May"
+		"Marine Le Pen"
+		"Anne Hidalgo"
+		"Margaret Thatcher"
+
+		# Should be "Ingrida Šimonytė" but Endless Sky doesn't
+		# support accented characters.
+		"Ingrida Simonyte"
+
+phrase "male politicians"
+	word
+		# Asia
+		"Bongbong Marcos"
+		"Isko Moreno"
+		"Kiko Pangilinan"
+		"Lee Hsien Loong"
+		"Shinzo Abe"
+
+		# Europeans
+		"Boris Johnson"
+		"Winston Churchill"
+
+		# US presidents
+		"George Washington"
+		"John Adams"
+		"Thomas Jefferson"
+		"James Madison"
+		"James Monroe"
+		"John Quincy Adams"
+		"Andrew Jackson"
+		"Martin Van Buren"
+		"William Henry Harrison"
+		"John Tyler"
+		"James K. Polk"
+		"Zachary Taylor"
+		"Millard Fillmore"
+		"Franklin Pierce"
+		"James Buchanan"
+		"Abraham Lincoln"
+		"Andrew Johnson"
+		"Ulysses S. Grant"
+		"Rutherford B. Hayes"
+		"James A. Garfield"
+		"Chester A. Arthur"
+		"Grover Cleveland"
+		"Benjamin Harrison"
+		"William McKinley"
+		"Theodore Roosevelt"
+		"William Howard Taft"
+		"Woodrow Wilson"
+		"Warren G. Harding"
+		"Calvin Coolidge"
+		"Herbert Hoover"
+		"Franklin D. Roosevelt"
+		"Harry S. Truman"
+		"Dwight D. Eisenhower"
+		"John F. Kennedy"
+		"Lyndon B. Johnson"
+		"Richard Nixon"
+		"Gerald Ford"
+		"Jimmy Carter"
+		"Ronald Reagan"
+		"George H. W. Bush"
+		"Bill Clinton"
+		"George W. Bush"
+		"Barack Obama"
+		"Donald Trump"
+		"Joe Biden"
+
+phrase "chemical elements"
+	word
+		"Actinium"
+		"Aluminium"
+		"Americium"
+		"Antimony"
+		"Argon"
+		"Arsenic"
+		"Astatine"
+		"Barium"
+		"Berkelium"
+		"Beryllium"
+		"Bismuth"
+		"Bohrium"
+		"Boron"
+		"Bromine"
+		"Cadmium"
+		"Caesium"
+		"Calcium"
+		"Californium"
+		"Carbon"
+		"Cerium"
+		"Chlorine"
+		"Chromium"
+		"Cobalt"
+		"Copernicium"
+		"Copper"
+		"Curium"
+		"Darmstadtium"
+		"Dubnium"
+		"Dysprosium"
+		"Einsteinium"
+		"Erbium"
+		"Europium"
+		"Fermium"
+		"Flerovium"
+		"Fluorine"
+		"Francium"
+		"Gadolinium"
+		"Gallium"
+		"Germanium"
+		"Gold"
+		"Hafnium"
+		"Hassium"
+		"Helium"
+		"Holmium"
+		"Hydrogen"
+		"Indium"
+		"Iodine"
+		"Iridium"
+		"Iron"
+		"Krypton"
+		"Lanthanum"
+		"Lawrencium"
+		"Lead"
+		"Lithium"
+		"Livermorium"
+		"Lutetium"
+		"Magnesium"
+		"Manganese"
+		"Meitnerium"
+		"Mendelevium"
+		"Mercury"
+		"Molybdenum"
+		"Moscovium"
+		"Neodymium"
+		"Neon"
+		"Neptunium"
+		"Nickel"
+		"Nihonium"
+		"Niobium"
+		"Nitrogen"
+		"Nobelium"
+		"Oganesson"
+		"Osmium"
+		"Oxygen"
+		"Palladium"
+		"Phosphorus"
+		"Platinum"
+		"Plutonium"
+		"Polonium"
+		"Potassium"
+		"Praseodymium"
+		"Promethium"
+		"Protactinium"
+		"Radium"
+		"Radon"
+		"Rhenium"
+		"Rhodium"
+		"Roentgenium"
+		"Rubidium"
+		"Ruthenium"
+		"Rutherfordium"
+		"Samarium"
+		"Scandium"
+		"Seaborgium"
+		"Selenium"
+		"Silicon"
+		"Silver"
+		"Sodium"
+		"Strontium"
+		"Sulfur"
+		"Tantalum"
+		"Technetium"
+		"Tellurium"
+		"Tennessine"
+		"Terbium"
+		"Thallium"
+		"Thorium"
+		"Thulium"
+		"Tin"
+		"Titanium"
+		"Tungsten"
+		"Uranium"
+		"Vanadium"
+		"Xenon"
+		"Ytterbium"
+		"Yttrium"
+		"Zinc"
+		"Zirconium"
+
+phrase "cities"
+	phrase
+		"philippine cities" 33
+		"american cities" 40
+
+phrase "philippine cities"
+	word
+		"Atimonan"
+		"Batangas"
+		"Calamba"
+		"Calauag"
+		"Caloocan"
+		"Cebu"
+		"Daet"
+		"Dagupan"
+		"Davao"
+		"Iriga"
+		"Las Pinas" # Intentionally unaccented to retain ASCII support
+		"Legazpi"
+		"Lipa"
+		"Lucena"
+		"Makati"
+		"Manila"
+		"Marikina"
+		"Muntinlupa"
+		"Naga"
+		"Navotas"
+		"Ormoc"
+		"Paranaque" # Intentionally unaccented to retain ASCII support
+		"Pasay"
+		"Pasig"
+		"Pateros"
+		"Quezon City" # Included for consistency's sake
+		"San Juan"
+		"Sorsogon"
+		"Tacloban"
+		"Taguig"
+		"Tarlac"
+		"Valenzuela"
+		"Vigan"
+
+phrase "american cities"
+	word
+		"Albany"
+		"Albuquerque"
+		"Ann Arbor"
+		"Austin"
+		"Bakersfield"
+		"Baton Rouge"
+		"Boise"
+		"Boston"
+		"Buffalo"
+		"Cheyenne"
+		"Chicago"
+		"Cincinnati"
+		"Dallas"
+		"Denver"
+		"Detroit"
+		"Fort Worth"
+		"Fresno"
+		"Houston"
+		"Las Vegas"
+		"Los Angeles"
+		"Louisville"
+		"Merced"
+		"Miami"
+		"Modesto"
+		"New Orleans"
+		"New York"
+		"Orlando"
+		"Philadelphia"
+		"Phoenix"
+		"Rochester"
+		"Sacramento"
+		"San Antonio"
+		"San Diego"
+		"San Francisco"
+		"Seattle"
+		"Spokane"
+		"Syracuse"
+		"Tacoma"
+		"Tampa"
+		"Tucson"
+
+phrase "american states"
+	word
+		"Alabama"
+		"Alaska"
+		"Arizona"
+		"Arkansas"
+		"California"
+		"Colorado"
+		"Connecticut"
+		"Delaware"
+		"Florida"
+		"Georgia"
+		"Hawaii"
+		"Idaho"
+		"Illinois"
+		"Indiana"
+		"Iowa"
+		"Kansas"
+		"Kentucky"
+		"Louisiana"
+		"Maine"
+		"Maryland"
+		"Massachusetts"
+		"Michigan"
+		"Minnesota"
+		"Mississippi"
+		"Missouri"
+		"Montana"
+		"Nebraska"
+		"Nevada"
+		"New Hampshire"
+		"New Jersey"
+		"New Mexico"
+		"New York"
+		"North Carolina"
+		"North Dakota"
+		"Ohio"
+		"Oklahoma"
+		"Oregon"
+		"Pennsylvania"
+		"Rhode Island"
+		"South Carolina"
+		"South Dakota"
+		"Tennessee"
+		"Texas"
+		"Utah"
+		"Vermont"
+		"Virginia"
+		"Washington"
+		"West Virginia"
+		"Wisconsin"
+		"Wyoming"

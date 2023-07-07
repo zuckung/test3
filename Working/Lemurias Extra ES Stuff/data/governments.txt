@@ -1,0 +1,88 @@
+# LEESt: The world's greatest Endless Sky plugin.
+# Copyright (C) 2021-2023 Lemuria
+
+# This program is free software: you can redistribute it and/or modify it under the terms of the GNU
+# General Public License as published by the Free Software Foundation, either version 3 of the
+# License, or (at your option) any later version.
+
+# This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without
+# even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+# General Public License for more details.
+
+# You should have received a copy of the GNU General Public License along with this program.
+# If not,see <https://www.gnu.org/licenses/>.
+
+# Lemuria is contactable in the Endless Sky discord server
+# as Lemuria#0685. Invite: https://discord.gg/ZeuASSx
+
+government "Sayari Plushie"
+	"display name" "Sayari Plushies"
+	swizzle 24
+	fine 0.1
+	color 0.713999 0.505999 0.741
+	"attitude toward"
+		Pirate -.3
+		"Yuyuko Saigyouji" -.5
+	"friendly hail" spa.hails.friendly
+	"hostile hail" spa.hails.hostile
+
+# CSSF forces, always hostile to the player.....
+government "Yuyuko Saigyouji (Hostile)"
+	"display name" CSSF
+	swizzle 13
+	color 0.250980 0.282352 0.861496 0.0
+	"friendly hail" cssf.hails.friendly
+	"hostile hail" cssf.hails.hostile
+	"attitude toward"
+		Pirate -.3
+		"Sayari Plushie" -.5
+	"player reputation" -5000
+
+government "Yuyuko Saigyouji"
+	"display name" CSSF
+	swizzle 13
+	color 0.250980 0.282352 0.861496 0.0
+	"friendly hail" cssf.hails.friendly
+	"hostile hail" cssf.hails.hostile
+	"attitude toward"
+		Pirate -1
+		"Sayari Plushie" -.5
+
+government "Anime Organization"
+	"display name" "Anime Org"
+	swizzle 5
+	color 0.988235 0.686274 0.235294 0.0
+	"attitude toward"
+		Pirate -.3
+	"friendly hail" animeorg.hails.friendly
+	"hostile hail" animeorg.hails.hostile
+
+
+government "SPA: Republic Livery"
+	"display name" "Republic"
+	swizzle 0
+	color .91 .42 .09
+	"crew attack" 1.2
+	"crew defense" 2.2
+	"player reputation" 200
+	"attitude toward"
+		Militia .3
+		Pirate -.3
+		"Sayari Plushie" .5
+		"Yuyuko Saigyouji" -.3
+	"friendly hail" "friendly navy"
+	"hostile hail" "hostile navy"
+	raid "pirate raid"
+
+government "Hidalgo Shrine"
+	"display name" "Hidalgo Shrine"
+	swizzle 5
+	color .1 .1 .1
+	"crew attack" 1
+	"crew defense" 1
+	"player reputation" 20
+	"attitude toward"
+		Pirate -.5
+		Republic .1
+	"friendly hail" "friendly hidalgo shrine"
+	"hostile hail" "hostile hidalgo shrine"

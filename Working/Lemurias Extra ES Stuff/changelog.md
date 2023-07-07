@@ -1,0 +1,411 @@
+### v0.10.16
+- Replaced Markaai's image with an image of Ann Arbor to prevent licensing issues with Pexels. (021ebca)
+- Fixed "popuation" typo.
+- Rebalanced trade prices and brought them within the limits.
+- Added trade prices to some systems.
+- Added the Sayari Ring, a partial ringworld operated by the SPA.
+- Added a separate dialog phrase for CSSF intel retrieval missions.
+- Added Lemuria as a person ship.
+- Fixed player not being fined on Martieu. The missions were giving negative payments which the game did not trigger. These have been replaced with fines.
+- Fixed dialog showing `<credits>` instead of the payment amount.
+- Fixed the Local Map not being sold on Tarsia and Barachen. c4acf975d868
+- Reduced the distro choices in the Debian hat mission to just three. 8d0a34f5eca4
+- Reduced fines given by the Sayari Plushie Authority by 90%. 1c10fb8cabc19
+- Added the "Sayari Outfits" outfitter to more SPA worlds, meaning they will also sell the SPA Scan Blocker. (94869ffd47c4)
+- Added Anime Organization mission to pick up anime from Alexandria. 8d4f3f6274f0
+- Added SPA log entry. It is added to your log book when you land on a SPA world for the first time.
+- You can now purchase Amidalas even without the SPA Ship License.
+- Added more surnames to SPA name lists. Some of them are references to the game's characters.
+- What's the Hidalgo Shrine? I forgor 💀 (It's now just a generic French history museum.)
+
+### v0.10.15 (2022-12-25)
+- Fixed Sundum's links to the non-existent systems Julitius and Pekora. #38 and #41
+- All SPA ships are now locked behind the (currently) unobtainable SPA License. An update in the far future may add a mission chain that gives you this license.
+- You can now buy snacks before your first anime screening on Eisei.
+- Through unknown methods, the SPA has acquired the prototype blueprint for the Prototype Fusion Cannon on Gefulte's person ship.
+- Added the territories of the CSSF. They are accessible through a wormhole somewhere in the Illumina Regions. Find it yourself.
+   - Added the Ring of Gensokyo, the capital of the CSSF.
+- Added a new variant of the Falcon for the SPA.
+- Grammar fixes:
+   - Specify plural for the SPA Rosas
+   - particfularly -> particularly
+- Merged `outer pelitol cluster.txt` into `pelitol cluster.txt`. Now they're all one big file.
+- Prevent Hai Reveal systems from overlapping with the route between the Illumina Regions and the northern pirate colonies, by moving Sparikau, Derusa, Kilooew, and Vamiru out of the way and replacing them with a wormhole.
+- Non-religious people on Martieu now rant about the constant conversion attempts in the spaceport, sometimes.
+- Fix date format for GitHub Code Vault event. It is supposed to trigger on 3020-02-01, not 3020-01-02.
+- Technical writers in human space will now sometimes rant about using the year-month-day format for dates.
+- You now have a chance of encountering a man in the spaceport who will rant about the date format. On a loudspeaker.
+- Added mission where someone is moving to Asgard and she wants you to transport her stuff. By the way, her landlord is Carla von Hausen.
+- After meeting Carla von Hausen during the Skadenga storyline, there is a 5% chance everytime you land on Asgard that she will enter your ship and attempt to sell you a house.
+- Fixed Liz Cheney claiming her "Kestrel was much cooler" when her person ship is a Star Queen.
+- Removed Liz Cheney person ship dialog referencing Donald Trump to avoid harassment from Trump supporters. Please, don't get me involved in the mess that is American politics.
+- Grammar and typo fixes.
+   - Added the missing word "one" to Tarsia's description.
+- Suerolli, Illumina, Illuria, and Jarkiiens are now SPA property. They are no longer under the control of the Republic.
+- Added a SPA variant of the Quarg Skylance so their agents (and you, if you somehow manage to acquire a SPA Outfits License) will not be imprisoned by the Quarg.
+- Increased likelihood of SPA spawning Mereti ships.
+- Added more spaceport news to Martieu about its crazy religious people and the people sick and tired of the conversion attempts.
+- Shifted all Pelitol Cluster systems 5,000 Endless Sky units closer to the vanilla galaxy to lessen scrolling time.
+- Scaled down all stations to half-size, consistent with vanilla.
+- Scaled down the moons of the Pechara gas giant.
+- Added more types of data to transport. Just haul those hard drives full of Excel spreadsheets across the galaxy and you're all set!
+- Overhauled the Suerolli system.
+- Added LEEST-specific graffiti to spaceports.
+- Completely changed the Amidala's loadout.
+- Added a map label for the Illumina Regions, Pechara, Martieu, and the Plushie Belt (the SPA colonies in the Pelitol Cluster).
+- Overhauled Sayreopli system.
+
+### v0.10.14 (2022-10-19)
+- Added the SPA Scan Blocker to block scans. Great for transporting nerve gas, and for hiding your secret plushie stash from the CSSF.
+- Removed Heliarch Scanning Modules from the SPA Kestrel to prevent them scanning you.
+- Fixed a planet in Deriie that had no distance specified, placing it at the center of the system.
+- Removed Renpaya's shipyard.
+- Added attributes to some Illumina Regions worlds.
+- Rebalanced payments for data transport missions (again)
+- Added Kor Mereti ships to SPA fleets (spawns very rarely)
+- Reworked SPA missions for CSSF patrol bounties.
+- Added variant of the SPA Kestrel with Proton Guns.
+- Added the Rosas-class ship (which is just a rebranded Arach Spindle)
+- Added illegal data transport
+- Stopped displaying failure dialog when rejecting a SPA mission.
+- Populated the rest of the Illumina Regions.
+- Significantly expanded the Pelitol Cluster.
+- Reworked SPA fleet naming.
+- Added new Amidala sprite, courtesy of Zoura.
+- Removed the data drives commodity.
+- Fixed Erou system government (set to Sayari Plushies).
+- Fix Debian hat mission endless loop.
+- Shortened Anime Organization display name to "Anime Org.".
+- Remove `animeorg.landing.setFlag.landedOnEisei` "mission". It only sets a flag and is absolutely not needed.
+- Grammar fixes:
+  - "ammount" -> "amount"
+  - "recieve" -> "receive"
+  - Fixed misuse of possessive "it's".
+  - Removed British English spellings and words.
+- Moved Luisark and Jurluo out of JD range of 14 Pole and 12 Autumn Above.
+- Add missions to bring SPA salespeople back into SPA territory after they complete their sales trips.
+- Fixed Arlok landscape image.
+- Added missions for nature reserve deliveries.
+- Added the Hidalgo Shrine.
+- Expanded GitHub Code Vault storyline.
+  - Now you have an old man who has an archive of software. He wants you to pick up his order of datachips from a store.
+- Complete redo of all planet and system attributes.
+#### Other content
+- During the release candidate versions of 0.10.14, there were insults of Amber Heard that the community objected to in [pull request 450](https://github.com/EndlessSkyCommunity/endless-sky-plugins/pull/450) of the plugin index. Added in rc1, specifically commit b5b23e1499d32582219ac1abad68e4f3bfcca0b1 and removed in rc5 (be77cbf4c17d880c6a2db185b0e01e4e4b8280f2).
+
+### v0.10.13 (2022-05-24)
+- Didn't remove Orbona system (I made an error in commit 94a59c875f889cf36d13c94e6fb8253bca34269d, blame me for it.)
+- Removed Neistat system
+- Removed Leideete system
+- Rebalanced Orbona fleets
+- Moved Zarkxaa out of jump drive range of Gamma Corvi
+- Added Liz Cheney
+- Changed SPA government swizzle to 24 (pink). More similar to the Hai's color on the map.
+- Added SPA missions to retrieve CSSF intel
+- Added missions to transport SPA salespeople to various parts of human space
+- Added missions to transport SPA exports
+- Fixed payments for some missions being too low (really, 400 tons for only 64,000?)
+- Added Ship Sniper
+- Added new types of data to transport
+- Added stolen data transport missions (illegal), that you can get from pirate worlds
+- Replaced wormhole from Pelitol to Sedlai with a hyperlane, since wormholes currently break mission payment and deadline calculations.
+- Added missions to transport anime for the Anime Organization. Some missions may be illegal....
+- Rebalanced government attitudes towards each other
+- Added new SPA variants of the Navy Cruiser equipped with Electron Beams and Ion Cannons
+- Added new planets:
+   - Voreo
+   - Aylar
+   - Pondar
+- Star system changes
+   - Removed the entire Northwest Illumina Regions (there was nothing in there anyway)
+   - Moved Zarkxaa out of jump drive range of Gamma Corvi
+   - Removed many star systems to the west of the Deep, so there's nothing within jump drive range of them.
+   - Added:
+      - Vensur
+      - Darceas
+      - Orchao
+      - Starish
+      - Paricasa
+      - Telicasa
+      - Kolicasa
+      - Varfeticasa
+      - Lesokicasa
+      - Ourais
+      - Vourgat
+      - Erou
+      - Sprad
+      - Presad
+      - Sprooe
+      - Daxter
+      - Varisa
+   - Removed:
+      - Leideete
+      - Neistat
+      - Akkolie
+      - Julitius
+      - Litiedei
+      - Lekkoli
+      - Lorfreei
+      - Merulie
+      - Macali
+      - Pekora
+      - Ronsulka
+      - Zaxlai
+      - Arxal
+      - Acharop
+      - Amisali
+      - Aitsec
+      - Archil
+      - Burond
+      - Confop
+      - Domeri
+      - Daefel
+      - Doru
+      - Destri
+      - Erod
+      - Erysal
+      - Eltsik
+      - Erytol
+      - Epris
+      - Elsix
+      - Epstrel
+      - Eruf
+      - Fratap
+      - Fortur
+      - Felgah
+      - Forel
+      - Itycha
+      - Ilutep
+      - Jukil
+      - Karut
+      - Kestri
+      - Korilu
+      - Korutal
+      - Korusepti
+      - Merikali
+      - Orut
+      - Ordali
+      - Pelut
+      - Pyrau
+      - Qartalp
+      - Rutoli
+      - Saltyan
+      - Seriesh
+      - Satesai
+      - Sapeli
+      - Seliku
+      - Sennerik
+      - Selseik
+      - Soles
+      - Serut
+      - Slorsan
+      - Serfop
+      - Selaika a
+      - Selaika b
+      - Selaika c
+      - Terisch
+      - Vaughari
+      - Varug
+### v0.10.12 (2022-03-18)
+- Completely overhauled SPA fleets. Before this version, SPA fleets were distributed amongst many different fleet objects (specialized for a certain role). The old specialized SPA fleets will remain, for backwards compatibility, and for situations where they are needed (such as system-specific fleets.)
+- Overhauled CSSF fleets, similar to how the SPA fleets were overhauled.
+- Added SPA variant of the Kestrel.
+- Rebalanced Duffeni fleets.
+- Added hails to the CSSF.
+- Added Delistra and Eteristra, two new planets in the Pelitol Cluster.
+- Added phrase containing names of all U.S. Presidents.
+
+### v0.10.11 (2022-03-11)
+- Added hails about some ships exceeding API ratelimits.
+- Added a small variant of the SPA Illumina Regions fleet.
+- Rebalanced Illuria fleets.
+- Added SPA variant of the Cruiser equipped with Particle Cannons.
+- Added the old Bactrian image back.
+- Increased merchant ship traffic in Denleitt and nearby systems.
+- Shifted Pelitol cluster 7000 units to the west.
+- Added wormhole between Sedlai and Pelitol.
+- Rewrote the SPA Heliarch ship fleet from scratch.
+- Added SPA variants of the Heliarch Punisher, Breacher, Hunter, Interdictor, Judicator, and Neutralizer.
+- Added new landable planets Kaistra and Salistra.
+- Added new systems Repolitea, Sarut, Doler, Oratelis, Dorkelt, and Arket
+
+### v0.10.10 (2022-02-01)
+- Rebalancing
+   - Removed SPA and CSSF fleets from human space
+   - Rebalance Ghesie fleets: buffed SPA patrols and "nerfed"/weakened pirates
+   - Rebalanced Denleitt fleets (nerfed pirates and buffed Anime Organization patrols)
+   - Reduced spawn frequency of SPA Heliarch Punisher fleets in Serfeiia
+- Added Anime Organization transport missions. Payment is lower when taking these missions from SPA space.
+- Added more spaceport news for the Anime Organization
+- Added Aerie variant for mining.
+- Added Aerie Miner fleet that spawns in Illuria
+- Added "fun fact" hails to the SPA
+- Added dialog triggered when landing on Eisei for the first time
+- Added Anime Organization spaceport news
+- Added a CSSF fleet that spawns only in Orbona
+- Added a SPA fleet with empty carriers (to pick up "orphaned" fighters whose carriers were destroyed)
+
+### v0.10.9 (2022-01-09)
+- More hails
+   - Added hails about making free software
+   - Added hails that insult the player if he writes proprietary programs
+- Removed the Berserker Miner
+- Removed the Illumina Mining Company
+- Added a SPA variant of the Hauler III
+- Added the "random" attribute to the SPA mission for destroying a CSSF fleet
+- Added a variant of the Hai Shield Beetle equipped with Syndicate Proton Guns
+- Populate Lesarkei with planets
+- Fixed typos
+   - Laateli description had an extra `3` at the end
+- Rebalanced Jarkiiens fleets, less CSSF presence
+- Added Emeka'a Isai's name to the phrase lists
+   - For reference, she's that one governer you meet during the
+     Wanderer campaign
+- Added a new planet called "Eisei", owned by the Anime Organization
+- Added more stuff about the Anime Organization
+- ~~Emeka'a Isai plushies!~~
+
+### v0.10.8 (2021-12-24)
+This is honestly a lot of content to work on. We hope that this release makes your Christmas a bit better. If you fancy playing Endless Sky on Christmas, that is.
+- Added planets to several systems:
+   - Raidei
+   - Sorusep
+   - Ladosak
+- Internal:
+   - Added new changelog file
+   - Changed name of hails.txt
+   - Alphabetized system nodes
+   - Ignore imgui.ini (used by the ES Editor)
+   - Revamped .gitignore
+   - Change identifier of CSSF names
+      - Backwards compatibility maintained: `anti.sayari` redirects you to `cssf`
+- Improved CSSF nameset with:
+   - Names of Touhou series games & characters
+- New landable planets:
+   - Peliru, Minjuuk
+   - Perechra, Pelitol
+   - Defal VII Station, Defal
+   - Merschre, Littike
+   - Kestrix I, Ghesie
+   - Kestrix II, Ghesie
+   - Kestrix III, Ghesie
+- Improved Ghesie:
+   - Added SPA patrol
+   - Added 3 new moons orbiting a gas giant (all of them are inhabited)
+   - Derelict Republic ships sometimes spawn in Ghesie and surrounding systems
+   - Buffed Pirate fleets
+   - Added it's own dedicated patrol fleet
+- Improved GHCV dialog:
+   - Added a log entry for John, the person who talks to you when the dialogue triggers
+- Improved hails:
+   - Added more hails to the SPA
+   - Added Linux user hails
+   - Weighted hail phrases
+- New names:
+   - Namesets of people in tech (includes open-source project leaders)
+- Weighted ship name phrases
+- Defined confusion for SPA fleets
+- Add fleet variants with SPA gunboats
+- New variants:
+   - Added the SPA Gunboat with proton guns
+   - Added the SPA Cruiser, with more turrets than a normal Cruiser.
+   - Added
+- Pirate ships now use vanilla names
+- Bug fixes:
+   - Fix incorrect fleet names
+   - Remove misspelling of SPA govt name
+   - Fix bad phrases in SPA names
+   - Allow data missions in SPA space
+   - Fix bad capitalization of names
+- Added trade prices to most of the Illumina Regions
+- Add source code files as variants of Data drives commodity
+- Added SPA Cruiser exploration fleet with gunboats
+### v0.10.7 (2021-12-21)
+- Added more SPA friendly and hostile hails.
+- Balance Amidala stats
+- Improve GitHub code vault story dialog.
+   - Do not imply that all proprietary projects are corporate
+   - Fixed bad goto label in GitHub Code Vault story
+   - Make Linus Torvalds log entry more concise
+   - Clarify role of GitHub in it's log entry
+- General typo fixes
+   - Fix incorrect spelling of "Markaai" in Markaai planet description
+- New ships
+   - SPA variant of the Republic Navy Cruiser
+      - Uses Hai atomic engines
+      - Uses Wanderer energy generators (Blue Sun Reactor)
+      - Has additional turret and gun slots
+      - Sells for approx. $51m in SPA territory
+      - Has a Jump Drive
+   - SPA variant of the Republic Navy Gunboat
+      - Uses Hai atomic engines
+      - Same number of slots
+      - Comes with interference plating
+      - Has a Jump Drive
+      - Uses Wanderer energy generators (Red Sun Reactor)
+      - Sells for approx. $13m in SPA territory
+- New names
+   - Added Indonesian place names for ships.
+   - Added nameset of notable people in tech (e.g Linus Torvalds, Bill Gates, etc.), mostly leaders of open source projects and Debian project leaders
+   - Added full names of characters (e.g. *S.P.S Freya Winters*, instead of *S.P.S Winters*)
+- Fleets all over the place
+   - Added CSSF fleets to Republic space, will spawn often and attack SPA fleets in these systems:
+      - Delta Velorum
+      - Turais
+      - Algorel
+      - Phecda
+      - Merak
+      - Denebola
+      - Sol
+      - Mizar
+      - Arcturus
+      - Rutilicus
+      - Menkent
+      - Hiljaak
+      - Limen
+      - Mora
+      - Zosma
+      - Dubhe
+      - Alphard
+      - Talita
+      - Miaplacidus
+      - Vindemiatrix
+      - Muhlifain
+      - Algorel
+      - Cor Caroli
+      - Turais
+      - Menkent
+      - Vega
+      - Altai
+      - Delta Capricorni
+      - Scheat
+      - Ruchbah
+      - Tania Australis
+- Internal changes
+   - Split name lists over multiple files
+   - Deleted events.txt and moved it to a separate file (it only contained the GHCV* dialog)
+
+* GHCV = **G**it**h**ub **C**ode **V**ault
+
+#### Pull requests
+* feature/better-amidala by @a-random-lemurian in https://github.com/a-random-lemurian/Lemurias-Extra-ES-Stuff/pull/13
+* Merge feature/name reorganization into dev by @a-random-lemurian in https://github.com/a-random-lemurian/Lemurias-Extra-ES-Stuff/pull/18
+* Merge GitHub Code Vault story into dev by @a-random-lemurian in https://github.com/a-random-lemurian/Lemurias-Extra-ES-Stuff/pull/19
+
+
+**Git log**: https://github.com/a-random-lemurian/Lemurias-Extra-ES-Stuff/compare/v0.10.6...v0.10.7
+
+### v0.10.6 (2021-12-12)
+- Added more SPA hails
+- Added Linux user spaceport news
+- Added Debian hat retrieval mission (triggers in 3014)
+- Added log entries about GitHub and Linus Torvalds
+- Added file for (boring) legal disclaimers
+- Removed GH workflows
+- Renamed SPA jobs file, no campaign right now
+
+### v0.10.5 (2021-12-09)
+- New entry in logbook upon trigger of `githubCodeVault` event and dialog
+- SPA fleets... in Republic Navy livery have been added. They manifest in huge numbers just like regular SPA fleets.
+- Amidalas now use Hai Bufaer Atomic engines
+- Amidalas no longer use Heavy Laser Turrets
