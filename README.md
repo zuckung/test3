@@ -4,16 +4,16 @@
 News(latest 10 entries):
 <table><tr><td width=800>
 
-2023-07-07 'Lemurias Extra ES Stuff' updated by a-random-lemurian | category: [story](https://github.com/zuckung/test3/blob/main/README.md#story)
+2023-07-08 'Midnight Scrapyard' updated by MidnightPlugins | category: [story](https://github.com/zuckung/test3/blob/main/README.md#story)
+<br>2023-07-08 'Amphibious-Ships' updated by Zoura | category: [ships](https://github.com/zuckung/test3/blob/main/README.md#ships)
+<br>2023-07-08 'Lost in Midnight' updated by MidnightPlugins | category: [story](https://github.com/zuckung/test3/blob/main/README.md#story)
+<br>2023-07-07 'Lemurias Extra ES Stuff' updated by a-random-lemurian | category: [story](https://github.com/zuckung/test3/blob/main/README.md#story)
 <br>2023-07-06 'additional.command.buttons' updated by zuckung | category: [graphics](https://github.com/zuckung/test3/blob/main/README.md#graphics)
 <br>2023-07-06 'Amphibious-Ships' updated by Zoura | category: [ships](https://github.com/zuckung/test3/blob/main/README.md#ships)
 <br>2023-07-06 'test file' updated by tester | category: [uncategorized](https://github.com/zuckung/test3/blob/main/README.md#uncategorized)
 <br>2023-07-06 'Adamas Project' updated by todd1010 | category: [races](https://github.com/zuckung/test3/blob/main/README.md#races)
 <br>2023-07-05 'test file' updated by N/A | category: [uncategorized](https://github.com/zuckung/test3/blob/main/README.md#uncategorized)
 <br>2023-07-05 'Amphibious-Ships' updated | category: [ships](https://github.com/zuckung/test3/blob/main/README.md#ships)
-<br>2023-07-04 'test file' updated | category: [uncategorized](https://github.com/zuckung/test3/blob/main/README.md#uncategorized)
-<br>2023-07-04 'World Forge' updated | category: [cheats](https://github.com/zuckung/test3/blob/main/README.md#cheats)
-<br>2023-07-04 'Galactic War' updated | category: [overhauls](https://github.com/zuckung/test3/blob/main/README.md#overhauls)
 <br>
 
 </td></tr></table>
@@ -3054,7 +3054,7 @@ Status: N/A
 <img src='Working/Adamas Project/icon.png' width='100'></img><br>
 
 
-[Adamas.Project.zip](https://github.com/zuckung/test3/releases/download/Latest/Adamas.Project.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/Adamas%20Project/)  
+[Adamas.Project.zip](https://github.com/zuckung/test3/releases/download/Latest/Adamas.Project.zip) | 17.88 mb | 2023-07-06 | [view files](https://github.com/zuckung/test3/tree/main/Working/Adamas%20Project/)  
 Author: toiletthings | [https://github.com/kestrel1110/Adamas-Project](https://github.com/kestrel1110/Adamas-Project)  
 Category: Races  
 
@@ -4112,7 +4112,7 @@ Status: should work
 ### Amphibious-Ships
 
 
-[Amphibious-Ships.zip](https://github.com/zuckung/test3/releases/download/Latest/Amphibious-Ships.zip) | 8.38 mb | 2023-07-06 | [view files](https://github.com/zuckung/test3/tree/main/Working/Amphibious-Ships/)  
+[Amphibious-Ships.zip](https://github.com/zuckung/test3/releases/download/Latest/Amphibious-Ships.zip) | 10.21 mb | 2023-07-08 | [view files](https://github.com/zuckung/test3/tree/main/Working/Amphibious-Ships/)  
 Author: Zoura | [https://github.com/AvianGeneticist/Amphibious-Ships](https://github.com/AvianGeneticist/Amphibious-Ships)  
 Category: Ships  
 
@@ -6461,7 +6461,7 @@ Status: Playable on 0.9.14, 0.9.15 Continuous.
 <img src='Working/Lost in Midnight/icon.png' width='100'></img><br>
 
 
-[Lost.in.Midnight.zip](https://github.com/zuckung/test3/releases/download/Latest/Lost.in.Midnight.zip) | 61.15 mb | 2023-07-04 | [view files](https://github.com/zuckung/test3/tree/main/Working/Lost%20in%20Midnight/)  
+[Lost.in.Midnight.zip](https://github.com/zuckung/test3/releases/download/Latest/Lost.in.Midnight.zip) | 61.37 mb | 2023-07-08 | [view files](https://github.com/zuckung/test3/tree/main/Working/Lost%20in%20Midnight/)  
 Author: MidnightPlugins | [https://github.com/MidnightPlugins/Lost-in-Midnight](https://github.com/MidnightPlugins/Lost-in-Midnight)  
 Category: Story  
 
@@ -6510,7 +6510,7 @@ Status: N/A
 <img src='Working/Midnight Scrapyard/icon.png' width='100'></img><br>
 
 
-[Midnight.Scrapyard.zip](https://github.com/zuckung/test3/releases/download/Latest/Midnight.Scrapyard.zip) | 11.0 mb | 2023-07-04 | [view files](https://github.com/zuckung/test3/tree/main/Working/Midnight%20Scrapyard/)  
+[Midnight.Scrapyard.zip](https://github.com/zuckung/test3/releases/download/Latest/Midnight.Scrapyard.zip) | 11.15 mb | 2023-07-08 | [view files](https://github.com/zuckung/test3/tree/main/Working/Midnight%20Scrapyard/)  
 Author: MidnightPlugins | [https://github.com/MidnightPlugins/Midnight-Scrapyard](https://github.com/MidnightPlugins/Midnight-Scrapyard)  
 Category: Story  
 
