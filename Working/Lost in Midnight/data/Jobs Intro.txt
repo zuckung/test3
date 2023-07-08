@@ -1,0 +1,402 @@
+# Copyright (c) 2021 by Michael Arsollon
+# derived from original game at https://github.com/endless-sky/endless-sky
+#
+# Endless Sky is free software: you can redistribute it and/or modify it under the
+# terms of the GNU General Public License as published by the Free Software
+# Foundation, either version 3 of the License, or (at your option) any later version.
+#
+# Endless Sky is distributed in the hope that it will be useful, but WITHOUT ANY
+# WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+# PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+
+
+
+mission "Intro Cargo [0]"
+	job
+	name "Cooling Ducts to <planet>"
+	description "Buy Cooling Ducts from the outfitter and deliver them to <destination>. Payment is <payment>."
+	source "New Boston"
+	destination "New Greenland"
+	to offer
+		not "ships: Light Warship"
+		not "ships: Medium Warship"
+		not "ships: Heavy Warship"
+		not "ships: Utility"
+		not "ships: Space Liner"
+		not "ships: Heavy Freighter"
+		not "Intro [1 Freighter]: offered"
+		not "Intro [1 Interceptor]: offered"
+		not "Intro [1 Transport]: offered"
+	on accept
+		conversation
+			scene "outfit/cooling ducts"
+			scene "scene/scene-outfit to cargo"
+			`Sometimes you may want to buy some outfits directly into your cargo hold instead of having them installed. To accomplish this, you need to switch out of installation mode into 'purchase to cargo' mode. This can be achieved by either checking the "show outfits in cargo" box at the bottom left, or Control+clicking on your selected ship to deselect it.`
+			`	When you are in 'purchase to cargo' mode, your ship information on the right hand side will be replaced by information on how much cargo space you currently have available.`
+			`	Outfits that are in your cargo hold can be (re)installed at any outfitter without cost.`
+	on complete
+		outfit "Cooling Ducts" -1
+		payment 35000
+		dialog `You deliver the Cooling Ducts to a pizza shop. The owner pays you <payment> and gives you a free slice with your favorite toppings.`
+
+mission "Cargo Intro Filler [1 Transport]"
+	name "Delivery to <planet>"
+	job
+	description "Deliver <cargo> to <destination>. Payment is <payment>."
+	cargo random 20
+	source "New Greenland"
+	destination "New China"
+	to offer
+		has "Intro [0]: done"
+		has "ships: Transport"
+		not "Intro [1 Transport]: done"
+		not "Intro [1 Freighter]: offered"
+		not "Intro [1 Interceptor]: offered"
+	on visit
+		dialog phrase "generic cargo on visit"
+	on complete
+		payment
+		dialog phrase "generic cargo delivery payment"
+
+mission "Cargo Intro [2 Transport]"
+	job
+	name "Liquid Nitrogen to <planet>"
+	description "Buy a Liquid Nitrogen Cooler from the outfitter and deliver them to <destination>. Payment is <payment>."
+	source "New China"
+	destination "Earth"
+	to offer
+		has "Intro [1 Transport]: done"
+		not "Intro [2 Transport]: done"
+	on accept
+		conversation
+			scene "outfit/liquid nitrogen"
+			scene "scene/scene-outfit to cargo"
+			`Sometimes you may want to buy some outfits directly into your cargo hold instead of having them installed. To accomplish this, you need to switch out of installation mode into 'purchase to cargo' mode. This can be achieved by either checking the "show outfits in cargo" box at the bottom left, or Control+clicking on your selected ship to deselect it.`
+			`	When you are in 'purchase to cargo' mode, your ship information on the right hand side will be replaced by information on how much cargo space you currently have available.`
+			`	Outfits that are in your cargo hold can be (re)installed at any outfitter without cost.`
+	on complete
+		outfit "Liquid Nitrogen Cooler" -1
+		payment 110000
+		dialog `You deliver the Liquid Nitrogen Cooler to an ice cream shop. The owner pays you <payment> and gives you a free scoop of your favorite flavor.`
+
+mission "Intro Cargo [3 Transport]"
+	job
+	name "Chipmunk Plasma Steering to <planet>"
+	description "Buy Chipmunk Plasma Steering from the outfitter and deliver it to <destination>. Payment is <payment>."
+	source "Earth"
+	destination "Hestia"
+	to offer
+		has "Intro [2 Transport]: done"
+		not "Intro [3 Transport]: done"
+	on accept
+		conversation
+			scene "outfit/tiny plasma steering"
+			scene "scene/scene-outfit to cargo"
+			`Sometimes you may want to buy some outfits directly into your cargo hold instead of having them installed. To accomplish this, you need to switch out of installation mode into 'purchase to cargo' mode. This can be achieved by either checking the "show outfits in cargo" box at the bottom left, or Control+clicking on your selected ship to deselect it.`
+			`	When you are in 'purchase to cargo' mode, your ship information on the right hand side will be replaced by information on how much cargo space you currently have available.`
+			`	Outfits that are in your cargo hold can be (re)installed at any outfitter without cost.`
+	on complete
+		outfit "Chipmunk Plasma Steering" -1
+		payment 50000
+		dialog `You deliver the Chipmunk Plasma Steering to the outfitter. The owner pays you <payment> and a free tune-up.`
+
+mission "Intro Passenger Filler [3 Transport]"
+	name "Passenger transport to <planet>"
+	job
+	description "Bring <fare> to <destination>. Payment is <payment>."
+	passengers 4
+	source "Earth"
+	destination "Hestia"
+	to offer
+		has "Intro [2 Transport]: done"
+		not "Intro [3 Transport]: done"
+	on visit
+		dialog phrase "generic passenger on visit"
+	on complete
+		payment
+		payment 2000
+		dialog phrase "generic passenger dropoff payment"
+
+
+
+
+mission "Intro Passenger Filler [1 Freighter]"
+	name "Passenger transport to <planet>"
+	job
+	description "Bring <fare> to <destination>. Payment is <payment>."
+	passengers 1
+	source "New Greenland"
+	destination "Heartland"
+	to offer
+		has "Intro [0]: done"
+		has "ships: Light Freighter"
+		not "Intro [1 Freighter]: done"
+		not "Intro [1 Transport]: offered"
+		not "Intro [1 Interceptor]: offered"
+	on visit
+		dialog phrase "generic passenger on visit"
+	on complete
+		payment
+		payment 2000
+		dialog phrase "generic passenger dropoff payment"
+
+mission "Intro Cargo [2 Freighter]"
+	job
+	name "Heavy Rockets to <planet>"
+	description "Buy 20 Heavy Rockets from the outfitter and deliver them to <destination>. Payment is <payment>."
+	source "Heartland"
+	destination "Ingot"
+	to offer
+		has "Intro [1 Freighter]: done"
+		not "Intro [2 Freighter]: done"
+	on accept
+		conversation
+			scene "outfit/rocket"
+			scene "scene/scene-outfit to cargo"
+			`Sometimes you may want to buy some outfits directly into your cargo hold instead of having them installed. To accomplish this, you need to switch out of installation mode into 'purchase to cargo' mode. This can be achieved by either checking the "show outfits in cargo" box at the bottom left, or Control+clicking on your selected ship to deselect it.`
+			`	When you are in 'purchase to cargo' mode, your ship information on the right hand side will be replaced by information on how much cargo space you currently have available.`
+			`	Outfits that are in your cargo hold can be (re)installed at any outfitter without cost.`
+	on complete
+		outfit "Heavy Rocket" -20
+		payment 65000
+		dialog `You deliver the Heavy Rockets to the local planetary defense headquarters. The officer in charge pays you <payment>.`
+
+mission "Intro Cargo Filler [3 Freighter]"
+	name "Delivery to <planet>"
+	job
+	description "Deliver <cargo> to <destination>. Payment is <payment>."
+	cargo random 5 2 .1
+	source "Ingot"
+	destination "Hestia"
+	to offer
+		has "Intro [2 Freighter]: done"
+		not "Intro [3 Freighter]: done"
+	on visit
+		dialog phrase "generic cargo on visit"
+	on complete
+		payment
+		dialog phrase "generic cargo delivery payment"
+
+
+
+mission "Intro Mining Filler [1 Interceptor]"
+	job
+	deadline 7
+	name "Mining: Copper to <system>"
+	description "Jewelers on <destination> have a shortage of Copper. Bring 1 ton of Copper to them by <date>. Payment is <payment>, 50% above the usual market rate for Copper."
+	source "New Greenland"
+	destination "Gemstone"
+	to offer
+		has "Intro [0]: done"
+		has "ships: Interceptor"
+		not "Intro [1 Transport]: offered"
+		not "Intro [1 Freighter]: offered"
+	on accept
+		conversation
+			scene "asteroid/gold/spin"
+			`Valuable ore can be mined from certain asteroids if you shoot at them enough. These asteroids look slightly different from the common metal and rock asteroids. If you are having trouble telling them apart, an Asteroid Scanner will highlight these asteroids for you.`
+	on complete
+		outfit "Copper" -1
+		payment 4500
+		dialog `The jewelers on <planet> accept your delivery of Copper and pay you <payment>.`
+
+mission "Intro Mining Filler [3 Interceptor]"
+	job
+	deadline 7
+	name "Mining: Uranium to <system>"
+	description "The outfitter on <destination> has a shortage of Uranium. Bring 1 ton of Uranium to them by <date>. Payment is <payment>, 50% above the usual market rate for Uranium."
+	source "Ingot"
+	destination "Hestia"
+	to offer
+		has "Intro [2 Interceptor]: done"
+		not "Intro [3 Interceptor]: done"
+	on accept
+		conversation
+			scene "asteroid/lead/spin"
+			`Valuable ore can be mined from certain asteroids if you shoot at them enough. These asteroids look slightly different from the common metal and rock asteroids. If you are having trouble telling them apart, an Asteroid Scanner will highlight these asteroids for you.`
+	on complete
+		outfit "Uranium" -1
+		payment 7500
+		dialog `The outfitter on <planet> accepts your delivery of Uranium and pay you <payment>.`
+
+mission "Intro Escort Add-on [3 Interceptor]"
+	name "Escort to <planet>"
+	description "Despite your relative inexperience, the captain of the <npc> is willing to pay you <payment> for an escort through this dangerous region of space to reach <destination> by <date>."
+	job
+	deadline 8
+	to offer
+		has "Intro [2 Interceptor]: done"
+		not "Intro [3 Interceptor]: done"
+	source "Ingot"
+	destination "Hestia"
+	npc
+		government "Pirate"
+		personality nemesis entering harvests plunders
+			confusion 40
+		fleet
+			names "pirate"
+			variant
+				"Sparrow"
+	npc
+		government "Pirate"
+		personality nemesis staying harvests plunders
+			confusion 40
+		system destination
+		fleet
+			names "pirate"
+			variant
+				"Sparrow (Limit Break)"
+	
+	npc accompany save
+		government "Merchant"
+		personality escort timid
+		fleet
+			names "civilian"
+			variant
+				"Shuttle"
+			variant
+				"Star Barge"
+	on complete
+		payment 15000
+		dialog phrase "generic safe escort completion dialog"
+	on visit
+		dialog phrase "generic arrived-without-npc dialog"
+
+
+
+#############################
+#
+# "Intro Bounty Hunting"
+#
+#############################
+
+
+
+mission "Intro Bounty Hunting: Tweedledee & Tweedledum"
+	minor
+	name "Wanted Bandits near <system>"
+	description "Help the Blood Hound eliminate a pair of old Berserkers, named the Tweedledee & Tweedledum, which have been attacking merchants near <system>. Then report to <destination> for payment (<payment>)."
+	source
+		government "Republic" "Free Worlds" "Syndicate"
+	to offer
+		not "Bounty Hunting (Tiny): done"
+		not "Bounty Hunting (Very Small): done"
+		not "Bounty Hunting (Small): done"
+		not "Bounty Hunting (Medium): done"
+		not "Bounty Hunting (Big): done"
+		not "Bounty Hunting (Small, Hidden): done"
+		not "Bounty Hunting (Medium, Hidden): done"
+		not "Bounty Hunting (Big, Hidden): done"
+		not "Bounty Hunting (Small, Boarding, Entering): done"
+		not "Bounty Hunting (Medium, Boarding, Entering): done"
+		not "Bounty Hunting (Solo Marauder I): done"
+		not "Bounty Hunting (Solo Marauder II): done"
+		not "Bounty Hunting (Solo Marauder III): done"
+		not "Bounty Hunting (Solo Marauder IV): done"
+		not "Bounty Hunting (Marauder I): done"
+		not "Bounty Hunting (Marauder II): done"
+		not "Bounty Hunting (Marauder III): done"
+		not "Bounty Hunting (Marauder IV): done"
+		not "Bounty Hunting (Marauder V): done"
+		not "Bounty Hunting (Marauder VI): done"
+		not "Bounty Hunting (Marauder VII): done"
+		not "Bounty Hunting (Marauder VIII): done"
+		not "Bounty Hunting (Marauder IX): done"
+		not "Bounty Hunting (Marauder X): done"
+		or
+			has "ships: Interceptor"
+			has "ships: Light Warship"
+		"combat rating" < 300
+		random < 70
+	on offer
+		conversation
+			`You notice a bounty hunting request on the job board. A woman walks up and asks "Find an interesting one?" While she examines the job you were looking at you note she's dressed in a flight suit and carries a sidearm. "This says there's more than one ship to hunt down. How about teaming up with me on this? I've hunted bounties before."`
+			choice
+				`	"Sounds good. I'll be glad to have an experienced bounty hunter along."`
+					goto team
+				`	"I'm not actually interested in this. Go ahead and take it if you want."`
+			`	"Are you sure about that? This seems like a good job for a beginner."`
+			choice
+				`	"Beginner?"`
+				`	"Yeah, I'm really not interested in this."`
+					decline
+			`	She grins. "You've never taken a bounty job before, have you? I could tell right away!"`
+			choice
+				`	"Okay, I'll show you I can do this!"`
+				`	"Well, now I definitely don't want to do this."`
+					decline
+			label team
+			`	"Alright! I'm Carol, pilot of the Blood Hound. What's your name?"`
+			choice
+				`	"<first> <last>, pilot of the <ship>."`
+			`	"Nice to meet you <first>! Let's catch those bounties!"`
+				accept
+
+	on enter
+		dialog `Carol hails you: "Bounties tend to be within one or two systems from where the job was offered. Particularly troublesome targets can be a little farther away."`
+	on enter
+		dialog `Carol hails you: "Don't be discouraged if they aren't here. Just keep searching the systems near <system> and you'll find them eventually!"`
+	npc accompany save
+		government "Bounty Hunter (licensed)"
+		personality escort timid vindictive
+		ship "Scout (Bounty Hunter)" "Blood Hound"
+	npc kill
+		government "Bounty"
+		system
+			distance 1 2
+		personality target waiting staying disables harvests
+			confusion 20
+		ship "Berserker (Energy Cannons)" "Tweedledee"
+		ship "Berserker (Energy Cannons)" "Tweedledum"
+		dialog `Carol hails you: "Some bounty jobs require you to board and capture the fugitives. But for most it's enough to eliminate the targets. Let's get back to <destination> and claim our reward."`
+	on fail
+		dialog `[MISSION FAILED]: The Blood Hound was destroyed. If life were a game, you could load a previous save file and try again.`
+	on complete
+		log `A bounty hunter named Carol joined me on my first bounty hunting job. She says bounties tend to be within one or two systems from where the job was offered. Particularly troublesome targets can be a little farther away.`
+		payment 40000
+		dialog `The government of <planet> gratefully pays you 80,000 credits for eliminating Tweedledee & Tweedledum. Carol claims half for herself and wishes you farewell.`
+
+
+
+#########################
+# deprecated
+#########################
+
+mission "Bounty Hunting: Tweedledee & Tweedledum"
+	minor
+	invisible
+	to offer
+		never
+
+mission "Intro Bounty Hunting 1"
+	minor
+	invisible
+	to offer
+		never
+
+mission "Intro Bounty Hunting 2"
+	minor
+	invisible
+	to offer
+		never
+
+mission "Intro Bounty Hunting 3"
+	minor
+	invisible
+	to offer
+		never
+
+mission "Intro Bounty Hunting 4"
+	minor
+	invisible
+	to offer
+		never
+
+mission "Intro Bounty Hunting 5"
+	minor
+	invisible
+	to offer
+		never
+
+
+

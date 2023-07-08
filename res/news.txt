@@ -1,3 +1,6 @@
+2023-07-08 'Midnight Scrapyard' updated by MidnightPlugins | category: [story](https://github.com/zuckung/test3/blob/main/README.md#story)
+2023-07-08 'Amphibious-Ships' updated by Zoura | category: [ships](https://github.com/zuckung/test3/blob/main/README.md#ships)
+2023-07-08 'Lost in Midnight' updated by MidnightPlugins | category: [story](https://github.com/zuckung/test3/blob/main/README.md#story)
 2023-07-07 'Lemurias Extra ES Stuff' updated by a-random-lemurian | category: [story](https://github.com/zuckung/test3/blob/main/README.md#story)
 2023-07-06 'additional.command.buttons' updated by zuckung | category: [graphics](https://github.com/zuckung/test3/blob/main/README.md#graphics)
 2023-07-06 'Amphibious-Ships' updated by Zoura | category: [ships](https://github.com/zuckung/test3/blob/main/README.md#ships)
