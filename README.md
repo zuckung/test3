@@ -4,7 +4,8 @@
 News(latest 10 entries):
 <table><tr><td width=800>
 
-2023-07-08 'Midnight Scrapyard' updated by MidnightPlugins | category: [story](https://github.com/zuckung/test3/blob/main/README.md#story)
+2023-07-08 'test file' updated by tester | category: [uncategorized](https://github.com/zuckung/test3/blob/main/README.md#uncategorized)
+<br>2023-07-08 'Midnight Scrapyard' updated by MidnightPlugins | category: [story](https://github.com/zuckung/test3/blob/main/README.md#story)
 <br>2023-07-08 'Amphibious-Ships' updated by Zoura | category: [ships](https://github.com/zuckung/test3/blob/main/README.md#ships)
 <br>2023-07-08 'Lost in Midnight' updated by MidnightPlugins | category: [story](https://github.com/zuckung/test3/blob/main/README.md#story)
 <br>2023-07-07 'Lemurias Extra ES Stuff' updated by a-random-lemurian | category: [story](https://github.com/zuckung/test3/blob/main/README.md#story)
@@ -13,7 +14,6 @@ News(latest 10 entries):
 <br>2023-07-06 'test file' updated by tester | category: [uncategorized](https://github.com/zuckung/test3/blob/main/README.md#uncategorized)
 <br>2023-07-06 'Adamas Project' updated by todd1010 | category: [races](https://github.com/zuckung/test3/blob/main/README.md#races)
 <br>2023-07-05 'test file' updated by N/A | category: [uncategorized](https://github.com/zuckung/test3/blob/main/README.md#uncategorized)
-<br>2023-07-05 'Amphibious-Ships' updated | category: [ships](https://github.com/zuckung/test3/blob/main/README.md#ships)
 <br>
 
 </td></tr></table>
@@ -8156,7 +8156,7 @@ Status: N/A
 <img src='Working/test file/icon.png' width='100'></img><br>
 
 
-[test.file.zip](https://github.com/zuckung/test3/releases/download/Latest/test.file.zip) | 54.6 kb | 2023-07-06 | [view files](https://github.com/zuckung/test3/tree/main/Working/test%20file/)  
+[test.file.zip](https://github.com/zuckung/test3/releases/download/Latest/test.file.zip) | 54.6 kb | 2023-07-08 | [view files](https://github.com/zuckung/test3/tree/main/Working/test%20file/)  
 Author: tester | N/A[]()  
 Category: N/A  
 
