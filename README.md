@@ -4,7 +4,8 @@
 News(latest 10 entries):
 <table><tr><td width=800>
 
-2023-07-08 'test file' updated by tester | category: [uncategorized](https://github.com/zuckung/test3/blob/main/README.md#uncategorized)
+2023-07-09 'Lost in Midnight' updated by MidnightPlugins | category: [story](https://github.com/zuckung/test3/blob/main/README.md#story)
+<br>2023-07-08 'test file' updated by tester | category: [uncategorized](https://github.com/zuckung/test3/blob/main/README.md#uncategorized)
 <br>2023-07-08 'Midnight Scrapyard' updated by MidnightPlugins | category: [story](https://github.com/zuckung/test3/blob/main/README.md#story)
 <br>2023-07-08 'Amphibious-Ships' updated by Zoura | category: [ships](https://github.com/zuckung/test3/blob/main/README.md#ships)
 <br>2023-07-08 'Lost in Midnight' updated by MidnightPlugins | category: [story](https://github.com/zuckung/test3/blob/main/README.md#story)
@@ -13,7 +14,6 @@ News(latest 10 entries):
 <br>2023-07-06 'Amphibious-Ships' updated by Zoura | category: [ships](https://github.com/zuckung/test3/blob/main/README.md#ships)
 <br>2023-07-06 'test file' updated by tester | category: [uncategorized](https://github.com/zuckung/test3/blob/main/README.md#uncategorized)
 <br>2023-07-06 'Adamas Project' updated by todd1010 | category: [races](https://github.com/zuckung/test3/blob/main/README.md#races)
-<br>2023-07-05 'test file' updated by N/A | category: [uncategorized](https://github.com/zuckung/test3/blob/main/README.md#uncategorized)
 <br>
 
 </td></tr></table>
@@ -6461,7 +6461,7 @@ Status: Playable on 0.9.14, 0.9.15 Continuous.
 <img src='Working/Lost in Midnight/icon.png' width='100'></img><br>
 
 
-[Lost.in.Midnight.zip](https://github.com/zuckung/test3/releases/download/Latest/Lost.in.Midnight.zip) | 61.37 mb | 2023-07-08 | [view files](https://github.com/zuckung/test3/tree/main/Working/Lost%20in%20Midnight/)  
+[Lost.in.Midnight.zip](https://github.com/zuckung/test3/releases/download/Latest/Lost.in.Midnight.zip) | 61.4 mb | 2023-07-09 | [view files](https://github.com/zuckung/test3/tree/main/Working/Lost%20in%20Midnight/)  
 Author: MidnightPlugins | [https://github.com/MidnightPlugins/Lost-in-Midnight](https://github.com/MidnightPlugins/Lost-in-Midnight)  
 Category: Story  
 
