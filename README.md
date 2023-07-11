@@ -257,7 +257,7 @@ Category: Cheats
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <span style='color:green'> ● </span>  $${\color{red}Red}$$
 
 
 ---
