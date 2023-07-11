@@ -1,5 +1,5 @@
 author=demolish238
-website=N/A
+website=https://github.com/SDer4illl4/ZAmalgamation-Revived
 directlink=N/A
 category=N/A
 status=N/A
