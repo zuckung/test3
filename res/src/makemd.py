@@ -4,7 +4,7 @@ from datetime import datetime
 import PIL
 from PIL import Image
 
-iconpng = assetfile = pluginname =  lastmodified = size = author = website = category = status = description = pluginnameurl = news = ""
+iconpng = assetfile = pluginname =  lastmodified = size = author = website = category = status = description = pluginnameurl = news = updatecheck =""
 allplugins = cheats = gameplay = graphics = outfits = overhauls = overwrites = patches = races = ships = story = weapons = uncategorized = 0
 categories = ["Cheats", "Gameplay", "Graphics", "Outfits", "Overhauls", "Overwrites", "Patches", "Races", "Ships", "Story", "Weapons", "Uncategorized"]
 plist = []
