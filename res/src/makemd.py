@@ -264,9 +264,9 @@ with open(indexfile, "w") as file1:
 						form = " mb"
 					size = str(round(assetsize, 2)) + form
 					if directlink != "N/A": # check if plugin has direct updating and color a dot
-						updatecheck = "<span style='color:green'> ● </span>"
+						updatecheck = "<img src='res/img/check.png' width='50' ></img>"
 					else:
-						updatecheck = "<span style='color:red'> ● </span>"
+						updatecheck = "<img src='res/img/cross.png' width='50' ></img>"
 				assetfile =  withdots + ".zip"
 				file1.writelines(replacevarp(tempplug)) # write plugin template entry, exchanging %variables%
 		file1.writelines(tempcatdownt) # write lower category template
