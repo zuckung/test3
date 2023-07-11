@@ -4,7 +4,8 @@
 News(latest 10 entries):
 <table><tr><td width=800>
 
-2023-07-09 'Lost in Midnight' updated by MidnightPlugins | category: [story](https://github.com/zuckung/test3/blob/main/README.md#story)
+2023-07-10 'Amphibious-Ships' updated by Zoura | category: [ships](https://github.com/zuckung/test3/blob/main/README.md#ships)
+<br>2023-07-09 'Lost in Midnight' updated by MidnightPlugins | category: [story](https://github.com/zuckung/test3/blob/main/README.md#story)
 <br>2023-07-08 'test file' updated by tester | category: [uncategorized](https://github.com/zuckung/test3/blob/main/README.md#uncategorized)
 <br>2023-07-08 'Midnight Scrapyard' updated by MidnightPlugins | category: [story](https://github.com/zuckung/test3/blob/main/README.md#story)
 <br>2023-07-08 'Amphibious-Ships' updated by Zoura | category: [ships](https://github.com/zuckung/test3/blob/main/README.md#ships)
@@ -13,7 +14,6 @@ News(latest 10 entries):
 <br>2023-07-06 'additional.command.buttons' updated by zuckung | category: [graphics](https://github.com/zuckung/test3/blob/main/README.md#graphics)
 <br>2023-07-06 'Amphibious-Ships' updated by Zoura | category: [ships](https://github.com/zuckung/test3/blob/main/README.md#ships)
 <br>2023-07-06 'test file' updated by tester | category: [uncategorized](https://github.com/zuckung/test3/blob/main/README.md#uncategorized)
-<br>2023-07-06 'Adamas Project' updated by todd1010 | category: [races](https://github.com/zuckung/test3/blob/main/README.md#races)
 <br>
 
 </td></tr></table>
@@ -4112,7 +4112,7 @@ Status: should work
 ### Amphibious-Ships
 
 
-[Amphibious-Ships.zip](https://github.com/zuckung/test3/releases/download/Latest/Amphibious-Ships.zip) | 10.21 mb | 2023-07-08 | [view files](https://github.com/zuckung/test3/tree/main/Working/Amphibious-Ships/)  
+[Amphibious-Ships.zip](https://github.com/zuckung/test3/releases/download/Latest/Amphibious-Ships.zip) | 10.45 mb | 2023-07-10 | [view files](https://github.com/zuckung/test3/tree/main/Working/Amphibious-Ships/)  
 Author: Zoura | [https://github.com/AvianGeneticist/Amphibious-Ships](https://github.com/AvianGeneticist/Amphibious-Ships)  
 Category: Ships  
 
@@ -4647,7 +4647,7 @@ Status: N/A
 ### Heliarch Avenger
 
 
-[Heliarch.Avenger.zip](https://github.com/zuckung/test3/releases/download/Latest/Heliarch.Avenger.zip) | 0.35 kb | 2023-05-15 | [view files](https://github.com/zuckung/test3/tree/main/Working/Heliarch%20Avenger/)  
+[Heliarch.Avenger.zip](https://github.com/zuckung/test3/releases/download/Latest/Heliarch.Avenger.zip) | N/A | N/A | [view files](https://github.com/zuckung/test3/tree/main/Working/Heliarch%20Avenger/)  
 Author: Arachi(Arachi-lover) | N/A[]()  
 Category: Ships  
 
