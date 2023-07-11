@@ -210,9 +210,9 @@ To keep these files related together, you have to give them the same name.
 
 All Plugins (475)
 
-[Cheats](https://github.com/zuckung/test3/blob/main/README.md#cheats) (35) | [Gameplay](https://github.com/zuckung/test3/blob/main/README.md#gameplay) (33) | [Graphics](https://github.com/zuckung/test3/blob/main/README.md#graphics) (17) | [Outfits](https://github.com/zuckung/test3/blob/main/README.md#outfits) (36)<br>
-[Overhauls](https://github.com/zuckung/test3/blob/main/README.md#overhauls) (40) | [Overwrites](https://github.com/zuckung/test3/blob/main/README.md#overwrites) (1) | [Patches](https://github.com/zuckung/test3/blob/main/README.md#patches) (3) | [Races](https://github.com/zuckung/test3/blob/main/README.md#races) (64)<br>
-[Ships](https://github.com/zuckung/test3/blob/main/README.md#ships) (122) | [Story](https://github.com/zuckung/test3/blob/main/README.md#story) (65) | [Weapons](https://github.com/zuckung/test3/blob/main/README.md#weapons) (39) | [Uncategorized](https://github.com/zuckung/test3/blob/main/README.md#uncategorized) (20)<br>
+[Cheats](https://github.com/zuckung/test3/blob/main/README.md#cheats) (35) | [Gameplay](https://github.com/zuckung/test3/blob/main/README.md#gameplay) (33) | [Graphics](https://github.com/zuckung/test3/blob/main/README.md#graphics) (17) | [Outfits](https://github.com/zuckung/test3/blob/main/README.md#outfits) (37)<br>
+[Overhauls](https://github.com/zuckung/test3/blob/main/README.md#overhauls) (41) | [Overwrites](https://github.com/zuckung/test3/blob/main/README.md#overwrites) (1) | [Patches](https://github.com/zuckung/test3/blob/main/README.md#patches) (3) | [Races](https://github.com/zuckung/test3/blob/main/README.md#races) (64)<br>
+[Ships](https://github.com/zuckung/test3/blob/main/README.md#ships) (122) | [Story](https://github.com/zuckung/test3/blob/main/README.md#story) (65) | [Weapons](https://github.com/zuckung/test3/blob/main/README.md#weapons) (39) | [Uncategorized](https://github.com/zuckung/test3/blob/main/README.md#uncategorized) (18)<br>
 
 
 
@@ -240,6 +240,7 @@ Category: Cheats
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -256,6 +257,7 @@ Category: Cheats
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -272,6 +274,7 @@ Category: Cheats
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -291,6 +294,7 @@ Category: Cheats
 
 
 Status: tested with 0.10.2  
+Daily update check: jup
 
 
 ---
@@ -310,6 +314,7 @@ Category: Cheats
 
 
 Status: tested with 0.10.2  
+Daily update check: jup
 
 
 ---
@@ -329,6 +334,7 @@ Category: Cheats
 
 
 Status: tested with 0.10.2  
+Daily update check: jup
 
 
 ---
@@ -348,6 +354,7 @@ Category: Cheats
 
 
 Status: tested with 0.10.2  
+Daily update check: jup
 
 
 ---
@@ -364,6 +371,7 @@ Category: Cheats
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -383,6 +391,7 @@ Category: Cheats
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -399,6 +408,7 @@ Category: Cheats
 
 
 Status: Playable on 0.9.15 Continuous.  
+Daily update check: noe
 
 
 ---
@@ -415,6 +425,7 @@ Category: Cheats
 
 
 Status: Playable on 0.9.14  
+Daily update check: jup
 
 
 ---
@@ -431,6 +442,7 @@ Category: Cheats
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -448,6 +460,7 @@ Category: Cheats
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -464,6 +477,7 @@ Category: Cheats
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -480,6 +494,7 @@ Category: Cheats
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -497,6 +512,7 @@ Category: Cheats
 
 
 Status: Should work  
+Daily update check: jup
 
 
 ---
@@ -513,6 +529,7 @@ Category: Cheats
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -529,6 +546,7 @@ Category: Cheats
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -545,6 +563,7 @@ Category: Cheats
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -561,6 +580,7 @@ Category: Cheats
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -577,6 +597,7 @@ Category: Cheats
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -595,6 +616,7 @@ Category: Cheats
 
 
 Status: Should be playable on 0.9.14, 0.9.15.  
+Daily update check: noe
 
 
 ---
@@ -611,6 +633,7 @@ Category: Cheats
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -627,6 +650,7 @@ Category: Cheats
 
 
 Status: Should be playable on 0.9.14, 0.9.15 Continuous.  
+Daily update check: noe
 
 
 ---
@@ -643,6 +667,7 @@ Category: Cheats
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -659,6 +684,7 @@ Category: Cheats
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -675,6 +701,7 @@ Category: Cheats
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -691,6 +718,7 @@ Category: Cheats
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -707,6 +735,7 @@ Category: Cheats
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -723,6 +752,7 @@ Category: Cheats
 
 
 Status: Playable on 0.9.14, 0.9.15 Continuous.  
+Daily update check: noe
 
 
 ---
@@ -740,6 +770,7 @@ Category: Cheats
 
 
 Status: Playable on 0.9.14, 0.9.15 Continuous.  
+Daily update check: jup
 
 
 ---
@@ -756,6 +787,7 @@ Category: Cheats
 
 
 Status: Playable on 0.10.0  
+Daily update check: jup
 
 
 ---
@@ -772,6 +804,7 @@ Category: Cheats
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -789,6 +822,7 @@ Category: Cheats
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -810,6 +844,7 @@ Category: Cheats
 
 
 Status: N/A  
+Daily update check: jup
 
 
 </details>
@@ -843,6 +878,7 @@ Category: Gameplay
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -860,6 +896,7 @@ Category: Gameplay
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -880,6 +917,7 @@ Category: Gameplay
 
 
 Status: tested with 0.10.2  
+Daily update check: jup
 
 
 ---
@@ -896,6 +934,7 @@ Category: Gameplay
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -912,6 +951,7 @@ Category: Gameplay
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -928,6 +968,7 @@ Category: Gameplay
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -944,6 +985,7 @@ Category: Gameplay
 
 
 Status: Playable on 0.9.14, 0.9.15 Continuous.  
+Daily update check: noe
 
 
 ---
@@ -960,6 +1002,7 @@ Category: Gameplay
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -977,6 +1020,7 @@ Category: Gameplay
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -993,6 +1037,7 @@ Category: Gameplay
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -1009,6 +1054,7 @@ Category: Gameplay
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -1027,6 +1073,7 @@ Category: Gameplay
 
 
 Status: Playable on 0.9.15 Continuous.  
+Daily update check: noe
 
 
 ---
@@ -1043,6 +1090,7 @@ Category: Gameplay
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -1062,6 +1110,7 @@ Category: Gameplay
 
 
 Status: tested with 0.10.2  
+Daily update check: jup
 
 
 ---
@@ -1080,6 +1129,7 @@ Category: Gameplay
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -1098,6 +1148,7 @@ Category: Gameplay
 
 
 Status: Playable on 0.9.14, 0.9.15 Continuous.  
+Daily update check: noe
 
 
 ---
@@ -1114,6 +1165,7 @@ Category: Gameplay
 
 
 Status: Playable on 0.9.14, 0.9.15 Continuous.  
+Daily update check: noe
 
 
 ---
@@ -1130,6 +1182,7 @@ Category: Gameplay
 
 
 Status: Playable on 0.9.14, 0.10.0 Continuous.  
+Daily update check: jup
 
 
 ---
@@ -1148,6 +1201,7 @@ Category: Gameplay
 
 
 Status: tested with 0.10.2  
+Daily update check: jup
 
 
 ---
@@ -1164,6 +1218,7 @@ Category: Gameplay
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -1180,6 +1235,7 @@ Category: Gameplay
 
 
 Status: Playable on 0.9.14, 0.9.15 Continuous.  
+Daily update check: noe
 
 
 ---
@@ -1196,6 +1252,7 @@ Category: Gameplay
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -1214,6 +1271,7 @@ Category: Gameplay
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -1232,6 +1290,7 @@ Category: Gameplay
 
 
 Status: tested with 0.10.2  
+Daily update check: jup
 
 
 ---
@@ -1248,6 +1307,7 @@ Category: Gameplay
 
 
 Status: Playable on 0.9.15 Continuous.  
+Daily update check: noe
 
 
 ---
@@ -1264,6 +1324,7 @@ Category: Gameplay
 
 
 Status: Playable on 0.9.14, 0.9.15 Continuous.  
+Daily update check: noe
 
 
 ---
@@ -1282,6 +1343,7 @@ Category: Gameplay
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -1298,6 +1360,7 @@ Category: Gameplay
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -1316,6 +1379,7 @@ Category: Gameplay
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -1332,6 +1396,7 @@ Category: Gameplay
 
 
 Status: Playable on 0.9.15 Continuous.  
+Daily update check: noe
 
 
 ---
@@ -1349,6 +1414,7 @@ Category: Gameplay
 
 
 Status: Playable on 0.9.14, 0.9.15 Continuous  
+Daily update check: noe
 
 
 ---
@@ -1372,6 +1438,7 @@ Category: Gameplay
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -1388,6 +1455,7 @@ Category: Gameplay
 
 
 Status: N/A  
+Daily update check: noe
 
 
 </details>
@@ -1417,15 +1485,17 @@ Status: N/A
 Author: zuckung | [https://github.com/zuckung/endless-sky-plugins](https://github.com/zuckung/endless-sky-plugins)  
 Category: Graphics  
 
->(interface changed)
+>2(interface changed)
 >
 >Made for the mobile version and  
->adds the following buttons: full stop / board ship / land on planet / fire afterburner / fleet: hold position / fleet: gather around me / view player info
+>adds the following buttons: full stop / board ship / land on planet / fleet: harvest flotsam / fleet: hold position / fleet: gather around me / view player info
 >adjusts the message box to not overlap
 >(inspired by theweirednut)
+>
 
 
-Status: tested with 0.10.1  
+Status: tested with 0.10.2  
+Daily update check: jup
 
 
 ---
@@ -1442,6 +1512,7 @@ Category: Graphics
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -1458,6 +1529,7 @@ Category: Graphics
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -1474,6 +1546,7 @@ Category: Graphics
 
 
 Status: Playable on 0.9.14, 0.9.15 Continuous.  
+Daily update check: jup
 
 
 ---
@@ -1490,6 +1563,7 @@ Category: Graphics
 
 
 Status: Should work  
+Daily update check: noe
 
 
 ---
@@ -1506,6 +1580,7 @@ Category: Graphics
 
 
 Status: Playable on 0.9.15 Continuous.  
+Daily update check: noe
 
 
 ---
@@ -1522,6 +1597,7 @@ Category: Graphics
 
 
 Status: Playable on 0.9.14, 0.9.15 Continuous.  
+Daily update check: jup
 
 
 ---
@@ -1538,6 +1614,7 @@ Category: Graphics
 
 
 Status: Playable on 0.9.14, 0.9.15 Continuous.  
+Daily update check: noe
 
 
 ---
@@ -1554,6 +1631,7 @@ Category: Graphics
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -1571,6 +1649,7 @@ Category: Graphics
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -1587,6 +1666,7 @@ Category: Graphics
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -1603,6 +1683,7 @@ Category: Graphics
 
 
 Status: Playable on 0.9.15/0.9.16.  
+Daily update check: noe
 
 
 ---
@@ -1619,6 +1700,7 @@ Category: Graphics
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -1635,6 +1717,7 @@ Category: Graphics
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -1652,6 +1735,7 @@ Category: Graphics
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -1668,6 +1752,7 @@ Category: Graphics
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -1684,6 +1769,7 @@ Category: Graphics
 
 
 Status: N/A  
+Daily update check: noe
 
 
 </details>
@@ -1697,7 +1783,7 @@ Status: N/A
 
 ## Outfits
 
-<p>36 plugins in this category.<p>
+<p>37 plugins in this category.<p>
 
 <details>
 
@@ -1717,6 +1803,7 @@ Category: Outfits
 
 
 Status: Playable on 0.9.15 Continuous.  
+Daily update check: noe
 
 
 ---
@@ -1733,6 +1820,7 @@ Category: Outfits
 
 
 Status: Playable on 0.9.14, 0.9.15 Continuous.  
+Daily update check: noe
 
 
 ---
@@ -1749,6 +1837,7 @@ Category: Outfits
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -1765,6 +1854,7 @@ Category: Outfits
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -1781,6 +1871,7 @@ Category: Outfits
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -1797,6 +1888,7 @@ Category: Outfits
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -1813,6 +1905,7 @@ Category: Outfits
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -1829,6 +1922,7 @@ Category: Outfits
 
 
 Status: Should work.  
+Daily update check: noe
 
 
 ---
@@ -1845,6 +1939,7 @@ Category: Outfits
 
 
 Status: Functional  
+Daily update check: noe
 
 
 ---
@@ -1861,6 +1956,7 @@ Category: Outfits
 
 
 Status: Should work  
+Daily update check: jup
 
 
 ---
@@ -1878,6 +1974,7 @@ Category: Outfits
 
 
 Status: 0.9.17/Continuous  
+Daily update check: jup
 
 
 ---
@@ -1896,6 +1993,7 @@ Category: Outfits
 
 
 Status: Playable on 0.9.14, 0.9.15 Continuous.  
+Daily update check: jup
 
 
 ---
@@ -1914,6 +2012,7 @@ Category: Outfits
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -1930,6 +2029,7 @@ Category: Outfits
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -1946,6 +2046,7 @@ Category: Outfits
 
 
 Status: Playable on 0.9.15/0.9.16/Continuous.  
+Daily update check: jup
 
 
 ---
@@ -1962,6 +2063,7 @@ Category: Outfits
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -1978,6 +2080,7 @@ Category: Outfits
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -2002,6 +2105,7 @@ Category: Outfits
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -2018,6 +2122,7 @@ Category: Outfits
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -2034,6 +2139,7 @@ Category: Outfits
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -2050,6 +2156,7 @@ Category: Outfits
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -2066,6 +2173,7 @@ Category: Outfits
 
 
 Status: works on 0.10.0  
+Daily update check: noe
 
 
 ---
@@ -2082,6 +2190,24 @@ Category: Outfits
 
 
 Status: N/A  
+Daily update check: noe
+
+
+---
+
+### MultiTech Extra Light
+
+
+[MultiTech.Extra.Light.zip](https://github.com/zuckung/test3/releases/download/Latest/MultiTech.Extra.Light.zip) | 0.37 kb | 2023-05-15 | [view files](https://github.com/zuckung/test3/tree/main/Working/MultiTech%20Extra%20Light/)  
+Author: sgtdrew720 | [https://github.com/sgtdrew720/MultiTech-Extra-Light-v1.0.0-](https://github.com/sgtdrew720/MultiTech-Extra-Light-v1.0.0-)  
+Category: Outfits  
+
+>N/A
+>
+
+
+Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -2098,6 +2224,7 @@ Category: Outfits
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -2114,6 +2241,7 @@ Category: Outfits
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -2130,6 +2258,7 @@ Category: Outfits
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -2146,6 +2275,7 @@ Category: Outfits
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -2162,6 +2292,7 @@ Category: Outfits
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -2181,6 +2312,7 @@ Category: Outfits
 
 
 Status: tested with 0.10.2  
+Daily update check: jup
 
 
 ---
@@ -2197,6 +2329,7 @@ Category: Outfits
 
 
 Status: Playable on 0.9.14, 0.9.15 Continuous.  
+Daily update check: jup
 
 
 ---
@@ -2213,6 +2346,7 @@ Category: Outfits
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -2229,6 +2363,7 @@ Category: Outfits
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -2245,6 +2380,7 @@ Category: Outfits
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -2261,6 +2397,7 @@ Category: Outfits
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -2277,6 +2414,7 @@ Category: Outfits
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -2293,6 +2431,7 @@ Category: Outfits
 
 
 Status: outfit is nowhere for sale  
+Daily update check: noe
 
 
 </details>
@@ -2306,7 +2445,7 @@ Status: outfit is nowhere for sale
 
 ## Overhauls
 
-<p>40 plugins in this category.<p>
+<p>41 plugins in this category.<p>
 
 <details>
 
@@ -2328,6 +2467,7 @@ Category: Overhauls
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -2348,6 +2488,7 @@ Category: Overhauls
 
 
 Status: in development and playable 0.9.15 continous  
+Daily update check: jup
 
 
 ---
@@ -2364,6 +2505,7 @@ Category: Overhauls
 
 
 Status: unfinished but playable  
+Daily update check: jup
 
 
 ---
@@ -2381,6 +2523,7 @@ Category: Overhauls
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -2399,6 +2542,26 @@ Category: Overhauls
 
 
 Status: Playable on 0.9.15 Continuous.  
+Daily update check: jup
+
+
+---
+
+### Amalgamation
+
+
+[Amalgamation.zip](https://github.com/zuckung/test3/releases/download/Latest/Amalgamation.zip) | 0.33 kb | 2023-05-13 | [view files](https://github.com/zuckung/test3/tree/main/Working/Amalgamation/)  
+Author: demolish238 | [https://github.com/SDer4illl4/ZAmalgamation-Revived](https://github.com/SDer4illl4/ZAmalgamation-Revived)  
+Category: Overhauls  
+
+>A large collection of older plugins that have been edited and modified to work together with the newer versions of Endless Sky and be overall more balanced and lore friendly, along with many unique Amalgamation additions to fill out previous placeholders in these plugins.
+>
+>The plugins included are: Shields Up, Enclave, Quarg Military Retaliation, ZRemnantX's ships, Tribute Plus, Space Conversion, Businessman, Inheritance ships, KorNewShips, Korath Automation Upgrade, Enigma Corps outfits, Cultures of the Southern Arm ships, Flamethrower Turret and The Machines are Taking Over.
+>
+
+
+Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -2415,6 +2578,7 @@ Category: Overhauls
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -2431,6 +2595,7 @@ Category: Overhauls
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -2448,6 +2613,7 @@ Category: Overhauls
 
 
 Status: Continuous/0.9.15+  
+Daily update check: jup
 
 
 ---
@@ -2464,6 +2630,7 @@ Category: Overhauls
 
 
 Status: Playable on 0.10.0 continuous  
+Daily update check: jup
 
 
 ---
@@ -2480,6 +2647,7 @@ Category: Overhauls
 
 
 Status: Total conversion mod, will likely function but is outdated, expect issues.  
+Daily update check: jup
 
 
 ---
@@ -2496,6 +2664,7 @@ Category: Overhauls
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -2512,6 +2681,7 @@ Category: Overhauls
 
 
 Status: Abandoned, Should be playable on 0.9.14, 0.9.15 Continuous.  
+Daily update check: noe
 
 
 ---
@@ -2528,6 +2698,7 @@ Category: Overhauls
 
 
 Status: Playable on 0.9.15/0.9.16/Continuous.  
+Daily update check: jup
 
 
 ---
@@ -2544,6 +2715,7 @@ Category: Overhauls
 
 
 Status: revival project with fixes  
+Daily update check: jup
 
 
 ---
@@ -2561,6 +2733,7 @@ Category: Overhauls
 
 
 Status: Playable on 0.9.14, 0.9.15 Continuous.  
+Daily update check: jup
 
 
 ---
@@ -2577,6 +2750,7 @@ Category: Overhauls
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -2594,6 +2768,7 @@ Category: Overhauls
 
 
 Status: Abandoned, Should be playable on 0.9.14, 0.9.15 Continuous.  
+Daily update check: noe
 
 
 ---
@@ -2610,6 +2785,7 @@ Category: Overhauls
 
 
 Status: No longer developed. Playable on 0.9.14, 0.9.15 Continuous.  
+Daily update check: jup
 
 
 ---
@@ -2626,6 +2802,7 @@ Category: Overhauls
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -2643,6 +2820,7 @@ Category: Overhauls
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -2660,6 +2838,7 @@ Category: Overhauls
 
 
 Status: WIP, Map Only  
+Daily update check: jup
 
 
 ---
@@ -2678,6 +2857,7 @@ Category: Overhauls
 
 
 Status: works on 0.10.0  
+Daily update check: jup
 
 
 ---
@@ -2694,6 +2874,7 @@ Category: Overhauls
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -2714,6 +2895,7 @@ Category: Overhauls
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -2731,6 +2913,7 @@ Category: Overhauls
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -2747,6 +2930,7 @@ Category: Overhauls
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -2763,6 +2947,7 @@ Category: Overhauls
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -2781,6 +2966,7 @@ Category: Overhauls
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -2797,6 +2983,7 @@ Category: Overhauls
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -2813,6 +3000,7 @@ Category: Overhauls
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -2830,6 +3018,7 @@ Category: Overhauls
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -2846,6 +3035,7 @@ Category: Overhauls
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -2862,6 +3052,7 @@ Category: Overhauls
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -2880,6 +3071,7 @@ Category: Overhauls
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -2896,6 +3088,7 @@ Category: Overhauls
 
 
 Status: Playable on 0.9.14, 0.9.15 Continuous.  
+Daily update check: jup
 
 
 ---
@@ -2912,6 +3105,7 @@ Category: Overhauls
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -2928,6 +3122,7 @@ Category: Overhauls
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -2946,6 +3141,7 @@ Category: Overhauls
 
 
 Status: tested with 0.10.2  
+Daily update check: jup
 
 
 ---
@@ -2962,6 +3158,7 @@ Category: Overhauls
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -2982,6 +3179,7 @@ Category: Overhauls
 
 
 Status: tested with 0.10.2  
+Daily update check: jup
 
 
 </details>
@@ -3015,6 +3213,7 @@ Category: Overwrites
 
 
 Status: N/A  
+Daily update check: noe
 
 
 </details>
@@ -3048,6 +3247,7 @@ Category: Patches
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -3065,6 +3265,7 @@ Category: Patches
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -3081,6 +3282,7 @@ Category: Patches
 
 
 Status: N/A  
+Daily update check: noe
 
 
 </details>
@@ -3115,6 +3317,7 @@ Category: Races
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -3131,6 +3334,7 @@ Category: Races
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -3147,6 +3351,7 @@ Category: Races
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -3163,6 +3368,7 @@ Category: Races
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -3179,6 +3385,7 @@ Category: Races
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -3196,6 +3403,7 @@ Category: Races
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -3212,6 +3420,7 @@ Category: Races
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -3229,6 +3438,7 @@ Category: Races
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -3245,6 +3455,7 @@ Category: Races
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -3261,6 +3472,7 @@ Category: Races
 
 
 Status: abandoned  
+Daily update check: jup
 
 
 ---
@@ -3277,6 +3489,7 @@ Category: Races
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -3293,6 +3506,7 @@ Category: Races
 
 
 Status: REQUIRES PR #7348. Either wait for it to be merged or use ESLauncher2 to download the PR.  
+Daily update check: jup
 
 
 ---
@@ -3309,6 +3523,7 @@ Category: Races
 
 
 Status: Should work in Continuous/0.9.15/0.9.16  
+Daily update check: jup
 
 
 ---
@@ -3325,6 +3540,7 @@ Category: Races
 
 
 Status: Playable on 0.9.15, 0.9.16, Continuous  
+Daily update check: jup
 
 
 ---
@@ -3341,6 +3557,7 @@ Category: Races
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -3357,6 +3574,7 @@ Category: Races
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -3373,6 +3591,7 @@ Category: Races
 
 
 Status: playable on 0.9.15 Continuous.  
+Daily update check: jup
 
 
 ---
@@ -3389,6 +3608,7 @@ Category: Races
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -3405,6 +3625,7 @@ Category: Races
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -3423,6 +3644,7 @@ Category: Races
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -3439,6 +3661,7 @@ Category: Races
 
 
 Status: Playable on 0.9.14, 0.9.15 Continuous.  
+Daily update check: noe
 
 
 ---
@@ -3455,6 +3678,7 @@ Category: Races
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -3471,6 +3695,7 @@ Category: Races
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -3487,6 +3712,7 @@ Category: Races
 
 
 Status: Abandoned  
+Daily update check: noe
 
 
 ---
@@ -3503,6 +3729,7 @@ Category: Races
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -3525,6 +3752,7 @@ Category: Races
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -3541,6 +3769,7 @@ Category: Races
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -3557,6 +3786,7 @@ Category: Races
 
 
 Status: In development, Playable on 0.9.15 Continuous.  
+Daily update check: jup
 
 
 ---
@@ -3573,6 +3803,7 @@ Category: Races
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -3590,6 +3821,7 @@ Category: Races
 
 
 Status: Playable on 0.9.15 Continuous.  
+Daily update check: noe
 
 
 ---
@@ -3606,6 +3838,7 @@ Category: Races
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -3622,6 +3855,7 @@ Category: Races
 
 
 Status: Playable on 0.9.15 Continuous.  
+Daily update check: jup
 
 
 ---
@@ -3638,6 +3872,7 @@ Category: Races
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -3654,6 +3889,7 @@ Category: Races
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -3670,6 +3906,7 @@ Category: Races
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -3686,6 +3923,7 @@ Category: Races
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -3702,6 +3940,7 @@ Category: Races
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -3718,6 +3957,7 @@ Category: Races
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -3734,6 +3974,7 @@ Category: Races
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -3750,6 +3991,7 @@ Category: Races
 
 
 Status: Should be playable on 0.9.14, 0.9.15 Continuous.  
+Daily update check: noe
 
 
 ---
@@ -3766,6 +4008,7 @@ Category: Races
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -3783,6 +4026,7 @@ Category: Races
 
 
 Status: Playable on 0.9.15/0.9.16.  
+Daily update check: jup
 
 
 ---
@@ -3799,6 +4043,7 @@ Category: Races
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -3815,6 +4060,7 @@ Category: Races
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -3834,6 +4080,7 @@ Category: Races
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -3850,6 +4097,7 @@ Category: Races
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -3868,6 +4116,7 @@ Category: Races
 
 
 Status: Playable on 0.9.14, 0.9.15 Continuous.  
+Daily update check: noe
 
 
 ---
@@ -3886,6 +4135,7 @@ Category: Races
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -3904,6 +4154,7 @@ Category: Races
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -3920,6 +4171,7 @@ Category: Races
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -3938,6 +4190,7 @@ Category: Races
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -3954,6 +4207,7 @@ Category: Races
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -3970,6 +4224,7 @@ Category: Races
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -3986,6 +4241,7 @@ Category: Races
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -4002,6 +4258,7 @@ Category: Races
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -4018,6 +4275,7 @@ Category: Races
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -4034,6 +4292,7 @@ Category: Races
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -4052,6 +4311,7 @@ Category: Races
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -4068,6 +4328,7 @@ Category: Races
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -4084,6 +4345,7 @@ Category: Races
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -4100,6 +4362,7 @@ Category: Races
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -4118,6 +4381,7 @@ Category: Races
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -4134,6 +4398,7 @@ Category: Races
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -4150,6 +4415,7 @@ Category: Races
 
 
 Status: N/A  
+Daily update check: noe
 
 
 </details>
@@ -4183,6 +4449,7 @@ Category: Ships
 
 
 Status: should work  
+Daily update check: noe
 
 
 ---
@@ -4199,6 +4466,7 @@ Category: Ships
 
 
 Status: Playable on 0.10.0/Continuous  
+Daily update check: jup
 
 
 ---
@@ -4215,6 +4483,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -4231,6 +4500,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -4247,6 +4517,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -4263,6 +4534,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -4279,6 +4551,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -4296,6 +4569,7 @@ Category: Ships
 
 
 Status: Playable on 0.9.14, 0.9.15 Continuous.  
+Daily update check: jup
 
 
 ---
@@ -4312,6 +4586,7 @@ Category: Ships
 
 
 Status: Ships and outfit are nowhere for sale.  
+Daily update check: noe
 
 
 ---
@@ -4328,6 +4603,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -4344,6 +4620,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -4361,6 +4638,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -4377,6 +4655,7 @@ Category: Ships
 
 
 Status: Should work  
+Daily update check: noe
 
 
 ---
@@ -4393,6 +4672,7 @@ Category: Ships
 
 
 Status: Playable on 0.9.15 Continuous.  
+Daily update check: noe
 
 
 ---
@@ -4409,6 +4689,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -4425,6 +4706,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -4441,6 +4723,7 @@ Category: Ships
 
 
 Status: Should work  
+Daily update check: noe
 
 
 ---
@@ -4457,6 +4740,7 @@ Category: Ships
 
 
 Status: Playable on 0.9.14, 0.9.15 Continuous.  
+Daily update check: jup
 
 
 ---
@@ -4474,6 +4758,7 @@ Category: Ships
 
 
 Status: Functional  
+Daily update check: jup
 
 
 ---
@@ -4490,6 +4775,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -4506,6 +4792,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -4522,6 +4809,7 @@ Category: Ships
 
 
 Status: Should work.  
+Daily update check: noe
 
 
 ---
@@ -4538,6 +4826,7 @@ Category: Ships
 
 
 Status: Should work  
+Daily update check: noe
 
 
 ---
@@ -4554,6 +4843,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -4570,6 +4860,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -4586,6 +4877,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -4605,6 +4897,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -4621,6 +4914,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -4637,6 +4931,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -4653,6 +4948,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -4669,6 +4965,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -4685,6 +4982,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -4701,6 +4999,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -4718,6 +5017,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -4734,6 +5034,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -4750,6 +5051,7 @@ Category: Ships
 
 
 Status: Playable on 0.9.14, 0.9.15 Continuous.  
+Daily update check: noe
 
 
 ---
@@ -4766,6 +5068,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -4782,6 +5085,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -4798,6 +5102,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -4814,6 +5119,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -4830,6 +5136,7 @@ Category: Ships
 
 
 Status: Should be playable on 0.9.15/0.9.16  
+Daily update check: noe
 
 
 ---
@@ -4847,6 +5154,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -4863,6 +5171,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -4879,6 +5188,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -4895,6 +5205,7 @@ Category: Ships
 
 
 Status: Playable on 0.10.0 continuous  
+Daily update check: jup
 
 
 ---
@@ -4911,6 +5222,7 @@ Category: Ships
 
 
 Status: Playable on 0.9.15 Continuous.  
+Daily update check: jup
 
 
 ---
@@ -4927,6 +5239,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -4943,6 +5256,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -4959,6 +5273,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -4975,6 +5290,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -4991,6 +5307,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -5008,6 +5325,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -5024,6 +5342,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -5040,6 +5359,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -5056,6 +5376,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -5072,6 +5393,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -5088,6 +5410,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -5104,6 +5427,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -5121,6 +5445,7 @@ Category: Ships
 
 
 Status: Requires Continuous/0.10.1+  
+Daily update check: jup
 
 
 ---
@@ -5137,6 +5462,7 @@ Category: Ships
 
 
 Status: Playable on 0.9.14, 0.9.15 Continuous.  
+Daily update check: noe
 
 
 ---
@@ -5157,6 +5483,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -5173,6 +5500,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -5189,6 +5517,7 @@ Category: Ships
 
 
 Status: Playable since the version that adds minable asteroid (0.9.3).  
+Daily update check: noe
 
 
 ---
@@ -5205,6 +5534,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -5222,6 +5552,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -5238,6 +5569,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -5254,6 +5586,7 @@ Category: Ships
 
 
 Status: Playable on 0.9.14, 0.9.15 Continuous.  
+Daily update check: jup
 
 
 ---
@@ -5270,6 +5603,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -5287,6 +5621,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -5303,6 +5638,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -5319,6 +5655,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -5335,6 +5672,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -5351,6 +5689,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -5367,6 +5706,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -5383,6 +5723,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -5399,6 +5740,7 @@ Category: Ships
 
 
 Status: Playable on 0.9.15 Continuous.  
+Daily update check: noe
 
 
 ---
@@ -5415,6 +5757,7 @@ Category: Ships
 
 
 Status: Playable on 0.9.15 Continuous.  
+Daily update check: noe
 
 
 ---
@@ -5431,6 +5774,7 @@ Category: Ships
 
 
 Status: Playable on 0.9.15 Continuous.  
+Daily update check: noe
 
 
 ---
@@ -5447,6 +5791,7 @@ Category: Ships
 
 
 Status: Playable on 0.9.15 Continuous.  
+Daily update check: jup
 
 
 ---
@@ -5463,6 +5808,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -5479,6 +5825,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -5495,6 +5842,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -5511,6 +5859,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -5527,6 +5876,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -5543,6 +5893,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -5559,6 +5910,7 @@ Category: Ships
 
 
 Status: Playable on 0.9.15 Continuous.  
+Daily update check: noe
 
 
 ---
@@ -5575,6 +5927,7 @@ Category: Ships
 
 
 Status: Playable on 0.9.15 Continuous.  
+Daily update check: noe
 
 
 ---
@@ -5591,6 +5944,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -5608,6 +5962,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -5624,6 +5979,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -5640,6 +5996,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -5656,6 +6013,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -5672,6 +6030,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -5688,6 +6047,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -5704,6 +6064,7 @@ Category: Ships
 
 
 Status: Playable on 0.9.16  
+Daily update check: jup
 
 
 ---
@@ -5720,6 +6081,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -5736,6 +6098,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -5752,6 +6115,7 @@ Category: Ships
 
 
 Status: Playable on 0.9.15 Continuous.  
+Daily update check: noe
 
 
 ---
@@ -5768,6 +6132,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -5783,6 +6148,7 @@ Category: Ships
 
 
 Status: Playable on 0.9.14, 0.9.15 Continuous.  
+Daily update check: jup
 
 
 ---
@@ -5799,6 +6165,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -5815,6 +6182,7 @@ Category: Ships
 
 
 Status: Playable on 0.9.16  
+Daily update check: jup
 
 
 ---
@@ -5833,6 +6201,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -5849,6 +6218,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -5865,6 +6235,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -5881,6 +6252,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -5897,6 +6269,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -5914,6 +6287,7 @@ Category: Ships
 
 
 Status: Playable on 0.9.15 Continuous.  
+Daily update check: noe
 
 
 ---
@@ -5930,6 +6304,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -5945,6 +6320,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -5961,6 +6337,7 @@ Category: Ships
 
 
 Status: Playable on 0.9.14, 0.9.15 Continuous.  
+Daily update check: jup
 
 
 ---
@@ -5977,6 +6354,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -5993,6 +6371,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -6009,6 +6388,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -6025,6 +6405,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -6041,6 +6422,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -6057,6 +6439,7 @@ Category: Ships
 
 
 Status: playable on 0.9.15 Continuous.  
+Daily update check: noe
 
 
 ---
@@ -6073,6 +6456,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -6089,6 +6473,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -6105,6 +6490,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -6122,6 +6508,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -6138,6 +6525,7 @@ Category: Ships
 
 
 Status: N/A  
+Daily update check: jup
 
 
 </details>
@@ -6171,6 +6559,7 @@ Category: Story
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -6187,6 +6576,7 @@ Category: Story
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -6203,6 +6593,7 @@ Category: Story
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -6219,6 +6610,7 @@ Category: Story
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -6237,6 +6629,7 @@ Category: Story
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -6253,6 +6646,7 @@ Category: Story
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -6269,6 +6663,7 @@ Category: Story
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -6287,6 +6682,7 @@ Category: Story
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -6305,6 +6701,7 @@ Category: Story
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -6321,6 +6718,7 @@ Category: Story
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -6337,6 +6735,7 @@ Category: Story
 
 
 Status: Allready ingame  
+Daily update check: jup
 
 
 ---
@@ -6353,6 +6752,7 @@ Category: Story
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -6369,6 +6769,7 @@ Category: Story
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -6386,6 +6787,7 @@ Category: Story
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -6402,6 +6804,7 @@ Category: Story
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -6418,6 +6821,7 @@ Category: Story
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -6434,6 +6838,7 @@ Category: Story
 
 
 Status: Playable on 0.9.14, 0.9.15 Continuous.  
+Daily update check: jup
 
 
 ---
@@ -6450,6 +6855,7 @@ Category: Story
 
 
 Status:  designed for 0.9.14  
+Daily update check: jup
 
 
 ---
@@ -6466,6 +6872,7 @@ Category: Story
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -6482,6 +6889,7 @@ Category: Story
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -6498,6 +6906,7 @@ Category: Story
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -6514,6 +6923,7 @@ Category: Story
 
 
 Status: Abandoned. An updated version appears to have been made by 1010Todd. AES Fallen  
+Daily update check: noe
 
 
 ---
@@ -6531,6 +6941,7 @@ Category: Story
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -6547,6 +6958,7 @@ Category: Story
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -6563,6 +6975,7 @@ Category: Story
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -6579,6 +6992,7 @@ Category: Story
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -6595,6 +7009,7 @@ Category: Story
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -6612,6 +7027,7 @@ Category: Story
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -6628,6 +7044,7 @@ Category: Story
 
 
 Status: Playable on 0.9.14, 0.9.15 Continuous.  
+Daily update check: noe
 
 
 ---
@@ -6645,6 +7062,7 @@ Category: Story
 
 
 Status: In development, Playable on 0.9.14, 0.9.15 Continuous.  
+Daily update check: jup
 
 
 ---
@@ -6661,6 +7079,7 @@ Category: Story
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -6678,6 +7097,7 @@ Category: Story
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -6697,6 +7117,7 @@ Category: Story
 
 
 Status: In development, Playable on 0.9.14, 0.9.15 Continuous.  
+Daily update check: jup
 
 
 ---
@@ -6713,6 +7134,7 @@ Category: Story
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -6729,6 +7151,7 @@ Category: Story
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -6745,6 +7168,7 @@ Category: Story
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -6761,6 +7185,7 @@ Category: Story
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -6779,6 +7204,7 @@ Category: Story
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -6797,6 +7223,7 @@ Category: Story
 
 
 Status: Playable on 0.9.14, 0.9.15.  
+Daily update check: jup
 
 
 ---
@@ -6813,6 +7240,7 @@ Category: Story
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -6829,6 +7257,7 @@ Category: Story
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -6845,6 +7274,7 @@ Category: Story
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -6861,6 +7291,7 @@ Category: Story
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -6877,6 +7308,7 @@ Category: Story
 
 
 Status: made for 0.9.13  
+Daily update check: jup
 
 
 ---
@@ -6893,6 +7325,7 @@ Category: Story
 
 
 Status: Playable on 0.9.14, 0.9.15 Continuous.  
+Daily update check: noe
 
 
 ---
@@ -6909,6 +7342,7 @@ Category: Story
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -6925,6 +7359,7 @@ Category: Story
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -6942,6 +7377,7 @@ Category: Story
 
 
 Status: Playable on 0.9.14, 0.9.15 Continuous.  
+Daily update check: noe
 
 
 ---
@@ -6963,6 +7399,7 @@ Category: Story
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -6982,6 +7419,7 @@ Category: Story
 
 
 Status: Tested on: ES 0.9.16.1 (macOS)  
+Daily update check: noe
 
 
 ---
@@ -6998,6 +7436,7 @@ Category: Story
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -7014,6 +7453,7 @@ Category: Story
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -7036,6 +7476,7 @@ Category: Story
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -7052,6 +7493,7 @@ Category: Story
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -7069,6 +7511,7 @@ Category: Story
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -7085,6 +7528,7 @@ Category: Story
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -7101,6 +7545,7 @@ Category: Story
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -7119,6 +7564,7 @@ Category: Story
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -7135,6 +7581,7 @@ Category: Story
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -7151,6 +7598,7 @@ Category: Story
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -7167,6 +7615,7 @@ Category: Story
 
 
 Status: Playable on 0.9.14, 0.9.15 Continuous.  
+Daily update check: noe
 
 
 ---
@@ -7183,6 +7632,7 @@ Category: Story
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -7198,6 +7648,7 @@ Category: Story
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -7221,6 +7672,7 @@ Category: Story
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -7244,6 +7696,7 @@ Category: Story
 
 
 Status: N/A  
+Daily update check: noe
 
 
 </details>
@@ -7277,6 +7730,7 @@ Category: Weapons
 
 
 Status: complete and playable on 0.9.15 continous  
+Daily update check: noe
 
 
 ---
@@ -7293,6 +7747,7 @@ Category: Weapons
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -7309,6 +7764,7 @@ Category: Weapons
 
 
 Status: Ship and outfits are nowhere for sale.  
+Daily update check: noe
 
 
 ---
@@ -7325,6 +7781,7 @@ Category: Weapons
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -7341,6 +7798,7 @@ Category: Weapons
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -7359,6 +7817,7 @@ Category: Weapons
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -7375,6 +7834,7 @@ Category: Weapons
 
 
 Status: Should work  
+Daily update check: noe
 
 
 ---
@@ -7391,6 +7851,7 @@ Category: Weapons
 
 
 Status: Ship and outfits are nowhere for sale.  
+Daily update check: noe
 
 
 ---
@@ -7407,6 +7868,7 @@ Category: Weapons
 
 
 Status: Outfits are nowhere for sale.  
+Daily update check: noe
 
 
 ---
@@ -7423,6 +7885,7 @@ Category: Weapons
 
 
 Status: Should work  
+Daily update check: noe
 
 
 ---
@@ -7438,6 +7901,7 @@ Category: Weapons
 
 
 Status: Requires AES Omnis to access.  
+Daily update check: noe
 
 
 ---
@@ -7454,6 +7918,7 @@ Category: Weapons
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -7470,6 +7935,7 @@ Category: Weapons
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -7486,6 +7952,7 @@ Category: Weapons
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -7502,6 +7969,7 @@ Category: Weapons
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -7518,6 +7986,7 @@ Category: Weapons
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -7534,6 +8003,7 @@ Category: Weapons
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -7551,6 +8021,7 @@ Category: Weapons
 
 
 Status: Playable on 0.9.15, 0.9.16, Continuous.  
+Daily update check: jup
 
 
 ---
@@ -7567,6 +8038,7 @@ Category: Weapons
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -7583,6 +8055,7 @@ Category: Weapons
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -7599,6 +8072,7 @@ Category: Weapons
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -7615,6 +8089,7 @@ Category: Weapons
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -7631,6 +8106,7 @@ Category: Weapons
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -7649,6 +8125,7 @@ Category: Weapons
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -7665,6 +8142,7 @@ Category: Weapons
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -7681,6 +8159,7 @@ Category: Weapons
 
 
 Status: Playable on 0.9.15 Continuous.  
+Daily update check: jup
 
 
 ---
@@ -7697,6 +8176,7 @@ Category: Weapons
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -7713,6 +8193,7 @@ Category: Weapons
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -7729,6 +8210,7 @@ Category: Weapons
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -7745,6 +8227,7 @@ Category: Weapons
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -7761,6 +8244,7 @@ Category: Weapons
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -7779,6 +8263,7 @@ Category: Weapons
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -7796,6 +8281,7 @@ Category: Weapons
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -7812,6 +8298,7 @@ Category: Weapons
 
 
 Status: Should work on 0.9.15, 0.9.16, Continuous.  
+Daily update check: noe
 
 
 ---
@@ -7828,6 +8315,7 @@ Category: Weapons
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -7846,6 +8334,7 @@ Category: Weapons
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -7862,6 +8351,7 @@ Category: Weapons
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -7878,6 +8368,7 @@ Category: Weapons
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -7894,6 +8385,7 @@ Category: Weapons
 
 
 Status: N/A  
+Daily update check: noe
 
 
 </details>
@@ -7907,29 +8399,11 @@ Status: N/A
 
 ## Uncategorized
 
-<p>20 plugins in this category.<p>
+<p>18 plugins in this category.<p>
 
 <details>
 
  
-
----
-
-### Amalgamation
-
-
-[Amalgamation.zip](https://github.com/zuckung/test3/releases/download/Latest/Amalgamation.zip) | 0.33 kb | 2023-05-13 | [view files](https://github.com/zuckung/test3/tree/main/Working/Amalgamation/)  
-Author: demolish238 | [https://github.com/SDer4illl4/ZAmalgamation-Revived](https://github.com/SDer4illl4/ZAmalgamation-Revived)  
-Category: N/A  
-
->A large collection of older plugins that have been edited and modified to work together with the newer versions of Endless Sky and be overall more balanced and lore friendly, along with many unique Amalgamation additions to fill out previous placeholders in these plugins.
->
->The plugins included are: Shields Up, Enclave, Quarg Military Retaliation, ZRemnantX's ships, Tribute Plus, Space Conversion, Businessman, Inheritance ships, KorNewShips, Korath Automation Upgrade, Enigma Corps outfits, Cultures of the Southern Arm ships, Flamethrower Turret and The Machines are Taking Over.
->
-
-
-Status: N/A  
-
 
 ---
 
@@ -7945,6 +8419,7 @@ Category: N/A
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -7954,13 +8429,14 @@ Status: N/A
 
 [Core-Mining-Inc-0.1.7.1.zip](https://github.com/zuckung/test3/releases/download/Latest/Core-Mining-Inc-0.1.7.1.zip) | 0.37 kb | 2023-05-15 | [view files](https://github.com/zuckung/test3/tree/main/Working/Core-Mining-Inc-0%201%207%201/)  
 Author: N/A | N/A[]()  
-Category: N/A  
+Category: Uncategorized  
 
 >N/A
 >
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -7977,6 +8453,7 @@ Category: N/A
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -7993,6 +8470,7 @@ Category: N/A
 
 
 Status: Playable on 0.9.14, 0.9.15 Continuous.  
+Daily update check: jup
 
 
 ---
@@ -8009,6 +8487,7 @@ Category: N/A
 
 
 Status: Should work  
+Daily update check: noe
 
 
 ---
@@ -8025,6 +8504,7 @@ Category: N/A
 
 
 Status: Should work  
+Daily update check: noe
 
 
 ---
@@ -8041,6 +8521,7 @@ Category: N/A
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -8057,6 +8538,7 @@ Category: N/A
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -8067,13 +8549,14 @@ Status: N/A
 
 [Heliarch.Shopping.Korath.Konvenience.zip](https://github.com/zuckung/test3/releases/download/Latest/Heliarch.Shopping.Korath.Konvenience.zip) | 50.35 kb | 2023-06-01 | [view files](https://github.com/zuckung/test3/tree/main/Working/Heliarch%20Shopping&Korath%20Konvenience/)  
 Author: N/A | N/A[]()  
-Category: N/A  
+Category: Uncategorized  
 
 >N/A
 >
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -8090,6 +8573,7 @@ Category: N/A
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -8106,6 +8590,7 @@ Category: N/A
 
 
 Status: Compatible with ES 0.9.14  
+Daily update check: jup
 
 
 ---
@@ -8125,6 +8610,7 @@ Category: N/A
 
 
 Status: Playable on 0.10.0 continuous  
+Daily update check: jup
 
 
 ---
@@ -8141,22 +8627,7 @@ Category: N/A
 
 
 Status: N/A  
-
-
----
-
-### MultiTech Extra Light
-
-
-[MultiTech.Extra.Light.zip](https://github.com/zuckung/test3/releases/download/Latest/MultiTech.Extra.Light.zip) | 0.37 kb | 2023-05-15 | [view files](https://github.com/zuckung/test3/tree/main/Working/MultiTech%20Extra%20Light/)  
-Author: sgtdrew720 | [https://github.com/sgtdrew720/MultiTech-Extra-Light-v1.0.0-](https://github.com/sgtdrew720/MultiTech-Extra-Light-v1.0.0-)  
-Category: N/A  
-
->N/A
->
-
-
-Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -8173,6 +8644,7 @@ Category: N/A
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -8190,6 +8662,7 @@ Category: N/A
 
 
 Status: N/A  
+Daily update check: jup
 
 
 ---
@@ -8199,13 +8672,14 @@ Status: N/A
 
 [TaleOfApoxys.zip](https://github.com/zuckung/test3/releases/download/Latest/TaleOfApoxys.zip) | 0.13 kb | 2023-05-19 | [view files](https://github.com/zuckung/test3/tree/main/Working/TaleOfApoxys/)  
 Author: N/A | N/A[]()  
-Category: N/A  
+Category: Uncategorized  
 
 >N/A
 >
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -8215,14 +8689,15 @@ Status: N/A
 
 
 [test.file.zip](https://github.com/zuckung/test3/releases/download/Latest/test.file.zip) | 54.6 kb | 2023-07-08 | [view files](https://github.com/zuckung/test3/tree/main/Working/test%20file/)  
-Author: tester | N/A[]()  
-Category: N/A  
+Author: N/A | N/A[]()  
+Category: Uncategorized  
 
 >N/A
 >
 
 
 Status: N/A  
+Daily update check: noe
 
 
 ---
@@ -8240,6 +8715,7 @@ Category: N/A
 
 
 Status: N/A  
+Daily update check: noe
 
 
 </details>
