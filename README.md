@@ -1,4 +1,4 @@
-<img src='res/logo.png' width='500'></img>
+<img src='res/img/logo.png' width='500'></img>
 
 
 # News
@@ -240,7 +240,7 @@ Category: Cheats
 
 
 Status: N/A  
-Daily update check: $${\color{red}●}$$ $${\color{green} ● }$$
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -257,7 +257,7 @@ Category: Cheats
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>  $${\color{red}Red}$$
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -274,7 +274,7 @@ Category: Cheats
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -294,7 +294,7 @@ Category: Cheats
 
 
 Status: tested with 0.10.2  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -314,7 +314,7 @@ Category: Cheats
 
 
 Status: tested with 0.10.2  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -334,7 +334,7 @@ Category: Cheats
 
 
 Status: tested with 0.10.2  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -354,7 +354,7 @@ Category: Cheats
 
 
 Status: tested with 0.10.2  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -371,7 +371,7 @@ Category: Cheats
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -391,7 +391,7 @@ Category: Cheats
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -408,7 +408,7 @@ Category: Cheats
 
 
 Status: Playable on 0.9.15 Continuous.  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -425,7 +425,7 @@ Category: Cheats
 
 
 Status: Playable on 0.9.14  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -442,7 +442,7 @@ Category: Cheats
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -460,7 +460,7 @@ Category: Cheats
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -477,7 +477,7 @@ Category: Cheats
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -494,7 +494,7 @@ Category: Cheats
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -512,7 +512,7 @@ Category: Cheats
 
 
 Status: Should work  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -529,7 +529,7 @@ Category: Cheats
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -546,7 +546,7 @@ Category: Cheats
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -563,7 +563,7 @@ Category: Cheats
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -580,7 +580,7 @@ Category: Cheats
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -597,7 +597,7 @@ Category: Cheats
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -616,7 +616,7 @@ Category: Cheats
 
 
 Status: Should be playable on 0.9.14, 0.9.15.  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -633,7 +633,7 @@ Category: Cheats
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -650,7 +650,7 @@ Category: Cheats
 
 
 Status: Should be playable on 0.9.14, 0.9.15 Continuous.  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -667,7 +667,7 @@ Category: Cheats
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -684,7 +684,7 @@ Category: Cheats
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -701,7 +701,7 @@ Category: Cheats
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -718,7 +718,7 @@ Category: Cheats
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -735,7 +735,7 @@ Category: Cheats
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -752,7 +752,7 @@ Category: Cheats
 
 
 Status: Playable on 0.9.14, 0.9.15 Continuous.  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -770,7 +770,7 @@ Category: Cheats
 
 
 Status: Playable on 0.9.14, 0.9.15 Continuous.  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -787,7 +787,7 @@ Category: Cheats
 
 
 Status: Playable on 0.10.0  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -804,7 +804,7 @@ Category: Cheats
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -822,7 +822,7 @@ Category: Cheats
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -844,7 +844,7 @@ Category: Cheats
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 </details>
@@ -878,7 +878,7 @@ Category: Gameplay
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -896,7 +896,7 @@ Category: Gameplay
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -917,7 +917,7 @@ Category: Gameplay
 
 
 Status: tested with 0.10.2  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -934,7 +934,7 @@ Category: Gameplay
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -951,7 +951,7 @@ Category: Gameplay
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -968,7 +968,7 @@ Category: Gameplay
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -985,7 +985,7 @@ Category: Gameplay
 
 
 Status: Playable on 0.9.14, 0.9.15 Continuous.  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -1002,7 +1002,7 @@ Category: Gameplay
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -1020,7 +1020,7 @@ Category: Gameplay
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -1037,7 +1037,7 @@ Category: Gameplay
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -1054,7 +1054,7 @@ Category: Gameplay
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -1073,7 +1073,7 @@ Category: Gameplay
 
 
 Status: Playable on 0.9.15 Continuous.  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -1090,7 +1090,7 @@ Category: Gameplay
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -1110,7 +1110,7 @@ Category: Gameplay
 
 
 Status: tested with 0.10.2  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -1129,7 +1129,7 @@ Category: Gameplay
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -1148,7 +1148,7 @@ Category: Gameplay
 
 
 Status: Playable on 0.9.14, 0.9.15 Continuous.  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -1165,7 +1165,7 @@ Category: Gameplay
 
 
 Status: Playable on 0.9.14, 0.9.15 Continuous.  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -1182,7 +1182,7 @@ Category: Gameplay
 
 
 Status: Playable on 0.9.14, 0.10.0 Continuous.  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -1201,7 +1201,7 @@ Category: Gameplay
 
 
 Status: tested with 0.10.2  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -1218,7 +1218,7 @@ Category: Gameplay
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -1235,7 +1235,7 @@ Category: Gameplay
 
 
 Status: Playable on 0.9.14, 0.9.15 Continuous.  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -1252,7 +1252,7 @@ Category: Gameplay
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -1271,7 +1271,7 @@ Category: Gameplay
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -1290,7 +1290,7 @@ Category: Gameplay
 
 
 Status: tested with 0.10.2  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -1307,7 +1307,7 @@ Category: Gameplay
 
 
 Status: Playable on 0.9.15 Continuous.  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -1324,7 +1324,7 @@ Category: Gameplay
 
 
 Status: Playable on 0.9.14, 0.9.15 Continuous.  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -1343,7 +1343,7 @@ Category: Gameplay
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -1360,7 +1360,7 @@ Category: Gameplay
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -1379,7 +1379,7 @@ Category: Gameplay
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -1396,7 +1396,7 @@ Category: Gameplay
 
 
 Status: Playable on 0.9.15 Continuous.  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -1414,7 +1414,7 @@ Category: Gameplay
 
 
 Status: Playable on 0.9.14, 0.9.15 Continuous  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -1438,7 +1438,7 @@ Category: Gameplay
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -1455,7 +1455,7 @@ Category: Gameplay
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 </details>
@@ -1495,7 +1495,7 @@ Category: Graphics
 
 
 Status: tested with 0.10.2  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -1512,7 +1512,7 @@ Category: Graphics
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -1529,7 +1529,7 @@ Category: Graphics
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -1546,7 +1546,7 @@ Category: Graphics
 
 
 Status: Playable on 0.9.14, 0.9.15 Continuous.  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -1563,7 +1563,7 @@ Category: Graphics
 
 
 Status: Should work  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -1580,7 +1580,7 @@ Category: Graphics
 
 
 Status: Playable on 0.9.15 Continuous.  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -1597,7 +1597,7 @@ Category: Graphics
 
 
 Status: Playable on 0.9.14, 0.9.15 Continuous.  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -1614,7 +1614,7 @@ Category: Graphics
 
 
 Status: Playable on 0.9.14, 0.9.15 Continuous.  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -1631,7 +1631,7 @@ Category: Graphics
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -1649,7 +1649,7 @@ Category: Graphics
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -1666,7 +1666,7 @@ Category: Graphics
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -1683,7 +1683,7 @@ Category: Graphics
 
 
 Status: Playable on 0.9.15/0.9.16.  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -1700,7 +1700,7 @@ Category: Graphics
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -1717,7 +1717,7 @@ Category: Graphics
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -1735,7 +1735,7 @@ Category: Graphics
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -1752,7 +1752,7 @@ Category: Graphics
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -1769,7 +1769,7 @@ Category: Graphics
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 </details>
@@ -1803,7 +1803,7 @@ Category: Outfits
 
 
 Status: Playable on 0.9.15 Continuous.  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -1820,7 +1820,7 @@ Category: Outfits
 
 
 Status: Playable on 0.9.14, 0.9.15 Continuous.  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -1837,7 +1837,7 @@ Category: Outfits
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -1854,7 +1854,7 @@ Category: Outfits
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -1871,7 +1871,7 @@ Category: Outfits
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -1888,7 +1888,7 @@ Category: Outfits
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -1905,7 +1905,7 @@ Category: Outfits
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -1922,7 +1922,7 @@ Category: Outfits
 
 
 Status: Should work.  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -1939,7 +1939,7 @@ Category: Outfits
 
 
 Status: Functional  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -1956,7 +1956,7 @@ Category: Outfits
 
 
 Status: Should work  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -1974,7 +1974,7 @@ Category: Outfits
 
 
 Status: 0.9.17/Continuous  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -1993,7 +1993,7 @@ Category: Outfits
 
 
 Status: Playable on 0.9.14, 0.9.15 Continuous.  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -2012,7 +2012,7 @@ Category: Outfits
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -2029,7 +2029,7 @@ Category: Outfits
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -2046,7 +2046,7 @@ Category: Outfits
 
 
 Status: Playable on 0.9.15/0.9.16/Continuous.  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -2063,7 +2063,7 @@ Category: Outfits
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -2080,7 +2080,7 @@ Category: Outfits
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -2105,7 +2105,7 @@ Category: Outfits
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -2122,7 +2122,7 @@ Category: Outfits
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -2139,7 +2139,7 @@ Category: Outfits
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -2156,7 +2156,7 @@ Category: Outfits
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -2173,7 +2173,7 @@ Category: Outfits
 
 
 Status: works on 0.10.0  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -2190,7 +2190,7 @@ Category: Outfits
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -2207,7 +2207,7 @@ Category: Outfits
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -2224,7 +2224,7 @@ Category: Outfits
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -2241,7 +2241,7 @@ Category: Outfits
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -2258,7 +2258,7 @@ Category: Outfits
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -2275,7 +2275,7 @@ Category: Outfits
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -2292,7 +2292,7 @@ Category: Outfits
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -2312,7 +2312,7 @@ Category: Outfits
 
 
 Status: tested with 0.10.2  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -2329,7 +2329,7 @@ Category: Outfits
 
 
 Status: Playable on 0.9.14, 0.9.15 Continuous.  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -2346,7 +2346,7 @@ Category: Outfits
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -2363,7 +2363,7 @@ Category: Outfits
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -2380,7 +2380,7 @@ Category: Outfits
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -2397,7 +2397,7 @@ Category: Outfits
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -2414,7 +2414,7 @@ Category: Outfits
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -2431,7 +2431,7 @@ Category: Outfits
 
 
 Status: outfit is nowhere for sale  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 </details>
@@ -2467,7 +2467,7 @@ Category: Overhauls
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -2488,7 +2488,7 @@ Category: Overhauls
 
 
 Status: in development and playable 0.9.15 continous  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -2505,7 +2505,7 @@ Category: Overhauls
 
 
 Status: unfinished but playable  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -2523,7 +2523,7 @@ Category: Overhauls
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -2542,7 +2542,7 @@ Category: Overhauls
 
 
 Status: Playable on 0.9.15 Continuous.  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -2561,7 +2561,7 @@ Category: Overhauls
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -2578,7 +2578,7 @@ Category: Overhauls
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -2595,7 +2595,7 @@ Category: Overhauls
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -2613,7 +2613,7 @@ Category: Overhauls
 
 
 Status: Continuous/0.9.15+  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -2630,7 +2630,7 @@ Category: Overhauls
 
 
 Status: Playable on 0.10.0 continuous  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -2647,7 +2647,7 @@ Category: Overhauls
 
 
 Status: Total conversion mod, will likely function but is outdated, expect issues.  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -2664,7 +2664,7 @@ Category: Overhauls
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -2681,7 +2681,7 @@ Category: Overhauls
 
 
 Status: Abandoned, Should be playable on 0.9.14, 0.9.15 Continuous.  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -2698,7 +2698,7 @@ Category: Overhauls
 
 
 Status: Playable on 0.9.15/0.9.16/Continuous.  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -2715,7 +2715,7 @@ Category: Overhauls
 
 
 Status: revival project with fixes  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -2733,7 +2733,7 @@ Category: Overhauls
 
 
 Status: Playable on 0.9.14, 0.9.15 Continuous.  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -2750,7 +2750,7 @@ Category: Overhauls
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -2768,7 +2768,7 @@ Category: Overhauls
 
 
 Status: Abandoned, Should be playable on 0.9.14, 0.9.15 Continuous.  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -2785,7 +2785,7 @@ Category: Overhauls
 
 
 Status: No longer developed. Playable on 0.9.14, 0.9.15 Continuous.  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -2802,7 +2802,7 @@ Category: Overhauls
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -2820,7 +2820,7 @@ Category: Overhauls
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -2838,7 +2838,7 @@ Category: Overhauls
 
 
 Status: WIP, Map Only  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -2857,7 +2857,7 @@ Category: Overhauls
 
 
 Status: works on 0.10.0  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -2874,7 +2874,7 @@ Category: Overhauls
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -2895,7 +2895,7 @@ Category: Overhauls
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -2913,7 +2913,7 @@ Category: Overhauls
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -2930,7 +2930,7 @@ Category: Overhauls
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -2947,7 +2947,7 @@ Category: Overhauls
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -2966,7 +2966,7 @@ Category: Overhauls
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -2983,7 +2983,7 @@ Category: Overhauls
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -3000,7 +3000,7 @@ Category: Overhauls
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -3018,7 +3018,7 @@ Category: Overhauls
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -3035,7 +3035,7 @@ Category: Overhauls
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -3052,7 +3052,7 @@ Category: Overhauls
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -3071,7 +3071,7 @@ Category: Overhauls
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -3088,7 +3088,7 @@ Category: Overhauls
 
 
 Status: Playable on 0.9.14, 0.9.15 Continuous.  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -3105,7 +3105,7 @@ Category: Overhauls
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -3122,7 +3122,7 @@ Category: Overhauls
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -3141,7 +3141,7 @@ Category: Overhauls
 
 
 Status: tested with 0.10.2  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -3158,7 +3158,7 @@ Category: Overhauls
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -3179,7 +3179,7 @@ Category: Overhauls
 
 
 Status: tested with 0.10.2  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 </details>
@@ -3213,7 +3213,7 @@ Category: Overwrites
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 </details>
@@ -3247,7 +3247,7 @@ Category: Patches
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -3265,7 +3265,7 @@ Category: Patches
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -3282,7 +3282,7 @@ Category: Patches
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 </details>
@@ -3317,7 +3317,7 @@ Category: Races
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -3334,7 +3334,7 @@ Category: Races
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -3351,7 +3351,7 @@ Category: Races
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -3368,7 +3368,7 @@ Category: Races
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -3385,7 +3385,7 @@ Category: Races
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -3403,7 +3403,7 @@ Category: Races
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -3420,7 +3420,7 @@ Category: Races
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -3438,7 +3438,7 @@ Category: Races
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -3455,7 +3455,7 @@ Category: Races
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -3472,7 +3472,7 @@ Category: Races
 
 
 Status: abandoned  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -3489,7 +3489,7 @@ Category: Races
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -3506,7 +3506,7 @@ Category: Races
 
 
 Status: REQUIRES PR #7348. Either wait for it to be merged or use ESLauncher2 to download the PR.  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -3523,7 +3523,7 @@ Category: Races
 
 
 Status: Should work in Continuous/0.9.15/0.9.16  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -3540,7 +3540,7 @@ Category: Races
 
 
 Status: Playable on 0.9.15, 0.9.16, Continuous  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -3557,7 +3557,7 @@ Category: Races
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -3574,7 +3574,7 @@ Category: Races
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -3591,7 +3591,7 @@ Category: Races
 
 
 Status: playable on 0.9.15 Continuous.  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -3608,7 +3608,7 @@ Category: Races
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -3625,7 +3625,7 @@ Category: Races
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -3644,7 +3644,7 @@ Category: Races
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -3661,7 +3661,7 @@ Category: Races
 
 
 Status: Playable on 0.9.14, 0.9.15 Continuous.  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -3678,7 +3678,7 @@ Category: Races
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -3695,7 +3695,7 @@ Category: Races
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -3712,7 +3712,7 @@ Category: Races
 
 
 Status: Abandoned  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -3729,7 +3729,7 @@ Category: Races
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -3752,7 +3752,7 @@ Category: Races
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -3769,7 +3769,7 @@ Category: Races
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -3786,7 +3786,7 @@ Category: Races
 
 
 Status: In development, Playable on 0.9.15 Continuous.  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -3803,7 +3803,7 @@ Category: Races
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -3821,7 +3821,7 @@ Category: Races
 
 
 Status: Playable on 0.9.15 Continuous.  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -3838,7 +3838,7 @@ Category: Races
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -3855,7 +3855,7 @@ Category: Races
 
 
 Status: Playable on 0.9.15 Continuous.  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -3872,7 +3872,7 @@ Category: Races
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -3889,7 +3889,7 @@ Category: Races
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -3906,7 +3906,7 @@ Category: Races
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -3923,7 +3923,7 @@ Category: Races
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -3940,7 +3940,7 @@ Category: Races
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -3957,7 +3957,7 @@ Category: Races
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -3974,7 +3974,7 @@ Category: Races
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -3991,7 +3991,7 @@ Category: Races
 
 
 Status: Should be playable on 0.9.14, 0.9.15 Continuous.  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -4008,7 +4008,7 @@ Category: Races
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -4026,7 +4026,7 @@ Category: Races
 
 
 Status: Playable on 0.9.15/0.9.16.  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -4043,7 +4043,7 @@ Category: Races
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -4060,7 +4060,7 @@ Category: Races
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -4080,7 +4080,7 @@ Category: Races
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -4097,7 +4097,7 @@ Category: Races
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -4116,7 +4116,7 @@ Category: Races
 
 
 Status: Playable on 0.9.14, 0.9.15 Continuous.  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -4135,7 +4135,7 @@ Category: Races
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -4154,7 +4154,7 @@ Category: Races
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -4171,7 +4171,7 @@ Category: Races
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -4190,7 +4190,7 @@ Category: Races
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -4207,7 +4207,7 @@ Category: Races
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -4224,7 +4224,7 @@ Category: Races
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -4241,7 +4241,7 @@ Category: Races
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -4258,7 +4258,7 @@ Category: Races
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -4275,7 +4275,7 @@ Category: Races
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -4292,7 +4292,7 @@ Category: Races
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -4311,7 +4311,7 @@ Category: Races
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -4328,7 +4328,7 @@ Category: Races
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -4345,7 +4345,7 @@ Category: Races
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -4362,7 +4362,7 @@ Category: Races
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -4381,7 +4381,7 @@ Category: Races
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -4398,7 +4398,7 @@ Category: Races
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -4415,7 +4415,7 @@ Category: Races
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 </details>
@@ -4449,7 +4449,7 @@ Category: Ships
 
 
 Status: should work  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -4466,7 +4466,7 @@ Category: Ships
 
 
 Status: Playable on 0.10.0/Continuous  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -4483,7 +4483,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -4500,7 +4500,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -4517,7 +4517,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -4534,7 +4534,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -4551,7 +4551,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -4569,7 +4569,7 @@ Category: Ships
 
 
 Status: Playable on 0.9.14, 0.9.15 Continuous.  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -4586,7 +4586,7 @@ Category: Ships
 
 
 Status: Ships and outfit are nowhere for sale.  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -4603,7 +4603,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -4620,7 +4620,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -4638,7 +4638,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -4655,7 +4655,7 @@ Category: Ships
 
 
 Status: Should work  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -4672,7 +4672,7 @@ Category: Ships
 
 
 Status: Playable on 0.9.15 Continuous.  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -4689,7 +4689,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -4706,7 +4706,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -4723,7 +4723,7 @@ Category: Ships
 
 
 Status: Should work  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -4740,7 +4740,7 @@ Category: Ships
 
 
 Status: Playable on 0.9.14, 0.9.15 Continuous.  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -4758,7 +4758,7 @@ Category: Ships
 
 
 Status: Functional  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -4775,7 +4775,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -4792,7 +4792,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -4809,7 +4809,7 @@ Category: Ships
 
 
 Status: Should work.  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -4826,7 +4826,7 @@ Category: Ships
 
 
 Status: Should work  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -4843,7 +4843,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -4860,7 +4860,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -4877,7 +4877,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -4897,7 +4897,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -4914,7 +4914,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -4931,7 +4931,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -4948,7 +4948,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -4965,7 +4965,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -4982,7 +4982,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -4999,7 +4999,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -5017,7 +5017,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -5034,7 +5034,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -5051,7 +5051,7 @@ Category: Ships
 
 
 Status: Playable on 0.9.14, 0.9.15 Continuous.  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -5068,7 +5068,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -5085,7 +5085,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -5102,7 +5102,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -5119,7 +5119,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -5136,7 +5136,7 @@ Category: Ships
 
 
 Status: Should be playable on 0.9.15/0.9.16  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -5154,7 +5154,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -5171,7 +5171,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -5188,7 +5188,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -5205,7 +5205,7 @@ Category: Ships
 
 
 Status: Playable on 0.10.0 continuous  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -5222,7 +5222,7 @@ Category: Ships
 
 
 Status: Playable on 0.9.15 Continuous.  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -5239,7 +5239,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -5256,7 +5256,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -5273,7 +5273,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -5290,7 +5290,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -5307,7 +5307,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -5325,7 +5325,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -5342,7 +5342,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -5359,7 +5359,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -5376,7 +5376,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -5393,7 +5393,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -5410,7 +5410,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -5427,7 +5427,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -5445,7 +5445,7 @@ Category: Ships
 
 
 Status: Requires Continuous/0.10.1+  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -5462,7 +5462,7 @@ Category: Ships
 
 
 Status: Playable on 0.9.14, 0.9.15 Continuous.  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -5483,7 +5483,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -5500,7 +5500,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -5517,7 +5517,7 @@ Category: Ships
 
 
 Status: Playable since the version that adds minable asteroid (0.9.3).  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -5534,7 +5534,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -5552,7 +5552,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -5569,7 +5569,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -5586,7 +5586,7 @@ Category: Ships
 
 
 Status: Playable on 0.9.14, 0.9.15 Continuous.  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -5603,7 +5603,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -5621,7 +5621,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -5638,7 +5638,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -5655,7 +5655,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -5672,7 +5672,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -5689,7 +5689,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -5706,7 +5706,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -5723,7 +5723,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -5740,7 +5740,7 @@ Category: Ships
 
 
 Status: Playable on 0.9.15 Continuous.  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -5757,7 +5757,7 @@ Category: Ships
 
 
 Status: Playable on 0.9.15 Continuous.  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -5774,7 +5774,7 @@ Category: Ships
 
 
 Status: Playable on 0.9.15 Continuous.  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -5791,7 +5791,7 @@ Category: Ships
 
 
 Status: Playable on 0.9.15 Continuous.  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -5808,7 +5808,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -5825,7 +5825,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -5842,7 +5842,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -5859,7 +5859,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -5876,7 +5876,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -5893,7 +5893,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -5910,7 +5910,7 @@ Category: Ships
 
 
 Status: Playable on 0.9.15 Continuous.  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -5927,7 +5927,7 @@ Category: Ships
 
 
 Status: Playable on 0.9.15 Continuous.  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -5944,7 +5944,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -5962,7 +5962,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -5979,7 +5979,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -5996,7 +5996,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -6013,7 +6013,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -6030,7 +6030,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -6047,7 +6047,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -6064,7 +6064,7 @@ Category: Ships
 
 
 Status: Playable on 0.9.16  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -6081,7 +6081,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -6098,7 +6098,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -6115,7 +6115,7 @@ Category: Ships
 
 
 Status: Playable on 0.9.15 Continuous.  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -6132,7 +6132,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -6148,7 +6148,7 @@ Category: Ships
 
 
 Status: Playable on 0.9.14, 0.9.15 Continuous.  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -6165,7 +6165,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -6182,7 +6182,7 @@ Category: Ships
 
 
 Status: Playable on 0.9.16  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -6201,7 +6201,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -6218,7 +6218,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -6235,7 +6235,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -6252,7 +6252,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -6269,7 +6269,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -6287,7 +6287,7 @@ Category: Ships
 
 
 Status: Playable on 0.9.15 Continuous.  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -6304,7 +6304,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -6320,7 +6320,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -6337,7 +6337,7 @@ Category: Ships
 
 
 Status: Playable on 0.9.14, 0.9.15 Continuous.  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -6354,7 +6354,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -6371,7 +6371,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -6388,7 +6388,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -6405,7 +6405,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -6422,7 +6422,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -6439,7 +6439,7 @@ Category: Ships
 
 
 Status: playable on 0.9.15 Continuous.  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -6456,7 +6456,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -6473,7 +6473,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -6490,7 +6490,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -6508,7 +6508,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -6525,7 +6525,7 @@ Category: Ships
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 </details>
@@ -6559,7 +6559,7 @@ Category: Story
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -6576,7 +6576,7 @@ Category: Story
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -6593,7 +6593,7 @@ Category: Story
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -6610,7 +6610,7 @@ Category: Story
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -6629,7 +6629,7 @@ Category: Story
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -6646,7 +6646,7 @@ Category: Story
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -6663,7 +6663,7 @@ Category: Story
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -6682,7 +6682,7 @@ Category: Story
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -6701,7 +6701,7 @@ Category: Story
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -6718,7 +6718,7 @@ Category: Story
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -6735,7 +6735,7 @@ Category: Story
 
 
 Status: Allready ingame  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -6752,7 +6752,7 @@ Category: Story
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -6769,7 +6769,7 @@ Category: Story
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -6787,7 +6787,7 @@ Category: Story
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -6804,7 +6804,7 @@ Category: Story
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -6821,7 +6821,7 @@ Category: Story
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -6838,7 +6838,7 @@ Category: Story
 
 
 Status: Playable on 0.9.14, 0.9.15 Continuous.  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -6855,7 +6855,7 @@ Category: Story
 
 
 Status:  designed for 0.9.14  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -6872,7 +6872,7 @@ Category: Story
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -6889,7 +6889,7 @@ Category: Story
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -6906,7 +6906,7 @@ Category: Story
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -6923,7 +6923,7 @@ Category: Story
 
 
 Status: Abandoned. An updated version appears to have been made by 1010Todd. AES Fallen  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -6941,7 +6941,7 @@ Category: Story
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -6958,7 +6958,7 @@ Category: Story
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -6975,7 +6975,7 @@ Category: Story
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -6992,7 +6992,7 @@ Category: Story
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -7009,7 +7009,7 @@ Category: Story
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -7027,7 +7027,7 @@ Category: Story
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -7044,7 +7044,7 @@ Category: Story
 
 
 Status: Playable on 0.9.14, 0.9.15 Continuous.  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -7062,7 +7062,7 @@ Category: Story
 
 
 Status: In development, Playable on 0.9.14, 0.9.15 Continuous.  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -7079,7 +7079,7 @@ Category: Story
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -7097,7 +7097,7 @@ Category: Story
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -7117,7 +7117,7 @@ Category: Story
 
 
 Status: In development, Playable on 0.9.14, 0.9.15 Continuous.  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -7134,7 +7134,7 @@ Category: Story
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -7151,7 +7151,7 @@ Category: Story
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -7168,7 +7168,7 @@ Category: Story
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -7185,7 +7185,7 @@ Category: Story
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -7204,7 +7204,7 @@ Category: Story
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -7223,7 +7223,7 @@ Category: Story
 
 
 Status: Playable on 0.9.14, 0.9.15.  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -7240,7 +7240,7 @@ Category: Story
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -7257,7 +7257,7 @@ Category: Story
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -7274,7 +7274,7 @@ Category: Story
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -7291,7 +7291,7 @@ Category: Story
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -7308,7 +7308,7 @@ Category: Story
 
 
 Status: made for 0.9.13  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -7325,7 +7325,7 @@ Category: Story
 
 
 Status: Playable on 0.9.14, 0.9.15 Continuous.  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -7342,7 +7342,7 @@ Category: Story
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -7359,7 +7359,7 @@ Category: Story
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -7377,7 +7377,7 @@ Category: Story
 
 
 Status: Playable on 0.9.14, 0.9.15 Continuous.  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -7399,7 +7399,7 @@ Category: Story
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -7419,7 +7419,7 @@ Category: Story
 
 
 Status: Tested on: ES 0.9.16.1 (macOS)  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -7436,7 +7436,7 @@ Category: Story
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -7453,7 +7453,7 @@ Category: Story
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -7476,7 +7476,7 @@ Category: Story
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -7493,7 +7493,7 @@ Category: Story
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -7511,7 +7511,7 @@ Category: Story
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -7528,7 +7528,7 @@ Category: Story
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -7545,7 +7545,7 @@ Category: Story
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -7564,7 +7564,7 @@ Category: Story
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -7581,7 +7581,7 @@ Category: Story
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -7598,7 +7598,7 @@ Category: Story
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -7615,7 +7615,7 @@ Category: Story
 
 
 Status: Playable on 0.9.14, 0.9.15 Continuous.  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -7632,7 +7632,7 @@ Category: Story
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -7648,7 +7648,7 @@ Category: Story
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -7672,7 +7672,7 @@ Category: Story
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -7696,7 +7696,7 @@ Category: Story
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 </details>
@@ -7730,7 +7730,7 @@ Category: Weapons
 
 
 Status: complete and playable on 0.9.15 continous  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -7747,7 +7747,7 @@ Category: Weapons
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -7764,7 +7764,7 @@ Category: Weapons
 
 
 Status: Ship and outfits are nowhere for sale.  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -7781,7 +7781,7 @@ Category: Weapons
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -7798,7 +7798,7 @@ Category: Weapons
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -7817,7 +7817,7 @@ Category: Weapons
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -7834,7 +7834,7 @@ Category: Weapons
 
 
 Status: Should work  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -7851,7 +7851,7 @@ Category: Weapons
 
 
 Status: Ship and outfits are nowhere for sale.  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -7868,7 +7868,7 @@ Category: Weapons
 
 
 Status: Outfits are nowhere for sale.  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -7885,7 +7885,7 @@ Category: Weapons
 
 
 Status: Should work  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -7901,7 +7901,7 @@ Category: Weapons
 
 
 Status: Requires AES Omnis to access.  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -7918,7 +7918,7 @@ Category: Weapons
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -7935,7 +7935,7 @@ Category: Weapons
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -7952,7 +7952,7 @@ Category: Weapons
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -7969,7 +7969,7 @@ Category: Weapons
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -7986,7 +7986,7 @@ Category: Weapons
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -8003,7 +8003,7 @@ Category: Weapons
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -8021,7 +8021,7 @@ Category: Weapons
 
 
 Status: Playable on 0.9.15, 0.9.16, Continuous.  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -8038,7 +8038,7 @@ Category: Weapons
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -8055,7 +8055,7 @@ Category: Weapons
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -8072,7 +8072,7 @@ Category: Weapons
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -8089,7 +8089,7 @@ Category: Weapons
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -8106,7 +8106,7 @@ Category: Weapons
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -8125,7 +8125,7 @@ Category: Weapons
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -8142,7 +8142,7 @@ Category: Weapons
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -8159,7 +8159,7 @@ Category: Weapons
 
 
 Status: Playable on 0.9.15 Continuous.  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -8176,7 +8176,7 @@ Category: Weapons
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -8193,7 +8193,7 @@ Category: Weapons
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -8210,7 +8210,7 @@ Category: Weapons
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -8227,7 +8227,7 @@ Category: Weapons
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -8244,7 +8244,7 @@ Category: Weapons
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -8263,7 +8263,7 @@ Category: Weapons
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -8281,7 +8281,7 @@ Category: Weapons
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -8298,7 +8298,7 @@ Category: Weapons
 
 
 Status: Should work on 0.9.15, 0.9.16, Continuous.  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -8315,7 +8315,7 @@ Category: Weapons
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -8334,7 +8334,7 @@ Category: Weapons
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -8351,7 +8351,7 @@ Category: Weapons
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -8368,7 +8368,7 @@ Category: Weapons
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -8385,7 +8385,7 @@ Category: Weapons
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 </details>
@@ -8419,7 +8419,7 @@ Category: N/A
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -8436,7 +8436,7 @@ Category: N/A
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -8453,7 +8453,7 @@ Category: N/A
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -8470,7 +8470,7 @@ Category: N/A
 
 
 Status: Playable on 0.9.14, 0.9.15 Continuous.  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -8487,7 +8487,7 @@ Category: N/A
 
 
 Status: Should work  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -8504,7 +8504,7 @@ Category: N/A
 
 
 Status: Should work  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -8521,7 +8521,7 @@ Category: N/A
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -8538,7 +8538,7 @@ Category: N/A
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -8556,7 +8556,7 @@ Category: N/A
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -8573,7 +8573,7 @@ Category: N/A
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -8590,7 +8590,7 @@ Category: N/A
 
 
 Status: Compatible with ES 0.9.14  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -8610,7 +8610,7 @@ Category: N/A
 
 
 Status: Playable on 0.10.0 continuous  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -8627,7 +8627,7 @@ Category: N/A
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -8644,7 +8644,7 @@ Category: N/A
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -8662,7 +8662,7 @@ Category: N/A
 
 
 Status: N/A  
-Daily update check: <span style='color:green'> ● </span>
+Daily update check: <img src='res/img/check.png' width='50' ></img>
 
 
 ---
@@ -8679,7 +8679,7 @@ Category: N/A
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -8697,7 +8697,7 @@ Category: N/A
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 ---
@@ -8715,7 +8715,7 @@ Category: N/A
 
 
 Status: N/A  
-Daily update check: <span style='color:red'> ● </span>
+Daily update check: <img src='res/img/cross.png' width='50' ></img>
 
 
 </details>
