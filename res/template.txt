@@ -237,3 +237,4 @@ Category: %category%
 %description%
 
 Status: %status%  
+Daily update check: %updatecheck%

@@ -86,6 +86,8 @@ def replacevarp(string):
 	string = string.replace("%webroot%", webroot)
 	string = string.replace("%indexfile%", indexfile)
 	string = string.replace("%news%", news)
+	string = string.replace("%updatecheck%", updatecheck)
+	
 	
 	if website == "N/A": # for prevent [N/A](N/A) links
 		websitecheck = "N/A"
@@ -165,14 +167,13 @@ tempcatdown = temptempcat[pos +12:] # lower half of template string
 
 with open("res/news.txt", "r") as file1: # reading and formating lines
 	newslist = file1.readlines()
-for i in range(10):
+for i in range(10): # define amount of news to 10
 	if i <= len(newslist)-1:
 		news = news + newslist[i] + "<br>"
 
 # writing the md file
-filerr = open("res/errorlog.txt", "w")
-filerr.writelines("header request error log:\n")
-filerr.close
+with open("res/errorlog.txt", "w") as filerr: # resetting errorlog.txt
+	filerr.writelines("header request error log:\n")
 with open(indexfile, "w") as file1:
 	temphead = replacevar(temphead)
 	temphead = replacevarp(temphead)
@@ -262,6 +263,11 @@ with open(indexfile, "w") as file1:
 						assetsize = assetsize / 1024
 						form = " mb"
 					size = str(round(assetsize, 2)) + form
+					if directlink != "N/A": # check if plugin has direct updating
+						updatecheck = "jup"
+					else:
+						updatecheck = "noe"
+					#updatecheck
 				assetfile =  withdots + ".zip"
 				file1.writelines(replacevarp(tempplug))
 		file1.writelines(tempcatdownt) # write lower category template
