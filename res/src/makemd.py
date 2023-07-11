@@ -251,8 +251,8 @@ with open(indexfile, "w") as file1:
 					filerr.writelines(str(err) + " \n")
 					filerr.close
 				else:
-					response = requests.head(assetfullpath + withdots + ".zip", allow_redirects=True)
-					response.raise_for_status()
+					#response = requests.head(assetfullpath + withdots + ".zip", allow_redirects=True)
+					#response.raise_for_status()
 					modif = response.headers['Last-Modified']
 					datetime_object = datetime.strptime(modif, '%a, %d %b %Y %H:%M:%S %Z')
 					lastmodified = str(datetime_object.date())
@@ -263,11 +263,10 @@ with open(indexfile, "w") as file1:
 						assetsize = assetsize / 1024
 						form = " mb"
 					size = str(round(assetsize, 2)) + form
-					if directlink != "N/A": # check if plugin has direct updating
-						updatecheck = "jup"
+					if directlink != "N/A": # check if plugin has direct updating and color a dot
+						updatecheck = "<span style='color:green'> ● </span>"
 					else:
-						updatecheck = "noe"
-					#updatecheck
+						updatecheck = "<span style='color:red'> ● </span>"
 				assetfile =  withdots + ".zip"
-				file1.writelines(replacevarp(tempplug))
+				file1.writelines(replacevarp(tempplug)) # write plugin template entry, exchanging %variables%
 		file1.writelines(tempcatdownt) # write lower category template

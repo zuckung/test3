@@ -240,7 +240,7 @@ Category: Cheats
 
 
 Status: N/A  
-Daily update check: jup
+Daily update check: <span style="color:green"> ● </span>
 
 
 ---
@@ -8722,5 +8722,3 @@ Daily update check: noe
 
 
 [back to top](https://github.com/zuckung/test3/blob/main/README.md#plugin-download)
-
-
