@@ -1,0 +1,25 @@
+name: Manual delete subfolders in plugins
+on: 
+  workflow_dispatch:
+jobs:
+  First:
+    name: First job
+    runs-on: ubuntu-latest
+    permissions: write-all
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 2
+      - name: delete subfolders
+        run: python res/src/deletesubfolders.py
+      - name: Commit file
+        run: |
+          git config user.name "script" 
+          git config user.email "<>"
+          git add Working/
+          git commit -m "deleted subfolders" || true
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          force: true
