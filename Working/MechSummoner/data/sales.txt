@@ -1,0 +1,19 @@
+outfitter "Mechsummon Basics"
+	"F-032 Shield Projector"
+	"F-084 Shield Projector"
+	"F-146 Shield Projector"
+	"Limescale Drone Pack"
+	"Limescale Remote Repair System"
+	"Outcrop Comm Station"
+
+outfitter "Mechsummon Small Gunships"
+	"Cliff Comm Station"
+
+outfitter "Mechsummon Large Gunships"
+	"Fissure Comm Station"
+
+outfitter "Mechsummon Small Carriers"
+	"Cape Comm Station"
+
+outfitter "Mechsummon Large Carriers"
+	"Cove Comm Station"
