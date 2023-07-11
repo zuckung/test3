@@ -240,7 +240,7 @@ Category: Cheats
 
 
 Status: N/A  
-Daily update check: <img src='res/img/check.png' width='50' ></img>
+Daily update check: <img src='res/img/check.png' width='15' ></img>
 
 
 ---
