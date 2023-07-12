@@ -20,7 +20,7 @@
 </td></tr></table>
 Provide a directlink to your zipped plugin and we do a daily check if it is newer than the one we host here.<br>
 
-[howto](https://github.com/zuckung/test3/blob/main/README.md#automatic-updating)
+[howto](https://github.com/zuckung/test3/blob/main/README.md#automatic-updating) [view all news](https://github.com/zuckung/test3/blob/main/res/news.txt)
 
 ---
 
