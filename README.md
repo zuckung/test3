@@ -167,6 +167,9 @@ Ship "Mammoth" conflicts with a ship of the same name in vanilla version 0.9.15 
 
 </details>
 
+
+[back to top](https://github.com/zuckung/test3/blob/main/README.md#known-plugin-issues)
+
 ---
 
 # Contribution
@@ -190,9 +193,9 @@ If you provide the `directlink=` in the plugin-file at `res/pluginlist/`, then t
 
 The files in `res/pluginlist/` which are used to generate this README.md, have a line `directlink=`, where you can put a URL to your zipped plugin. The line should look like: `directlink=https://github.com/userxyz/esplugins/releases/download/Latest/myplugin.zip` or any other directly accessible webspace.
 
-This repository does an automated check for your directlink once a day(03:30 am utc) and if your plugin there is newer than the one hosted here, it updates it and puts it in the news box. For security reasons the zip file size is currently limited to 100 mb. Please read naming convention paragraph to prevent errors.
+This repository does an automated check for your directlink once a day(03:30 am utc) and if your plugin there is newer than the one hosted here, it updates it and puts it in the news box. Please read naming convention paragraph to prevent errors.
 
-If you have a single plugin GitHub repo (with the data folder in root), you can use the auto-generated zip file (green button) as a direct update link.
+If you have a single plugin GitHub repo (with the data folder in root), you can use the auto-generated zip file (green button) as a direct update link. You can fork the official plugin template repository at [https://github.com/endless-sky/plugin-template](https://github.com/endless-sky/plugin-template).
 
 We hope to create a centralized overview for active plugin developing with this feature.
 
@@ -850,7 +853,7 @@ Daily update check: <img src='res/img/check.png' width='15' ></img>
 </details>
 
 
-[back to top](https://github.com/zuckung/test3/blob/main/README.md#plugin-download)
+[back to top](https://github.com/zuckung/test3/blob/main/README.md#Cheats)
 
 
 
@@ -1461,7 +1464,7 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img>
 </details>
 
 
-[back to top](https://github.com/zuckung/test3/blob/main/README.md#plugin-download)
+[back to top](https://github.com/zuckung/test3/blob/main/README.md#Gameplay)
 
 
 
@@ -1775,7 +1778,7 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img>
 </details>
 
 
-[back to top](https://github.com/zuckung/test3/blob/main/README.md#plugin-download)
+[back to top](https://github.com/zuckung/test3/blob/main/README.md#Graphics)
 
 
 
@@ -2437,7 +2440,7 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img>
 </details>
 
 
-[back to top](https://github.com/zuckung/test3/blob/main/README.md#plugin-download)
+[back to top](https://github.com/zuckung/test3/blob/main/README.md#Outfits)
 
 
 
@@ -3185,7 +3188,7 @@ Daily update check: <img src='res/img/check.png' width='15' ></img>
 </details>
 
 
-[back to top](https://github.com/zuckung/test3/blob/main/README.md#plugin-download)
+[back to top](https://github.com/zuckung/test3/blob/main/README.md#Overhauls)
 
 
 
@@ -3219,7 +3222,7 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img>
 </details>
 
 
-[back to top](https://github.com/zuckung/test3/blob/main/README.md#plugin-download)
+[back to top](https://github.com/zuckung/test3/blob/main/README.md#Overwrites)
 
 
 
@@ -3288,7 +3291,7 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img>
 </details>
 
 
-[back to top](https://github.com/zuckung/test3/blob/main/README.md#plugin-download)
+[back to top](https://github.com/zuckung/test3/blob/main/README.md#Patches)
 
 
 
@@ -4421,7 +4424,7 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img>
 </details>
 
 
-[back to top](https://github.com/zuckung/test3/blob/main/README.md#plugin-download)
+[back to top](https://github.com/zuckung/test3/blob/main/README.md#Races)
 
 
 
@@ -6531,7 +6534,7 @@ Daily update check: <img src='res/img/check.png' width='15' ></img>
 </details>
 
 
-[back to top](https://github.com/zuckung/test3/blob/main/README.md#plugin-download)
+[back to top](https://github.com/zuckung/test3/blob/main/README.md#Ships)
 
 
 
@@ -7702,7 +7705,7 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img>
 </details>
 
 
-[back to top](https://github.com/zuckung/test3/blob/main/README.md#plugin-download)
+[back to top](https://github.com/zuckung/test3/blob/main/README.md#Story)
 
 
 
@@ -8391,7 +8394,7 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img>
 </details>
 
 
-[back to top](https://github.com/zuckung/test3/blob/main/README.md#plugin-download)
+[back to top](https://github.com/zuckung/test3/blob/main/README.md#Weapons)
 
 
 
@@ -8721,6 +8724,6 @@ Daily update check: <img src='res/img/cross.png' width='15' ></img>
 </details>
 
 
-[back to top](https://github.com/zuckung/test3/blob/main/README.md#plugin-download)
+[back to top](https://github.com/zuckung/test3/blob/main/README.md#Uncategorized)
 
 
