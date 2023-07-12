@@ -9,10 +9,6 @@ allplugins = cheats = gameplay = graphics = outfits = overhauls = overwrites = p
 categories = ["Cheats", "Gameplay", "Graphics", "Outfits", "Overhauls", "Overwrites", "Patches", "Races", "Ships", "Story", "Weapons", "Uncategorized"]
 plist = []
 
-# check for local testing
-if os.getcwd() == "/storage/emulated/0/Download/mgit/test3/res/src":
-	os.chdir("../../")
-
 # read paths and files
 with open("res/config.txt") as f:
 	for line in f:
@@ -74,7 +70,7 @@ def replacevar(string): # replaces %variables% in header template with real valu
 	string = string.replace("%uncategorized%", str(uncategorized))
 	return string
 
-def replacevarp(string):
+def replacevarp(string): # replaces %variables% in plugin and category template with real values
 	string = string.replace("%assetfullpath%", assetfullpath)
 	string = string.replace("%assetfile%", assetfile)
 	string = string.replace("%pluginname%", pluginname)
@@ -86,9 +82,7 @@ def replacevarp(string):
 	string = string.replace("%webroot%", webroot)
 	string = string.replace("%indexfile%", indexfile)
 	string = string.replace("%news%", news)
-	string = string.replace("%updatecheck%", updatecheck)
-	
-	
+	string = string.replace("%updatecheck%", updatecheck)	
 	if website == "N/A": # for prevent [N/A](N/A) links
 		websitecheck = "N/A"
 		websitelink = ""
@@ -104,7 +98,7 @@ def replacevarp(string):
 	string = string.replace("%description%", description)
 	return string
 				
-# counting categories of files in  pluginlistfolder
+# counting categories of files in  pluginlistfolder and create a list object with
 entries = os.listdir(pathtoplugins)
 entries.sort(key=str.lower)
 for entry in entries:
@@ -116,7 +110,7 @@ for entry in entries:
 			cat = file1.readline()
 			cat = file1.readline()
 			cat = file1.readline().split("=")[1].replace("\n", "")
-			if cat == "cheats":
+			if cat == "cheats": # count plugins in category
 				cheats += 1
 			elif cat == "gameplay":
 				gameplay += 1
@@ -212,7 +206,6 @@ with open(indexfile, "w") as file1:
 				for lines in description:
 					alllines = alllines + ">" + lines + "\n"
 				description = alllines
-				
 				if os.path.exists(pathtoplugins + pluginname + "/icon.png") == True: # check for icon.png, resize it, or hide it
 					im = Image.open(pathtoplugins + pluginname + "/icon.png")
 					w, h = im.size
@@ -229,7 +222,7 @@ with open(indexfile, "w") as file1:
 				else:
 					iconpng = ""
 				
-				# get last modified date from the assetfiles
+				# get last modified date and size from the assetfiles
 				withdots = pluginname.replace(" ", ".") 
 				withdots = withdots.replace("'", ".")
 				withdots = withdots.replace(",", ".") 
@@ -241,32 +234,28 @@ with open(indexfile, "w") as file1:
 				if withdots[len(withdots)-1] == ".":
 					withdots = withdots[:len(withdots)-1]
 				try:
-					response = requests.head(assetfullpath + withdots + ".zip", allow_redirects=True)
+					response = requests.head(assetfullpath + withdots + ".zip", allow_redirects=True) # get header of the release asset zips
 					response.raise_for_status()
 				except requests.exceptions.HTTPError as err:
 					print(err)
 					lastmodified = "N/A"
 					size = "N/A" 
-					filerr = open("res/errorlog.txt", "a")
-					filerr.writelines(str(err) + " \n")
-					filerr.close
+					with open("res/errorlog.txt", "a") as filerr:
+						filerr.writelines(str(err) + " \n")
 				else:
-					#response = requests.head(assetfullpath + withdots + ".zip", allow_redirects=True)
-					#response.raise_for_status()
-					modif = response.headers['Last-Modified']
+					modif = response.headers['Last-Modified'] # get last modified date
 					datetime_object = datetime.strptime(modif, '%a, %d %b %Y %H:%M:%S %Z')
 					lastmodified = str(datetime_object.date())
-					# get file size of the assetfiles in kb or mb
-					assetsize = int(response.headers['Content-Length']) / 1024
+					assetsize = int(response.headers['Content-Length']) / 1024 # get file size of the assetfiles in kb or mb
 					form = " kb"
 					if assetsize > 1024:
 						assetsize = assetsize / 1024
 						form = " mb"
 					size = str(round(assetsize, 2)) + form
-					if directlink != "N/A": # check if plugin has direct updating and color a dot
-						updatecheck = "<img src='res/img/check.png' width='50' ></img>"
+					if directlink != "N/A": # check if plugin has direct updating and insert png
+						updatecheck = "<img src='res/img/check.png' width='15' ></img>"
 					else:
-						updatecheck = "<img src='res/img/cross.png' width='50' ></img>"
+						updatecheck = "<img src='res/img/cross.png' width='15' ></img>"
 				assetfile =  withdots + ".zip"
 				file1.writelines(replacevarp(tempplug)) # write plugin template entry, exchanging %variables%
 		file1.writelines(tempcatdownt) # write lower category template
