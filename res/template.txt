@@ -10,7 +10,7 @@
 </td></tr></table>
 Provide a directlink to your zipped plugin and we do a daily check if it is newer than the one we host here.<br>
 
-[howto](%webroot%%indexfile%#automatic-updating)
+[howto](%webroot%%indexfile%#automatic-updating) [view all news](%webroot%res/news.txt)
 
 ---
 
