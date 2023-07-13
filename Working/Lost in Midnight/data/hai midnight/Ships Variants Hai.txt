@@ -1,0 +1,500 @@
+# Copyright (c) 2021 by Michael Arsollon
+# derived from original game at https://github.com/endless-sky/endless-sky
+#
+# Endless Sky is free software: you can redistribute it and/or modify it under the
+# terms of the GNU General Public License as published by the Free Software
+# Foundation, either version 3 of the License, or (at your option) any later version.
+#
+# Endless Sky is distributed in the hope that it will be useful, but WITHOUT ANY
+# WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+# PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+
+
+
+ship "Centipede" "Centipede (Bloodstone)"
+	outfits
+		"Hai Tracker Pod" 2
+		"Hai Tracker" 112
+		"Bullfrog Anti-Missile" 3
+		"Geode Reactor"
+		"Hai Corundum Regenerator"
+		"Hai Ravine Batteries"
+		"Hai Williwaw Cooling" 3
+		"Hai Cuttlefish Jammer" 2
+		"Luxury Accommodations"
+		"Quantum Bloodstone"
+		"Pulse Rifle"
+		`"Biroo" Atomic Thruster`
+		`"Biroo" Atomic Steering`
+		`"Basrem" Atomic Steering`
+		Hyperdrive
+
+
+
+ship "Cicada" "Cicada (Bloodstone)"
+	outfits
+		"Hai Tracker Pod"
+		"Hai Tracker" 84
+		"Tracker Storage Pod"
+		"Bullfrog Anti-Missile" 2
+		"Chameleon Anti-Missile" 2
+		"Geode Reactor"
+		"Hai Gorge Batteries"
+		"Hai Diamond Regenerator"
+		"Hai Williwaw Cooling"
+		"Quantum Bloodstone"
+		"Pulse Rifle"
+		`"Benga" Atomic Thruster`
+		`"Benga" Atomic Steering`
+		"Hyperdrive"
+
+
+
+ship "Geocoris" "Geocoris (Bloodstone)"
+	outfits
+		"Hai Tracker Pod" 2
+		"Hai Tracker" 196
+		"Pulse Turret" 2
+		"Bullfrog Anti-Missile" 2
+		"Chameleon Anti-Missile"
+		"Boulder Reactor"
+		"Pebble Core"
+		"Hai Ravine Batteries"
+		"Hai Corundum Regenerator" 2
+		"Hai Williwaw Cooling" 7
+		"Tracker Storage Pod" 3
+		"Quantum Bloodstone"
+		"Pulse Rifle" 14
+		"Ion Flash Bang" 7
+		`"Biroo" Atomic Thruster`
+		`"Bondir" Atomic Steering`
+		Hyperdrive
+
+
+ship "Lightning Bug" "Lightning Bug (Bloodstone)"
+	outfits
+		"Ion Cannon"
+		"Bullfrog Anti-Missile" 2
+		"Geode Reactor"
+		"Hai Gorge Batteries"
+		"Hai Corundum Regenerator"
+		"Hai Williwaw Cooling"
+		"Quantum Bloodstone"
+		"Pulse Rifle" 2
+		"Ion Flash Bang"
+		`"Benga" Atomic Thruster`
+		`"Biroo" Atomic Steering`
+		"Hyperdrive"
+
+
+ship "Lightning Bug" "Lightning Bug (Jump)"
+	outfits
+		"Ion Cannon"
+		"Bullfrog Anti-Missile" 2
+		"Geode Reactor"
+		"Hai Gorge Batteries"
+		"Hai Corundum Regenerator"
+		"Hai Williwaw Cooling"
+		"Quantum Keystone"
+		"Dual Pulse Pistols"
+		"Pulse Rifle" 2
+		"Ion Flash Bang"
+		`"Benga" Atomic Thruster`
+		`"Biroo" Atomic Steering`
+		"Jump Drive"
+		"Value Detector" 2
+
+ship "Lightning Bug" "Lightning Bug (Jump, Pulse)"
+	outfits
+		"Hai Tracker Pod"
+		"Hai Tracker" 56
+		"Pulse Turret" 2
+		"Geode Reactor"
+		"Hai Gorge Batteries"
+		"Hai Corundum Regenerator"
+		"Dual Pulse Pistols"
+		"Pulse Rifle" 2
+		"Ion Flash Bang"
+		`"Biroo" Atomic Thruster`
+		`"Benga" Atomic Steering`
+		"Jump Drive"
+
+
+
+ship "Scarab" "Scarab (Bloodstone)"
+	outfits
+		"Bullfrog Anti-Missile"
+		"Chameleon Anti-Missile"
+		"Pebble Core"
+		"Hai Fissure Batteries"
+		"Hai Corundum Regenerator"
+		"Hai Williwaw Cooling"
+		"Quantum Bloodstone"
+		"Pulse Rifle"
+		"Ion Flash Bang"
+		`"Benga" Atomic Thruster`
+		`"Benga" Atomic Steering`
+		"Hyperdrive"
+	turret "Bullfrog Anti-Missile"
+	turret "Chameleon Anti-Missile"
+
+
+
+ship "Sea Scorpion" "Sea Scorpion (Ion Flash)"
+	outfits
+		`"Bondir" Atomic Steering`
+		`"Bondir" Atomic Thruster`
+		"Cargo Expansion"
+		"Chameleon Anti-Missile"
+		"Dual Pulse Pistols"
+		"Fuel Pod"
+		"Geode Reactor"
+		"Hai Diamond Regenerator"
+		"Hai Ravine Batteries"
+		"Hai Tracker" 336
+		"Hai Tracker Pod" 4
+		"Hai Williwaw Cooling"
+		Hyperdrive
+		"Ion Flash Bang" 7
+		"Pulse Rifle" 15
+		"Pulse Turret"
+		"Quantum Keystone"
+		"Tracker Storage Pod" 4
+		"Value Detector" 2
+
+ship "Sea Scorpion" "Sea Scorpion (Ion Pulse)"
+	outfits
+		"Ion Pulse Cannon" 4
+		"Bullfrog Anti-Missile" 2
+		"Boulder Reactor"
+		"Dual Pulse Pistols"
+		"Hai Williwaw Cooling" 2
+		"Hai Ravine Batteries"
+		"Hai Chasm Batteries" 2
+		"Hai Diamond Regenerator" 2
+		"Ion Flash Bang" 7
+		`"Biroo" Atomic Thruster`
+		`"Bondir" Atomic Steering`
+		"Value Detector"
+		"Hyperdrive"
+		"Pulse Rifle" 15
+
+ship "Sea Scorpion" "Sea Scorpion (Pulse, Jump)"
+	outfits
+		"Pulse Cannon" 4
+		"Pulse Turret" 2
+		"Boulder Reactor"
+		"Dual Pulse Pistols"
+		"Fuel Pod"
+		"Hai Williwaw Cooling" 2
+		"Hai Ravine Batteries"
+		"Hai Chasm Batteries" 2
+		"Hai Diamond Regenerator" 2
+		"Ion Flash Bang" 7
+		`"Biroo" Atomic Thruster`
+		`"Bondir" Atomic Steering`
+		"Value Detector"
+		"Jump Drive"
+		"Pulse Rifle" 15
+
+
+
+ship "Shield Beetle" "Shield Beetle (Bloodstone)"
+	outfits
+		"Ion Cannon" 4
+		"Hai Tracker Pod" 4
+		"Hai Tracker" 280
+		"Tracker Storage Pod" 2
+		"Chameleon Anti-Missile" 2
+		"Boulder Reactor"
+		"Geode Reactor"
+		"Hai Gorge Batteries"
+		"Hai Ravine Batteries"
+		"Hai Diamond Regenerator"
+		"Hai Williwaw Cooling" 2
+		"Quantum Bloodstone"
+		"Pulse Rifle" 55
+		"Ion Flash Bang" 27
+		`"Bondir" Atomic Thruster`
+		`"Bufaer" Atomic Steering`
+		"Hyperdrive"
+
+ship "Shield Beetle" "Shield Beetle (Ion Flash)"
+	outfits
+		"Ion Cannon" 4
+		"Hai Tracker Pod" 4
+		"Hai Tracker" 280
+		"Tracker Storage Pod" 2
+		"Chameleon Anti-Missile" 2
+		"Boulder Reactor"
+		"Geode Reactor"
+		"Hai Gorge Batteries"
+		"Hai Ravine Batteries"
+		"Hai Diamond Regenerator"
+		"Hai Williwaw Cooling" 2
+		"Quantum Keystone"
+		"Pulse Rifle" 55
+		"Ion Flash Bang" 27
+		`"Bondir" Atomic Thruster`
+		`"Bufaer" Atomic Steering`
+		"Hyperdrive"
+
+ship "Shield Beetle" "Shield Beetle (Police, Ion Flash)"
+	outfits
+		"Ion Cannon" 4
+		"Hai Tracker Pod" 4
+		"Hai Tracker" 224
+		"Chameleon Anti-Missile" 2
+		"Boulder Reactor" 2
+		"Hai Chasm Batteries" 2
+		"Hai Fissure Batteries"
+		"Hai Gorge Batteries"
+		"Outfits Expansion" 4
+		"Hai Diamond Regenerator" 2
+		"Outfit Scanner" 7
+		"Cargo Scanner" 7
+		"Brig"
+		"Hai Williwaw Cooling" 4
+		"Pulse Rifle" 55
+		"Ion Flash Bang" 27
+		`"Bondir" Atomic Thruster`
+		`"Bufaer" Atomic Steering`
+		"Hyperdrive"
+
+ship "Shield Beetle" "Shield Beetle (Jump, Ion Pulse)"
+	outfits
+		"Ion Pulse Cannon" 8
+		"Chameleon Anti-Missile" 2
+		"Boulder Reactor"
+		"Geode Reactor"
+		"Pebble Core"
+		"Hai Ravine Batteries"
+		"Hai Corundum Regenerator"
+		"Hai Diamond Regenerator" 2
+		"Hai Williwaw Cooling" 3
+		"Dual Pulse Pistols"
+		"Pulse Rifle" 55
+		"Ion Flash Bang" 27
+		"Quantum Keystone"
+		`"Bondir" Atomic Thruster`
+		`"Bufaer" Atomic Steering`
+		"Jump Drive"
+		"Value Detector" 2
+
+ship "Shield Beetle" "Shield Beetle (Ion Pulse)"
+	outfits
+		"Ion Pulse Cannon" 8
+		"Pulse Turret" 2
+		"Chameleon Anti-Missile" 2
+		"Boulder Reactor"
+		"Geode Reactor"
+		"Pebble Core"
+		"Hai Ravine Batteries"
+		"Hai Diamond Regenerator"
+		"Hai Williwaw Cooling" 3
+		"Quantum Keystone"
+		"Pulse Rifle" 55
+		"Ion Flash Bang" 27
+		"Dual Pulse Pistols"
+		`"Bondir" Atomic Thruster`
+		`"Bufaer" Atomic Steering`
+		Hyperdrive
+		"Value Detector" 2
+	turret "Pulse Turret"
+	turret "Pulse Turret"
+	turret "Chameleon Anti-Missile"
+	turret "Chameleon Anti-Missile"
+
+ship "Shield Beetle" "Shield Beetle (Jump, Pulse)"
+	outfits
+		"Ion Cannon" 2
+		"Pulse Cannon" 6
+		"Pulse Turret" 4
+		"Boulder Reactor"
+		"Geode Reactor"
+		"Hai Ravine Batteries"
+		"Hai Diamond Regenerator" 2
+		"Hai Williwaw Cooling" 3
+		"Dual Pulse Pistols"
+		"Pulse Rifle" 55
+		"Ion Flash Bang" 27
+		`"Bondir" Atomic Thruster`
+		`"Bufaer" Atomic Steering`
+		"Jump Drive"
+		"Value Detector" 2
+	gun "Ion Cannon"
+	gun "Ion Cannon"
+	gun "Pulse Cannon"
+	gun "Pulse Cannon"
+	gun "Pulse Cannon"
+	gun "Pulse Cannon"
+	gun "Pulse Cannon"
+	gun "Pulse Cannon"
+
+ship "Shield Beetle" "Shield Beetle (Weapon Collector)"
+	outfits
+		"Ion Cannon" 4
+		"Hai Tracker Pod" 4
+		"Hai Tracker" 280
+		"Tracker Storage Pod" 2
+		"Chameleon Anti-Missile" 2
+		"Boulder Reactor"
+		"Geode Reactor"
+		"Hai Gorge Batteries"
+		"Hai Ravine Batteries"
+		"Hai Diamond Regenerator"
+		"Hai Williwaw Cooling" 2
+		"Quantum Keystone"
+		`"Bondir" Atomic Thruster`
+		`"Bufaer" Atomic Steering`
+		"Hyperdrive"
+		"Pulse Rifle" 27
+		"Ion Flash Bang" 13
+		"Dual Pulse Pistols"
+		"Laser Rifle"
+		"Tuning Rifle"
+		"Thermal Repeater Rifle"
+		"Enforcer Confrontation Gear"
+		"Fragmentation Grenades"
+		"Value Detector" 2
+	gun "Ion Cannon"
+	gun "Ion Cannon"
+	gun "Hai Tracker Pod"
+	gun "Hai Tracker Pod"
+	gun "Ion Cannon"
+	gun "Ion Cannon"
+	gun "Hai Tracker Pod"
+	gun "Hai Tracker Pod"
+	turret
+	turret
+	turret "Chameleon Anti-Missile"
+	turret "Chameleon Anti-Missile"
+
+
+
+ship "Solifuge" "Solifuge Prototype"
+	sprite "ship/hai solifuge prototype"
+	thumbnail "thumbnail/hai solifuge prototype-thumb"
+	add attributes
+		"bunks" 20
+		"cargo space" -15
+		"weapon capacity" 16
+		"engine capacity" -16
+	outfits
+		"Ion Cannon" 2
+		"Pulse Cannon" 3
+		"Pulse Turret" 5
+		"Bullfrog Anti-Missile" 2
+		"Boulder Reactor" 2
+		"Hai Fissure Batteries"
+		"Hai Corundum Regenerator"
+		"Hai Diamond Regenerator"
+		"Hai Williwaw Cooling" 8
+		"Quantum Keystone"
+		"Dual Pulse Pistols"
+		"Pulse Rifle" 71
+		"Ion Flash Bang" 35
+		`"Bufaer" Atomic Steering`
+		`"Bondir" Atomic Thruster`
+		"Jump Drive"
+		"Hyperdrive"
+	engine -32.5 137.5
+	engine 34.5 137.5
+	gun 0 -140.5 "Pulse Cannon"
+	gun -12 -139 "Pulse Cannon"
+	gun 10.5 -139 "Pulse Cannon"
+	gun -10 -100 "Ion Cannon"
+	gun 8.5 -100 "Ion Cannon"
+	turret 0 -112 "Pulse Turret"
+	turret -54.5 -50 "Pulse Turret"
+	turret 55 -50 "Bullfrog Anti-Missile"
+	turret -55 0 "Pulse Turret"
+	turret 55 0 "Pulse Turret"
+	turret -54 48 "Bullfrog Anti-Missile"
+	turret 55 48 "Pulse Turret"
+	bay "Fighter" -51.5 -60 under
+	bay "Fighter" 51.5 -60 under
+	bay "Fighter" -51.5 0 under
+	bay "Fighter" 51.5 0 under
+	bay "Fighter" -51.5 60 under
+	bay "Fighter" 51.5 60 under
+	description `This is the prototype Solifuge. There are slight differences from the final production model, but the essential core elements of the Solifuge haven't changed.`
+
+ship "Solifuge" "Solifuge (Ion Flash)"
+	outfits
+		"Hai Tracker Pod"
+		"Hai Tracker" 56
+		"Ion Cannon" 4
+		"Pulse Turret" 2
+		"Chameleon Anti-Missile"
+		"Bullfrog Anti-Missile" 4
+		"Boulder Reactor" 2
+		"Hai Gorge Batteries"
+		"Hai Diamond Regenerator"
+		"Hai Williwaw Cooling" 6
+		"Quantum Keystone"
+		"Pulse Rifle" 62
+		"Ion Flash Bang" 31
+		`"Benga" Atomic Steering`
+		`"Bufaer" Atomic Steering`
+		`"Bondir" Atomic Thruster`
+		"Hyperdrive"
+
+
+
+ship "Water Bug" "Water Bug (Bloodstone)"
+	outfits
+		"Hai Tracker Pod" 2
+		"Hai Tracker" 168
+		"Tracker Storage Pod" 2
+		"Pulse Turret"
+		"Chameleon Anti-Missile" 2
+		"Geode Reactor"
+		"Hai Gorge Batteries"
+		"Hai Diamond Regenerator"
+		"Hai Williwaw Cooling"
+		"Quantum Bloodstone"
+		"Ion Flash Bang"
+		`"Basrem" Reverse Thruster`
+		`"Benga" Atomic Thruster`
+		`"Benga" Atomic Steering`
+		"Hyperdrive"
+
+ship "Water Bug" "Water Bug (Jump, Ion Pulse)"
+	outfits
+		"Ion Pulse Cannon" 2
+		"Chameleon Anti-Missile" 2
+		"Pulse Turret"
+		"Geode Reactor"
+		"Hai Chasm Batteries"
+		"Hai Gorge Batteries"
+		"Hai Corundum Regenerator"
+		"Hai Diamond Regenerator"
+		"Hai Williwaw Cooling"
+		"Quantum Keystone"
+		"Dual Pulse Pistols"
+		"Pulse Rifle" 3
+		"Ion Flash Bang"
+		`"Benga" Atomic Steering`
+		`"Benga" Atomic Thruster`
+		"Jump Drive"
+
+ship "Water Bug" "Water Bug (Jump, Pulse)"
+	outfits
+		"Hai Tracker Pod" 2
+		"Hai Tracker" 112
+		"Pulse Turret" 3
+		"Geode Reactor"
+		"Hai Gorge Batteries"
+		"Hai Chasm Batteries"
+		"Hai Diamond Regenerator"
+		"Hai Williwaw Cooling"
+		"Dual Pulse Pistols"
+		"Pulse Rifle" 3
+		"Ion Flash Bang"
+		`"Benga" Atomic Thruster`
+		`"Benga" Atomic Steering`
+		"Jump Drive"
+
+
+

@@ -1,0 +1,502 @@
+# REFERENCE
+# A quick list of all ship types; for testing how well-balanced ship distribution is. Should not affect gameplay.
+#	"Subvarietas"
+#	"Forma"
+#	"Tribus"
+#	"Ordo"
+#	"Nixus"
+#	"Legio"
+#	"Regnum"
+#	"Divisio"
+#	"Regio"
+#	"Regalis"
+#	"Supravitae"
+#	"Genus"
+#	"Subfamilia"
+#	"Familia"
+#	"Infrafamilia"
+#	"Infrafamilia (Minelayer)"
+#	"Infrafamilia (Missile)"
+#	"Infrafamilia (Logistic)"
+#	"Infrafamilia (Carrier)"
+#	"Subsectio"
+#	"Subsectio (Mine Carrier)"
+#	"Subsectio (Mine Logistic)"
+#	"Subsectio (Missile Carrier)"
+#	"Subsectio (Missile Logistic)"
+#	"Subclassis"
+#	"Microphylum"
+#	"Imperium"
+#	"Parvregalimen"
+#	"Dominium"
+#	"Infracohors"
+#	"Phylum"
+#	"Dominium (Experimental)"
+
+fleet "Tiny Navarch"
+	government "Navarch"
+	names "Navarch Names"
+	fighters "Navarch Fighters"
+	cargo 1
+	personality
+		confusion 10
+		heroic vindictive
+	variant 10
+		"Tribus" 2
+		"Nixus"
+	variant 10
+		"Subfamilia"
+		"Nixus"
+	variant 10
+		"Genus"
+		"Nixus"
+	variant 8
+		"Infrafamilia (Missile)"
+		"Infrafamilia (Carrier)"
+		"Infrafamilia (Logistic)"
+		"Forma" 6
+	variant 8
+		"Subsectio"
+		"Nixus"
+	variant 8
+		"Tribus"
+		"Subclassis"
+	variant 8
+		"Tribus"
+		"Infrafamilia (Carrier)"
+		"Infrafamilia (Logistic)"
+		"Forma" 6
+	variant 6
+		"Infracohors"
+		"Infrafamilia (Logistic)"
+	variant 6
+		"Ordo"
+		"Nixus"
+	variant 6
+		"Legio"
+		"Nixus"
+		"Subvarietas" 20
+		"Forma" 6
+	variant 6
+		"Subsectio (Mine Carrier)"
+		"Forma" 6
+		"Subvarietas" 6
+	variant 6
+		"Subsectio (Missile Carrier)"
+		"Forma" 6
+		"Subvarietas" 6
+	variant 6
+		"Infrafamilia (Minelayer)" 2
+		"Nixus"
+	variant 6
+		"Infrafamilia (Minelayer)"
+		"Infrafamilia (Missile)"
+		"Nixus"
+	variant 6
+		"Infrafamilia (Missile)" 2
+		"Nixus"
+	variant 4
+		"Infrafamilia"
+		"Microphylum"
+	variant 4
+		"Infracohors"
+		"Nixus"
+
+fleet "Small Navarch"
+	government "Navarch"
+	names "Navarch Names"
+	fighters "Navarch Fighters"
+	cargo 2
+	personality
+		confusion 10
+		heroic vindictive
+	variant 10
+		"Parvregalimen"
+		"Ordo"
+		"Subvarietas" 30
+		"Forma" 8
+	variant 10
+		"Familia"
+		"Microphylum"
+		"Subsectio (Missile Logistic)"
+	variant 10
+		"Familia"
+		"Microphylum"
+		"Subsectio (Mine Logistic)"
+	variant 10
+		"Tribus" 2
+		"Phylum"
+		"Subclassis"
+	variant 10
+		"Familia"
+		"Infracohors"
+		"Subclassis"
+	variant 10
+		"Infrafamilia (Minelayer)"
+		"Subsectio"
+		"Imperium"
+		"Forma" 4
+	variant 8
+		"Regalis"
+		"Nixus" 2
+	variant 8
+		"Tribus"
+		"Regnum"
+		"Subclassis"
+		"Subvarietas" 40
+		"Forma" 6
+	variant 6
+		"Divisio"
+		"Regnum"
+		"Nixus"
+		"Subvarietas" 32
+		"Forma" 14
+	variant 6
+		"Tribus"
+		"Subfamilia"
+		"Ordo"
+		"Legio"
+		"Subclassis"
+		"Subvarietas" 18
+		"Forma" 8
+	variant 6
+		"Dominium (Experimental)"
+		"Subforma" 100
+	variant 6
+		"Tribus" 3
+		"Microphylum"
+		"Subsectio (Mine Logistic)"
+	variant 6
+		"Tribus" 3
+		"Microphylum"
+		"Subsectio (Missile Logistic)"
+	variant 6
+		"Phylum"
+		"Imperium"
+		"Forma" 4
+	variant 6
+		"Genus"
+		"Infracohors"
+		"Imperium"
+		"Forma" 4
+	variant 6
+		"Regalis"
+		"Legio"
+		"Nixus"
+		"Subvarietas" 20
+		"Forma" 6
+	variant 4
+		"Dominium"
+		"Subsectio (Mine Carrier)"
+		"Forma" 12
+	variant 4
+		"Dominium"
+		"Subsectio (Missile Carrier)"
+		"Forma" 12
+	variant 4
+		"Regio"
+		"Subclassis"
+		"Subvarietas" 80
+		"Forma" 16
+	variant 4
+		"Regalis"
+		"Infrafamilia (Logistic)"
+		"Subsectio (Missile Logistic)"
+	variant 4
+		"Regalis"
+		"Infrafamilia (Minelayer)"
+		"Subsectio (Mine Logistic)"
+	variant 2
+		"Parvregalimen"
+		"Infrafamilia (Minelayer)"
+		"Infrafamilia (Carrier)"
+		"Subsectio (Mine Carrier)"
+		"Subvarietas" 40
+		"Forma" 16
+	variant 2
+		"Parvregalimen"
+		"Infrafamilia (Missile)"
+		"Infrafamilia (Carrier)"
+		"Subsectio (Mine Carrier)"
+		"Subvarietas" 40
+		"Forma" 16
+	variant 2
+		"Parvregalimen"
+		"Infrafamilia (Missile)"
+		"Infrafamilia (Carrier)"
+		"Subsectio (Missile Carrier)"
+		"Subvarietas" 40
+		"Forma" 16
+	variant 2
+		"Infracohors"
+		"Dominium (Experimental)"
+		"Subforma" 100
+	variant 2
+		"Regalis"
+		"Legio"
+		"Subclassis"
+		"Subvarietas" 20
+		"Forma" 6
+	
+fleet "Medium Navarch"
+	government "Navarch"
+	names "Navarch Names"
+	fighters "Navarch Fighters"
+	cargo 3
+	personality
+		confusion 10
+		heroic vindictive
+	variant 10
+		"Tribus" 2
+		"Supravitae"
+		"Subvarietas" 60
+		"Forma" 16
+	variant 10
+		"Genus" 2
+		"Regnum"
+		"Imperium"
+		"Subvarietas" 40
+		"Forma" 10
+	variant 10
+		"Regio"
+		"Subclassis"
+		"Subsectio (Mine Logistic)"
+		"Subsectio (Missile Logistic)"
+		"Subvarietas" 76
+		"Forma" 20
+	variant 8
+		"Legio"
+		"Regnum"
+		"Ordo"
+		"Divisio"
+		"Subclassis"
+		"Subsectio (Mine Carrier)"
+		"Subvarietas" 62
+		"Forma" 22
+	variant 8
+		"Infracohors" 2
+		"Phylum"
+		"Dominium (Experimental)"
+		"Subforma" 100
+	variant 8
+		"Subfamilia" 2
+		"Ordo" 2
+		"Regio"
+		"Subclassis"
+		"Subvarietas" 80
+		"Forma" 16
+	variant 6
+		"Ordo"
+		"Divisio"
+		"Phylum"
+		"Dominium (Experimental)"
+		"Subforma" 100
+	variant 6
+		"Genus" 2
+		"Regalis"
+		"Microphylum"
+		"Dominium"
+	variant 6
+		"Tribus" 3
+		"Subfamilia" 2
+		"Regio"
+		"Imperium"
+		"Subvarietas" 86
+		"Forma" 14
+	variant 6
+		"Genus"
+		"Subfamilia"
+		"Regio"
+		"Dominium"
+		"Subvarietas" 80
+		"Forma" 16
+	variant 6
+		"Genus"
+		"Phylum"
+		"Regnum"
+		"Dominium"
+		"Subvarietas" 26
+		"Forma" 20
+	variant 6
+		"Divisio"
+		"Regalis"
+		"Legio"
+		"Subsectio (Mine Logistic)"
+		"Subsectio (Missile Logistic)"
+		"Subvarietas" 20
+		"Forma" 14
+	variant 4
+		"Subfamilia"
+		"Ordo"
+		"Legio"
+		"Dominium (Experimental)"
+		"Parvregalimen"
+		"Subvarietas" 56
+		"Forma" 8
+		"Subforma" 100
+	variant 4
+		"Divisio"
+		"Regnum"
+		"Imperium"
+		"Subsectio (Mine Carrier)"
+		"Subsectio (Mine Logistic)"
+		"Subvarietas" 58
+		"Forma" 4
+	variant 4
+		"Familia"
+		"Phylum"
+		"Microphylum"
+		"Dominium"
+		"Subsectio (Missile Carrier)"
+		"Forma" 6
+		"Subvarietas" 6
+	variant 4
+		"Subfamilia" 2
+		"Familia"
+		"Regio"
+		"Parvregalimen"
+		"Subvarietas" 104
+		"Forma" 30
+	variant 2
+		"Nixus"
+		"Subsectio (Mine Carrier)"
+		"Subsectio (Mine Logistic)"
+		"Subsectio (Missile Carrier)"
+		"Subsectio (Missile Logistic)"
+		"Forma" 24
+		
+fleet "Large Navarch"
+	government "Navarch"
+	names "Navarch Names"
+	fighters "Navarch Fighters"
+	cargo 4
+	personality
+		confusion 10
+		heroic vindictive
+	variant 10
+		"Divisio" 2
+		"Regalis"
+		"Imperium"
+		"Dominium"
+		"Subsectio (Mine Carrier)" 2
+		"Subsectio (Missile Carrier)"
+		"Subvarietas" 32
+		"Forma" 8
+	variant 10
+		"Supravitae" 2
+		"Subvarietas" 140
+		"Forma" 12
+	variant 10
+		"Regnum"
+		"Regio"
+		"Subclassis"
+		"Microphylum"
+		"Dominium"
+		"Subsectio (Missile Carrier)" 3
+	variant 8
+		"Divisio" 2
+		"Regalis"
+		"Regnum"
+		"Regio"
+		"Subsectio (Mine Logistic)"
+		"Subsectio (Missile Logistic)" 2
+		"Subvarietas" 110
+		"Forma" 32
+	variant 8
+		"Legio"
+		"Genus" 2
+		"Subfamilia" 2
+		"Familia" 2
+		"Supravitae"
+		"Imperium"
+		"Subvarietas" 96
+		"Forma" 10
+	variant 8
+		"Supravitae"
+		"Tribus" 3
+		"Ordo" 2
+		"Phylum"
+		"Dominium (Experimental)"
+		"Subvarietas" 36
+		"Forma" 40
+		"Subforma" 100
+	variant 8
+		"Familia"
+		"Infracohors" 3
+		"Supravitae"
+		"Regnum"
+		"Microphylum"
+		"Infrafamilia (Missile)"
+		"Subvarietas" 102
+		"Forma" 20
+	variant 8
+		"Genus"
+		"Subfamilia"
+		"Ordo"
+		"Infracohors"
+		"Supravitae"
+		"Parvregalimen"
+		"Subsectio (Missile Carrier)"
+		"Subvarietas" 124
+		"Forma" 28
+	variant 6
+		"Supravitae"
+		"Genus"
+		"Ordo"
+		"Dominium (Experimental)"
+		"Nixus"
+		"Microphylum" 2
+		"Subvarietas" 60
+		"Forma" 16
+		"Subforma" 100
+	variant 6
+		"Tribus" 3
+		"Ordo"
+		"Infracohors" 2
+		"Phylum" 2
+		"Legio"
+		"Dominium (Experimental)"
+		"Microphylum"
+		"Imperium"
+		"Forma" 30
+		"Subforma" 100
+	variant 4
+		"Tribus"
+		"Genus"
+		"Subfamilia"
+		"Familia"
+		"Ordo"
+		"Divisio"
+		"Regalis"
+		"Infracohors"
+		"Phylum"
+		"Regio"
+		"Nixus"
+		"Subclassis"
+		"Subvarietas" 60
+		"Forma" 36
+		
+fleet "Navarch Miners"
+	government "Navarch"
+	names "Navarch Names"
+	fighters "Navarch Fighters"
+	cargo 0
+	personality
+		confusion 10
+		heroic vindictive mining harvests
+	variant 10
+		"Parvregalimen"
+		"Subvarietas (Mining)" 38
+	variant 8
+		"Parvregalimen" 2
+		"Subvarietas (Mining)" 76
+	variant 8
+		"Dominium (Experimental)"
+		"Subforma (Mining)" 100
+	variant 6
+		"Dominium (Experimental)" 2
+		"Subforma (Mining)" 200
+	variant 4
+		"Legio"
+		"Imperium"
+		"Subvarietas (Mining)" 30
